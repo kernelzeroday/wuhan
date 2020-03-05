@@ -1,85 +1,88 @@
 16,OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered,
-17,South Korea,5621,35,27,25,34,Source
-18,Italy,3089,107,297,,276,Source
-19,Iran,2922,92,,,552,Source
+17,South Korea,5766,42,27,25,88,Source
+18,Iran,3513,107,,,552,Source
+19,Italy,3089,107,297,,276,Source
 20,Diamond Princess,706,6,34,,40,Source
-21,Japan,319,6,29,,10,Source
-22,France,285,4,15,,12,Source
-23,Germany,262,0,,2,16,Source
-24,Spain,202,2,7,,2,Source
-25,United States,158,11,2,6,9,Source
-26,Singapore,110,0,,7,78,
-27,Hong Kong,101,2,2,4,36,
-28,United Kingdom,85,0,,,8,Source
-29,Switzerland,80,0,,,,Source
-30,Kuwait,56,0,0,0,0,
-31,Norway,56,0,,,,Source
-32,Sweden,52,0,,,,Source
-33,Malaysia,50,0,,,22,Source
-34,Bahrain,49,0,,,1,
-35,Thailand,43,1,1,,30,
-36,Australia,43,2,,,21,Source
-37,Taiwan,42,1,0,0,12,Source
-38,Netherlands,38,0,1,,,Source
-39,Iraq,35,2,,,,Source
-40,Canada,33,0,,,3,Source
-41,Austria,29,0,,,,Source
-42,India,28,0,,,3,Source
-43,Belgium,23,0,1,,1,Source
-44,UAE,27,0,2,,5,Source
-45,Iceland,26,0,,,,Source
-46,Algeria,17,0,,,,Source
-47,Vietnam,16,0,,,16,
-48,San Marino,16,1,3,,,Source
-49,Israel,15,0,,,,Source
-50,Lebanon,15,0,,1,,Source
-51,Oman,12,0,,,2,
-52,Macau,10,0,,,6,
-53,Ecuador,10,0,,1,,Source
-54,Denmark,15,0,,,,Source
-55,Croatia,9,0,,,,Source
-56,Greece,8,0,,,,Source
-57,Qatar,8,0,,,,Source
-58,Czech Republic,8,0,0,0,0,Source
-59,Finland,7,0,,,1,
-60,Belarus,6,0,,,,Source
-61,Romania,6,0,,,,Source
-62,Ireland,6,0,,,,Source
-63,Mexico,5,0,,,1,
-64,Pakistan,5,0,,,,
-65,Portugal,5,0,,,,Source
+21,Germany,349,0,,2,16,Source
+22,Japan,331,6,29,,10,Source
+23,France,285,4,15,,12,Source
+24,Spain,248,3,7,,2,Source
+25,United States,159,11,2,6,9,Source
+26,Singapore,117,0,,7,81,Source
+27,Hong Kong,105,2,2,4,36,Source
+28,United Kingdom,88,0,,,8,Source
+29,Switzerland,80,1,,,,Source
+30,Norway,72,0,,,,Source
+31,Sweden,60,0,,,,Source
+32,Kuwait,58,0,0,0,0,Source
+33,Malaysia,55,0,,,22,Source
+34,Australia,52,2,,,21,Source
+35,Belgium,50,0,1,,1,Source
+36,Bahrain,49,0,,,1,
+37,Thailand,47,1,1,,31,Source
+38,Taiwan,42,1,0,0,12,Source
+39,Netherlands,38,0,1,,,Source
+40,Austria,37,0,,,,Source
+41,Iraq,35,2,,,,Source
+42,Canada,35,0,,1,3,Source
+43,Iceland,34,0,,,,Source
+44,Greece,31,0,,,,Source
+45,India,30,0,,,3,Source
+46,UAE,27,0,2,,5,Source
+47,Algeria,17,0,,,,Source
+48,Vietnam,16,0,,,16,
+49,San Marino,16,1,3,,,Source
+50,Israel,15,0,,,,Source
+51,Lebanon,15,0,,1,,Source
+52,Oman,15,0,,,2,Source
+53,Denmark,15,0,,,,Source
+54,Finland,12,0,,,1,Source
+55,Macau,10,0,,,6,
+56,Ecuador,10,0,,1,,Source
+57,Croatia,10,0,,,,Source
+58,Qatar,8,0,,,,Source
+59,Czech Republic,8,0,0,0,0,Source
+60,Portugal,8,0,,,,Source
+61,Belarus,6,0,,,,Source
+62,Romania,6,0,,,,Source
+63,Ireland,6,0,,,,Source
+64,Mexico,5,0,,,1,
+65,Pakistan,5,0,,,,
 66,Senegal,4,0,0,0,0,Source
 67,Brazil,4,0,,,,Source
-68,Azerbaijan,3,0,,,,
-69,Philippines,3,1,,,2,
-70,Russia,3,0,,,2,
-71,Georgia,3,0,,,,
-72,Chile,3,0,,,,Source
-73,Egypt,2,0,,,1,
-74,Indonesia,2,0,,,,
-75,Estonia,2,0,0,0,0,Source
-76,New Zealand,2,0,,,,Source
-77,Hungary,2,0,0,0,0,Source
-78,Saudi Arabia,2,0,,,,Source
-79,Nepal,1,0,,,1,
-80,Cambodia,1,0,,,1,
-81,Sri Lanka,1,0,,,1,
-82,Afghanistan,1,0,,,,
-83,North Macedonia,1,0,,,,
-84,Nigeria,1,0,,,,
-85,Lithuania,1,0,,,,
-86,Monaco,1,0,,,,
-87,Luxembourg,1,0,,,,
-88,Ukraine,1,0,,,,
-89,Morocco,1,0,,,,
-90,Latvia,1,0,,,,
-91,Tunisia,1,0,,,,
-92,Jordan,1,0,,,,
-93,Andorra,1,0,,,,
-94,Armenia,1,0,,,,
-95,Dominican Republic,1,0,,,,
-96,Argentina,1,0,,,,
-97,Liechtenstein,1,0,,,,Source
-98,Poland,1,0,0,0,0,Source
-99,Slovenia,1,0,,,0,Source
-100,TOTAL,14825,273,421,46,1205,
+68,Palestine,4,0,,,,Source
+69,Russia,4,0,,,2,Source
+70,Georgia,4,0,1,,,Source
+71,Azerbaijan,6,0,,,,Source
+72,Saudi Arabia,5,0,,,,Source
+73,Philippines,3,1,,,2,
+74,Chile,3,0,,,,Source
+75,New Zealand,3,0,,,,Source
+76,Egypt,3,0,,,1,Source
+77,Indonesia,2,0,,,,
+78,Estonia,2,0,0,0,0,Source
+79,Hungary,2,0,0,0,0,Source
+80,Morocco,2,0,,,,Source
+81,Bosnia,2,0,,,,Source
+82,Nepal,1,0,,,1,
+83,Cambodia,1,0,,,1,
+84,Sri Lanka,1,0,,,1,
+85,Afghanistan,1,0,,,,
+86,North Macedonia,1,0,,,,
+87,Nigeria,1,0,,,,
+88,Lithuania,1,0,,,,
+89,Monaco,1,0,,,,
+90,Luxembourg,1,0,,,,
+91,Ukraine,1,0,,,,
+92,Latvia,1,0,,,,
+93,Tunisia,1,0,,,,
+94,Jordan,1,0,,,,
+95,Andorra,1,0,,,,
+96,Armenia,1,0,,,,
+97,Dominican Republic,1,0,,,,
+98,Argentina,1,0,,,,
+99,Liechtenstein,1,0,,,,Source
+100,Poland,1,0,0,0,0,Source
+101,Slovenia,1,0,,,0,Source
+102,South Africa,1,0,,,,Source
+103,TOTAL,15865,297,422,47,1263,

@@ -1,0 +1,94 @@
+china,location,Cases,Deaths,Serious,Critical,Recovered,date2,unixtime
+inside,Hubei province(includes Wuhan),67466,2902,5788,,40479,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Guangdong province,1350,7,13,19,1129,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Henan province,1272,22,3,2,1234,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Zhejiang province,1213,1,3,3,1107,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Hunan province,1018,4,15,,913,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Beijing,417,8,,,294,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Shanghai,338,3,,9,298,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,Other regions,7335,65,100+,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+inside,CHINA TOTAL,80409,3012,5952,,52045,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,South Korea,5766,35,27,25,88,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Italy,3089,107,297,,276,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Iran,2922,92,,,552,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Diamond Princess,706,6,34,,40,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Japan,319,6,29,,10,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,France,285,4,15,,12,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Germany,262,0,,2,16,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Spain,202,2,7,,2,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,United States,159,11,2,6,9,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Singapore,110,0,,7,78,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Hong Kong,101,2,2,4,36,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,United Kingdom,85,0,,,8,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Switzerland,80,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Kuwait,56,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Norway,56,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Sweden,52,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Malaysia,50,0,,,22,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Bahrain,49,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Thailand,43,1,1,,30,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Australia,43,2,,,21,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Taiwan,42,1,0,0,12,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Netherlands,38,0,1,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Iraq,35,2,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Canada,34,0,,1,3,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Austria,29,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,India,28,0,,,3,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Belgium,23,0,1,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,UAE,27,0,2,,5,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Iceland,26,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Algeria,17,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Vietnam,16,0,,,16,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,San Marino,16,1,3,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Israel,15,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Lebanon,15,0,,1,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Oman,12,0,,,2,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Macau,10,0,,,6,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Ecuador,10,0,,1,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Denmark,15,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Croatia,9,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Greece,8,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Qatar,8,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Czech Republic,8,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Finland,7,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Belarus,6,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Romania,6,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Ireland,6,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Portugal,6,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Mexico,5,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Pakistan,5,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Senegal,4,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Brazil,4,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Azerbaijan,3,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Philippines,3,1,,,2,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Russia,3,0,,,2,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Georgia,3,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Chile,3,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Egypt,2,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Indonesia,2,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Estonia,2,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,New Zealand,2,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Hungary,2,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Saudi Arabia,2,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Nepal,1,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Cambodia,1,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Sri Lanka,1,0,,,1,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Afghanistan,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,North Macedonia,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Nigeria,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Lithuania,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Monaco,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Luxembourg,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Ukraine,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Morocco,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Latvia,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Tunisia,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Jordan,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Andorra,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Armenia,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Dominican Republic,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Argentina,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Liechtenstein,1,0,,,,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Poland,1,0,0,0,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,Slovenia,1,0,,,0,Wed Mar  4 19:10:56 PST 2020,1583377856
+outside,TOTAL,14973,273,421,47,1259,Wed Mar  4 19:10:56 PST 2020,1583377856
