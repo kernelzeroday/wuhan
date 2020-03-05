@@ -1,0 +1,74 @@
+unixtime,china,location,Cases,Deaths,Notes,Links
+1582994612,inside,Hubei province (includes Wuhan),66337,2727,"7,370 serious",Source
+1582994612,inside,Guangdong province,1349,7,"18 serious, 20 critical",Source
+1582994612,inside,Henan province,1272,21,"7 serious, 6 critical",Source
+1582994612,inside,Zhejiang province,1205,1,"10 serious, 9 critical",Source
+1582994612,inside,Hunan province,1018,4,19 serious,Source
+1582994612,inside,Beijing,411,8,,Source
+1582994612,inside,Shanghai,337,3,10 serious,Source
+1582994612,inside,Other regions,7322,64,,Source
+1582994612,inside,TOTAL,79251,2835,"7,664 serious39,002 recovered1,418 suspected",
+1582994612,outside,South Korea,3150,17,"10 critical, 24 recovered",Source
+1582994612,outside,Italy,889,21,"64 serious, 46 recovered",Source
+1582994612,outside,Diamond Princess,705,6,"36 serious, 10 recovered",Source
+1582994612,outside,Iran,593,43,123 recovered,Source
+1582994612,outside,Japan,241*,5,"20 serious, 32 recovered",Source
+1582994612,outside,Singapore,102,0,"7 critical, 72 recovered",Source
+1582994612,outside,Hong Kong,93,2,"4 critical, 2 serious, 18 recovered",Source
+1582994612,outside,Germany,79,0,"2 critical, 16 recovered",Source
+1582994612,outside,United States,66,0,"1 serious, 7 recovered",Source
+1582994612,outside,France,73,2,"1 serious, 12 recovered",Source
+1582994612,outside,Spain,45,0,"1 serious, 2 recovered",Source
+1582994612,outside,Kuwait,45,0,,Source
+1582994612,outside,Thailand,42,0,"2 critical, 28 recovered",Source
+1582994612,outside,Taiwan,39,1,5 recovered,Source
+1582994612,outside,Bahrain,41,0,,Source
+1582994612,outside,Malaysia,25,0,17 recovered,Source
+1582994612,outside,Australia,25,0,15 recovered,Source
+1582994612,outside,United Kingdom,23,0,8 recovered,Source
+1582994612,outside,UAE,19,0,"2 serious, 5 recovered",Source
+1582994612,outside,Vietnam,16,0,16 recovered,Source
+1582994612,outside,Canada,16,0,3 recovered,Source
+1582994612,outside,Sweden,12,0,,Source
+1582994612,outside,Macau,10,0,6 recovered,Source
+1582994612,outside,Iraq,13,0,,Source
+1582994612,outside,Israel,7,0,,Source
+1582994612,outside,Oman,6,0,1 recovered,Source
+1582994612,outside,Philippines,3,1,2 recovered,Source
+1582994612,outside,India,3,0,3 recovered,Source
+1582994612,outside,Finland,3,0,1 recovered,Source
+1582994612,outside,Russia,2,0,2 recovered,Source
+1582994612,outside,Nepal,1,0,1 recovered,Source
+1582994612,outside,Cambodia,1,0,1 recovered,Source
+1582994612,outside,Sri Lanka,1,0,1 recovered,Source
+1582994612,outside,Belgium,1,0,1 recovered,Source
+1582994612,outside,Egypt,1,0,1 recovered,Source
+1582994612,outside,Lebanon,4,0,,Source
+1582994612,outside,Afghanistan,1,0,,Source
+1582994612,outside,Austria,9,0,,Source
+1582994612,outside,Croatia,6,0,,Source
+1582994612,outside,Switzerland,8,0,,Source
+1582994612,outside,Algeria,1,0,,Source
+1582994612,outside,Brazil,1,0,,Source
+1582994612,outside,Greece,4,0,,Source
+1582994612,outside,Pakistan,4,0,,Source
+1582994612,outside,North Macedonia,1,0,,Source
+1582994612,outside,Georgia,3,0,,Source
+1582994612,outside,Norway,7,0,,Source
+1582994612,outside,Romania,3,0,,Source
+1582994612,outside,Denmark,3,0,,Source
+1582994612,outside,Estonia,1,0,,Source
+1582994612,outside,Netherlands,6,0,,Source
+1582994612,outside,San Marino,1,0,,Source
+1582994612,outside,Nigeria,1,0,,Source
+1582994612,outside,Lithuania,1,0,,Source
+1582994612,outside,New Zealand,1,0,,Source
+1582994612,outside,Belarus,1,0,,Source
+1582994612,outside,Mexico,3,0,,Source
+1582994612,outside,Azerbaijan,1,0,,Source
+1582994612,outside,Iceland,1,0,,Source
+1582994612,outside,Monaco,1,0,,Source
+1582994612,outside,Qatar,1,0,,Source
+1582994612,outside,Ecuador,1,0,,Source
+1582994612,outside,TOTAL,6466,98,154 serious/critical,
+critical,

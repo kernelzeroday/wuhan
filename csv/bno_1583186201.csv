@@ -1,0 +1,10 @@
+china,location,Cases,Deaths,Notes,date2,unixtime
+inside,Hubei province (includes Wuhan),67103,2803,"6,872 serious",Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Guangdong province,1349,7,"17 serious, 20 critical",Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Henan province,1272,22,"7 serious, 4 critical",Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Zhejiang province,1205,1,"8 serious, 8 critical",Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Hunan province,1018,4,18 serious,Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Beijing,413,8,,Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Shanghai,337,3,9 serious,Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,Other regions,7323,64,100+ serious,Mon Mar  2 13:56:41 PST 2020,1583186201
+inside,TOTAL,80026,2912,"7,110 serious44,462 recovered715 suspected",Mon Mar  2 13:56:41 PST 2020,1583186201

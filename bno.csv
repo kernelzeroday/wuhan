@@ -1,0 +1,94 @@
+china,location,Cases,Deaths,Serious,Critical,Recovered
+inside,Hubei province(includes Wuhan),67332,2871,6232,,38556
+inside,Guangdong province,1350,7,13,19,1129
+inside,Henan province,1272,22,3,2,1234
+inside,Zhejiang province,1213,1,3,3,1107
+inside,Hunan province,1018,4,15,,913
+inside,Beijing,417,8,,,294
+inside,Shanghai,338,3,,9,298
+inside,Other regions,7330,65,100+,,
+inside,CHINA TOTAL,80270,2981,6416,,49856
+outside,South Korea,5621,35,27,25,34
+outside,Italy,3089,107,297,,276
+outside,Iran,2922,92,,,552
+outside,Diamond Princess,706,6,34,,40
+outside,Japan,319,6,29,,10
+outside,France,285,4,15,,12
+outside,Germany,262,0,,2,16
+outside,Spain,202,2,7,,2
+outside,United States,158,11,2,6,9
+outside,Singapore,110,0,,7,78
+outside,Hong Kong,101,2,2,4,36
+outside,United Kingdom,85,0,,,8
+outside,Switzerland,80,0,,,
+outside,Kuwait,56,0,0,0,0
+outside,Norway,56,0,,,
+outside,Sweden,52,0,,,
+outside,Malaysia,50,0,,,22
+outside,Bahrain,49,0,,,1
+outside,Thailand,43,1,1,,30
+outside,Australia,43,2,,,21
+outside,Taiwan,42,1,0,0,12
+outside,Netherlands,38,0,1,,
+outside,Iraq,35,2,,,
+outside,Canada,33,0,,,3
+outside,Austria,29,0,,,
+outside,India,28,0,,,3
+outside,Belgium,23,0,1,,1
+outside,UAE,27,0,2,,5
+outside,Iceland,26,0,,,
+outside,Algeria,17,0,,,
+outside,Vietnam,16,0,,,16
+outside,San Marino,16,1,3,,
+outside,Israel,15,0,,,
+outside,Lebanon,15,0,,1,
+outside,Oman,12,0,,,2
+outside,Macau,10,0,,,6
+outside,Ecuador,10,0,,1,
+outside,Denmark,15,0,,,
+outside,Croatia,9,0,,,
+outside,Greece,8,0,,,
+outside,Qatar,8,0,,,
+outside,Czech Republic,8,0,0,0,0
+outside,Finland,7,0,,,1
+outside,Belarus,6,0,,,
+outside,Romania,6,0,,,
+outside,Ireland,6,0,,,
+outside,Mexico,5,0,,,1
+outside,Pakistan,5,0,,,
+outside,Portugal,5,0,,,
+outside,Senegal,4,0,0,0,0
+outside,Brazil,4,0,,,
+outside,Azerbaijan,3,0,,,
+outside,Philippines,3,1,,,2
+outside,Russia,3,0,,,2
+outside,Georgia,3,0,,,
+outside,Chile,3,0,,,
+outside,Egypt,2,0,,,1
+outside,Indonesia,2,0,,,
+outside,Estonia,2,0,0,0,0
+outside,New Zealand,2,0,,,
+outside,Hungary,2,0,0,0,0
+outside,Saudi Arabia,2,0,,,
+outside,Nepal,1,0,,,1
+outside,Cambodia,1,0,,,1
+outside,Sri Lanka,1,0,,,1
+outside,Afghanistan,1,0,,,
+outside,North Macedonia,1,0,,,
+outside,Nigeria,1,0,,,
+outside,Lithuania,1,0,,,
+outside,Monaco,1,0,,,
+outside,Luxembourg,1,0,,,
+outside,Ukraine,1,0,,,
+outside,Morocco,1,0,,,
+outside,Latvia,1,0,,,
+outside,Tunisia,1,0,,,
+outside,Jordan,1,0,,,
+outside,Andorra,1,0,,,
+outside,Armenia,1,0,,,
+outside,Dominican Republic,1,0,,,
+outside,Argentina,1,0,,,
+outside,Liechtenstein,1,0,,,
+outside,Poland,1,0,0,0,0
+outside,Slovenia,1,0,,,0
+outside,TOTAL,14825,273,421,46,1205

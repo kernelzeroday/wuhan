@@ -1,0 +1,78 @@
+Country Name,2013,china,Cases,Deaths,Serious,Critical,Recovered,Cases per 1k Beds per Person
+Afghanistan,0.5,outside,1,0,,,,2
+Andorra,,outside,1,0,,,,#DIV/0!
+Argentina,4.9,outside,1,0,,,,0.204081632653061
+Armenia,4.1,outside,1,0,,,,0.24390243902439
+Australia,,outside,43,2,,,21,#DIV/0!
+Austria,7.6,outside,29,0,,,,3.81578947368421
+Azerbaijan,4.7,outside,3,0,,,,0.638297872340425
+Belgium,6.3,outside,23,0,1,,1,3.65079365079365
+Bahrain,2.1,outside,49,0,,,1,23.3333333333333
+Belarus,11,outside,6,0,,,,0.545454545454545
+Brazil,2.3,outside,4,0,,,,1.73913043478261
+Canada,,outside,33,0,,,3,#DIV/0!
+Switzerland,4.7,outside,80,0,,,,17.0212765957447
+Chile,2.2,outside,1,0,,,,0.454545454545455
+Czech Republic,6.5,outside,8,0,0,0,0,1.23076923076923
+Germany,8.3,outside,262,0,,2,16,31.566265060241
+Denmark,3.1,outside,10,0,,,,3.2258064516129
+Dominican Republic,1.6,outside,1,0,,,,0.625
+Algeria,,outside,17,0,,,,#DIV/0!
+Ecuador,1.5,outside,7,0,,1,,4.66666666666667
+Egypt,0.5,outside,2,0,,,1,4
+Spain,3,outside,202,1,7,,2,67.3333333333333
+Estonia,5,outside,2,0,0,0,0,0.4
+Finland,4.9,outside,7,0,,,1,1.42857142857143
+France,6.5,outside,285,4,15,,12,43.8461538461539
+United Kingdom,2.8,outside,85,0,,,8,30.3571428571429
+Georgia,2.6,outside,3,0,,,,1.15384615384615
+Greece,,outside,8,0,,,,#DIV/0!
+Hong Kong,,outside,101,2,2,4,36,#DIV/0!
+Croatia,5.9,outside,9,0,,,,1.52542372881356
+Hungary,7,outside,2,0,0,0,0,0.285714285714286
+Indonesia,,outside,2,0,,,,#DIV/0!
+India,,outside,28,0,,,3,#DIV/0!
+Ireland,2.8,outside,6,0,,,,2.14285714285714
+Iran,1.5,outside,2922,92,,,552,1948
+Iraq,1.3,outside,35,2,,,,26.9230769230769
+Iceland,3.2,outside,26,0,,,,8.125
+Israel,3.1,outside,15,0,,,,4.83870967741936
+Italy,,outside,3089,107,297,,276,#DIV/0!
+Jordan,1.8,outside,1,0,,,,0.555555555555556
+Japan,,outside,319,6,29,,10,#DIV/0!
+Cambodia,0.7,outside,1,0,,,1,1.42857142857143
+South Korea,,outside,5621,35,27,25,34,#DIV/0!
+Kuwait,2.2,outside,56,0,0,0,0,25.4545454545455
+Lebanon,2.9,outside,13,0,,,,4.48275862068966
+Liechtenstein,,outside,1,0,,,,#DIV/0!
+Sri Lanka,,outside,1,0,,,1,#DIV/0!
+Lithuania,7.3,outside,1,0,,,,0.136986301369863
+Luxembourg,5.1,outside,1,0,,,,0.196078431372549
+Latvia,5.8,outside,1,0,,,,0.172413793103448
+Morocco,0.9,outside,1,0,,,,1.11111111111111
+Monaco,,outside,1,0,,,,#DIV/0!
+Mexico,1.6,outside,5,0,,,1,3.125
+North Macedonia,4.4,outside,1,0,,,,0.227272727272727
+Malaysia,,outside,50,0,,,22,#DIV/0!
+Nigeria,,outside,1,0,,,,#DIV/0!
+Netherlands,,outside,38,0,1,,,#DIV/0!
+Norway,3.9,outside,48,0,,,,12.3076923076923
+Nepal,,outside,1,0,,,1,#DIV/0!
+New Zealand,2.8,outside,2,0,,,,0.714285714285714
+Oman,1.7,outside,12,0,,,2,7.05882352941176
+Pakistan,0.6,outside,5,0,,,,8.33333333333333
+Philippines,,outside,3,1,,,2,#DIV/0!
+Poland,6.5,outside,1,0,0,0,0,0.153846153846154
+Portugal,3.4,outside,5,0,,,,1.47058823529412
+Qatar,1.4,outside,8,0,,,,5.71428571428571
+Romania,6.3,outside,6,0,,,,0.952380952380952
+Saudi Arabia,2.2,outside,2,0,,,,0.909090909090909
+Senegal,,outside,4,0,0,0,0,#DIV/0!
+Singapore,2.1,outside,110,0,,7,78,52.3809523809524
+San Marino,,outside,16,1,3,,,#DIV/0!
+Sweden,2.6,outside,52,0,,,,20
+Thailand,,outside,43,1,1,,30,#DIV/0!
+Tunisia,2.1,outside,1,0,,,,0.476190476190476
+Ukraine,8.8,outside,1,0,,,,0.113636363636364
+United States,2.9,outside,154,11,2,6,9,53.1034482758621
+Vietnam,,outside,16,0,,,16,#DIV/0!

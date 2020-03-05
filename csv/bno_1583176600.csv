@@ -1,0 +1,86 @@
+china,location,Cases,Deaths,Notes,date2,unixtime
+inside,Hubei province (includes Wuhan),67103,2803,"6,872 serious",Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Guangdong province,1349,7,"17 serious, 20 critical",Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Henan province,1272,22,"7 serious, 4 critical",Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Zhejiang province,1205,1,"8 serious, 8 critical",Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Hunan province,1018,4,18 serious,Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Beijing,413,8,,Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Shanghai,337,3,9 serious,Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,Other regions,7323,64,100+ serious,Mon Mar  2 11:16:40 PST 2020,1583176600
+inside,TOTAL,80026,2912,"7,110 serious44,462 recovered715 suspected",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,South Korea,4335,28,"34 serious, 17 critical, 26 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Italy,2036,52,"140 serious, 149 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Diamond Princess,705,6,"36 serious, 10 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Iran,1501,66,291 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Japan,274,6,"19 serious, 32 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Singapore,108,0,"6 critical, 78 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Hong Kong,100,2,"4 critical, 2 serious, 36 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Germany,150,0,"2 critical, 16 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,United States,92,2,"2 serious, 6 critical, 9 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,France,191,3,"8 serious, 12 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Spain,120,0,"5 critical, 2 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Kuwait,56,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Thailand,43,1,"1 serious, 30 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Taiwan,40,1,5 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Bahrain,49,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Malaysia,29,0,22 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Australia,30,1,15 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,United Kingdom,40,0,8 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,UAE,21,0,"2 serious, 5 recovered",Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Vietnam,16,0,16 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Canada,27,0,3 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Sweden,15,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Macau,10,0,6 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Iraq,26,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Israel,10,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Oman,6,0,2 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Philippines,3,1,2 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,India,5,0,3 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Finland,6,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Russia,3,0,2 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Nepal,1,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Cambodia,1,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Sri Lanka,1,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Belgium,8,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Egypt,2,0,1 recovered,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Lebanon,13,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Afghanistan,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Austria,18,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Croatia,8,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Switzerland,24,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Algeria,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Brazil,2,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Greece,7,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Pakistan,4,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,North Macedonia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Georgia,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Norway,25,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Romania,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Denmark,4,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Estonia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Netherlands,18,0,1 critical,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,San Marino,8,1,1 serious,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Nigeria,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Lithuania,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,New Zealand,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Belarus,1*,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Mexico,5,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Azerbaijan,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Iceland,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Monaco,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Qatar,7,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Ecuador,6,0,1 critical,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Luxembourg,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Ireland,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Czech Republic,3,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Dominican Republic,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Armenia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Indonesia,2,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Andorra,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Portugal,2,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Jordan,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Tunisia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Saudi Arabia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Senegal,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,Latvia,1,0,,Mon Mar  2 11:16:40 PST 2020,1583176600
+outside,TOTAL,10249,170,287 serious/critical,Mon Mar  2 11:16:40 PST 2020,1583176600

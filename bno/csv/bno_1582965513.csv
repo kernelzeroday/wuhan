@@ -1,0 +1,72 @@
+china,location,Cases,Deaths,Notes,date2,unixtime
+inside,Hubei province (includes Wuhan),66337,2727,"7,370 serious",Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Guangdong province,1348,7,"21 serious, 22 critical",Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Henan province,1272,20,"9 serious, 9 critical",Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Zhejiang province,1205,1,"10 serious, 11 critical",Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Hunan province,1017,4,18 serious,Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Beijing,410,7,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Shanghai,337,3,"9 serious, 3 critical",Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Other regions,7321,64,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,Undisclosed,4,2,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+inside,TOTAL,79251,2835,"7,664 serious39,002 recovered1,418 suspected",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Diamond Princess,705,6,"36 serious, 10 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,South Korea,2931,17,"10 critical, 24 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Italy,889,21,"64 serious, 46 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Japan,236*,5,"20 serious, 32 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Iran,388,34,73 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Singapore,96,0,"8 critical, 66 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Hong Kong,93,2,"4 critical, 2 serious, 18 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,United States,66,0,"1 serious, 7 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Thailand,41,0,"2 serious, 15 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Taiwan,34,1,5 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Malaysia,25,0,17 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Australia,25,0,15 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Germany,68,0,"2 critical, 16 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Vietnam,16,0,16 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,UAE,19,0,"2 serious, 5 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,United Kingdom,20,0,8 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,France,57,2,"1 serious, 11 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Canada,16,0,3 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Macau,10,0,6 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Bahrain,38,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Kuwait,45,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Iraq,8,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Philippines,3,1,2 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,India,3,0,3 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Russia,2,0,2 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Spain,32,0,"1 serious, 2 recovered",Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Oman,6,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Nepal,1,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Cambodia,1,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Sri Lanka,1,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Finland,3,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Sweden,11,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Belgium,1,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Egypt,1,0,1 recovered,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Israel,7,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Lebanon,4,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Afghanistan,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Austria,6,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Croatia,5,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Switzerland,8,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Algeria,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Brazil,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Greece,4,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Pakistan,2,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,North Macedonia,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Georgia,2,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Norway,6,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Romania,3,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Denmark,2,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Estonia,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Netherlands,2,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,San Marino,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Nigeria,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Lithuania,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,New Zealand,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Belarus,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Mexico,3,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Azerbaijan,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Iceland,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,Monaco,1,0,,Sat Feb 29 08:38:33 UTC 2020,1582965512
+outside,TOTAL,5958,89,154 serious/critical,Sat Feb 29 08:38:33 UTC 2020,1582965512
