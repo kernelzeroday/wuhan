@@ -10,5 +10,6 @@ bash nyt.sh
 
 tr a-z A-Z < nyt_us_county.csv > nyt_us_county_upper.csv
 
-csvjoin -c '1,1' nyt_us_county_upper.csv california_icu_data.csv | csvcut -c 'COUNTY,POPULATION_2010,CONFIRMED,DEATHS,ICU BED COUNT' > california.csv 
+csvjoin -c '1,1' nyt_us_county_upper.csv california_icu_data.csv -I | csvcut -c 'COUNTY,POPULATION_2010,CONFIRMED,13,ICU BED COUNT' > california.csv 
+csvjoin -c 'COUNTY,COUNTY' california.csv california_hospital_count_county.csv -I | sponge california.csv
 xsv table california.csv

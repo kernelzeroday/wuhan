@@ -1,6 +1,6 @@
 china,location,Cases,Deaths,Serious,Critical,Recovered
 inside,Hubei province(includes Wuhan),67466,2902,5788,,40479
-inside,Guangdong province,1350,7,13,19,1129
+inside,Guangdong province,1350,7,12,19,1159
 inside,Henan province,1272,22,3,2,1234
 inside,Zhejiang province,1213,1,3,3,1107
 inside,Hunan province,1018,4,15,,913
@@ -16,13 +16,14 @@ outside,Germany,349,0,,2,16
 outside,Japan,331,6,29,,10
 outside,France,285,4,15,,12
 outside,Spain,248,3,7,,2
-outside,United States,190,11,2,6,9
+outside,United States,194,11,2,6,9
 outside,Singapore,117,0,,7,81
 outside,United Kingdom,116,1,,,8
 outside,Hong Kong,105,2,2,4,36
 outside,Switzerland,80,1,,,
 outside,Norway,72,0,,,
 outside,Sweden,90,0,,,
+outside,Netherlands,82,0,1,,
 outside,Kuwait,58,0,0,0,0
 outside,Malaysia,55,0,,,22
 outside,Australia,52,2,,,21
@@ -30,7 +31,6 @@ outside,Belgium,50,0,1,,1
 outside,Bahrain,49,0,,,1
 outside,Thailand,47,1,1,,31
 outside,Taiwan,42,1,0,0,12
-outside,Netherlands,38,0,1,,
 outside,Austria,37,0,,,
 outside,Iraq,35,2,,,
 outside,Canada,35,0,,1,3
@@ -94,4 +94,4 @@ outside,Liechtenstein,1,0,,,
 outside,Poland,1,0,0,0,0
 outside,Slovenia,1,0,,,0
 outside,South Africa,1,0,,,
-outside,TOTAL,16724,340,476,47,1401
+outside,TOTAL,16772,340,476,47,1401

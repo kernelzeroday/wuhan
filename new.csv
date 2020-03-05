@@ -1,10 +1,10 @@
 1,,,,,,,
 2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
-3,97133,3352,3352,53446,53446,,
+3,97181,3352,3352,53446,53446,,
 4,,,,,,,
 5,MAINLAND CHINA,Cases,Deaths,Serious,Critical,Recovered,
 6,Hubei province(includes Wuhan),67466,2902,5788,,40479,Source
-7,Guangdong province,1350,7,13,19,1129,Source
+7,Guangdong province,1350,7,12,19,1159,Source
 8,Henan province,1272,22,3,2,1234,
 9,Zhejiang province,1213,1,3,3,1107,Source
 10,Hunan province,1018,4,15,,913,Source
@@ -22,21 +22,21 @@
 22,Japan,331,6,29,,10,Source
 23,France,285,4,15,,12,Source
 24,Spain,248,3,7,,2,Source
-25,United States,190,11,2,6,9,Source
+25,United States,194,11,2,6,9,Source
 26,Singapore,117,0,,7,81,Source
 27,United Kingdom,116,1,,,8,Source
 28,Hong Kong,105,2,2,4,36,Source
 29,Switzerland,80,1,,,,Source
 30,Norway,72,0,,,,Source
 31,Sweden,90,0,,,,Source
-32,Kuwait,58,0,0,0,0,Source
-33,Malaysia,55,0,,,22,Source
-34,Australia,52,2,,,21,Source
-35,Belgium,50,0,1,,1,Source
-36,Bahrain,49,0,,,1,
-37,Thailand,47,1,1,,31,Source
-38,Taiwan,42,1,0,0,12,Source
-39,Netherlands,38,0,1,,,Source
+32,Netherlands,82,0,1,,,Source
+33,Kuwait,58,0,0,0,0,Source
+34,Malaysia,55,0,,,22,Source
+35,Australia,52,2,,,21,Source
+36,Belgium,50,0,1,,1,Source
+37,Bahrain,49,0,,,1,
+38,Thailand,47,1,1,,31,Source
+39,Taiwan,42,1,0,0,12,Source
 40,Austria,37,0,,,,Source
 41,Iraq,35,2,,,,Source
 42,Canada,35,0,,1,3,Source
@@ -100,4 +100,4 @@
 100,Poland,1,0,0,0,0,Source
 101,Slovenia,1,0,,,0,Source
 102,South Africa,1,0,,,,Source
-103,TOTAL,16724,340,476,47,1401,
+103,TOTAL,16772,340,476,47,1401,
