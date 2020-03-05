@@ -9,20 +9,20 @@ inside,Shanghai,338,3,,9,298
 inside,Other regions,7335,65,100+,,
 inside,CHINA TOTAL,80409,3012,5952,,52045
 outside,South Korea,5766,42,27,25,88
-outside,Iran,3513,107,,,552
-outside,Italy,3089,107,297,,276
+outside,Italy,3858,148,351,,414
+outside,Iran,3513,108,,,552
 outside,Diamond Princess,706,6,34,,40
 outside,Germany,349,0,,2,16
 outside,Japan,331,6,29,,10
 outside,France,285,4,15,,12
 outside,Spain,248,3,7,,2
-outside,United States,159,11,2,6,9
+outside,United States,190,11,2,6,9
 outside,Singapore,117,0,,7,81
+outside,United Kingdom,116,1,,,8
 outside,Hong Kong,105,2,2,4,36
-outside,United Kingdom,88,0,,,8
 outside,Switzerland,80,1,,,
 outside,Norway,72,0,,,
-outside,Sweden,60,0,,,
+outside,Sweden,90,0,,,
 outside,Kuwait,58,0,0,0,0
 outside,Malaysia,55,0,,,22
 outside,Australia,52,2,,,21
@@ -52,9 +52,9 @@ outside,Croatia,10,0,,,
 outside,Qatar,8,0,,,
 outside,Czech Republic,8,0,0,0,0
 outside,Portugal,8,0,,,
+outside,Ireland,7,0,,,
 outside,Belarus,6,0,,,
 outside,Romania,6,0,,,
-outside,Ireland,6,0,,,
 outside,Mexico,5,0,,,1
 outside,Pakistan,5,0,,,
 outside,Senegal,4,0,0,0,0
@@ -94,4 +94,4 @@ outside,Liechtenstein,1,0,,,
 outside,Poland,1,0,0,0,0
 outside,Slovenia,1,0,,,0
 outside,South Africa,1,0,,,
-outside,TOTAL,15865,297,422,47,1263
+outside,TOTAL,16724,340,476,47,1401

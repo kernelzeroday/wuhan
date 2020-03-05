@@ -1,6 +1,6 @@
-1,"Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET","Last update: March 5, 2020, at 7:47 a.m. ET"
+1,,,,,,,
 2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
-3,96274,3309,3309,53308,53308,,
+3,97133,3352,3352,53446,53446,,
 4,,,,,,,
 5,MAINLAND CHINA,Cases,Deaths,Serious,Critical,Recovered,
 6,Hubei province(includes Wuhan),67466,2902,5788,,40479,Source
@@ -15,20 +15,20 @@
 15,,,,,,,
 16,OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered,
 17,South Korea,5766,42,27,25,88,Source
-18,Iran,3513,107,,,552,Source
-19,Italy,3089,107,297,,276,Source
+18,Italy,3858,148,351,,414,Source
+19,Iran,3513,108,,,552,Source
 20,Diamond Princess,706,6,34,,40,Source
 21,Germany,349,0,,2,16,Source
 22,Japan,331,6,29,,10,Source
 23,France,285,4,15,,12,Source
 24,Spain,248,3,7,,2,Source
-25,United States,159,11,2,6,9,Source
+25,United States,190,11,2,6,9,Source
 26,Singapore,117,0,,7,81,Source
-27,Hong Kong,105,2,2,4,36,Source
-28,United Kingdom,88,0,,,8,Source
+27,United Kingdom,116,1,,,8,Source
+28,Hong Kong,105,2,2,4,36,Source
 29,Switzerland,80,1,,,,Source
 30,Norway,72,0,,,,Source
-31,Sweden,60,0,,,,Source
+31,Sweden,90,0,,,,Source
 32,Kuwait,58,0,0,0,0,Source
 33,Malaysia,55,0,,,22,Source
 34,Australia,52,2,,,21,Source
@@ -58,9 +58,9 @@
 58,Qatar,8,0,,,,Source
 59,Czech Republic,8,0,0,0,0,Source
 60,Portugal,8,0,,,,Source
-61,Belarus,6,0,,,,Source
-62,Romania,6,0,,,,Source
-63,Ireland,6,0,,,,Source
+61,Ireland,7,0,,,,Source
+62,Belarus,6,0,,,,Source
+63,Romania,6,0,,,,Source
 64,Mexico,5,0,,,1,
 65,Pakistan,5,0,,,,
 66,Senegal,4,0,0,0,0,Source
@@ -100,4 +100,4 @@
 100,Poland,1,0,0,0,0,Source
 101,Slovenia,1,0,,,0,Source
 102,South Africa,1,0,,,,Source
-103,TOTAL,15865,297,422,47,1263,
+103,TOTAL,16724,340,476,47,1401,

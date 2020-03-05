@@ -5,4 +5,10 @@ awk 'BEGIN{FS=OFS=","}{a[$1]+=$2}END{for(i in a) print i,a[i]}' county_count_upp
 awk 'BEGIN{FS=OFS=","}{a[$1]+=$2}END{for(i in a) print i,a[i]}' icu_ca.csv > icu_ca_sum.csv
 echo "COUNTY,CONFIRMED,ICU BED COUNT" > california_icu_data.csv
 csvjoin -c '1,1' county_count_upper_sum.csv icu_ca_sum.csv >> california_icu_data.csv 
-csvsort -c 2 -r california_icu_data.csv  | xsv table
+
+bash nyt.sh
+
+tr a-z A-Z < nyt_us_county.csv > nyt_us_county_upper.csv
+
+csvjoin -c '1,1' nyt_us_county_upper.csv california_icu_data.csv | csvcut -c 'COUNTY,POPULATION_2010,CONFIRMED,DEATHS,ICU BED COUNT' > california.csv 
+xsv table california.csv
