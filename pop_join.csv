@@ -14,36 +14,36 @@ Canada,36286425,outside,35,0,,1,3
 Switzerland,8372098,outside,80,1,,,
 Chile,17909754,outside,3,0,,,
 Czech Republic,10561633,outside,8,0,0,0,0
-Germany,82667685,outside,349,0,,2,16
+Germany,82667685,outside,400,0,,2,16
 Denmark,5731118,outside,15,0,,,
 Dominican Republic,10648791,outside,1,0,,,
 Algeria,40606052,outside,17,0,,,
 Ecuador,16385068,outside,10,0,,1,
 Egypt,95688681,outside,3,0,,,1
 Spain,46443959,outside,248,3,7,,2
-Estonia,1316481,outside,2,0,0,0,0
+Estonia,1316481,outside,5,0,0,0,0
 Finland,5495096,outside,12,0,,,1
-France,66896109,outside,285,4,15,,12
+France,66896109,outside,423,7,23,,12
 United Kingdom,65637239,outside,116,1,,,8
-Georgia,3719300,outside,4,0,1,,
+Georgia,3719300,outside,9,0,1,,
 Greece,10746740,outside,31,0,,,
 Hong Kong,7346700,outside,105,2,2,4,36
 Croatia,4170600,outside,10,0,,,
 Hungary,9817958,outside,2,0,0,0,0
 Indonesia,261115456,outside,2,0,,,
 India,1324171354,outside,30,0,,,3
-Ireland,4773095,outside,7,0,,,
+Ireland,4773095,outside,13,0,,,
 Iran,80277428,outside,3513,108,,,552
 Iraq,37202572,outside,35,2,,,
 Iceland,334252,outside,34,0,,,
 Israel,8547100,outside,15,0,,,
 Italy,60600590,outside,3858,148,351,,414
 Jordan,9455802,outside,1,0,,,
-Japan,126994511,outside,331,6,29,,10
+Japan,126994511,outside,350,6,29,,10
 Cambodia,15762370,outside,1,0,,,1
 South Korea,51245707,outside,5766,42,27,25,88
 Kuwait,4052584,outside,58,0,0,0,0
-Lebanon,6006668,outside,15,0,,1,
+Lebanon,6006668,outside,16,0,,1,
 Liechtenstein,37666,outside,1,0,,,
 Sri Lanka,21203000,outside,1,0,,,1
 Lithuania,2872298,outside,1,0,,,
@@ -74,6 +74,6 @@ Sweden,9903122,outside,90,0,,,
 Thailand,68863514,outside,47,1,1,,31
 Tunisia,11403248,outside,1,0,,,
 Ukraine,45004645,outside,1,0,,,
-United States,323127513,outside,194,11,2,6,9
+United States,323127513,outside,198,12,2,6,9
 Vietnam,92701100,outside,16,0,,,16
 South Africa,55908865,outside,1,0,,,
