@@ -1,7 +1,7 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 6,Washington,79,13,,,,Source
 7,California,60,1,,1,1,Source
-8,New York,33,0,0,0,0,Source
+8,New York,44,0,0,0,0,Source
 9,Massachusetts,8,0,,,,Source
 10,Texas,6,0,,,,Source
 11,Illinois,5,0,,,2,Source
@@ -9,17 +9,19 @@
 13,Maryland,3,0,0,0,0,Source
 14,Oregon,3,0,,,,Source
 15,Georgia,3,0,,,,Source
-16,New Hampshire,2,0,,,,Source
-17,Rhode Island,2,0,,,,Source
-18,New Jersey,2,0,,,,Source
-19,Colorado,2,0,,,,Source
-20,Nevada,2,0,,,,Source
-21,North Carolina,2,0,,,,Source
-22,Indiana,1,0,,,,Source
-23,Tennessee,1,0,,,,Source
-24,Wisconsin,1,0,,,,Source
-25,Arizona,3,0,,,,Source
-26,Pennsylvania,2,0,,,,Source
-27,Wuhan,3,0,,,,
-28,Diamond Princess,45,0,,,2,
-29,U.S. TOTAL,272,14,0,0,5,
+16,Arizona,3,0,,,,Source
+17,New Hampshire,2,0,,,,Source
+18,Pennsylvania,2,0,,,,Source
+19,Rhode Island,2,0,,,,Source
+20,New Jersey,2,0,,,,Source
+21,Colorado,2,0,,,,Source
+22,Nevada,2,0,,,,Source
+23,North Carolina,2,0,,,,Source
+24,Indiana,1,0,,,,Source
+25,Tennessee,1,0,,,,Source
+26,Kentucky,1,0,,,,Source
+27,Wisconsin,1,0,,,,Source
+28,Wuhan,3,0,,,,
+29,Grand Princess,21,0,,,,Source
+30,Diamond Princess,45,0,,,2,
+31,U.S. TOTAL,305,14,0,0,5,
