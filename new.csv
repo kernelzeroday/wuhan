@@ -1,20 +1,20 @@
 1,,,,,,,
 2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
-3,97747,3356,3356,53448,53448,,
+3,98114,3386,3386,55149,55149,,
 4,,,,,,,
 5,MAINLAND CHINA,Cases,Deaths,Serious,Critical,Recovered,
-6,Hubei province(includes Wuhan),67466,2902,5788,,40479,Source
-7,Guangdong province,1350,7,12,19,1159,Source
-8,Henan province,1272,22,3,2,1234,
-9,Zhejiang province,1213,1,3,3,1107,Source
-10,Hunan province,1018,4,15,,913,Source
-11,Beijing,417,8,,,294,Source
-12,Shanghai,338,3,,9,298,Source
-13,Other regions,7335,65,100+,,,
-14,CHINA TOTAL,80409,3012,5952,,52045,
+6,Hubei province(includes Wuhan),67592,2931,5588,,41966,Source
+7,Guangdong province,1351,7,11,19,1209,Source
+8,Henan province,1272,22,0,1,1241,Source
+9,Zhejiang province,1215,1,1,1,1153,Source
+10,Hunan province,1018,4,8,,946,Source
+11,Beijing,422,8,,,298,Source
+12,Shanghai,339,3,1,8,303,Source
+13,Other regions,7343,66,100+,,,
+14,CHINA TOTAL,80552,3042,5737,,53726,
 15,,,,,,,
 16,OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered,
-17,South Korea,6088,42,27,25,88,Source
+17,South Korea,6284,42,27,25,108,Source
 18,Italy,3858,148,351,,414,Source
 19,Iran,3513,108,,,552,Source
 20,Diamond Princess,696,6,34,,40,Source
@@ -22,7 +22,7 @@
 22,Germany,400,0,,2,17,Source
 23,Japan,350,6,29,,10,Source
 24,Spain,248,3,7,,2,Source
-25,United States,206,12,2,6,9,Source
+25,United States,222,12,2,6,9,Source
 26,Singapore,117,0,,7,81,Source
 27,United Kingdom,116,1,,,8,Source
 28,Hong Kong,105,2,2,4,36,Source
@@ -38,7 +38,7 @@
 38,Thailand,47,1,1,,31,Source
 39,Taiwan,42,1,0,0,12,Source
 40,Austria,37,0,,,,Source
-41,Canada,37,0,,1,3,Source
+41,Canada,46,0,,1,3,Source
 42,Iraq,35,2,,,,Source
 43,Iceland,34,0,,,,Source
 44,Greece,31,0,,,,Source
@@ -53,7 +53,7 @@
 53,Denmark,15,0,,,,Source
 54,Finland,12,0,,,1,Source
 55,Macau,10,0,,,6,
-56,Ecuador,10,0,,1,,Source
+56,Ecuador,13,0,,1,,Source
 57,Croatia,10,0,,,,Source
 58,Qatar,8,0,,,,Source
 59,Czech Republic,8,0,0,0,0,Source
@@ -100,4 +100,4 @@
 100,Liechtenstein,1,0,,,,Source
 101,Poland,1,0,0,0,0,Source
 102,South Africa,1,0,,,,Source
-103,TOTAL,17338,344,484,47,1403,
+103,TOTAL,17562,344,484,47,1423,

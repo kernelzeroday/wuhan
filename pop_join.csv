@@ -10,7 +10,7 @@ Belgium,11348159,outside,50,0,1,,1
 Bahrain,1425171,outside,49,0,,,1
 Belarus,9507120,outside,6,0,,,
 Brazil,207652865,outside,8,0,,,
-Canada,36286425,outside,37,0,,1,3
+Canada,36286425,outside,46,0,,1,3
 Switzerland,8372098,outside,80,1,,,
 Chile,17909754,outside,3,0,,,
 Czech Republic,10561633,outside,8,0,0,0,0
@@ -18,7 +18,7 @@ Germany,82667685,outside,400,0,,2,17
 Denmark,5731118,outside,15,0,,,
 Dominican Republic,10648791,outside,1,0,,,
 Algeria,40606052,outside,17,0,,,
-Ecuador,16385068,outside,10,0,,1,
+Ecuador,16385068,outside,13,0,,1,
 Egypt,95688681,outside,3,0,,,1
 Spain,46443959,outside,248,3,7,,2
 Estonia,1316481,outside,5,0,0,0,0
@@ -41,7 +41,7 @@ Italy,60600590,outside,3858,148,351,,414
 Jordan,9455802,outside,1,0,,,
 Japan,126994511,outside,350,6,29,,10
 Cambodia,15762370,outside,1,0,,,1
-South Korea,51245707,outside,6088,42,27,25,88
+South Korea,51245707,outside,6284,42,27,25,108
 Kuwait,4052584,outside,58,0,0,0,0
 Lebanon,6006668,outside,16,0,,1,
 Liechtenstein,37666,outside,1,0,,,
@@ -74,6 +74,6 @@ Sweden,9903122,outside,90,0,,,
 Thailand,68863514,outside,47,1,1,,31
 Tunisia,11403248,outside,1,0,,,
 Ukraine,45004645,outside,1,0,,,
-United States,323127513,outside,206,12,2,6,9
+United States,323127513,outside,222,12,2,6,9
 Vietnam,92701100,outside,16,0,,,16
 South Africa,55908865,outside,1,0,,,
