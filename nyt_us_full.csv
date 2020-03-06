@@ -155,7 +155,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 154,True,California,Santa Clara,,Male,Adult,3/4/2020,home isolation,Close contact of existing case (details unknown),Unknown,Unknown,,Link,,,,joy.alexiou@hhs.sccgov.org,,,,,,California,False,2020-03-04,43
 155,True,California,Santa Clara,,Male,Adult,3/4/2020,home isolation,Close contact of existing case (details unknown),Unknown,Unknown,,Link,,,,joy.alexiou@hhs.sccgov.org,,,,,,California,False,2020-03-04,43
 156,True,Washington,Snohomish,,Male,60s,3/4/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,,,Washington,False,2020-03-04,43
-157,True,Texas,Fort Bend,,Male,70s,3/4/2020,stable,Traveled abroad,Travel overseas,No,,Link,,,,,,,,,,Texas,False,2020-03-04,43
+157,True,Texas,Fort Bend,,Male,70s,3/4/2020,stable,Travel in Egypt,Travel overseas,No,,Link,,,,,,,,,,Texas,False,2020-03-04,43
 158,True,New Jersey,Bergen,,Male,30s,3/4/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New Jersey,False,2020-03-04,43
 159,True,Washington,Grant,,Unknown,Unknown,3/4/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,Awaiting details. We're counting this as a 3/4 announcement because it happened before midnight in the time zone where it was announced.,,,,,Washington,False,2020-03-04,43
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05,44
@@ -209,8 +209,8 @@ COVID.media@illinois.gov",,,,,,Illinois,False,2020-03-05,44
 207,True,California,Los Angeles,,Unknown,Unknown,3/5/2020,,Traveled in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-05,44
 208,True,California,Los Angeles,,Unknown,Unknown,3/5/2020,,Traveled in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-05,44
 209,True,California,Los Angeles,,Unknown,Unknown,3/5/2020,,Traveled in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-05,44
-210,True,Texas,Harris,,Male,,3/5/2020,,International travel,Travel overseas,No,,Link,,,,,,,,,,Texas,False,2020-03-05,44
-211,True,Texas,Harris,,Female,,3/5/2020,,International travel,Travel overseas,No,,,,,,,,,,,,Texas,False,2020-03-05,44
+210,True,Texas,Harris,,Male,,3/5/2020,,Travel in Egypt,Travel overseas,No,,Link,,,,,,,,,,Texas,False,2020-03-05,44
+211,True,Texas,Harris,,Female,,3/5/2020,,Travel in Egypt,Travel overseas,No,,,,,,,,,,,,Texas,False,2020-03-05,44
 212,True,Colorado,Jefferson,Outside Colorado,Male,30s,3/5/2020,,Traveled in Italy; had contact with another COVID patient on flight back,Unknown,No,,Link,,,,,This is being counted by the state as a Summit County case but he's being treated in Jefferson. He skied at Keystone and Vail.,,,,,Colorado,False,2020-03-05,44
 213,True,Maryland,Montgomery,,Unknown,Unknown,3/5/2020,good,Overseas travel,Travel overseas,No,Home isolation,Link,,,,,,,,,,Maryland,False,2020-03-05,44
 214,True,Maryland,Montgomery,,Unknown,Unknown,3/5/2020,good,Overseas travel,Travel overseas,No,Home isolation,Link,,,,,,,,,,Maryland,False,2020-03-05,44
