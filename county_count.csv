@@ -62,8 +62,8 @@ Confirmed,County
 1,Placer
 1,Norfolk
 2,Fulton
-1,New York
 1,San Mateo
+1,New York
 1,Maricopa
 1,Hillsborough
 7,King
@@ -84,7 +84,7 @@ Confirmed,County
 1,Snohomish
 1,Fort Bend
 1,Bergen
-1,Grant
+1,Chelan
 1,New York
 1,Kings
 1,Williamson
@@ -100,3 +100,20 @@ Confirmed,County
 2,Harris
 1,Jefferson
 3,Montgomery
+1,Douglas
+2,Harris
+1,Middlesex
+6,Santa Clara
+1,Clark
+1,Washoe
+1,Wayne
+1,Delaware
+1,Floyd
+1,Chatham
+1,Unknown
+1,Marion
+2,Rockland
+1,New York
+8,Westchester
+5,Unknown
+1,Harris

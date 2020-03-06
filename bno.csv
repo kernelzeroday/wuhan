@@ -1,97 +1,94 @@
-china,location,Cases,Deaths,Serious,Critical,Recovered
-inside,Hubei province(includes Wuhan),67592,2931,5588,,41966
-inside,Guangdong province,1351,7,11,19,1209
-inside,Henan province,1272,22,0,1,1241
-inside,Zhejiang province,1215,1,1,1,1153
-inside,Hunan province,1018,4,8,,946
-inside,Beijing,422,8,,,298
-inside,Shanghai,339,3,1,8,303
-inside,Other regions,7343,66,100+,,
-inside,CHINA TOTAL,80552,3042,5737,,53726
-outside,South Korea,6284,42,27,25,108
-outside,Italy,3858,148,351,,414
-outside,Iran,3513,108,,,552
-outside,Diamond Princess,696,6,34,,40
-outside,France,423,7,23,,12
-outside,Germany,400,0,,2,17
-outside,Japan,350,6,29,,10
-outside,Spain,248,3,7,,2
-outside,United States,223,13,2,6,9
-outside,Singapore,117,0,,7,81
-outside,United Kingdom,116,1,,,8
-outside,Hong Kong,105,2,2,4,36
-outside,Switzerland,80,1,,,
-outside,Norway,72,0,,,
-outside,Sweden,90,0,,,
-outside,Netherlands,82,0,1,,
-outside,Australia,60,2,,,22
-outside,Kuwait,58,0,0,0,0
-outside,Malaysia,55,0,,,22
-outside,Belgium,50,0,1,,1
-outside,Bahrain,49,0,,,1
-outside,Thailand,47,1,1,,31
-outside,Taiwan,42,1,0,0,12
-outside,Austria,37,0,,,
-outside,Canada,46,0,,1,3
-outside,Iraq,35,2,,,
-outside,Iceland,34,0,,,
-outside,Greece,31,0,,,
-outside,India,30,0,,,3
-outside,UAE,27,0,2,,5
-outside,Algeria,17,0,,,
-outside,Vietnam,16,0,,,16
-outside,San Marino,16,1,3,,
-outside,Lebanon,16,0,,1,
-outside,Israel,15,0,,,
-outside,Oman,15,0,,,2
-outside,Denmark,15,0,,,
-outside,Finland,12,0,,,1
-outside,Macau,10,0,,,6
-outside,Ecuador,13,0,,1,
-outside,Croatia,10,0,,,
-outside,Qatar,8,0,,,
-outside,Czech Republic,8,0,0,0,0
-outside,Portugal,8,0,,,
-outside,Ireland,13,0,,,
-outside,Belarus,6,0,,,
-outside,Romania,6,0,,,
-outside,Slovenia,6,0,,,0
-outside,Mexico,5,0,,,1
-outside,Pakistan,5,0,,,
-outside,Senegal,4,0,0,0,0
-outside,Brazil,8,0,,,
-outside,Estonia,5,0,0,0,0
-outside,Palestine,4,0,,,
-outside,Russia,4,0,,,2
-outside,Georgia,9,0,1,,
-outside,Azerbaijan,6,0,,,
-outside,Saudi Arabia,5,0,,,
-outside,New Zealand,4,0,,,
-outside,Philippines,5,1,1,,2
-outside,Chile,3,0,,,
-outside,Egypt,3,0,,,1
-outside,Indonesia,2,0,,,
-outside,Hungary,2,0,0,0,0
-outside,Morocco,2,0,,,
-outside,Bosnia,2,0,,,
-outside,Nepal,1,0,,,1
-outside,Cambodia,1,0,,,1
-outside,Sri Lanka,1,0,,,1
-outside,Afghanistan,1,0,,,
-outside,North Macedonia,1,0,,,
-outside,Nigeria,1,0,,,
-outside,Lithuania,1,0,,,
-outside,Monaco,1,0,,,
-outside,Luxembourg,1,0,,,
-outside,Ukraine,1,0,,,
-outside,Latvia,1,0,,,
-outside,Tunisia,1,0,,,
-outside,Jordan,1,0,,,
-outside,Andorra,1,0,,,
-outside,Armenia,1,0,,,
-outside,Dominican Republic,1,0,,,
-outside,Argentina,1,0,,,
-outside,Liechtenstein,1,0,,,
-outside,Poland,1,0,0,0,0
-outside,South Africa,1,0,,,
-outside,TOTAL,17566,345,485,47,1423
+OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered,
+Mainland China,80555,3042,5737,,53726,Source
+South Korea,6593,42,27,25,108,Source
+Iran,4747,124,,,913,Source
+Italy,4636,197,462,,523,Source
+Diamond Princess,696,6,34,,40,Source
+Germany,639,0,,2,17,Source
+France,613,9,23,,12,Source
+Japan,350,6,29,,10,Source
+Spain,296,3,7,,2,Source
+United States,259,14,2,6,9,Source
+Sweden,136,0,,,,Source
+Netherlands,128,1,1,,,Source
+Singapore,117,0,,7,81,Source
+United Kingdom,116,1,,,12,Source
+Belgium,109,0,1,,1,Source
+Hong Kong,105,2,2,4,36,Source
+Norway,101,0,,,,Source
+Switzerland,80,1,,,,Source
+Malaysia,83,0,,,23,Source
+Australia,61,2,,,22,
+Kuwait,58,0,0,0,0,Source
+Austria,55,0,,,,Source
+Bahrain,49,0,,,1,
+Canada,48,0,,1,8,Source
+Thailand,47,1,1,,31,Source
+Taiwan,45,1,0,0,12,Source
+Iraq,35,2,,,,Source
+Iceland,34,0,,,,Source
+Greece,31,0,,,,Source
+India,30,0,,,3,Source
+UAE,27,0,2,,5,Source
+Algeria,17,0,,,,Source
+Israel,17,0,,,,Source
+Vietnam,16,0,,,16,
+San Marino,16,1,3,,,Source
+Lebanon,16,0,,1,,Source
+Oman,16,0,,,2,Source
+Denmark,15,0,,,,Source
+Ecuador,13,0,,1,,Source
+Ireland,13,0,,,,Source
+Finland,12,0,,,1,Source
+Macau,10,0,,,6,
+Croatia,10,0,,,,Source
+Brazil,9,0,,,,Source
+Georgia,9,0,1,,,Source
+Qatar,8,0,,,,Source
+Czech Republic,8,0,0,0,0,Source
+Portugal,8,0,,,,Source
+Romania,7,0,,,1,Source
+Belarus,6,0,,,,Source
+Azerbaijan,6,0,,,,Source
+Slovenia,6,0,,,0,Source
+Mexico,5,0,,,1,
+Estonia,5,0,0,0,0,Source
+Saudi Arabia,5,0,,,,Source
+Pakistan,5,0,,,,
+Philippines,5,1,1,,2,Source
+Poland,5,0,0,0,0,Source
+Chile,5,0,,,,Source
+Senegal,4,0,0,0,0,Source
+Palestine,4,0,,,,Source
+Russia,4,0,,,2,Source
+New Zealand,4,0,,,,Source
+Indonesia,4,0,,,,Source
+Egypt,3,0,,,1,Source
+Hungary,2,0,0,0,0,Source
+Morocco,2,0,,,,Source
+Bosnia,2,0,,,,Source
+Luxembourg,2,0,,,,Source
+Nepal,1,0,,,1,
+Cambodia,1,0,,,1,
+Sri Lanka,1,0,,,1,
+Afghanistan,1,0,,,,
+North Macedonia,1,0,,,,
+Nigeria,1,0,,,,
+Lithuania,1,0,,,,
+Monaco,1,0,,,,
+Ukraine,1,0,,,,
+Latvia,1,0,,,,
+Tunisia,1,0,,,,
+Jordan,1,0,,,,
+Andorra,1,0,,,,
+Armenia,1,0,,,,
+Dominican Republic,1,0,,,,
+Argentina,1,0,,,,
+Liechtenstein,1,0,,,,Source
+Bhutan,1,0,,,,Source
+Gibraltar,1,0,1,,,Source
+Serbia,1,0,,,,Source
+Vatican City,1,0,,,,Source
+Cameroon,1,0,,,,Source
+South Africa,1,0,,,,Source
+TOTAL,101206,3456,6334,47,55630,
