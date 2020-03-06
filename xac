@@ -7,7 +7,7 @@
 22,Germany,400,0,,2,17,Source
 23,Japan,350,6,29,,10,Source
 24,Spain,248,3,7,,2,Source
-25,United States,222,12,2,6,9,Source
+25,United States,223,13,2,6,9,Source
 26,Singapore,117,0,,7,81,Source
 27,United Kingdom,116,1,,,8,Source
 28,Hong Kong,105,2,2,4,36,Source
@@ -57,9 +57,9 @@
 72,Georgia,9,0,1,,,Source
 73,Azerbaijan,6,0,,,,Source
 74,Saudi Arabia,5,0,,,,Source
-75,Philippines,3,1,,,2,
-76,Chile,3,0,,,,Source
-77,New Zealand,3,0,,,,Source
+75,New Zealand,4,0,,,,Source
+76,Philippines,5,1,1,,2,Source
+77,Chile,3,0,,,,Source
 78,Egypt,3,0,,,1,Source
 79,Indonesia,2,0,,,,
 80,Hungary,2,0,0,0,0,Source
@@ -85,4 +85,4 @@
 100,Liechtenstein,1,0,,,,Source
 101,Poland,1,0,0,0,0,Source
 102,South Africa,1,0,,,,Source
-103,TOTAL,17562,344,484,47,1423,
+103,TOTAL,17566,345,485,47,1423,

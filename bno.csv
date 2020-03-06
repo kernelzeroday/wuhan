@@ -16,7 +16,7 @@ outside,France,423,7,23,,12
 outside,Germany,400,0,,2,17
 outside,Japan,350,6,29,,10
 outside,Spain,248,3,7,,2
-outside,United States,222,12,2,6,9
+outside,United States,223,13,2,6,9
 outside,Singapore,117,0,,7,81
 outside,United Kingdom,116,1,,,8
 outside,Hong Kong,105,2,2,4,36
@@ -66,9 +66,9 @@ outside,Russia,4,0,,,2
 outside,Georgia,9,0,1,,
 outside,Azerbaijan,6,0,,,
 outside,Saudi Arabia,5,0,,,
-outside,Philippines,3,1,,,2
+outside,New Zealand,4,0,,,
+outside,Philippines,5,1,1,,2
 outside,Chile,3,0,,,
-outside,New Zealand,3,0,,,
 outside,Egypt,3,0,,,1
 outside,Indonesia,2,0,,,
 outside,Hungary,2,0,0,0,0
@@ -94,4 +94,4 @@ outside,Argentina,1,0,,,
 outside,Liechtenstein,1,0,,,
 outside,Poland,1,0,0,0,0
 outside,South Africa,1,0,,,
-outside,TOTAL,17562,344,484,47,1423
+outside,TOTAL,17566,345,485,47,1423
