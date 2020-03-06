@@ -48,7 +48,7 @@ Confirmed,County
 1,New York
 3,Santa Clara
 5,King
-1,Sarasota
+1,Manatee
 1,Hillsborough
 1,Washington
 1,Unknown
@@ -94,7 +94,8 @@ Confirmed,County
 1,Nassau
 2,San Francisco
 19,King
-10,Snohomish
+9,Snohomish
+1,King
 1,Bergen
 4,Los Angeles
 2,Harris
@@ -110,10 +111,24 @@ Confirmed,County
 1,Delaware
 1,Floyd
 1,Chatham
-1,Unknown
+1,Pinal
 1,Marion
 2,Rockland
 1,New York
 8,Westchester
-5,Unknown
+3,Suffolk
+2,Norfolk
 1,Harris
+1,Yolo
+3,Contra Costa
+1,Camden
+2,Los Angeles
+3,Placer
+1,Ramsey
+7,King
+1,Snohomish
+1,Jefferson
+1,Douglas
+8,Westchester
+3,Nassau
+1,Fayette
