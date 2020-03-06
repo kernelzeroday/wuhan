@@ -6,4 +6,4 @@ gsed -i '/,,,,,,,/d' bno_usa_split_ab
 csvcut -c '2,3,4,5,6,7,8' bno_usa_split_ab > bno_usa.csv
 #csvjoin -c '1,2' 2016_pop.csv xab > pop_join.csv
 csvstack -g "`date +%s`" -n unixtime bno_usa.csv |csvstack -g "`date`" -n date2  |csvcut -c "3,4,5,6,7,8,9,1,2"  | tee -a bno_usa/bno_$(date +%s).csv | xsv table
-a=($(ls bno_usa)) ; csvdiff -p '1,0' --columns '0,1,2,3,4' bno_usa/${a[-2]} bno_usa/${a[-1]}
+a=($(ls bno_usa)) ; csvdiff -p '0,0' --columns '0,1,2,3,4' bno_usa/${a[-2]} bno_usa/${a[-1]}

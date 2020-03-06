@@ -8,15 +8,15 @@ Germany,639,0,,2,17,Source
 France,613,9,23,,12,Source
 Japan,350,6,29,,10,Source
 Spain,296,3,7,,2,Source
-United States,259,14,2,6,9,Source
+United States,270,14,2,6,9,Source
+Switzerland,210,1,,,,Source
+United Kingdom,164,1,,,12,Source
 Sweden,136,0,,,,Source
 Netherlands,128,1,1,,,Source
 Singapore,117,0,,7,81,Source
-United Kingdom,116,1,,,12,Source
 Belgium,109,0,1,,1,Source
-Hong Kong,105,2,2,4,36,Source
+Hong Kong,108,2,2,4,51,Source
 Norway,101,0,,,,Source
-Switzerland,80,1,,,,Source
 Malaysia,83,0,,,23,Source
 Australia,61,2,,,22,
 Kuwait,58,0,0,0,0,Source
@@ -25,11 +25,13 @@ Bahrain,49,0,,,1,
 Canada,48,0,,1,8,Source
 Thailand,47,1,1,,31,Source
 Taiwan,45,1,0,0,12,Source
+Greece,45,0,1,,,Source
 Iraq,35,2,,,,Source
 Iceland,34,0,,,,Source
-Greece,31,0,,,,Source
 India,30,0,,,3,Source
 UAE,27,0,2,,5,Source
+Czech Republic,19,0,0,0,0,Source
+Ireland,18,0,,,,Source
 Algeria,17,0,,,,Source
 Israel,17,0,,,,Source
 Vietnam,16,0,,,16,
@@ -38,16 +40,14 @@ Lebanon,16,0,,1,,Source
 Oman,16,0,,,2,Source
 Denmark,15,0,,,,Source
 Ecuador,13,0,,1,,Source
-Ireland,13,0,,,,Source
+Brazil,13,0,,,,Source
 Finland,12,0,,,1,Source
 Macau,10,0,,,6,
 Croatia,10,0,,,,Source
-Brazil,9,0,,,,Source
 Georgia,9,0,1,,,Source
 Qatar,8,0,,,,Source
-Czech Republic,8,0,0,0,0,Source
 Portugal,8,0,,,,Source
-Romania,7,0,,,1,Source
+Romania,8,0,,,3,Source
 Belarus,6,0,,,,Source
 Azerbaijan,6,0,,,,Source
 Slovenia,6,0,,,0,Source
@@ -90,5 +90,6 @@ Gibraltar,1,0,1,,,Source
 Serbia,1,0,,,,Source
 Vatican City,1,0,,,,Source
 Cameroon,1,0,,,,Source
+Colombia,1,0,,,,Source
 South Africa,1,0,,,,Source
-TOTAL,101206,3456,6334,47,55630,
+TOTAL,101434,3456,6335,47,55647,

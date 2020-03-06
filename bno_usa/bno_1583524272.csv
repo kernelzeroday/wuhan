@@ -1,0 +1,25 @@
+UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Counties,date2,unixtime
+Washington,72,13,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+California,56,1,,1,1,,Fri Mar  6 11:51:12 PST 2020,1583524272
+New York,33,0,0,0,0,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Massachusetts,8,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Texas,6,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Illinois,5,0,,,2,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Florida,4,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Maryland,3,0,0,0,0,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Oregon,3,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Georgia,3,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+New Hampshire,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Rhode Island,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+New Jersey,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Colorado,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Nevada,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+North Carolina,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Indiana,1,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Tennessee,1,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Wisconsin,1,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Arizona,1,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Pennsylvania,2,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Wuhan,3,0,,,,,Fri Mar  6 11:51:12 PST 2020,1583524272
+Diamond Princess,45,0,,,2,,Fri Mar  6 11:51:12 PST 2020,1583524272
+U.S. TOTAL,259,14,0,0,5,,Fri Mar  6 11:51:12 PST 2020,1583524272
