@@ -2,12 +2,12 @@
 17,South Korea,6088,42,27,25,88,Source
 18,Italy,3858,148,351,,414,Source
 19,Iran,3513,108,,,552,Source
-20,Diamond Princess,706,6,34,,40,Source
+20,Diamond Princess,696,6,34,,40,Source
 21,France,423,7,23,,12,Source
-22,Germany,400,0,,2,16,Source
+22,Germany,400,0,,2,17,Source
 23,Japan,350,6,29,,10,Source
 24,Spain,248,3,7,,2,Source
-25,United States,197,12,2,6,9,Source
+25,United States,206,12,2,6,9,Source
 26,Singapore,117,0,,7,81,Source
 27,United Kingdom,116,1,,,8,Source
 28,Hong Kong,105,2,2,4,36,Source
@@ -15,16 +15,16 @@
 30,Norway,72,0,,,,Source
 31,Sweden,90,0,,,,Source
 32,Netherlands,82,0,1,,,Source
-33,Kuwait,58,0,0,0,0,Source
-34,Malaysia,55,0,,,22,Source
-35,Australia,52,2,,,21,Source
+33,Australia,60,2,,,22,Source
+34,Kuwait,58,0,0,0,0,Source
+35,Malaysia,55,0,,,22,Source
 36,Belgium,50,0,1,,1,Source
 37,Bahrain,49,0,,,1,
 38,Thailand,47,1,1,,31,Source
 39,Taiwan,42,1,0,0,12,Source
 40,Austria,37,0,,,,Source
-41,Iraq,35,2,,,,Source
-42,Canada,35,0,,1,3,Source
+41,Canada,37,0,,1,3,Source
+42,Iraq,35,2,,,,Source
 43,Iceland,34,0,,,,Source
 44,Greece,31,0,,,,Source
 45,India,30,0,,,3,Source
@@ -46,43 +46,43 @@
 61,Ireland,13,0,,,,Source
 62,Belarus,6,0,,,,Source
 63,Romania,6,0,,,,Source
-64,Mexico,5,0,,,1,
-65,Pakistan,5,0,,,,
-66,Senegal,4,0,0,0,0,Source
-67,Brazil,4,0,,,,Source
-68,Palestine,4,0,,,,Source
-69,Russia,4,0,,,2,Source
-70,Georgia,9,0,1,,,Source
-71,Azerbaijan,6,0,,,,Source
-72,Saudi Arabia,5,0,,,,Source
-73,Philippines,3,1,,,2,
-74,Chile,3,0,,,,Source
-75,New Zealand,3,0,,,,Source
-76,Egypt,3,0,,,1,Source
-77,Indonesia,2,0,,,,
-78,Estonia,5,0,0,0,0,Source
-79,Hungary,2,0,0,0,0,Source
-80,Morocco,2,0,,,,Source
-81,Bosnia,2,0,,,,Source
-82,Nepal,1,0,,,1,
-83,Cambodia,1,0,,,1,
-84,Sri Lanka,1,0,,,1,
-85,Afghanistan,1,0,,,,
-86,North Macedonia,1,0,,,,
-87,Nigeria,1,0,,,,
-88,Lithuania,1,0,,,,
-89,Monaco,1,0,,,,
-90,Luxembourg,1,0,,,,
-91,Ukraine,1,0,,,,
-92,Latvia,1,0,,,,
-93,Tunisia,1,0,,,,
-94,Jordan,1,0,,,,
-95,Andorra,1,0,,,,
-96,Armenia,1,0,,,,
-97,Dominican Republic,1,0,,,,
-98,Argentina,1,0,,,,
-99,Liechtenstein,1,0,,,,Source
-100,Poland,1,0,0,0,0,Source
-101,Slovenia,1,0,,,0,Source
+64,Slovenia,6,0,,,0,Source
+65,Mexico,5,0,,,1,
+66,Pakistan,5,0,,,,
+67,Senegal,4,0,0,0,0,Source
+68,Brazil,8,0,,,,Source
+69,Estonia,5,0,0,0,0,Source
+70,Palestine,4,0,,,,Source
+71,Russia,4,0,,,2,Source
+72,Georgia,9,0,1,,,Source
+73,Azerbaijan,6,0,,,,Source
+74,Saudi Arabia,5,0,,,,Source
+75,Philippines,3,1,,,2,
+76,Chile,3,0,,,,Source
+77,New Zealand,3,0,,,,Source
+78,Egypt,3,0,,,1,Source
+79,Indonesia,2,0,,,,
+80,Hungary,2,0,0,0,0,Source
+81,Morocco,2,0,,,,Source
+82,Bosnia,2,0,,,,Source
+83,Nepal,1,0,,,1,
+84,Cambodia,1,0,,,1,
+85,Sri Lanka,1,0,,,1,
+86,Afghanistan,1,0,,,,
+87,North Macedonia,1,0,,,,
+88,Nigeria,1,0,,,,
+89,Lithuania,1,0,,,,
+90,Monaco,1,0,,,,
+91,Luxembourg,1,0,,,,
+92,Ukraine,1,0,,,,
+93,Latvia,1,0,,,,
+94,Tunisia,1,0,,,,
+95,Jordan,1,0,,,,
+96,Andorra,1,0,,,,
+97,Armenia,1,0,,,,
+98,Dominican Republic,1,0,,,,
+99,Argentina,1,0,,,,
+100,Liechtenstein,1,0,,,,Source
+101,Poland,1,0,0,0,0,Source
 102,South Africa,1,0,,,,Source
-103,TOTAL,17320,344,484,47,1401,
+103,TOTAL,17338,344,484,47,1403,

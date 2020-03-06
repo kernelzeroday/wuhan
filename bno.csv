@@ -11,12 +11,12 @@ inside,CHINA TOTAL,80409,3012,5952,,52045
 outside,South Korea,6088,42,27,25,88
 outside,Italy,3858,148,351,,414
 outside,Iran,3513,108,,,552
-outside,Diamond Princess,706,6,34,,40
+outside,Diamond Princess,696,6,34,,40
 outside,France,423,7,23,,12
-outside,Germany,400,0,,2,16
+outside,Germany,400,0,,2,17
 outside,Japan,350,6,29,,10
 outside,Spain,248,3,7,,2
-outside,United States,197,12,2,6,9
+outside,United States,206,12,2,6,9
 outside,Singapore,117,0,,7,81
 outside,United Kingdom,116,1,,,8
 outside,Hong Kong,105,2,2,4,36
@@ -24,16 +24,16 @@ outside,Switzerland,80,1,,,
 outside,Norway,72,0,,,
 outside,Sweden,90,0,,,
 outside,Netherlands,82,0,1,,
+outside,Australia,60,2,,,22
 outside,Kuwait,58,0,0,0,0
 outside,Malaysia,55,0,,,22
-outside,Australia,52,2,,,21
 outside,Belgium,50,0,1,,1
 outside,Bahrain,49,0,,,1
 outside,Thailand,47,1,1,,31
 outside,Taiwan,42,1,0,0,12
 outside,Austria,37,0,,,
+outside,Canada,37,0,,1,3
 outside,Iraq,35,2,,,
-outside,Canada,35,0,,1,3
 outside,Iceland,34,0,,,
 outside,Greece,31,0,,,
 outside,India,30,0,,,3
@@ -55,10 +55,12 @@ outside,Portugal,8,0,,,
 outside,Ireland,13,0,,,
 outside,Belarus,6,0,,,
 outside,Romania,6,0,,,
+outside,Slovenia,6,0,,,0
 outside,Mexico,5,0,,,1
 outside,Pakistan,5,0,,,
 outside,Senegal,4,0,0,0,0
-outside,Brazil,4,0,,,
+outside,Brazil,8,0,,,
+outside,Estonia,5,0,0,0,0
 outside,Palestine,4,0,,,
 outside,Russia,4,0,,,2
 outside,Georgia,9,0,1,,
@@ -69,7 +71,6 @@ outside,Chile,3,0,,,
 outside,New Zealand,3,0,,,
 outside,Egypt,3,0,,,1
 outside,Indonesia,2,0,,,
-outside,Estonia,5,0,0,0,0
 outside,Hungary,2,0,0,0,0
 outside,Morocco,2,0,,,
 outside,Bosnia,2,0,,,
@@ -92,6 +93,5 @@ outside,Dominican Republic,1,0,,,
 outside,Argentina,1,0,,,
 outside,Liechtenstein,1,0,,,
 outside,Poland,1,0,0,0,0
-outside,Slovenia,1,0,,,0
 outside,South Africa,1,0,,,
-outside,TOTAL,17320,344,484,47,1401
+outside,TOTAL,17338,344,484,47,1403

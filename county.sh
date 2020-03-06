@@ -12,4 +12,8 @@ tr a-z A-Z < nyt_us_county.csv > nyt_us_county_upper.csv
 
 csvjoin -c '1,1' nyt_us_county_upper.csv california_icu_data.csv -I | csvcut -c 'COUNTY,POPULATION_2010,CONFIRMED,13,ICU BED COUNT' > california.csv 
 csvjoin -c 'COUNTY,COUNTY' california.csv california_hospital_count_county.csv -I | sponge california.csv
-xsv table california.csv
+
+
+csvstack -g "`date +%s`" -n unixtime california.csv |csvstack -g "`date`" -n date2 | csvcut -c "3,4,5,6,1,2" | tee -a ca_county/ca_county_$(date +%s).csv | xsv table
+a=($(ls ca_county)) ; csvdiff -p '1,0' --columns '0,1,2,3' ca_county/${a[-2]} ca_county/${a[-1]}
+
