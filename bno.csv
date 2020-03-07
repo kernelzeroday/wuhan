@@ -3,12 +3,12 @@ Mainland China,80651,3070,5489,,55404
 South Korea,7041,48,,36,118
 Iran,5823,145,,,1669
 Italy,5883,233,462,,589
-Germany,795,0,,2,17
+Germany,800,0,,2,17
 Diamond Princess,696,7,33,,40
 France,716,11,21,,12
 Spain,500,10,11,,30
 Japan,461,6,29,,10
-United States,361,16,2,6,9
+United States,366,16,2,6,9
 Switzerland,264,1,,,3
 United Kingdom,206,2,,,12
 Sweden,161,0,,,
@@ -41,6 +41,7 @@ Oman,16,0,,,2
 Denmark,15,0,,,
 Ecuador,14,0,,1,
 Brazil,13,0,,,
+Romania,13,0,,,3
 Finland,12,0,,,1
 Macau,10,0,,,6
 Croatia,10,0,,,
@@ -48,7 +49,6 @@ Georgia,9,0,1,,
 Qatar,8,0,,,
 Portugal,8,0,,,
 Argentina,8,0,,,
-Romania,8,0,,,3
 Belarus,6,0,,,
 Azerbaijan,6,0,,,
 Slovenia,6,0,,,0
@@ -65,10 +65,10 @@ Palestine,4,0,,,
 Russia,4,0,,,2
 Indonesia,4,0,,,
 Egypt,3,0,,,1
+Luxembourg,3,0,,,
 Hungary,2,0,0,0,0
 Morocco,2,0,,,
 Bosnia,2,0,,,
-Luxembourg,2,0,,,
 Cameroon,2,0,,,
 Nepal,1,0,,,1
 Cambodia,1,0,,,1
@@ -92,4 +92,4 @@ Serbia,1,0,,,
 Vatican City,1,0,,,
 Colombia,1,0,,,
 South Africa,1,0,,,
-TOTAL,105360,3561,6061,59,58199
+TOTAL,105376,3561,6061,59,58199

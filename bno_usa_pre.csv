@@ -1,6 +1,6 @@
 1,,,,,,,
 2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
-3,361,16,16,5,5,,
+3,365,16,16,5,5,,
 4,,,,,,,
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 6,Washington,80,13,,,,Source
@@ -9,11 +9,11 @@
 9,Massachusetts,8,0,,,,Source
 10,Colorado,8,0,,,,Source
 11,Florida,7,2,,,,Source
-12,Texas,6,0,,,,Source
-13,Illinois,5,0,,,2,Source
-14,New Jersey,4,0,,,,Source
-15,Maryland,3,0,0,0,0,Source
-16,Oregon,3,0,,,,Source
+12,Oregon,7,0,,,,Source
+13,Texas,6,0,,,,Source
+14,Illinois,5,0,,,2,Source
+15,New Jersey,4,0,,,,Source
+16,Maryland,3,0,0,0,0,Source
 17,Georgia,3,0,,,,Source
 18,Arizona,3,0,,,,Source
 19,Rhode Island,3,0,,,,Source
@@ -34,4 +34,4 @@
 34,Wuhan,3,0,,,,
 35,Grand Princess,21,0,,,,Source
 36,Diamond Princess,45,0,,,2,
-37,U.S. TOTAL,361,16,0,0,5,
+37,U.S. TOTAL,365,16,0,0,5,
