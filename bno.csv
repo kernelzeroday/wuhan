@@ -26,8 +26,8 @@ Canada,52,0,,1,8
 Thailand,47,1,1,,31
 Taiwan,45,1,0,0,12
 Greece,45,0,1,,
+Iceland,45,0,,,
 Iraq,35,2,,,
-Iceland,34,0,,,
 India,30,0,,,3
 UAE,43,0,2,,7
 Czech Republic,19,0,0,0,0
@@ -53,6 +53,7 @@ Belarus,6,0,,,
 Azerbaijan,6,0,,,
 Slovenia,6,0,,,0
 Mexico,6,0,,,1
+New Zealand,5,0,,,
 Estonia,5,0,0,0,0
 Saudi Arabia,5,0,,,
 Pakistan,5,0,,,
@@ -62,7 +63,6 @@ Chile,5,0,,,
 Senegal,4,0,0,0,0
 Palestine,4,0,,,
 Russia,4,0,,,2
-New Zealand,4,0,,,
 Indonesia,4,0,,,
 Egypt,3,0,,,1
 Hungary,2,0,0,0,0
@@ -92,4 +92,4 @@ Serbia,1,0,,,
 Vatican City,1,0,,,
 Colombia,1,0,,,
 South Africa,1,0,,,
-TOTAL,101907,3488,6087,49,57328
+TOTAL,101919,3488,6087,49,57328
