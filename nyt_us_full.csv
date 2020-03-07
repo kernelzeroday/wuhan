@@ -157,7 +157,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 156,True,Washington,Snohomish,,Male,60s,3/4/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,Washington,False,2020-03-04
 157,True,Texas,Fort Bend,,Male,70s,3/4/2020,stable,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-04
 158,True,New Jersey,Bergen,,Male,30s,3/4/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New Jersey,False,2020-03-04
-159,True,Washington,Chelan,"Grant County, Washington",Unknown,80s,3/4/2020,critical,"Unknown, believed to be community transfer",Unknown,Yes,Central Washington Hospital,Link,,,,This is a Clark County resident being treated in Chelan County. We're counting this as a 3/4 announcement because it happened before midnight in the time zone where it was announced.,,,,,,Washington,False,2020-03-04
+159,True,Washington,Chelan,"Grant County, Washington",Unknown,80s,3/4/2020,critical,"Unknown, believed to be community transfer",Unknown,Yes,Central Washington Hospital,Link,,,,This is a Grant County resident being treated in Chelan County. We're counting this as a 3/4 announcement because it happened before midnight in the time zone where it was announced.,,,,,,Washington,False,2020-03-04
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Personal contact in U.S.,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
@@ -320,35 +320,61 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 318,True,Oregon,Washington,,Unknown,Unknown,3/7/2020,Unknown,Personal contact in U.S.,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Oregon,False,2020-03-07
 319,True,Oregon,Jackson,,Unknown,Unknown,3/7/2020,Unknown,Travel (unidentified country),Travel overseas,No,,Link,,,,,,,,,,Oregon,False,2020-03-07
 320,True,Washington,Kittitas,,Female,67,3/7/2020,"At home, stable, in isolation",Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
-321,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-322,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-323,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-324,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-325,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-326,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-327,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-328,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-329,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-330,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-331,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-332,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-333,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-334,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-335,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-336,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-337,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-338,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-339,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-340,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-341,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-342,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-343,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-344,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-345,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-346,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-347,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-348,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-349,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-350,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-351,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
-352,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-07
+321,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+322,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+323,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+324,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+325,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+326,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+327,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+328,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+329,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+330,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+331,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+332,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+333,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+334,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+335,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+336,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+337,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+338,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+339,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+340,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+341,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+342,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+343,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+344,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+345,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+346,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+347,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+348,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+349,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+350,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+351,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+352,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+353,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+354,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+355,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+356,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+357,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+358,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,True,2020-03-07
+359,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,True,2020-03-07
+360,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+361,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+362,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+363,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+364,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+365,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+366,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+367,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+368,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+369,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+370,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+371,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+372,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+373,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+374,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+375,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+376,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+377,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+378,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07

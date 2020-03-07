@@ -1,5 +1,5 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
-Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,18,1
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,26,1
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,6,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,13,0
@@ -20,7 +20,7 @@ Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,
 Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,4,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,True,1,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,3,0
-King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,59,13
+King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,72,15
 Unknown,Rhode Island,RI,,,,,,,,True,3,0
 Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,2,0
 New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,4,0
@@ -81,3 +81,4 @@ Klamath,Oregon,OR,42.683761,-121.646168,Klamath County,OR KLAMATH,66380,41035,35
 Kittitas,Washington,WA,47.124444,-120.676714,Kittitas County,WA KITTITAS,40915,53037,37,True,1,0
 Saratoga,New York,NY,43.106135,-73.855387,Saratoga County,NY SARATOGA,219607,36091,91,True,2,0
 Unknown,New York,NY,,,,,,,,True,7,0
+Unknown,Massachusetts,MA,,,,,,,,True,5,0

@@ -78,7 +78,6 @@ SVN,Slovenia,Slovenia,,46.151,14.995,True,True,True,,,,,,,,,Slovenia,,,,,,,Slove
 AUS,,Australia,South Australia,-34.93,138.61,True,,,,,,,,,,,Australia,,,,,,,South Australia (Australia),,7,0,,
 ARG,Argentina,Argentina,,-38.416,-63.617,True,True,True,,,,,,,True,True,Argentina,,,,,,,Argentina,,8,0,,
 QAT,Qatar,Qatar,,25.343,50.657,True,True,True,,,,,,,,,Qatar,,,,,,,Qatar,,8,0,,
-USA,,US,Massachusetts,42.138477,-69.3,True,,,,,,,,,,,,,,,,,,,MA,8,0,Mass.,US
 USA,,US,Florida,27.664827,-81.515754,True,,,,,,,,,,,,,,,,,,,FL,8,2,Fla.,US
 USA,,US,Colorado,39.550051,-105.782067,True,,,,,,,,,,,,,,,,,,,CO,8,0,Colo.,US
 AZE,Azerbaijan,Azerbaijan,,40.143,47.577,True,True,True,,,,,,,,,Azerbaijan,,,,,,,Azerbaijan,,9,0,,
@@ -90,8 +89,8 @@ HRV,Croatia,Croatia,,45.1,15.2,True,True,True,,,,,,,,,Croatia,,,,,,,Croatia,,12,
 BRA,Brazil,Brazil,,-14.235,-51.925,True,True,True,,,,,,,True,True,Brazil,,,,,,,Brazil,,13,0,,
 ECU,Ecuador,Ecuador,,-1.831,-78.183,True,True,True,,,,,,,,,Ecuador,,,,,,,Ecuador,,13,0,,
 RUS,Russia,Russia,,61.524,105.319,True,True,True,,,,,,,True,True,Russia,,,,,,,Russia,,13,0,,
-PRT,Portugal,Portugal,,39.4,-8.224,True,True,True,,,,,,,,,Portugal,,,,,,,Portugal,,13,0,,
 AUS,,Australia,Queensland,-20.918,142.703,True,,,,,,,,,,,Australia,,,,,,,Queensland (Australia),,13,0,,
+USA,,US,Massachusetts,42.138477,-69.3,True,,,,,,,,,,,,,,,,,,,MA,13,0,Mass.,US
 USA,,US,Nebraska,41.492537,-99.901813,True,,,,,,,,,,,,,,,,,,,NE,14,0,Neb.,US
 EGY,Egypt,Egypt,,26.821,30.802,True,True,True,,,,,,,True,True,Egypt,,,,,,,Egypt,,15,0,,
 FIN,Finland,Finland,,61.924,25.748,True,True,True,,,,,,,,,Finland,,,,,,,Finland,,15,0,,
@@ -102,6 +101,7 @@ VNM,Vietnam,Vietnam,,14.058,108.277,True,True,True,,,,,,,,,Vietnam,right,,,,,,Vi
 CHN,,Mainland China,Qinghai,35.39,93.99,True,,,,,,,,,,,Mainland China,,,,,,,Qinghai (Mainland China),,18,0,,
 CZE,Czech Republic,Czech Republic,,49.817,15.473,True,True,True,,,,,,Czechia,,,Czech Republic,,,,,,,Czech Republic,,19,0,,
 USA,,US,Texas,31.968599,-99.901813,True,,,,,,,,,,,,,,,,,,,TX,19,0,Texas,US
+PRT,Portugal,Portugal,,39.4,-8.224,True,True,True,,,,,,,,,Portugal,,,,,,,Portugal,,20,0,,
 ISR,Israel,Israel,,33,34.85,True,True,True,,,,,,,True,True,Israel,,,,,,,Israel,,21,0,,
 CAN,,Canada,British Columbia,54.84,-125.1,True,,,,,,,,,,,Canada,,,,,,,British Columbia (Canada),,21,0,,
 LBN,Lebanon,Lebanon,,33.855,35.862,True,True,True,,,,,,,,,Lebanon,,,,,,,Lebanon,,22,0,,
@@ -125,10 +125,10 @@ USA,,US,New York,43,-75.12,True,,,,,,,,,,,,,,,,,,,NY,76,0,N.Y.,US
 AUT,Austria,Austria,,47.516,14.55,True,True,True,,,,,,,,,Austria,,,,,,,Austria,,79,0,,
 USA,,US,California,36.778261,-119.417932,True,,,,,,,,,,,,,,,,,,,CA,80,1,Calif.,US
 BHR,Bahrain,Bahrain,,25.93,50.638,True,True,True,,,,,,,,,Bahrain,,,,,,,Bahrain,,85,0,,
-USA,,US,Washington,46.751074,-120.740139,True,,,,,,,,,,,,,,,,,,,WA,87,14,Wash.,US
 MYS,Malaysia,Malaysia,,4.21,101.976,True,True,True,,,,,,,,,Malaysia,right,True,,,,,Malaysia,,93,0,,
 CHN,,Mainland China,Jilin,43.85,126.5,True,,,,,,,,,,,Mainland China,,,,,,,Jilin (Mainland China),,93,1,,
 HKG,Hong Kong,Hong Kong,Hong Kong,22.396,114.109,True,True,False,,,,,,,,,Hong Kong,,,,,,,Hong Kong (Hong Kong),,108,2,,
+USA,,US,Washington,46.751074,-120.740139,True,,,,,,,,,,,,,,,,,,,WA,108,16,Wash.,US
 CHN,,Mainland China,Gansu,40.39,96.81,True,,,,,,,,,,,Mainland China,,,,,,,Gansu (Mainland China),,120,2,,
 CHN,,Mainland China,Liaoning,41.3,121.9,True,,,,,,,,,,,Mainland China,,,,,,,Liaoning (Mainland China),,125,1,,
 CHN,,Mainland China,Shanxi,37.64,110.15,True,,,,,,,,,,,Mainland China,,,,,,,Shanxi (Mainland China),,133,0,,
