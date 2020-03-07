@@ -57,7 +57,6 @@ USA,,US,Pennsylvania,41.203322,-77.194525,True,,,,,,,,,,,,,,,,,,,PA,2,0,Pa.,US
 USA,,US,South Carolina,33.836081,-81.163725,True,,,,,,,,,,,,,,,,,,,SC,2,0,S.C.,US
 BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,,43.916,17.679,True,True,True,,JHU issue,3,,Mar. 7,,,Bosnia and Herzegovina,,,,,,,,Bosnia and Herzegovina,,3,0,,
 MKD,North Macedonia,North Macedonia,,41.609,21.745,True,True,True,,JHU issue; NYT name change as of Feb. 11,3,,Mar. 7,,,North Macedonia,,,,,,,,North Macedonia,,3,0,,
-USA,,US,Arizona,34.048928,-111.093731,True,,,,,,,,,,,,,,,,,,,AZ,3,0,Ariz.,US
 USA,,US,Rhode Island,39.6,-71.64,True,,,,,,,,,,,,,,,,,,,RI,3,0,R.I.,US
 USA,,US,Maryland,39.045755,-76.641271,True,,,,,,,,,,,,,,,,,,,MD,3,0,Md.,US
 CHL,Chile,Chile,,-35.675,-71.543,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",4,,Mar. 7,,,Chile,,,,,,,,Chile,,4,0,,
@@ -68,6 +67,7 @@ IDN,Indonesia,Indonesia,,-0.789,113.921,True,True,True,,JHU issue. Pls keep,4,,M
 USA,,US,New Jersey,40.058324,-74.405661,True,,,,,,,,,,,,,,,,,,,NJ,4,0,N.J.,US
 NZL,New Zealand,New Zealand,,-44.63,168.376,True,True,True,,JHU issue,5,,Mar. 7,True,True,New Zealand,top,,,,,,,New Zealand,,5,0,,
 POL,Poland,Poland,,51.919,19.145,True,True,True,,JHU issue,5,,Mar. 7,,,Poland,,,,,,,,Poland,,5,0,,
+USA,,US,Arizona,34.048928,-111.093731,True,,,,,,,,,,,,,,,,,,,AZ,5,0,Ariz.,US
 BLR,Belarus,Belarus,,53.71,27.953,True,True,True,,,,,,,,Belarus,,,,,,,,Belarus,,6,0,,
 MEX,Mexico,Mexico,,23.635,-102.553,True,True,True,,,,,,True,True,Mexico,right,,,,,,,Mexico,,6,0,,
 PHL,Philippines,Philippines,,12.88,121.774,True,True,True,,JHU issue,5,,Mar. 7,,,Philippines,right,True,,,,,,Philippines,,6,1,,
