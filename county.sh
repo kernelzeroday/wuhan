@@ -1,4 +1,4 @@
-bash nyt.sh
+bash nyt.sh  2>/dev/null
 echo "Confirmed,County" >county_count.csv ; node nyt2 | jq '.u[]."County where treated"' -r | uniq -c | tr -s ' ' | sed 's/^ //g' | sed 's/ /,/' >> county_count.csv
 tr a-z A-Z < county_count.csv |csvcut -c '2,1' > county_count_upper.csv
 awk 'BEGIN{FS=OFS=","}{a[$1]+=$2}END{for(i in a) print i,a[i]}' county_count_upper.csv > county_count_upper_sum.csv
