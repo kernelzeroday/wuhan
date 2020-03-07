@@ -161,7 +161,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Personal contact in U.S.,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
-163,True,Florida,Santa Rosa,,Male,older,3/5/2020,died (announced 3/6),Traveled internationally not clear where,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
+163,True,Florida,Santa Rosa,,Male,70s,3/5/2020,died (announced 3/6),Traveled to Egypt/Israel area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
 164,True,Illinois,Cook,,Male,20s,3/5/2020,hospitalized in isolation,Traveled in Italy,Travel in Italy,No,Rush University Medical Center,,,,,,,"Melaney Arnold 217-558-0500
 COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 165,True,New York,Westchester,,Unknown,Unknown,3/5/2020,home,,"Cluster connected to a community in New Rochelle, N.Y.",,,Link,,,,,,,,,,New York,False,2020-03-05
@@ -303,7 +303,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 301,True,Illinois,Cook,,Female,50s,3/6/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,She's a Chicago school worker who had been on cruise; Chicago Public Health case,,,,,,Illinois,False,2020-03-06
 302,True,Hawaii,Honolulu,,Unknown,Unknown,3/6/2020,doing fine,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,Link,,,,,,,,,Hawaii,False,2020-03-06
 303,True,Washington,Pierce,,Male,50s,3/6/2020,"hospitalized, stable","Unknown, did not travel outside the US",Unknown,Yes,"St. Anthony Hospital, Gig Harbor",Link,,,,,,,,,,Washington,False,2020-03-06
-304,True,Florida,Lee,,Unknown,70s,3/6/2020,died (announced 3/6),international travel,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-06
+304,True,Florida,Lee,,Female,70s,3/6/2020,died (announced 3/6),international travel,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-06
 305,True,Florida,Broward,,Male,75,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
 306,True,Florida,Broward,,Male,65,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
 307,True,Utah,Davis,,Unknown,60+,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,Utah,False,2020-03-06
@@ -352,11 +352,11 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 350,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 351,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 352,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-353,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
-354,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
-355,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
-356,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
-357,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
+353,True,Massachusetts,Middlesex,,Female,40s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
+354,True,Massachusetts,Middlesex,,Female,50s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
+355,True,Massachusetts,Middlesex,,Male,40s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
+356,True,Massachusetts,Middlesex,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
+357,True,Massachusetts,Berkshire,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
 358,True,Washington,King,,Male,70s,3/7/2020,Died 3/2 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth,Link,,,,,,,,,,Washington,True,2020-03-07
 359,True,Washington,King,,Female,80s,3/7/2020,died 3/5 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,Harborview Medical Center,Link,,,,,,,,,,Washington,True,2020-03-07
 360,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
@@ -379,5 +379,11 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 377,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 378,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise ship,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
-380,True,Florida,Charlotte,,Unknown,Unknown,3/7/2020,Unknown - isolated,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
+380,True,Florida,Charlotte,,Female,50s,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,False,2020-03-07
 381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Personal contact in U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07
+382,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+383,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+384,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+385,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+386,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+387,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07

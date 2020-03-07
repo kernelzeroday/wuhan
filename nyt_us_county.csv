@@ -6,7 +6,7 @@ Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELE
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
 Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,24,0
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,4,0
-San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,5,0
+San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,11,0
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,1,0
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,1,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
@@ -46,7 +46,7 @@ Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,T
 Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,8059,59,True,1,0
 Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,True,3,0
 Douglas,Colorado,CO,39.326435,-104.926199,Douglas County,CO DOUGLAS,285465,8035,35,True,3,0
-Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,True,1,0
+Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,True,5,0
 Clark,Nevada,NV,36.214236,-115.013819,Clark County,NV CLARK,1951269,32003,3,True,1,0
 Washoe,Nevada,NV,40.703311,-119.710315,Washoe County,NV WASHOE,421407,32031,31,True,1,0
 Wayne,Pennsylvania,PA,41.646589,-75.292485,Wayne County,PA WAYNE,52822,42127,127,True,1,0
@@ -81,5 +81,5 @@ Klamath,Oregon,OR,42.683761,-121.646168,Klamath County,OR KLAMATH,66380,41035,35
 Kittitas,Washington,WA,47.124444,-120.676714,Kittitas County,WA KITTITAS,40915,53037,37,True,1,0
 Saratoga,New York,NY,43.106135,-73.855387,Saratoga County,NY SARATOGA,219607,36091,91,True,2,0
 Unknown,New York,NY,,,,,,,,True,7,0
-Unknown,Massachusetts,MA,,,,,,,,True,5,0
+Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,1,0
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,True,1,0
