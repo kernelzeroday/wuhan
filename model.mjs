@@ -11739,7 +11739,7 @@ var us_cases = [
 		"County where treated": "Douglas",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
-		Age: "Elderly",
+		Age: "70s",
 		"Date announced": "3/5/2020",
 		Condition: "Unknown",
 		"How contracted?": "International travel",
