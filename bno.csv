@@ -1,13 +1,13 @@
 OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
 Mainland China,80651,3070,5489,,55404
-South Korea,6593,42,27,25,108
+South Korea,6767,44,27,25,108
 Iran,4747,124,,,913
 Italy,4636,197,462,,523
 Diamond Princess,696,6,34,,40
-Germany,639,0,,2,17
+Germany,670,0,,2,17
 France,613,9,23,,12
 Japan,350,6,29,,10
-United States,320,14,2,6,9
+United States,321,14,2,6,9
 Spain,296,3,7,,2
 Switzerland,210,1,,,
 United Kingdom,164,1,,,12
@@ -52,7 +52,7 @@ Romania,8,0,,,3
 Belarus,6,0,,,
 Azerbaijan,6,0,,,
 Slovenia,6,0,,,0
-Mexico,5,0,,,1
+Mexico,6,0,,,1
 Estonia,5,0,0,0,0
 Saudi Arabia,5,0,,,
 Pakistan,5,0,,,
@@ -92,4 +92,4 @@ Serbia,1,0,,,
 Vatican City,1,0,,,
 Colombia,1,0,,,
 South Africa,1,0,,,
-TOTAL,101622,3484,6087,49,57328
+TOTAL,101829,3486,6087,49,57328

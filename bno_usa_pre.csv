@@ -1,6 +1,6 @@
 1,,,,,,,
 2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
-3,320,14,14,5,5,,
+3,321,14,14,5,5,,
 4,,,,,,,
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 6,Washington,79,13,,,,Source
@@ -27,7 +27,9 @@
 27,Kentucky,1,0,,,,Source
 28,Wisconsin,1,0,,,,Source
 29,Nebraska,1,0,,,,Source
-30,Wuhan,3,0,,,,
-31,Grand Princess,21,0,,,,Source
-32,Diamond Princess,45,0,,,2,
-33,U.S. TOTAL,320,14,0,0,5,
+30,Hawaii,1,0,,,,Source
+31,Wuhan,3,0,,,,
+32,Grand Princess,21,0,,,,Source
+33,Diamond Princess,45,0,,,2,
+34,U.S. TOTAL,321,14,0,0,5,
+35,,,,,,,
