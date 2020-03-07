@@ -32,20 +32,19 @@ LVA,Latvia,Latvia,,56.88,24.603,True,True,True,,JH dashboard but not sheet,1,,Ma
 GIB,Gibraltar,Gibraltar,,36.138,-5.345,True,True,False,,https://twitter.com/GBCNewsroom/status/1234774651601063937,1,,Mar. 3,,,Gibraltar,,,,,,,,Gibraltar,,1,0,,
 TUN,Tunisia,Tunisia,,33.887,9.537,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Tunisia,,,,,,,,Tunisia,,1,0,,
 LIE,Liechtenstein,Liechtenstein,,47.166,9.555,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Liechtenstein,,,,,,,,Liechtenstein,,1,0,,
-POL,Poland,Poland,,51.919,19.145,True,True,True,,JHU issue,1,,Mar. 4,,,Poland,,,,,,,,Poland,,1,0,,
 USA,,US,Wisconsin,43.78444,-88.787868,True,,,,,,,,,,,,,,,,,,,WI,1,0,Wis.,US
 USA,,US,Utah,39.32098,-111.093731,True,,,,,,,,,,,,,,,,,,,UT,1,0,Utah,US
 USA,,US,Tennessee,35.517491,-86.580447,True,,,,,,,,,,,,,,,,,,,TN,1,0,Tenn.,US
 USA,,US,Indiana,40.551217,-85.602364,True,,,,,,,,,,,,,,,,,,,IN,1,0,Ind.,US
 USA,,US,Minnesota,46.729553,-94.6859,True,,,,,,,,,,,,,,,,,,,MN,1,0,Minn.,US
 USA,,US,Kentucky,37.839333,-84.270018,True,,,,,,,,,,,,,,,,,,,KY,1,0,Ky.,US
+USA,,US,Oklahoma,35.007752,-97.092877,True,,,,,,,,,,,,,,,,,,,OK,1,0,Okla.,US
 BIH,Bosnia and Herzegovina,,,43.916,17.679,True,True,True,,JHU issue,2,,Mar. 6,,,,,,,,,,,,,2,0,,
 HUN,Hungary,Hungary,,47.162,19.503,True,True,True,,JHU issue,2,,Mar. 6,,,Hungary,,,,,,,,Hungary,,2,0,,
 LUX,Luxembourg,Luxembourg,,49.815,6.13,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",2,,Mar. 6,,,Luxembourg,,,,,,,,Luxembourg,,2,0,,
 IDN,Indonesia,Indonesia,,-0.789,113.921,True,True,True,,JHU issue. Pls keep,2,,Mar. 5,True,True,Indonesia,,,,,,,,Indonesia,,2,0,,
 MAR,Morocco,Morocco,,31.792,-7.093,True,True,True,,JH dashboard but not sheet,2,,Mar. 6,,,Morocco,,,,,,,,Morocco,,2,0,,
 USA,,US,Oregon,43.804133,-120.554201,True,,,,,,,,,,,,,,,,,,,OR,2,0,Ore.,US
-USA,,US,Rhode Island,39.6,-71.64,True,,,,,,,,,,,,,,,,,,,RI,2,0,R.I.,US
 USA,,US,New Hampshire,43.193852,-71.572395,True,,,,,,,,,,,,,,,,,,,NH,2,0,N.H.,US
 USA,,US,North Carolina,35.759573,-79.0193,True,,,,,,,,,,,,,,,,,,,NC,2,0,N.C.,US
 USA,,US,Colorado,39.550051,-105.782067,True,,,,,,,,,,,,,,,,,,,CO,2,0,Colo.,US
@@ -53,6 +52,7 @@ USA,,US,Nevada,38.80261,-116.419389,True,,,,,,,,,,,,,,,,,,,NV,2,0,Nev.,US
 USA,,US,Pennsylvania,41.203322,-77.194525,True,,,,,,,,,,,,,,,,,,,PA,2,0,Pa.,US
 ARG,Argentina,Argentina,,-38.416,-63.617,True,True,True,,JH dashboard but not sheet,3,,Mar. 6,,,Argentina,,,,,,,,Argentina,,3,0,,
 USA,,US,Arizona,34.048928,-111.093731,True,,,,,,,,,,,,,,,,,,,AZ,3,0,Ariz.,US
+USA,,US,Rhode Island,39.6,-71.64,True,,,,,,,,,,,,,,,,,,,RI,3,0,R.I.,US
 USA,,US,Georgia,32.157435,-82.907123,True,,,,,,,,,,,,,,,,,,,GA,3,0,Ga.,US
 USA,,US,New Jersey,40.058324,-74.405661,True,,,,,,,,,,,,,,,,,,,NJ,3,0,N.J.,US
 USA,,US,Maryland,39.045755,-76.641271,True,,,,,,,,,,,,,,,,,,,MD,3,0,Md.,US
@@ -60,6 +60,7 @@ NZL,New Zealand,New Zealand,,-44.63,168.376,True,True,True,,JHU dashboard,4,,Mar
 USA,,US,Florida,27.664827,-81.515754,True,,,,,,,,,,,,,,,,,,,FL,4,0,Fla.,US
 PHL,Philippines,Philippines,,12.88,121.774,True,True,True,,JHU issue,3,,Mar. 6,,,Philippines,right,True,,,,,,Philippines,,5,1,,
 SAU,Saudi Arabia,Saudi Arabia,,23.886,45.079,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Saudi Arabia,,,,,,,,Saudi Arabia,,5,0,,
+POL,Poland,Poland,,51.919,19.145,True,True,True,,JHU issue,1,,Mar. 4,,,Poland,,,,,,,,Poland,,5,0,,
 USA,,US,Illinois,40.633125,-89.398528,True,,,,,,,,,,,,,,,,,,,IL,5,0,Ill.,US
 AZE,Azerbaijan,Azerbaijan,,40.143,47.577,True,True,True,,,,,,,,Azerbaijan,,,,,,,,Azerbaijan,,6,0,,
 BLR,Belarus,Belarus,,53.71,27.953,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Belarus,,,,,,,,Belarus,,6,0,,
@@ -86,10 +87,10 @@ OMN,Oman,Oman,,21.513,55.923,True,True,True,,,,,,,,Oman,,,,,,,,Oman,,16,0,,
 PSE,West Bank and Gaza,Palestine,,31.952,35.233,True,True,False,,https://www.jpost.com/Israel-News/Palestinian-Authority-reports-multiple-suspected-coronavirus-cases-619845,7,,Mar. 5,,,Palestine,,,,,,,,Palestine,,16,0,,
 VNM,Vietnam,Vietnam,,14.058,108.277,True,True,True,,,,,,,,Vietnam,right,,,,,,,Vietnam,,16,0,,
 DZA,Algeria,Algeria,,28.034,1.66,True,True,True,,,,,,True,True,Algeria,,,,,,,,Algeria,,17,0,,
-USA,,US,Texas,31.968599,-99.901813,True,,,,,,,,,,,,,,,,,,,TX,17,0,Texas,US
 CZE,Czech Republic,Czech Republic,,49.817,15.473,True,True,True,,,,,,,,Czech Republic,,,,,Czechia,,,Czech Republic,,18,0,,
 IRL,Ireland,Ireland,,53.413,-8.244,True,True,True,,,,,,,,Ireland,,,,,,,,Ireland,,18,0,,
 CHN,,Mainland China,Qinghai,35.39,93.99,True,,,,,,,,,,Mainland China,,,,,,,,Qinghai (Mainland China),,18,0,,
+USA,,US,Texas,31.968599,-99.901813,True,,,,,,,,,,,,,,,,,,,TX,19,0,Texas,US
 ISR,Israel,Israel,,33,34.85,True,True,True,,,,,,True,True,Israel,,,,,,,,Israel,,21,0,,
 SMR,San Marino,San Marino,,43.942,12.458,True,True,True,,,,,,,,San Marino,,,,,,,,San Marino,,21,1,,
 CAN,,Canada,British Columbia,54.84,-125.1,True,,,,,,,,,,Canada,,,,,,,,British Columbia (Canada),,21,0,,
@@ -110,13 +111,13 @@ KWT,Kuwait,Kuwait,,29.312,47.482,True,True,True,,,,,,,,Kuwait,,,,,,,,Kuwait,,58,
 BHR,Bahrain,Bahrain,,25.93,50.638,True,True,True,,,,,,,,Bahrain,,,,,,,,Bahrain,,60,0,,
 CHN,,Mainland China,Inner Mongolia,43.61,113.35,True,,,,,,,,,,Mainland China,,,,,,,,Inner Mongolia (Mainland China),,75,1,,
 CHN,,Mainland China,Ningxia,37.3,104.85,True,,,,,,,,,,Mainland China,,,,,,,,Ningxia (Mainland China),,75,0,,
-USA,,US,California,36.778261,-119.417932,True,,,,,,,,,,,,,,,,,,,CA,75,1,Calif.,US
 CHN,,Mainland China,Xinjiang,40.06,87.7,True,,,,,,,,,,Mainland China,,,,,,,,Xinjiang (Mainland China),,76,3,,
+USA,,US,California,36.778261,-119.417932,True,,,,,,,,,,,,,,,,,,,CA,79,1,Calif.,US
 MYS,Malaysia,Malaysia,,4.21,101.976,True,True,True,,,,,,,,Malaysia,right,True,,,,,,Malaysia,,83,0,,
-USA,,US,Washington,46.751074,-120.740139,True,,,,,,,,,,,,,,,,,,,WA,84,11,Wash.,US
+USA,,US,Washington,46.751074,-120.740139,True,,,,,,,,,,,,,,,,,,,WA,84,14,Wash.,US
 CHN,,Mainland China,Jilin,43.85,126.5,True,,,,,,,,,,Mainland China,,,,,,,,Jilin (Mainland China),,93,1,,
 SWE,Sweden,Sweden,,60.128,18.644,True,True,True,,,,,,,,Sweden,,,,,,,,Sweden,,101,0,,
-HKG,Hong Kong,Hong Kong,Hong Kong,22.396,114.109,True,True,False,,,,,,,,Hong Kong,,,,,,,,Hong Kong (Hong Kong),,106,2,,
+HKG,Hong Kong,Hong Kong,Hong Kong,22.396,114.109,True,True,False,,,,,,,,Hong Kong,,,,,,,,Hong Kong (Hong Kong),,107,2,,
 NOR,Norway,Norway,,60.472,8.469,True,True,True,,,,,,,,Norway,,,True,,,,,Norway,,108,0,,
 BEL,Belgium,Belgium,,50.504,4.47,True,True,True,,,,,,,,Belgium,,,,,,,,Belgium,,109,0,,
 CHN,,Mainland China,Gansu,40.39,96.81,True,,,,,,,,,,Mainland China,,,,,,,,Gansu (Mainland China),,119,2,,

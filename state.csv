@@ -1,6 +1,6 @@
 NAME,POPESTIMATE2019,Confirmed Cases,Deaths,Postal,Hospital Count
 Arizona,7278717,3,0,AZ,94
-California,39512223,75,1,CA,383
+California,39512223,79,1,CA,383
 Colorado,5758736,2,0,CO,91
 Florida,21477737,4,0,FL,211
 Georgia,10617423,3,0,GA,147
@@ -16,11 +16,12 @@ New Hampshire,1359711,2,0,NH,28
 New Jersey,8882190,3,0,NJ,80
 New York,19453561,44,0,NY,194
 North Carolina,10488084,2,0,NC,120
+Oklahoma,3956971,1,0,OK,130
 Oregon,4217737,2,0,OR,62
 Pennsylvania,12801989,2,0,PA,190
-Rhode Island,1059361,2,0,RI,12
+Rhode Island,1059361,3,0,RI,12
 Tennessee,6829174,1,0,TN,118
-Texas,28995881,17,0,TX,457
+Texas,28995881,19,0,TX,457
 Utah,3205958,1,0,UT,52
-Washington,7614893,84,13,WA,101
+Washington,7614893,84,14,WA,101
 Wisconsin,5822434,1,0,WI,136

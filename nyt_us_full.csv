@@ -219,13 +219,13 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 217,True,Texas,Harris,,Male,60-70,3/5/2020,"hospitalized, stable",Travel in Egypt with other Houston-area patients,Travel in Egypt,No,,Link,,,,Unincorporated Harris County resident tracked by Harris County Health Dept,,,,,,Texas,False,2020-03-05
 218,True,Texas,Harris,,Male,60-70,3/5/2020,mild symptoms,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,Home isolation,Link,,,,City of Houston resident (within Harris County) tracked by Houston Health Dept,,,,,,Texas,False,2020-03-05
 219,True,Massachusetts,Middlesex,,Female,60s,3/5/2020,"symptomatic, but not hospitalized",Travel in Italy,Travel in Italy,No,Home isolation,Link,,,,,,,,,,Massachusetts,False,2020-03-05
-220,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-221,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-222,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-223,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-224,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-225,True,California,Santa Clara,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-05
-226,True,Nevada,Clark,,Male,50s,3/5/2020,hospitalized,Travel in Washington State and/or Texas,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nevada,False,2020-03-05
+220,True,California,Santa Clara,,Female,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-05
+221,True,California,Santa Clara,,Male,Adult,3/5/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-05
+222,True,California,Santa Clara,,Female,Adult,3/5/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-05
+223,True,California,Santa Clara,,Female,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,"224 & 225 are listed together as cases 18 and 19 per santa clara, would imply relation",,,,,,California,False,2020-03-05
+224,True,California,Santa Clara,,Male,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,"224 & 225 are listed together as cases 18 and 19 per santa clara, would imply relation",,,,,,California,False,2020-03-05
+225,True,California,Santa Clara,,Male,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-05
+226,True,Nevada,Clark,,Male,50s,3/5/2020,hospitalized,Travel in Washington State,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nevada,False,2020-03-05
 227,True,Nevada,Washoe,,Male,50s,3/5/2020,stable,Travel on Grand Princess cruise from San Francisco to Mexico,Grand Princess cruise ship,Unknown,Home isolation,Link,,,,,,,,,,Nevada,False,2020-03-05
 228,True,Pennsylvania,Wayne,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",International travel,Travel overseas,no,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
 229,True,Pennsylvania,Delaware,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",Domestic travel,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
@@ -267,10 +267,10 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 265,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 266,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 267,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
-268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
-269,True,Washington,Snohomish,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
-270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,False,2020-03-06
-271,True,Nebraska,Douglas,,Female,,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,,,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
+268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
+269,True,Washington,Snohomish,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
+270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,True,2020-03-06
+271,True,Nebraska,Douglas,,Female,,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,Link,,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
 272,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 273,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 274,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,360-385-9400,,,,New York,False,2020-03-06
@@ -283,3 +283,11 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 281,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 282,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 283,True,Kentucky,Fayette,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Kentucky,False,2020-03-06
+284,True,Oklahoma,Tulsa,,Male,50s,3/6/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Oklahoma,False,2020-03-06
+285,True,California,Santa Clara,,Male,Adult,3/6/2020,home isolation,Household contact of previously confirmed case in Santa Clara County,Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,California,False,2020-03-06
+286,True,California,Santa Clara,,Female,Adult,3/6/2020,Hospitalized,Travel overseas,Unknown,No,,Link,Link,,,,,,,,,California,False,2020-03-06
+287,True,California,Santa Clara,,Male,Adult,3/6/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-06
+288,True,California,Santa Clara,,Male,Adult,3/6/2020,home isolation,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-06
+289,True,Texas,Fort Bend,,Female,60s,3/6/2020,symptoms resolved,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,Home isolation,Link,,,,,,,,,,Texas,False,2020-03-06
+290,True,Texas,Fort Bend,,Female,60s,3/6/2020,mild symptoms,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,Home isolation,Link,,,,,,,,,,Texas,False,2020-03-06
+291,True,Rhode Island,Unknown,,Female,60s,3/6/2020,mild symptoms,Contact with known coronavirus patient in New York,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,,,,,Rhode Island,False,2020-03-06

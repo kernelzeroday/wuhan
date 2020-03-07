@@ -1,10 +1,10 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
-Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,18,0
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,18,1
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,5,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,13,0
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
-Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,20,0
+Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,24,0
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,4,0
 San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,5,0
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,1,0
@@ -20,8 +20,8 @@ Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1
 Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,4,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,True,1,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,2,0
-King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,59,11
-Unknown,Rhode Island,RI,,,,,,,,True,2,0
+King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,59,12
+Unknown,Rhode Island,RI,,,,,,,,True,3,0
 Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,2,0
 New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,4,0
 Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,81,True,1,0
@@ -35,7 +35,7 @@ San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,7184
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,1,0
 Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,4,0
 Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,33,0
-Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,True,1,0
+Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,True,3,0
 Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,True,2,0
 Chelan,Washington,WA,47.859891,-120.618543,Chelan County,WA CHELAN,72453,53007,7,True,1,0
 Kings,New York,NY,40.635133,-73.950777,Kings County,NY KINGS,2504700,36047,47,True,1,0
@@ -59,5 +59,6 @@ Rockland,New York,NY,41.154785,-74.024772,Rockland County,NY ROCKLAND,311687,360
 Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,6113,113,True,1,0
 Camden,New Jersey,NJ,39.802352,-74.961251,Camden County,NJ CAMDEN,513657,34007,7,True,1,0
 Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123,True,1,0
-Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,True,1,0
+Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,True,1,1
 Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,1,0
+Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,True,1,0
