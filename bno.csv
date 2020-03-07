@@ -7,7 +7,7 @@ Diamond Princess,696,6,34,,40,Source
 Germany,639,0,,2,17,Source
 France,613,9,23,,12,Source
 Japan,350,6,29,,10,Source
-United States,309,14,2,6,9,Source
+United States,316,14,2,6,9,
 Spain,296,3,7,,2,Source
 Switzerland,210,1,,,,Source
 United Kingdom,164,1,,,12,Source
@@ -22,7 +22,7 @@ Australia,61,2,,,22,
 Kuwait,58,0,0,0,0,Source
 Austria,55,0,,,,Source
 Bahrain,49,0,,,1,
-Canada,48,0,,1,8,Source
+Canada,52,0,,1,8,Source
 Thailand,47,1,1,,31,Source
 Taiwan,45,1,0,0,12,Source
 Greece,45,0,1,,,Source
@@ -34,7 +34,7 @@ Czech Republic,19,0,0,0,0,Source
 Ireland,18,0,,,,Source
 Algeria,17,0,,,,Source
 Israel,17,0,,,,Source
-Vietnam,16,0,,,16,
+Vietnam,17,0,,,16,Source
 San Marino,16,1,3,,,Source
 Lebanon,16,0,,1,,Source
 Oman,16,0,,,2,Source
@@ -68,6 +68,7 @@ Hungary,2,0,0,0,0,Source
 Morocco,2,0,,,,Source
 Bosnia,2,0,,,,Source
 Luxembourg,2,0,,,,Source
+Cameroon,2,0,,,,Source
 Nepal,1,0,,,1,
 Cambodia,1,0,,,1,
 Sri Lanka,1,0,,,1,
@@ -89,7 +90,6 @@ Bhutan,1,0,,,,Source
 Gibraltar,1,0,1,,,Source
 Serbia,1,0,,,,Source
 Vatican City,1,0,,,,Source
-Cameroon,1,0,,,,Source
 Colombia,1,0,,,,Source
 South Africa,1,0,,,,Source
-TOTAL,101486,3456,6335,49,55648,
+TOTAL,101499,3456,6335,49,55648,
