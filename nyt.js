@@ -11,6 +11,9 @@ const puppeteer = require('puppeteer');
   
   await navigationPromise
   
+  await page.waitForSelector('.css-17ih8de > .g-story > .g-asset:nth-child(12) > .g-svelte > .svelte-b8g3a7:nth-child(2)')
+  await page.click('.css-17ih8de > .g-story > .g-asset:nth-child(12) > .g-svelte > .svelte-b8g3a7:nth-child(2)')
+  
   await page.waitForSelector('.css-17ih8de > .g-story > .g-asset:nth-child(14) > .g-svelte > .svelte-b8g3a7:nth-child(2)')
   await page.click('.css-17ih8de > .g-story > .g-asset:nth-child(14) > .g-svelte > .svelte-b8g3a7:nth-child(2)')
 
