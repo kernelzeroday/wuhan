@@ -94,7 +94,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 93,True,Washington,King,,Male,50s,3/2/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,Highline Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-02
 94,True,Washington,King,,Male,70s,3/2/2020,died 3/1,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-02
 95,True,Washington,King,,Female,70s,3/2/2020,died 3/1,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-02
-96,True,Washington,King,,Female,80s,3/2/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-02
+96,True,Washington,King,,Female,80s,3/2/2020,died 3/6 (announced 3/7),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-02
 97,True,New Hampshire,Grafton,,Male,Adult,3/2/2020,minor symptoms,Traveled to Italy; apparently ignored self-isolation suggestion and infected person in row #117,Travel in Italy,No,Home isolation,Link,Link,,,"person is an employee of Dartmouth-Hitchcock Medical Center in Lebanon, N.H.; he apparently attended private event depsite being asked to self-isolate",,603-271-9389 or pio@dhhs.nh.gov,,,,New Hampshire,False,2020-03-02
 98,True,Washington,Snohomish,,Female,40s,3/2/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,Washington,False,2020-03-02
 99,True,California,Sonoma,,Unknown,Unknown,3/2/2020,hospitalized,Apparently on a cruise from San Francisco to Mexico; same as row #126,Grand Princess cruise ship,Unknown,,Link,,,,,,Rohish.Lal@sonoma-county.org,,,,California,False,2020-03-02
@@ -176,7 +176,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 174,True,California,San Francisco,,Male,90s,3/5/2020,hospitalized,"Unknown, believed to be community transmission",Unknown,,,,,,,,,,,,,California,False,2020-03-05
 175,True,California,San Francisco,,Female,40s,3/5/2020,hospitalized,"Unknown, believed to be community transmission",Unknown,,,,,,,,,,,,,California,False,2020-03-05
 176,True,Washington,King,,Male,60s,3/5/2020,died 3/5 (announced 3/6),LifeCare visitor; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-05
-177,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-05
+177,True,Washington,King,,Female,70s,3/5/2020,died 3/6 (announced 3/7),Life Care resident,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,True,2020-03-05
 178,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-05
 179,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-05
 180,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-05
@@ -267,8 +267,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 265,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-06
 266,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-06
 267,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-06
-268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
-269,True,Washington,Snohomish,,Male,50s,3/6/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
+268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
+269,True,Washington,Snohomish,,Male,50s,3/6/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,False,2020-03-06
 271,True,Nebraska,Douglas,,Female,,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,Link,,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
 272,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
@@ -357,19 +357,19 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 355,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
 356,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
 357,True,Massachusetts,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Massachusetts,False,2020-03-07
-358,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,True,2020-03-07
-359,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,True,2020-03-07
-360,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-361,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-362,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-363,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-364,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-365,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-366,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-367,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-368,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-369,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-370,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+358,True,Washington,King,,Male,70s,3/7/2020,Died 3/2 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth,Link,,,,,,,,,,Washington,True,2020-03-07
+359,True,Washington,King,,Female,80s,3/7/2020,died 3/5 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,Harborview Medical Center,Link,,,,,,,,,,Washington,True,2020-03-07
+360,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+361,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+362,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+363,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+364,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+365,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+366,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+367,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+368,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+369,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+370,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 371,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 372,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 373,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
@@ -378,3 +378,6 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 376,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 377,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
 378,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise ship,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
+380,True,Florida,Charlotte,,Unknown,Unknown,3/7/2020,Unknown - isolated,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
+381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Personal contact in U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07

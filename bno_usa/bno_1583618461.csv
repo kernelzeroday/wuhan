@@ -1,0 +1,33 @@
+UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links,date2,unixtime
+Washington,103,16,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+New York,76,0,,,0,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+California,75,1,,1,1,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Massachusetts,13,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Colorado,8,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Florida,8,2,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Oregon,7,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Texas,6,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Georgia,5,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Illinois,5,0,,,2,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Arizona,5,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+New Jersey,4,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Maryland,3,0,0,0,0,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Rhode Island,3,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+New Hampshire,2,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Pennsylvania,2,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Nevada,2,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+North Carolina,2,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+South Carolina,2,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Utah,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Minnesota,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Oklahoma,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Indiana,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Tennessee,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Kentucky,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Wisconsin,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Nebraska,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Hawaii,1,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Wuhan,3,0,,,,,Sat Mar  7 14:01:01 PST 2020,1583618461
+Grand Princess,21,0,,,,Source,Sat Mar  7 14:01:01 PST 2020,1583618461
+Diamond Princess,45,0,,,2,,Sat Mar  7 14:01:01 PST 2020,1583618461
+U.S. TOTAL,409,19,0,0,5,,Sat Mar  7 14:01:01 PST 2020,1583618461
