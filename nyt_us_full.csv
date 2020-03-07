@@ -26,7 +26,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 25,True,Nebraska,Douglas,,Unknown,Unknown,2/17/2020,mild symptoms -in quarantine at UNMC,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then flown to Omaha",Diamond Princess cruise ship,No,University of Nebraska Medical Center,Link,,,,,Link,"Taylor Wilson, twilson@nebraskamed.com",,,,Nebraska,False,2020-02-17
 26,True,California,Marin,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 27,True,California,Sonoma,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,Link,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
-28,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
+28,True,California,Sacramento,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 29,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 30,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Near Travis,,,,,,,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 31,True,California,Napa,,Unknown,Unknown,Feb. 17-26 ,Hospitalized,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Queen of the Valley Medical Center,Link,,,,,,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
@@ -61,7 +61,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 60,True,California,Sacramento,"Solano County, California",Female,Unknown,2/26/2020,,"Unknown, believed to be community transfer",Unknown,Yes,UC-Davis Medical Center,Link,,,,Health officials suspect this could be the first known community transmission in the U.S.,,"Jayleen Richards, (707) 975-3027, JMRichards@SolanoCounty.com   ",,,,California,False,2020-02-26
 61,True,Texas,Bexar,,Unknown,Unknown,2/28/2020,,Evacuated from Diamond Princess,Diamond Princess cruise ship,No,Texas Center for Infectious Disease,,,,,,,,,,,Texas,False,2020-02-28
 62,True,California,Santa Clara,,Female,Older adult,2/28/2020,,"Unknown, believed to be community transfer",Unknown,Yes,,Link,Link,,,Patient was in hospital with chronic problems when tested. Believed to be second known community transmission in U.S.,Link,Joy.Alexiou@hhs.sccgov.org,,,,California,False,2020-02-28
-63,True,Oregon,Washington,,Unknown,Unknown,2/28/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,Kaiser Permanente Westside Medical Center,Link,,,,"Announced as a ""presumptive positive"" Believed to be third known community transmission in U.S.",,"Jonathan Modie, 971-246-9139 phd.communications@dhsoha.state.or.us",,,,Oregon,False,2020-02-28
+63,True,Oregon,Washington,,Male,40-50,2/28/2020,hospitalized (Still in hospital 3/6),"Unknown, believed to be community transfer",Unknown,Yes,Kaiser Permanente Westside Medical Center,Link,,,,"Announced as a ""presumptive positive"" Believed to be third known community transmission in U.S.",,"Jonathan Modie, 971-246-9139 phd.communications@dhsoha.state.or.us",,,,Oregon,False,2020-02-28
 64,True,Washington,King,,Female,50s,2/28/2020,,"Traveled in Daegu, South Korea",Travel in South Korea,No,,Link,,,,"Announced as a ""presumptive positive"" ",,lisa.stromme@doh.wa.gov,,,,Washington,False,2020-02-28
 65,True,Washington,Snohomish,,Male,Under 18,2/28/2020,"had flu-like symptoms for few days, now symptom-free","Unknown, believed to be community transfer",Unknown,Yes,Home isolation,Link,,,,"Announced as a ""presumptive positive""; Believed to be fourth known community transmission in U.S.; high school he attends was being closed for deep cleaning",,lisa.stromme@doh.wa.gov,,,,Washington,False,2020-02-28
 66,True,Washington,King,,Female,70s,2/29/2020,died 3/2 (announced 3/3),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,Link,,,was in a long-term care facility where there may be more cases: LifeCare nursing facility in Kirkland; was in hospital several days before dying,,"James Apa, 206-263-8698, James.apa@kingcounty.gov; Hilary Karasz, 206-423-2542, Hilary.Karasz@kingcounty.gov",,,,Washington,True,2020-02-29
@@ -85,10 +85,10 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 84,True,Washington,King,"Snohomish County, Washington",Male,40s,3/1/2020,died,"Unknown, believed to be community transfer",Unknown,Yes,EvergreenHealth Hospital,Link,,,,presumptive positive,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,Washington,True,2020-03-01
 85,True,Florida,Manatee,,Male,60s,3/1/2020,stable,"Unknown, no relevant travel history",Unknown,Yes,Home isolation,,,,,"Was treated at Doctors Hospital in Sarasota, then released to home isolation on 3/6",,newsmedia@flhealth.gov,,,,Florida,False,2020-03-01
 86,True,Florida,Hillsborough,,Female,20s,3/1/2020,,Traveled in Italy,Travel in Italy,No,Home isolation,,,,,,,newsmedia@flhealth.gov,,,,Florida,False,2020-03-01
-87,True,Oregon,Washington,,Unknown,Adult,3/1/2020,doesn't require medical care,household contact of row #64,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,phd.communications@dhsoha.state.or.us,,,,Oregon,False,2020-03-01
+87,True,Oregon,Washington,,Female,40-50,3/1/2020,doesn't require medical care,household contact of row #64,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,phd.communications@dhsoha.state.or.us,,,,Oregon,False,2020-03-01
 88,True,Rhode Island,Unknown,,Female,Teenager,3/1/2020,mild symptoms,Traveled in Italy on same school trip as row #72,Travel in Italy,No,Home isolation,Link,,,,presumptive positive; traveled to Italy on a school trip ,,"Joseph Wendelken: joseph.wendelken@health.ri.gov, 401-222-3998; Weekend:  401-641-8726",,,,Rhode Island,False,2020-03-01
 89,True,Illinois,Cook,,Female,70s,3/2/2020,good condition,unknown; wife of row #71,Unknown,Unknown,Home isolation,Link,,,,presumptive positive; spouse also has coronavirus,,Kimberley Conrad Junius: kjunius@cookcountyhhs.org; O: 708-633-8328; C: 312-446-2984,,,,Illinois,False,2020-03-02
-90,True,Washington,Walla Walla,"Umatilla County, Oregon",Unknown,Adult,3/2/2020,,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,"presumptive positive; attended a youth basketball game at a gymnasium at Weston Middle School, 205 E. Wallace St. in Weston, Ore., on Saturday, Feb. 29.",,phd.communications@dhsoha.state.or.us,,,,Washington,False,2020-03-02
+90,True,Washington,Walla Walla,"Umatilla County, Oregon",Male,60-70,3/2/2020,,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,"presumptive positive; attended a youth basketball game at a gymnasium at Weston Middle School, 205 E. Wallace St. in Weston, Ore., on Saturday, Feb. 29.",,phd.communications@dhsoha.state.or.us,,,,Washington,False,2020-03-02
 91,True,California,Santa Clara,,Male,Adult,3/2/2020,,household contact of another case,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,Joy.Alexiou@hhs.sccgov.org,,,,California,False,2020-03-02
 92,True,California,Santa Clara,,Male,Adult,3/2/2020,,household contact of another case,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,Joy.Alexiou@hhs.sccgov.org,,,,California,False,2020-03-02
 93,True,Washington,King,,Male,50s,3/2/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,Highline Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-02
@@ -161,7 +161,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Personal contact in U.S.,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
-163,True,Florida,Santa Rosa,,Male,older,3/5/2020,,Traveled internationally not clear where,Travel overseas,No,,,,,,,,,,,,Florida,False,2020-03-05
+163,True,Florida,Santa Rosa,,Male,older,3/5/2020,died (announced 3/6),Traveled internationally not clear where,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
 164,True,Illinois,Cook,,Male,20s,3/5/2020,hospitalized in isolation,Traveled in Italy,Travel in Italy,No,Rush University Medical Center,,,,,,,"Melaney Arnold 217-558-0500
 COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 165,True,New York,Westchester,,Unknown,Unknown,3/5/2020,home,,"Cluster connected to a community in New Rochelle, N.Y.",,,Link,,,,,,,,,,New York,False,2020-03-05
@@ -175,7 +175,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 173,True,New York,Nassau,,Male,,3/5/2020,hospitalized ,,Unknown,,,Link,,,,,,,,,,New York,False,2020-03-05
 174,True,California,San Francisco,,Male,90s,3/5/2020,hospitalized,"Unknown, believed to be community transmission",Unknown,,,,,,,,,,,,,California,False,2020-03-05
 175,True,California,San Francisco,,Female,40s,3/5/2020,hospitalized,"Unknown, believed to be community transmission",Unknown,,,,,,,,,,,,,California,False,2020-03-05
-176,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
+176,True,Washington,King,,Male,60s,3/5/2020,died 3/5 (announced 3/6),LifeCare visitor; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-05
 177,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
 178,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
 179,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
@@ -194,16 +194,16 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 192,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
 193,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
 194,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-195,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-196,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-197,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-198,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-199,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-200,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-201,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-202,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-203,True,Washington,Snohomish,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
-204,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-05
+195,True,Washington,Snohomish,,Male,60s,3/5/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-05
+196,True,Washington,Snohomish,,Female,20s,3/5/2020,home isolation,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-05
+197,True,Washington,Snohomish,,Female,50s,3/5/2020,home isolation,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-05
+198,True,Washington,Snohomish,,Female,40s,3/5/2020,home isolation,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-05
+199,True,Washington,Snohomish,,Female,50s,3/5/2020,home isolation,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-05
+200,True,Washington,Snohomish,,Male,50s,3/5/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-05
+201,True,Washington,Snohomish,,Female,60s,3/5/2020,home isolation,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-05
+202,True,Washington,Snohomish,,Male,50s,3/5/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-05
+203,True,Washington,Snohomish,,female,80s,3/5/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-05
+204,True,Washington,King,,Unknown,Unknown,3/5/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-05
 205,True,New Jersey,Bergen,,Female,30s,3/5/2020,mild symptoms,Unknown,Unknown,Unknown,Home isolation,Link,,,,,,,,,,New Jersey,False,2020-03-05
 206,True,California,Los Angeles,,Unknown,Unknown,3/5/2020,Unknown,Traveled in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-05
 207,True,California,Los Angeles,,Unknown,Unknown,3/5/2020,Unknown,Traveled in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-05
@@ -268,8 +268,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 266,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 267,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
-269,True,Washington,Snohomish,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
-270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,True,2020-03-06
+269,True,Washington,Snohomish,,Male,50s,3/6/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,True,2020-03-06
+270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,False,2020-03-06
 271,True,Nebraska,Douglas,,Female,,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,Link,,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
 272,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 273,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
@@ -282,7 +282,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 280,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 281,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 282,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
-283,True,Kentucky,Fayette,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Kentucky,False,2020-03-06
+283,True,Kentucky,Fayette,"Harrison County, Kentucky",Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,University of Kentucky Albert B. Chandler Hospital,Link,Link,,,,,,,,,Kentucky,False,2020-03-06
 284,True,Oklahoma,Tulsa,,Male,50s,3/6/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Oklahoma,False,2020-03-06
 285,True,California,Santa Clara,,Male,Adult,3/6/2020,home isolation,Household contact of previously confirmed case in Santa Clara County,Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,California,False,2020-03-06
 286,True,California,Santa Clara,,Female,Adult,3/6/2020,Hospitalized,Travel overseas,Unknown,No,,Link,Link,,,,,,,,,California,False,2020-03-06
@@ -291,3 +291,18 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 289,True,Texas,Fort Bend,,Female,60s,3/6/2020,symptoms resolved,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,Home isolation,Link,,,,,,,,,,Texas,False,2020-03-06
 290,True,Texas,Fort Bend,,Female,60s,3/6/2020,mild symptoms,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,Home isolation,Link,,,,,,,,,,Texas,False,2020-03-06
 291,True,Rhode Island,Unknown,,Female,60s,3/6/2020,mild symptoms,Contact with known coronavirus patient in New York,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,,,,,Rhode Island,False,2020-03-06
+292,True,Colorado,Denver,,Male,40s,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-06
+293,True,Colorado,Denver,,Female,70s,3/6/2020,Unknown,International travel,Travel overseas,No,,Link,,,,,,,,,,Colorado,False,2020-03-06
+294,True,Colorado,Douglas,,Female,School-aged,3/6/2020,Unknown,Travel in the Philippines,Travel overseas,No,,Link,Link,,,,,,,,,Colorado,False,2020-03-06
+295,True,Colorado,Douglas,,Female,40s,3/6/2020,Unknown,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Colorado,False,2020-03-06
+296,True,Colorado,Eagle,,Female,50s,3/6/2020,Unknown,International travel,Travel overseas,No,,Link,,,,,,,,,,Colorado,False,2020-03-06
+297,True,Colorado,El Paso,,Male,40s,3/6/2020,Unknown,International travel,Travel overseas,No,,Link,,,,,,,,,,Colorado,False,2020-03-06
+298,True,New Jersey,Bergen,,Male,50s,3/6/2020,Hospitalized,Unknown,Unknown,Unknown,Englewood Hospital,Link,,,,,,,,,,New Jersey,False,2020-03-06
+299,True,South Carolina,Kershaw,,Female,Elderly,3/6/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,South Carolina,False,2020-03-06
+300,True,South Carolina,Charleston,,Female,Adult,3/6/2020,home isolation,Travel in Italy and France,Travel overseas,No,,Link,,,,,,,,,,South Carolina,False,2020-03-06
+301,True,Illinois,Cook,,Female,50s,3/6/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,She's a Chicago school worker who had been on cruise; Chicago Public Health case,,,,,,Illinois,False,2020-03-06
+302,True,Hawaii,Honolulu,,Unknown,Unknown,3/6/2020,doing fine,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,Link,,,,,,,,,Hawaii,False,2020-03-06
+303,True,Washington,Pierce,,Male,50s,3/6/2020,"hospitalized, stable","Unknown, did not travel outside the US",Unknown,Yes,"St. Anthony Hospital, Gig Harbor",Link,,,,,,,,,,Washington,False,2020-03-06
+304,True,Florida,Lee,,Unknown,70s,3/6/2020,died (announced 3/6),international travel,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-06
+305,True,Florida,Broward,,Male,75,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
+306,True,Florida,Broward,,Male,65,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
