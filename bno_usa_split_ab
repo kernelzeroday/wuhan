@@ -1,5 +1,5 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-6,Washington,79,13,,,,Source
+6,Washington,80,13,,,,Source
 7,California,64,1,,1,1,Source
 8,New York,44,0,0,0,0,Source
 9,Massachusetts,8,0,,,,Source
@@ -17,16 +17,17 @@
 21,Pennsylvania,2,0,,,,Source
 22,Nevada,2,0,,,,Source
 23,North Carolina,2,0,,,,Source
-24,Utah,1,0,,,,Source
-25,Minnesota,1,0,,,,Source
-26,Oklahoma,1,0,,,,Source
-27,Indiana,1,0,,,,Source
-28,Tennessee,1,0,,,,Source
-29,Kentucky,1,0,,,,Source
-30,Wisconsin,1,0,,,,Source
-31,Nebraska,1,0,,,,Source
-32,Hawaii,1,0,,,,Source
-33,Wuhan,3,0,,,,
-34,Grand Princess,21,0,,,,Source
-35,Diamond Princess,45,0,,,2,
-36,U.S. TOTAL,326,16,0,0,5,
+24,South Carolina,2,0,,,,Source
+25,Utah,1,0,,,,Source
+26,Minnesota,1,0,,,,Source
+27,Oklahoma,1,0,,,,Source
+28,Indiana,1,0,,,,Source
+29,Tennessee,1,0,,,,Source
+30,Kentucky,1,0,,,,Source
+31,Wisconsin,1,0,,,,Source
+32,Nebraska,1,0,,,,Source
+33,Hawaii,1,0,,,,Source
+34,Wuhan,3,0,,,,
+35,Grand Princess,21,0,,,,Source
+36,Diamond Princess,45,0,,,2,
+37,U.S. TOTAL,329,16,0,0,5,
