@@ -1,8 +1,7 @@
 adm0_a3,nyt_name,location,sublocation,lat,lon,active,in_region_table,in_country_count,travel_warning,source,override_count,override_deaths,override_date,world_map_label,world_map_label_desktop_only,world_map_label_name,asia_map_label,asia_map_label_desktop_only,eu_map_label,eu_map_label_desktop_only,mobile_table_name,sentence_name,label_offset_y,label,postal,confirmed,deaths,us_state_label,name
 AUS,Australia,Australia,,-25.274,133.775,True,True,True,,,,,DO NOT OVERRIDE,True,True,Australia,,,,,,,,Australia,,0,0,,
 CAN,Canada,Canada,,56.13,-106.347,True,True,True,,,,,DO NOT OVERRIDE,True,True,Canada,,,,,,,,Canada,,0,0,,
-GEO,Georgia,Georgia,,42.315,43.357,True,True,True,,,,,,,,Georgia,,,,,,,,Georgia,,0,0,,
-SEN,Senegal,Senegal,,14.497,-14.452,True,True,True,,,,,,,,Senegal,,,,,,,,Senegal,,0,0,,
+MTQ,Martinique,Martinique,,14.642,-61.024,True,,False,,,,,,,,Martinique,,,,,,,,Martinique,,0,0,,
 CHN,Mainland China,Mainland China,,35.862,104.195,True,True,True,3,,,,DO NOT OVERRIDE,True,,China,,,,,China,China,,Mainland China,,0,0,,
 USA,United States,US,,37.09,-95.713,True,True,True,,,,,,True,,U.S.,,,,,U.S.,the United States,,US,,0,0,,
 CHN,,Mainland China,Tibet,31.6,84.27,True,,,,,,,,,,Mainland China,,,,,,,,Tibet (Mainland China),,0,0,,
@@ -14,7 +13,8 @@ CAN,,Canada,"Montreal, QC",51.4,-87.12,True,,,,,,,,,,Canada,,,,,,,,"Montreal, QC
 AFG,Afghanistan,Afghanistan,,33.939,67.71,True,True,True,,JHU issue. Pls keep it,1,,Mar. 3,,,Afghanistan,,,,,,,,Afghanistan,,1,0,,
 ARM,Armenia,Armenia,,40.069,45.038,True,True,True,,JHU issue. Pls keep it,1,,Mar. 3,,,Armenia,,,,,,,,Armenia,,1,0,,
 BTN,Bhutan,Bhutan,,27.514,90.434,True,True,True,,JHU,1,,Mar. 6,,,Bhutan,,,,,,,,Bhutan,,1,0,,
-CHL,Chile,Chile,,-35.675,-71.543,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",1,,Mar. 3,,,Chile,,,,,,,,Chile,,1,0,,
+CMR,Cameroon,Cameroon,,7.37,12.355,True,True,True,,JHU,1,,Mar. 7,,,Cameroon,,,,,,,,Cameroon,,1,0,,
+CRI,Costa Rica,Costa Rica,,9.749,-83.753,True,True,True,,JHU,1,,Mar. 7,,,Costa Rica,,,,,,,,Costa Rica,,1,0,,
 DOM,Dominican Republic,Dominican Republic,,18.736,-70.163,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",1,,Mar. 3,,,Dominican Republic,,,,,,,,Dominican Republic,,1,0,,
 FRO,Faroe Islands,,,61.893,-6.912,True,True,False,,JHU issue,1,,Mar. 4,,,,,,,,,,,,,1,0,,
 JOR,Jordan,Jordan,,30.585,36.238,True,True,True,,NYT. pls keep. JHU doesn't have it.,1,,Mar. 2,,,Jordan,,,,,,,,Jordan,,1,0,,
@@ -22,17 +22,20 @@ KHM,Cambodia,Cambodia,,12.566,104.991,True,True,True,,"JHU has it on the dashboa
 LKA,Sri Lanka,Sri Lanka,,7.873,80.772,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",1,,Mar. 3,,,Sri Lanka,,,,,,,,Sri Lanka,,1,0,,
 LTU,Lithuania,Lithuania,,55.169,23.881,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",1,,Mar. 3,,,Lithuania,,,,,,,,Lithuania,,1,0,,
 MCO,Monaco,Monaco,,43.75,7.413,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Monaco,,,,,,,,Monaco,,1,0,,
-MKD,North Macedonia,North Macedonia,,41.609,21.745,True,True,True,,JHU issue; NYT name change as of Feb. 11,1,,Mar. 4,,,North Macedonia,,,,,,,,North Macedonia,,1,0,,
 NGA,Nigeria,Nigeria,,9.082,8.675,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,True,True,Nigeria,top,,,,,,,Nigeria,,1,0,,
 NPL,Nepal,Nepal,,28.395,84.124,True,True,True,,JHU dashboard but not sheet,1,,Mar. 3,,,Nepal,left,,,,,,,Nepal,,1,0,,
+PER,Peru,Peru,,-9.19,-75.015,True,True,True,,JHU,1,,Mar. 7,,,Peru,,,,,,,,Peru,,1,0,,
+SVK,Slovakia,Slovakia,,48.669,19.699,True,True,True,,JHU,1,,Mar. 7,,,Slovakia,,,,,,,,Slovakia,,1,0,,
+TGO,Togo,Togo,,8.62,0.825,True,True,True,,JHU,1,,Mar. 7,,,Togo,,,,,,,,Togo,,1,0,,
 UKR,Ukraine,Ukraine,,48.379,31.166,True,True,True,,JHU table,1,,,,,Ukraine,,,,,,,,Ukraine,,1,0,,
+VAT,Holy See (Vatican City State),,,41.903,12.453,True,True,True,,JHU,1,,Mar. 7,,,,,,,,,,,,,1,0,,
 ZAF,South Africa,South Africa,,-30.559,22.938,True,True,True,,JHU,1,,Mar. 6,,,South Africa,,,,,,,,South Africa,,1,0,,
 AND,Andorra,Andorra,,42.549,1.585,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Andorra,,,,,,,,Andorra,,1,0,,
 LVA,Latvia,Latvia,,56.88,24.603,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Latvia,,,,,,,,Latvia,,1,0,,
+SAU,Saudi Arabia,Saudi Arabia,,23.886,45.079,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Saudi Arabia,,,,,,,,Saudi Arabia,,1,0,,
 GIB,Gibraltar,Gibraltar,,36.138,-5.345,True,True,False,,https://twitter.com/GBCNewsroom/status/1234774651601063937,1,,Mar. 3,,,Gibraltar,,,,,,,,Gibraltar,,1,0,,
 TUN,Tunisia,Tunisia,,33.887,9.537,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Tunisia,,,,,,,,Tunisia,,1,0,,
 LIE,Liechtenstein,Liechtenstein,,47.166,9.555,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Liechtenstein,,,,,,,,Liechtenstein,,1,0,,
-POL,Poland,Poland,,51.919,19.145,True,True,True,,JHU issue,1,,Mar. 4,,,Poland,,,,,,,,Poland,,1,0,,
 USA,,US,Wisconsin,43.78444,-88.787868,True,,,,,,,,,,,,,,,,,,,WI,1,0,Wis.,US
 USA,,US,Utah,39.32098,-111.093731,True,,,,,,,,,,,,,,,,,,,UT,1,0,Utah,US
 USA,,US,Tennessee,35.517491,-86.580447,True,,,,,,,,,,,,,,,,,,,TN,1,0,Tenn.,US
@@ -41,10 +44,7 @@ USA,,US,Minnesota,46.729553,-94.6859,True,,,,,,,,,,,,,,,,,,,MN,1,0,Minn.,US
 USA,,US,Kentucky,37.839333,-84.270018,True,,,,,,,,,,,,,,,,,,,KY,1,0,Ky.,US
 USA,,US,Oklahoma,35.007752,-97.092877,True,,,,,,,,,,,,,,,,,,,OK,1,0,Okla.,US
 USA,,US,Hawaii,19.898682,-155.665857,True,,,,,,,,,,,,,,,,,,,HI,1,0,Hawaii,US
-BIH,Bosnia and Herzegovina,,,43.916,17.679,True,True,True,,JHU issue,2,,Mar. 6,,,,,,,,,,,,,2,0,,
-HUN,Hungary,Hungary,,47.162,19.503,True,True,True,,JHU issue,2,,Mar. 6,,,Hungary,,,,,,,,Hungary,,2,0,,
 LUX,Luxembourg,Luxembourg,,49.815,6.13,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",2,,Mar. 6,,,Luxembourg,,,,,,,,Luxembourg,,2,0,,
-IDN,Indonesia,Indonesia,,-0.789,113.921,True,True,True,,JHU issue. Pls keep,2,,Mar. 5,True,True,Indonesia,,,,,,,,Indonesia,,2,0,,
 MAR,Morocco,Morocco,,31.792,-7.093,True,True,True,,JH dashboard but not sheet,2,,Mar. 6,,,Morocco,,,,,,,,Morocco,,2,0,,
 USA,,US,Oregon,43.804133,-120.554201,True,,,,,,,,,,,,,,,,,,,OR,2,0,Ore.,US
 USA,,US,New Hampshire,43.193852,-71.572395,True,,,,,,,,,,,,,,,,,,,NH,2,0,N.H.,US
@@ -52,14 +52,21 @@ USA,,US,North Carolina,35.759573,-79.0193,True,,,,,,,,,,,,,,,,,,,NC,2,0,N.C.,US
 USA,,US,Nevada,38.80261,-116.419389,True,,,,,,,,,,,,,,,,,,,NV,2,0,Nev.,US
 USA,,US,Pennsylvania,41.203322,-77.194525,True,,,,,,,,,,,,,,,,,,,PA,2,0,Pa.,US
 USA,,US,South Carolina,33.836081,-81.163725,True,,,,,,,,,,,,,,,,,,,SC,2,0,S.C.,US
-PHL,Philippines,Philippines,,12.88,121.774,True,True,True,,JHU issue,3,,Mar. 6,,,Philippines,right,True,,,,,,Philippines,,3,0,,
+BIH,Bosnia and Herzegovina,,,43.916,17.679,True,True,True,,JHU issue,3,,Mar. 7,,,,,,,,,,,,,3,0,,
+MKD,North Macedonia,North Macedonia,,41.609,21.745,True,True,True,,JHU issue; NYT name change as of Feb. 11,3,,Mar. 7,,,North Macedonia,,,,,,,,North Macedonia,,3,0,,
 USA,,US,Arizona,34.048928,-111.093731,True,,,,,,,,,,,,,,,,,,,AZ,3,0,Ariz.,US
 USA,,US,Rhode Island,39.6,-71.64,True,,,,,,,,,,,,,,,,,,,RI,3,0,R.I.,US
 USA,,US,Georgia,32.157435,-82.907123,True,,,,,,,,,,,,,,,,,,,GA,3,0,Ga.,US
 USA,,US,Maryland,39.045755,-76.641271,True,,,,,,,,,,,,,,,,,,,MD,3,0,Md.,US
-NZL,New Zealand,New Zealand,,-44.63,168.376,True,True,True,,JHU dashboard,4,,Mar. 6,True,True,New Zealand,top,,,,,,,New Zealand,,4,0,,
+CHL,Chile,Chile,,-35.675,-71.543,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",4,,Mar. 7,,,Chile,,,,,,,,Chile,,4,0,,
+GEO,Georgia,Georgia,,42.315,43.357,True,True,True,,JHU issue. keep,4,,Mar. 7,,,Georgia,,,,,,,,Georgia,,4,0,,
+HUN,Hungary,Hungary,,47.162,19.503,True,True,True,,JHU issue. keep,4,,Mar. 7,,,Hungary,,,,,,,,Hungary,,4,0,,
+SEN,Senegal,Senegal,,14.497,-14.452,True,True,True,,JHU issue. keep,4,,Mar. 7,,,Senegal,,,,,,,,Senegal,,4,0,,
+IDN,Indonesia,Indonesia,,-0.789,113.921,True,True,True,,JHU issue. Pls keep,4,,Mar. 7,True,True,Indonesia,,,,,,,,Indonesia,,4,0,,
 USA,,US,New Jersey,40.058324,-74.405661,True,,,,,,,,,,,,,,,,,,,NJ,4,0,N.J.,US
-SAU,Saudi Arabia,Saudi Arabia,,23.886,45.079,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Saudi Arabia,,,,,,,,Saudi Arabia,,5,0,,
+NZL,New Zealand,New Zealand,,-44.63,168.376,True,True,True,,JHU issue,5,,Mar. 7,True,True,New Zealand,top,,,,,,,New Zealand,,5,0,,
+PHL,Philippines,Philippines,,12.88,121.774,True,True,True,,JHU issue,5,,Mar. 7,,,Philippines,right,True,,,,,,Philippines,,5,0,,
+POL,Poland,Poland,,51.919,19.145,True,True,True,,JHU issue,5,,Mar. 7,,,Poland,,,,,,,,Poland,,5,0,,
 BLR,Belarus,Belarus,,53.71,27.953,True,True,True,,JH dashboard but not sheet,1,,Mar. 3,,,Belarus,,,,,,,,Belarus,,6,0,,
 MEX,Mexico,Mexico,,23.635,-102.553,True,True,True,,,,,,True,True,Mexico,right,,,,,,,Mexico,,6,0,,
 PAK,Pakistan,Pakistan,,30.375,69.345,True,True,True,,,,,,,,Pakistan,,,,,,,,Pakistan,,6,0,,
