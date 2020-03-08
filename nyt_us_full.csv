@@ -160,7 +160,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 159,True,Washington,Chelan,"Grant County, Washington",Unknown,80s,3/4/2020,critical,"Unknown, believed to be community transfer",Unknown,Yes,Central Washington Hospital,Link,,,,This is a Grant County resident being treated in Chelan County. We're counting this as a 3/4 announcement because it happened before midnight in the time zone where it was announced.,,,,,,Washington,False,2020-03-04
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
-162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Personal contact in U.S.,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
+162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
 163,True,Florida,Santa Rosa,,Male,70s,3/5/2020,died (announced 3/6),Traveled to Israel/Egypt area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
 164,True,Illinois,Cook,,Male,20s,3/5/2020,hospitalized in isolation,Traveled in Italy,Travel in Italy,No,Rush University Medical Center,,,,,,,"Melaney Arnold 217-558-0500
 COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
@@ -244,11 +244,11 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 242,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 243,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 244,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
-245,True,Massachusetts,Suffolk,,Female,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Unknown,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
-246,True,Massachusetts,Suffolk,,Female,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Unknown,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
-247,True,Massachusetts,Suffolk,,Male,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Unknown,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
-248,True,Massachusetts,Norfolk,,Female,30s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Unknown,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
-249,True,Massachusetts,Norfolk,,Male,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Unknown,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
+245,True,Massachusetts,Suffolk,,Female,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
+246,True,Massachusetts,Suffolk,,Female,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
+247,True,Massachusetts,Suffolk,,Male,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
+248,True,Massachusetts,Norfolk,,Female,30s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
+249,True,Massachusetts,Norfolk,,Male,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
 250,True,Texas,Harris,,Female,60-70,3/6/2020,stable,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,,Link,,,,City of Houston resident (within Harris County) tracked by Houston Health Dept,,,,,,Texas,False,2020-03-06
 251,True,California,Yolo,,Female,Older,3/6/2020,hospitalized and improving,"Unknown, believed to be community transmission",Unknown,Yes,,Link,,,,,,,,,,California,False,2020-03-06
 252,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
@@ -380,7 +380,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 378,True,Washington,Snohomish,,Female,80s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise ship,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
 380,True,Florida,Charlotte,,Female,50s,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,False,2020-03-07
-381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Personal contact in U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07
+381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Travel within the U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07
 382,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
 383,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
 384,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
@@ -395,10 +395,10 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 393,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 394,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 395,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
-396,True,Kansas,Johnson,,Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Unknown,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
-397,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
-398,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
-399,True,District of Columbia,District of Columbia,,Male,50s,3/7/2020,Admitted to hospital March 5,Community transfer,Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,District of Columbia,False,2020-03-07
+396,True,Kansas,Johnson,,Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
+397,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
+398,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
+399,True,District of Columbia,District of Columbia,,Male,50s,3/7/2020,Admitted to hospital March 5,Community transfer,Personal contact in U.S.,Yes,,Link,Link,Link,,Patient is the rector of Episcopalian Christ Church Georgetown,,,Rev. Tim Cole,,,District of Columbia,False,2020-03-07
 400,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 401,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 402,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
@@ -417,6 +417,80 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 415,True,Florida,Okaloosa,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
 416,True,Florida,Volusia,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
 417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Missouri,False,2020-03-07
-418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,,,,,,,,,,,California,False,2020-03-07
+418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 419,True,Georgia,Fulton,,Unknown,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Georgia,False,2020-03-07
-420,True,Florida,Manatee,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
+420,True,Florida,Manatee,,Female,81,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Florida,False,2020-03-07
+421,True,Washington,Pierce,,Female,30s,3/7/2020,discharged from hospital,Unknown,Unknown,Unknown,Good Samaritan Hospital (discharged),Link,,,,,,,,,,Washington,False,2020-03-07
+422,True,Washington,Pierce,,Male,40s,3/7/2020,hospitalized,Unknown,Unknown,Unknown,Tacoma General Hospital,Link,,,,,,,,,,Washington,False,2020-03-07
+423,True,Vermont,Unknown,,Male,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Vermont,False,2020-03-07
+424,True,New Hampshire,Grafton,,Male,Adult,3/7/2020,home isolation,"Contact with previous case at Hope Bible Fellowship in West Lebanon, NH",Personal contact in U.S.,Yes,,Link,,,,,,,,,,New Hampshire,False,2020-03-07
+425,True,New Hampshire,Rockingham,,Male,Adult,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,New Hampshire,False,2020-03-07
+426,True,California,Riverside,,Unknown,Unknown,3/7/2020,hospitalized,Unknown ,Unknown,Unknown,Eisenhower Health in Rancho Mirage,Link,,,,,,,,,,California,False,2020-03-07
+427,True,Virginia,Fairfax city,,Unknown,80s,3/8/2020,hospitalized,Nile River cruise with other COVID cases (seeking clarity on whether it's the one tied to TX cases),Travel overseas,No,,Link,,,,,,,,,,Virginia,False,2020-03-08
+428,True,Texas,Fort Bend,,Male,70s,3/8/2020,good; discharged from hospital,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
+429,True,Texas,Fort Bend,,Male,70s,3/8/2020,home isolation,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
+430,True,Texas,Fort Bend,,Female,60s,3/8/2020,home isolation,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
+431,True,New York,Ulster,,Unknown,Unknown,3/8/2020,Unknown,traveled in France,Travel overseas,Unknown,,Link,Link,,,,,,,,,New York,False,2020-03-08
+432,True,New York,Suffolk,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+433,True,New York,Nassau,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+434,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+435,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+436,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+437,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+438,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+439,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+440,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+441,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+442,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+443,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+444,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+445,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+446,True,New York,Westchester,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-08
+447,True,Tennessee,Shelby,,Unknown,Unknown,3/8/2020,"hospitalized, doing well",Traveled out of state,Travel within the U.S.,Yes,Baptist Memorial Hospital-Memphis,Link,,,,,,,,,,Tennessee,False,2020-03-08
+448,True,Tennessee,Davidson,,Female,Adult,3/8/2020,mild illness; home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Tennessee,False,2020-03-08
+449,True,Connecticut,Fairfield,,Unknown,40-50,3/8/2020,Unknown,Likely during trip to California; state says not connected to case involving doctor at same hospital,Travel within the U.S.,Yes,Danbury Hospital,Link,,,,,,,,,,Connecticut,False,2020-03-08
+450,True,Indiana,Hendricks,,Unknown,Unknown,3/8/2020,"mild symptoms, at home",At BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,Indiana,False,2020-03-08
+451,True,Nevada,Washoe,,Male,30s,3/8/2020,isolated at home,during travel to Santa Clara,Travel within the U.S.,Yes,,Link,,,,,,,,,,Nevada,False,2020-03-08
+452,True,New Jersey,Bergen,,Male,30s,3/8/2020,Unknown,Unknown,Unknown,Unknown,Hackensack University Medical Center,Link,,,,,,,,,,New Jersey,False,2020-03-08
+453,True,New Jersey,Passaic,,Male,70s,3/8/2020,Unknown,Unknown,Unknown,Unknown,St. Joseph's Health,Link,,,,,,,,,,New Jersey,False,2020-03-08
+454,True,Illinois,Cook,,Male,60s,3/8/2020,serious condition,"unknown, may be community transfer",Unknown,Yes,,Link,,,,Chicago Dept of Health case,,,,,,Illinois,False,2020-03-08
+455,True,Oregon,Douglas,,Unknown,Unknown,3/8/2020,unknown,"unknown, believed to be community transfer",Unknown,Unknown,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+456,True,Oregon,Marion,,Unknown,Unknown,3/8/2020,unknown,"unknown, believed to be community transfer",Unknown,Unknown,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+457,True,Oregon,Washington,,Unknown,Unknown,3/8/2020,unknown,"contact with previous case in Washington County, Oregon.",Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+458,True,Oregon,Washington,,Unknown,Unknown,3/8/2020,unknown,"contact with previous case in Washington County, Oregon.",Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+459,True,Oregon,Washington,,Unknown,Unknown,3/8/2020,unknown,"contact with previous case in Washington County, Oregon.",Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+460,True,Oregon,Washington,,Unknown,Unknown,3/8/2020,unknown,"contact with previous case in Washington County, Oregon.",Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+461,True,Oregon,Washington,,Unknown,Unknown,3/8/2020,unknown,"unknown, believed to be community transfer",Unknown,Yes,,Link,Link,,,,,,,,,Oregon,False,2020-03-08
+462,True,Washington,King,,Female,80s,3/8/2020,died 3/6 (announced 3/8),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,,,,,,,,,,,Washington,True,2020-03-08
+463,True,Washington,King,,Male,90s,3/8/2020,died 3/5 (announced 3/8),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,Harborview Medical Center,,,,,,,,,,,Washington,True,2020-03-08
+464,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+465,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+466,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+467,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+468,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+469,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+470,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+471,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+472,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+473,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-08
+474,True,California,Santa Clara,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+475,True,California,Santa Clara,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+476,True,California,Santa Clara,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+477,True,California,Santa Clara,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+478,True,California,Santa Clara,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+479,True,New York,Bronx,,Unknown,Unknown,3/8/2020,unknown,unknown,Unknown,Unknown,,,,,,,,,,,,New York,False,2020-03-08
+480,True,Massachusetts,Suffolk,,Female,30s,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+481,True,Massachusetts,Suffolk,,Female,60s,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+482,True,Massachusetts,Suffolk,,Male,40s,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+483,True,Massachusetts,Suffolk,,Male,50s,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+484,True,Massachusetts,Suffolk,,Male,60s,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+485,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+486,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+487,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+488,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+489,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+490,True,Massachusetts,Norfolk,,Female,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+491,True,Massachusetts,Norfolk,,Female,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+492,True,Massachusetts,Norfolk,,Female,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+493,True,Massachusetts,Norfolk,,Female,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08
+494,True,Massachusetts,Unknown,,Female,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,Massachusetts,False,2020-03-08

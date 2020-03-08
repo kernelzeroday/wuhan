@@ -1,32 +1,32 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-6,Washington,105,16,,,,Source
-7,New York,89,0,,,0,Source
-8,California,83,1,,1,1,Source
-9,Massachusetts,13,0,,,,Source
-10,Florida,11,2,,,,Source
-11,Colorado,8,0,,,,Source
-12,Oregon,7,0,,,,Source
-13,Texas,6,0,,,,Source
-14,Georgia,5,0,,,,Source
-15,Illinois,5,0,,,2,Source
-16,Arizona,5,0,,,,Source
-17,New Jersey,4,0,,,,Source
-18,Pennsylvania,4,0,,,,Source
-19,Maryland,3,0,0,0,0,Source
-20,Rhode Island,3,0,,,,Source
-21,New Hampshire,2,0,,,,Source
+6,Washington,123,18,,,1,Source
+7,New York,105,0,,,0,Source
+8,California,91,1,,1,1,Source
+9,Oregon,14,0,,,,Source
+10,Massachusetts,13,0,,,,Source
+11,Florida,11,2,,,,Source
+12,Colorado,8,0,,,,Source
+13,New Jersey,6,0,,,,Source
+14,Texas,6,0,,,,Source
+15,Pennsylvania,6,0,,,,Source
+16,Georgia,5,0,,,,Source
+17,Illinois,5,0,,,2,Source
+18,Arizona,5,0,,,,Source
+19,New Hampshire,4,0,,,,Source
+20,Maryland,3,0,0,0,0,Source
+21,Rhode Island,3,0,,,,Source
 22,Nevada,2,0,,,,Source
 23,North Carolina,2,0,,,,Source
 24,South Carolina,2,0,,,,Source
-25,Vermont,1,0,,,,Source
-26,Virginia,1,0,,,,Source
-27,Utah,1,0,,,,Source
-28,Kansas,1,0,,,,Source
-29,Missouri,1,0,,,,Source
-30,Minnesota,1,0,,,,Source
-31,Oklahoma,1,0,,,,Source
-32,Indiana,1,0,,,,Source
-33,Tennessee,1,0,,,,Source
+25,Tennessee,2,0,,,,Source
+26,Indiana,2,0,,,,Source
+27,Virginia,2,0,,,,Source
+28,Vermont,1,0,,,,Source
+29,Utah,1,0,,,,Source
+30,Kansas,1,0,,,,Source
+31,Missouri,1,0,,,,Source
+32,Minnesota,1,0,,,,Source
+33,Oklahoma,1,0,,,,Source
 34,Kentucky,1,0,,,,Source
 35,Wisconsin,1,0,,,,Source
 36,Nebraska,1,0,,,,Source
@@ -35,4 +35,4 @@
 39,Wuhan,3,0,,,,
 40,Grand Princess,21,0,,,,Source
 41,Diamond Princess,45,0,,,2,
-42,U.S. TOTAL,442,19,0,0,5,
+42,U.S. TOTAL,500,21,0,0,6,
