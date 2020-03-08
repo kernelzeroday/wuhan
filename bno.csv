@@ -1,6 +1,6 @@
 OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
 Mainland China,80695,3097,5264,,57065
-South Korea,7041,48,,36,118
+South Korea,7134,50,,36,118
 Iran,5823,145,,,1669
 Italy,5883,233,462,,589
 Germany,800,0,,2,17
@@ -19,7 +19,7 @@ Belgium,169,0,1,,1
 Hong Kong,108,2,2,4,51
 Malaysia,93,0,,,23
 Austria,79,0,,,
-Australia,75,2,,,22
+Australia,77,3,,,22
 Greece,66,0,1,,
 Bahrain,62,0,,,6
 Kuwait,61,0,0,0,0
@@ -32,7 +32,7 @@ Taiwan,45,1,0,0,12
 UAE,45,0,2,,7
 India,34,0,,,3
 Portugal,21,0,,,
-Vietnam,20,0,,,16
+Vietnam,21,0,,,16
 Czech Republic,19,0,0,0,0
 Finland,19,0,,,1
 Brazil,19,0,,,
@@ -92,4 +92,4 @@ Serbia,1,0,,,
 Vatican City,1,0,,,
 Colombia,1,0,,,
 South Africa,1,0,,,
-TOTAL,105913,3597,5836,59,59866
+TOTAL,106009,3600,5836,59,59866

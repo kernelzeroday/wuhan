@@ -161,7 +161,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Personal contact in U.S.,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
-163,True,Florida,Santa Rosa,,Male,70s,3/5/2020,died (announced 3/6),Traveled to Egypt/Israel area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
+163,True,Florida,Santa Rosa,,Male,70s,3/5/2020,died (announced 3/6),Traveled to Israel/Egypt area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
 164,True,Illinois,Cook,,Male,20s,3/5/2020,hospitalized in isolation,Traveled in Italy,Travel in Italy,No,Rush University Medical Center,,,,,,,"Melaney Arnold 217-558-0500
 COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 165,True,New York,Westchester,,Unknown,Unknown,3/5/2020,home,,"Cluster connected to a community in New Rochelle, N.Y.",,,Link,,,,,,,,,,New York,False,2020-03-05
@@ -235,8 +235,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 233,True,Indiana,Marion,,Unknown,Adult,3/6/2020,not that bad,Domestic travel to Boston area; had contact with people at event where cases were identified,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Indiana,False,2020-03-06
 234,True,New York,Rockland,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 235,True,New York,Rockland,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
-236,True,New York,New York,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
-237,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
+236,True,New York,New York,,Male,51,3/6/2020,Mild symptoms; isolated at home,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,Link,,,"Lives on Upper West Side, no pre-existing conditions. Married, has three daughters (ages 8, 10, 11) all with mild symptoms. ",,,,,,New York,False,2020-03-06
+237,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,,"Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 238,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 239,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
 240,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"community transfer, connected to New Rochelle case in row #106","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-06
@@ -303,9 +303,9 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 301,True,Illinois,Cook,,Female,50s,3/6/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,She's a Chicago school worker who had been on cruise; Chicago Public Health case,,,,,,Illinois,False,2020-03-06
 302,True,Hawaii,Honolulu,,Unknown,Unknown,3/6/2020,doing fine,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,Link,,,,,,,,,Hawaii,False,2020-03-06
 303,True,Washington,Pierce,,Male,50s,3/6/2020,"hospitalized, stable","Unknown, did not travel outside the US",Unknown,Yes,"St. Anthony Hospital, Gig Harbor",Link,,,,,,,,,,Washington,False,2020-03-06
-304,True,Florida,Lee,,Female,70s,3/6/2020,died (announced 3/6),international travel,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-06
+304,True,Florida,Lee,,Female,70s,3/6/2020,died 3/5 (announced 3/6),Traveled to the Dominican Republic,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,True,2020-03-06
 305,True,Florida,Broward,,Male,75,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
-306,True,Florida,Broward,,Male,65,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
+306,True,Florida,Broward,,Male,65,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"This man is likely — but not 100% confirmed to be — a subcontractor hired by a cruise line to work as shore staff, per Pati's tweets",,,,,,Florida,False,2020-03-06
 307,True,Utah,Davis,,Unknown,60+,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,Utah,False,2020-03-06
 308,True,Washington,Clark,,Male,70s,3/6/2020,remains in isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 309,True,Florida,Lee,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
@@ -322,43 +322,43 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 320,True,Washington,Kittitas,,Female,67,3/7/2020,"At home, stable, in isolation",Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 321,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 322,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-323,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-324,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-325,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-326,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-327,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-328,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-329,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-330,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-331,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-332,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-333,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-334,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-335,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-336,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-337,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-338,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-339,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-340,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-341,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-342,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-343,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-344,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-345,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-346,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-347,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-348,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-349,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-350,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-351,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-352,True,New York,Unknown,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+323,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+324,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+325,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+326,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+327,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+328,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+329,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+330,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+331,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+332,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+333,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+334,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+335,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+336,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+337,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+338,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+339,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+340,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+341,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+342,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+343,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+344,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+345,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,New York,False,2020-03-07
+346,True,New York,New York,,Female,47,3/7/2020,Mild symptoms; under quarantine,Personal contact with family member,"Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,Link,,,"This is the wife of Row #237, who got the virus from the New Rochelle lawyer (Row #106)",,,,,,New York,False,2020-03-07
+347,True,New York,New York,,Female,11,3/7/2020,Mild symptoms; under quarantine,Personal contact with family member,"Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,Link,,,"This is the daughter of Row #347 and Row #237, the latter of whom contracted the virus from the New Rochelle lawyer (Row #106)",,,,,,New York,False,2020-03-07
+348,True,New York,Queens,,Male,30s,3/7/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,Uber driver in Queens who drives on Long Island,,,,,,New York,False,2020-03-07
+349,True,New York,Kings,,Female,60s,3/7/2020,At home under mandatory quarantine,"""Cruise from Egypt with a known cluster of cases""",Travel in Egypt,No,,Link,,,,,,,,,,New York,False,2020-03-07
+350,True,New York,Kings,,Female,70s,3/7/2020,At home under mandatory quarantine,"""Cruise from Egypt with a known cluster of cases""",Travel in Egypt,No,,Link,,,,,,,,,,New York,False,2020-03-07
+351,True,New York,Kings,,Male,30s,3/7/2020,Serious condition,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,New York,False,2020-03-07
+352,True,New York,New York,,Male,late 50s,3/7/2020,Discharged from hospital (3/7) and under mandatory quarantine,Personal contact with person in Chile who had tested positive,Travel overseas,No,,Link,,,,,,,,,,New York,False,2020-03-07
 353,True,Massachusetts,Middlesex,,Female,40s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
 354,True,Massachusetts,Middlesex,,Female,50s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
 355,True,Massachusetts,Middlesex,,Male,40s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
 356,True,Massachusetts,Middlesex,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
 357,True,Massachusetts,Berkshire,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Rows #354 to #358: M.A. said of these five cases, one had recent travel to Italy, one was still under investigation, and three had a direct connection to the “Biogen employee conference last week,” but they did not specify which did which.",,,,,,Massachusetts,False,2020-03-07
-358,True,Washington,King,,Male,70s,3/7/2020,Died 3/2 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth,Link,,,,,,,,,,Washington,True,2020-03-07
-359,True,Washington,King,,Female,80s,3/7/2020,died 3/5 (announced 3/6),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,Harborview Medical Center,Link,,,,,,,,,,Washington,True,2020-03-07
+358,True,Washington,King,,Male,70s,3/7/2020,Died 3/2 (announced 3/7),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth,Link,,,,,,,,,,Washington,True,2020-03-07
+359,True,Washington,King,,Female,80s,3/7/2020,died 3/5 (announced 3/7),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,Harborview Medical Center,Link,,,,,,,,,,Washington,True,2020-03-07
 360,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 361,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 362,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
@@ -370,14 +370,14 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 368,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 369,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 370,True,Washington,King,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
-371,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-372,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-373,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-374,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-375,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-376,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-377,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
-378,True,Washington,Snohomish,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-07
+371,True,Washington,Snohomish,,Female,30s,3/7/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
+372,True,Washington,Snohomish,,Female,50s,3/7/2020,isolating at home,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
+373,True,Washington,Snohomish,,Male,40s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+374,True,Washington,Snohomish,,Female,60s,3/7/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
+375,True,Washington,Snohomish,,Male,40s,3/7/2020,Unknown,believed to be connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
+376,True,Washington,Snohomish,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
+377,True,Washington,Snohomish,,Female,40s,3/7/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
+378,True,Washington,Snohomish,,Female,80s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise ship,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
 380,True,Florida,Charlotte,,Female,50s,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,False,2020-03-07
 381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Personal contact in U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07
@@ -387,3 +387,33 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 385,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
 386,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
 387,True,California,San Francisco,,Male,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
+388,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+389,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+390,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+391,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+392,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+393,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+394,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+395,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+396,True,Kansas,Johnson,,Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Unknown,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
+397,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
+398,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Pennsylvania,False,2020-03-07
+399,True,District of Columbia,District of Columbia,,Male,50s,3/7/2020,Admitted to hospital March 5,Community transfer,Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,District of Columbia,False,2020-03-07
+400,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+401,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+402,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+403,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+404,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+405,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+406,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+407,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+408,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+409,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+410,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+411,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+412,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
+413,True,California,Santa Cruz,,Unknown,Unknown,3/7/2020,Unknown,On the Grand Princess cruise from San Francisco to Mexico between Feb. 11 and Feb. 21,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+414,True,Virginia,Fairfax,,Unknown,Unknown,3/7/2020,hospitalized,Overseas travel,Travel overseas,No,Fort Belvoir Community Hospital,Link,Link,,,Announced by Pentagon. This is a US Marine at Fort Belvoir who had recently traveled overseas for work.,,,,,,Virginia,False,2020-03-07
+415,True,Florida,Okaloosa,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
+416,True,Florida,Volusia,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
+417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,Missouri,False,2020-03-07

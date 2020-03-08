@@ -164,7 +164,10 @@ Confirmed,County
 1,Kittitas
 2,Saratoga
 23,Westchester
-7,Unknown
+2,New York
+1,Queens
+3,Kings
+1,New York
 4,Middlesex
 1,Berkshire
 13,King
@@ -173,3 +176,13 @@ Confirmed,County
 1,Charlotte
 1,Los Angeles
 6,San Francisco
+8,Santa Clara
+1,Johnson
+2,Montgomery
+1,District of Columbia
+13,Westchester
+1,Santa Cruz
+1,Fairfax
+1,Okaloosa
+1,Volusia
+1,St. Louis
