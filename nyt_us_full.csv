@@ -1,10 +1,4 @@
 ID,GFX,State where treated,County where treated,"Place of residence, if known to be different",Gender,Age,Date announced,Condition,How contracted?,nyt_contracted,Contracted in United States?,Hospital,Press release,Press release 2,Press release 3,Health care worker?,Special circumstances?,NYT link,PIO contact,Name,Family contact,w,nyt_state,nyt_died,nyt_date
-,,Nevada,Clark,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,,,
-,,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,,,
-,,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,,,,,,,,,,,,,
-,,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,,,,,,,,,,,,,
-,,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,,,,,,,,,,,,,
-,,California,Contra Costa,,Unknown,Unknown,3/8/2020,home isolation,close contact with previous patient,Personal contact in U.S.,yes,,,,,,,,,,,,,,
 1,True,Washington,Snohomish,,Male,35,1/21/2020,recovered ,Traveled in Wuhan,Travel in China,No,Providence Regional Medical Center-Everett,Link,,,,,Link,lisa.stromme@doh.wa.gov,,Released statement requesting privacy on 2/3,,Washington,False,2020-01-21
 2,True,Illinois,Cook,,Female,60s,1/24/2020,recovered ,Traveled in Wuhan,Travel in China,No,AMITA Health St. Alexius Medical Center,Link,,,,,Link,andrew.buchanan@cityofchicago.org,,https://rochellenews-leader.com/article/illinois-coronavirus-patients-cured-released-from-home-isolation,,Illinois,False,2020-01-24
 3,True,California,Orange,"Wuhan, China",Unknown,Unknown,1/25/2020,recovered ,From Wuhan,Travel in China,No,Unknown,Link,,,,,Link,CDPHpress@cdph.ca.gov,,,,California,False,2020-01-25
@@ -527,3 +521,9 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 519,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 520,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-08
 521,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-08
+522,True,Nevada,Clark,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Nevada,False,2020-03-08
+523,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
+524,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
+525,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
+526,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
+527,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,home isolation,close contact with previous patient,Personal contact in U.S.,yes,,Link,,,,,,,,,,California,False,2020-03-08

@@ -1,0 +1,38 @@
+UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links,date2,unixtime
+Washington,123,18,,,1,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+New York,105,0,,,0,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+California,96,1,,1,1,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Massachusetts,28,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Oregon,14,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Florida,11,2,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Colorado,8,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Illinois,7,0,,,2,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+New Jersey,6,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Texas,6,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Pennsylvania,6,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+South Carolina,6,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Georgia,5,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Arizona,5,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Maryland,5,0,0,0,0,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+New Hampshire,4,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Rhode Island,3,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Tennessee,3,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Nevada,2,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+North Carolina,2,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Indiana,2,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Virginia,2,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Vermont,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Utah,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Kansas,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Missouri,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Minnesota,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Oklahoma,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Kentucky,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Wisconsin,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Nebraska,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Hawaii,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+District of Columbia,1,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Wuhan,3,0,,,,,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Grand Princess,21,0,,,,Source,Sun Mar  8 15:11:30 PDT 2020,1583705490
+Diamond Princess,45,0,,,2,,Sun Mar  8 15:11:30 PDT 2020,1583705490
+U.S. TOTAL,529,21,0,0,6,,Sun Mar  8 15:11:30 PDT 2020,1583705490
