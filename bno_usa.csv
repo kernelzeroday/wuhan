@@ -1,5 +1,5 @@
 UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-Washington,123,18,,,1,Source
+Washington,123,19,,,1,Source
 New York,105,0,,,0,Source
 California,96,1,,1,1,Source
 Massachusetts,28,0,,,,Source
@@ -15,6 +15,7 @@ Georgia,5,0,,,,Source
 Arizona,5,0,,,,Source
 Maryland,5,0,0,0,0,Source
 New Hampshire,4,0,,,,Source
+Kentucky,4,0,,,,Source
 Rhode Island,3,0,,,,Source
 Tennessee,3,0,,,,Source
 Iowa,3,0,,,,Source
@@ -28,7 +29,6 @@ Kansas,1,0,,,,Source
 Missouri,1,0,,,,Source
 Minnesota,1,0,,,,Source
 Oklahoma,1,0,,,,Source
-Kentucky,1,0,,,,Source
 Wisconsin,1,0,,,,Source
 Nebraska,1,0,,,,Source
 Hawaii,1,0,,,,Source
@@ -37,4 +37,4 @@ Connecticut,1,0,,,,Source
 Wuhan,3,0,,,,
 Grand Princess,21,0,,,,Source
 Diamond Princess,45,0,,,2,
-U.S. TOTAL,534,21,0,0,6,
+U.S. TOTAL,537,22,0,0,6,

@@ -2694,7 +2694,7 @@ var locations = [
 		sentence_name: "the United States",
 		label: "US",
 		confirmed: 536,
-		deaths: 21
+		deaths: 22
 	},
 	{
 		adm0_a3: "AND",
@@ -4761,7 +4761,7 @@ var us_counties = [
 		county_id: "7",
 		active: "y",
 		confirmed: 1,
-		deaths: 0
+		deaths: 1
 	},
 	{
 		county: "Kings",
@@ -6513,7 +6513,7 @@ var us_states = [
 		nytabbrev_name: "Wash.",
 		state: "Washington",
 		confirmed: 141,
-		deaths: 18
+		deaths: 19
 	},
 	{
 		postal: "WI",
@@ -11016,13 +11016,13 @@ var us_cases = [
 		Gender: "Unknown",
 		Age: "80s",
 		"Date announced": "3/4/2020",
-		Condition: "critical",
+		Condition: "died (announced 3/8)",
 		"How contracted?": "Unknown, believed to be community transfer",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Yes",
 		Hospital: "Central Washington Hospital",
 		"Press release": "Link",
-		"Press release 2": "",
+		"Press release 2": "Link",
 		"Press release 3": "",
 		"Health care worker?": "",
 		"Special circumstances?": "This is a Grant County resident being treated in Chelan County. We're counting this as a 3/4 announcement because it happened before midnight in the time zone where it was announced.",
@@ -11032,7 +11032,7 @@ var us_cases = [
 		"Family contact": "",
 		"": "",
 		nyt_state: "Washington",
-		nyt_died: "FALSE",
+		nyt_died: "TRUE",
 		nyt_date: "2020-03-04"
 	},
 	{
@@ -24289,7 +24289,7 @@ var countries = [
 		sentence_name: "the United States",
 		label: "US",
 		confirmed: 536,
-		deaths: 21
+		deaths: 22
 	},
 	{
 		adm0_a3: "AND",

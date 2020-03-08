@@ -1,5 +1,5 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-6,Washington,123,18,,,1,Source
+6,Washington,123,19,,,1,Source
 7,New York,105,0,,,0,Source
 8,California,96,1,,1,1,Source
 9,Massachusetts,28,0,,,,Source
@@ -15,20 +15,20 @@
 19,Arizona,5,0,,,,Source
 20,Maryland,5,0,0,0,0,Source
 21,New Hampshire,4,0,,,,Source
-22,Rhode Island,3,0,,,,Source
-23,Tennessee,3,0,,,,Source
-24,Iowa,3,0,,,,Source
-25,Nevada,2,0,,,,Source
-26,North Carolina,2,0,,,,Source
-27,Indiana,2,0,,,,Source
-28,Virginia,2,0,,,,Source
-29,Vermont,1,0,,,,Source
-30,Utah,1,0,,,,Source
-31,Kansas,1,0,,,,Source
-32,Missouri,1,0,,,,Source
-33,Minnesota,1,0,,,,Source
-34,Oklahoma,1,0,,,,Source
-35,Kentucky,1,0,,,,Source
+22,Kentucky,4,0,,,,Source
+23,Rhode Island,3,0,,,,Source
+24,Tennessee,3,0,,,,Source
+25,Iowa,3,0,,,,Source
+26,Nevada,2,0,,,,Source
+27,North Carolina,2,0,,,,Source
+28,Indiana,2,0,,,,Source
+29,Virginia,2,0,,,,Source
+30,Vermont,1,0,,,,Source
+31,Utah,1,0,,,,Source
+32,Kansas,1,0,,,,Source
+33,Missouri,1,0,,,,Source
+34,Minnesota,1,0,,,,Source
+35,Oklahoma,1,0,,,,Source
 36,Wisconsin,1,0,,,,Source
 37,Nebraska,1,0,,,,Source
 38,Hawaii,1,0,,,,Source
@@ -37,4 +37,4 @@
 41,Wuhan,3,0,,,,
 42,Grand Princess,21,0,,,,Source
 43,Diamond Princess,45,0,,,2,
-44,U.S. TOTAL,534,21,0,0,6,
+44,U.S. TOTAL,537,22,0,0,6,
