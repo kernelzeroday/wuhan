@@ -77,9 +77,9 @@ MEX,Mexico,23.635,-102.553,Mexico,,True,True,True,,,,,,,True,True,Mexico,right,,
 PAK,Pakistan,30.375,69.345,Pakistan,,True,True,True,,,,,,,,,Pakistan,,,,,,,Pakistan,,Pakistan,,6,0,,
 USA,,40.633125,-89.398528,US,Illinois,True,,,,,,,,,,,,,,,,,,,,,IL,6,0,Ill.,US
 USA,,43.804133,-120.554201,US,Oregon,True,,,,,,,,,,,,,,,,,,,,,OR,6,0,Ore.,US
-USA,,32.157435,-82.907123,US,Georgia,True,,,,,,,,,,,,,,,,,,,,,GA,6,0,Ga.,US
 SVN,Slovenia,46.151,14.995,Slovenia,,True,True,True,,,,,,,,,Slovenia,,,,,,,Slovenia,,Slovenia,,7,0,,
 AUS,,-34.93,138.61,Australia,South Australia,True,,,,,,,,,,,Australia,,,,,,,Australia,South Australia,South Australia (Australia),,7,0,,
+USA,,32.157435,-82.907123,US,Georgia,True,,,,,,,,,,,,,,,,,,,,,GA,7,0,Ga.,US
 QAT,Qatar,25.343,50.657,Qatar,,True,True,True,,,,,,,,,Qatar,,,,,,,Qatar,,Qatar,,8,0,,
 USA,,39.550051,-105.782067,US,Colorado,True,,,,,,,,,,,,,,,,,,,,,CO,8,0,Colo.,US
 ARG,Argentina,-38.416,-63.617,Argentina,,True,True,True,,,,,,,True,True,Argentina,,,,,,,Argentina,,Argentina,,9,1,,
@@ -88,8 +88,8 @@ ROU,Romania,45.943,24.967,Romania,,True,True,True,,,,,,,,,Romania,,,,,,,Romania,
 EST,Estonia,58.595,25.014,Estonia,,True,True,True,,,,,,,,,Estonia,,,,,,,Estonia,,Estonia,,10,0,,
 MAC,Macau,22.199,113.544,Macau,Macau,True,True,False,,,,,,,,,Macau,,,,,,,Macau,Macau,Macau (Macau),,10,0,,
 AUS,,-36.56,143.25,Australia,Victoria,True,,,,,,,,,,,Australia,,,,,,,Australia,Victoria,Victoria (Australia),,11,0,,
-USA,,27.664827,-81.515754,US,Florida,True,,,,,,,,,,,,,,,,,,,,,FL,11,2,Fla.,US
 HRV,Croatia,45.1,15.2,Croatia,,True,True,True,,,,,,,,,Croatia,,,,,,,Croatia,,Croatia,,12,0,,
+USA,,27.664827,-81.515754,US,Florida,True,,,,,,,,,,,,,,,,,,,,,FL,12,2,Fla.,US
 BRA,Brazil,-14.235,-51.925,Brazil,,True,True,True,,,,,,,True,True,Brazil,,,,,,,Brazil,,Brazil,,13,0,,
 ECU,Ecuador,-1.831,-78.183,Ecuador,,True,True,True,,,,,,,,,Ecuador,,,,,,,Ecuador,,Ecuador,,13,0,,
 RUS,Russia,61.524,105.319,Russia,,True,True,True,,,,,,,True,True,Russia,,,,,,,Russia,,Russia,,13,0,,
@@ -130,7 +130,7 @@ BHR,Bahrain,25.93,50.638,Bahrain,,True,True,True,,,,,,,,,Bahrain,,,,,,,Bahrain,,
 USA,,43,-75.12,US,New York,True,,,,,,,,,,,,,,,,,,,,,NY,89,0,N.Y.,US
 MYS,Malaysia,4.21,101.976,Malaysia,,True,True,True,,,,,,,,,Malaysia,right,True,,,,,Malaysia,,Malaysia,,93,0,,
 CHN,,43.85,126.5,Mainland China,Jilin,True,,,,,,,,,,,Mainland China,,,,,,,Mainland China,Jilin,Jilin (Mainland China),,93,1,,
-USA,,36.509065,-119.388663,US,California,True,,,,,,,,,,,,,,,,,,,,,CA,97,1,Calif.,US
+USA,,36.509065,-119.388663,US,California,True,,,,,,,,,,,,,,,,,,,,,CA,98,1,Calif.,US
 HKG,Hong Kong,22.396,114.109,Hong Kong,Hong Kong,True,True,False,,,,,,,,,Hong Kong,,,,,,,Hong Kong,Hong Kong,Hong Kong (Hong Kong),,108,2,,
 USA,,46.751074,-120.740139,US,Washington,True,,,,,,,,,,,,,,,,,,,,,WA,108,16,Wash.,US
 CHN,,40.39,96.81,Mainland China,Gansu,True,,,,,,,,,,,Mainland China,,,,,,,Mainland China,Gansu,Gansu (Mainland China),,120,2,,

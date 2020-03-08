@@ -229,7 +229,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 227,True,Nevada,Washoe,,Male,50s,3/5/2020,stable,Travel on Grand Princess cruise from San Francisco to Mexico,Grand Princess cruise ship,Unknown,Home isolation,Link,,,,,,,,,,Nevada,False,2020-03-05
 228,True,Pennsylvania,Wayne,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",International travel,Travel overseas,no,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
 229,True,Pennsylvania,Delaware,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",Domestic travel,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
-230,True,Georgia,Floyd,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Georgia,False,2020-03-06
+230,True,Georgia,Polk,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Was previously reported as Floyd County, GA. State corrected itself on 3/7",,,,,,Georgia,False,2020-03-06
 231,True,North Carolina,Chatham,,Male,Unknown,3/6/2020,doing well,Traveled in Italy; had contact with a Georgia patient,Travel in Italy,No,Home isolation,Link,,,,,,,,,,North Carolina,False,2020-03-06
 232,True,Arizona,Pinal,,Female,40s,3/6/2020,hospitalized,"Unknown, believed to be community transmission",Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,Arizona,False,2020-03-06
 233,True,Indiana,Marion,,Unknown,Adult,3/6/2020,not that bad,Domestic travel to Boston area; had contact with people at event where cases were identified,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Indiana,False,2020-03-06
@@ -416,4 +416,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 414,True,Virginia,Fairfax,,Unknown,Unknown,3/7/2020,hospitalized,Overseas travel,Travel overseas,No,Fort Belvoir Community Hospital,Link,Link,,,Announced by Pentagon. This is a US Marine at Fort Belvoir who had recently traveled overseas for work.,,,,,,Virginia,False,2020-03-07
 415,True,Florida,Okaloosa,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
 416,True,Florida,Volusia,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
-417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,Missouri,False,2020-03-07
+417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Missouri,False,2020-03-07
+418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,,,,,,,,,,,California,False,2020-03-07
+419,True,Georgia,Fulton,,Unknown,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Georgia,False,2020-03-07
+420,True,Florida,Manatee,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
