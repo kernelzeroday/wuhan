@@ -1,5 +1,5 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-6,Washington,103,16,,,,Source
+6,Washington,105,16,,,,Source
 7,New York,89,0,,,0,Source
 8,California,83,1,,1,1,Source
 9,Massachusetts,13,0,,,,Source
@@ -18,20 +18,21 @@
 22,Nevada,2,0,,,,Source
 23,North Carolina,2,0,,,,Source
 24,South Carolina,2,0,,,,Source
-25,Virginia,1,0,,,,Source
-26,Utah,1,0,,,,Source
-27,Kansas,1,0,,,,Source
-28,Missouri,1,0,,,,Source
-29,Minnesota,1,0,,,,Source
-30,Oklahoma,1,0,,,,Source
-31,Indiana,1,0,,,,Source
-32,Tennessee,1,0,,,,Source
-33,Kentucky,1,0,,,,Source
-34,Wisconsin,1,0,,,,Source
-35,Nebraska,1,0,,,,Source
-36,Hawaii,1,0,,,,Source
-37,District of Columbia,1,0,,,,Source
-38,Wuhan,3,0,,,,
-39,Grand Princess,21,0,,,,Source
-40,Diamond Princess,45,0,,,2,
-41,U.S. TOTAL,439,19,0,0,5,
+25,Vermont,1,0,,,,Source
+26,Virginia,1,0,,,,Source
+27,Utah,1,0,,,,Source
+28,Kansas,1,0,,,,Source
+29,Missouri,1,0,,,,Source
+30,Minnesota,1,0,,,,Source
+31,Oklahoma,1,0,,,,Source
+32,Indiana,1,0,,,,Source
+33,Tennessee,1,0,,,,Source
+34,Kentucky,1,0,,,,Source
+35,Wisconsin,1,0,,,,Source
+36,Nebraska,1,0,,,,Source
+37,Hawaii,1,0,,,,Source
+38,District of Columbia,1,0,,,,Source
+39,Wuhan,3,0,,,,
+40,Grand Princess,21,0,,,,Source
+41,Diamond Princess,45,0,,,2,
+42,U.S. TOTAL,442,19,0,0,5,
