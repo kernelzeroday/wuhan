@@ -1,24 +1,27 @@
 UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 Washington,103,16,,,,Source
-California,75,1,,1,1,Source
-New York,76,0,,,0,Source
+New York,89,0,,,0,Source
+California,83,1,,1,1,Source
 Massachusetts,13,0,,,,Source
+Florida,10,2,,,,Source
 Colorado,8,0,,,,Source
-Florida,8,2,,,,Source
 Oregon,7,0,,,,Source
 Texas,6,0,,,,Source
 Georgia,5,0,,,,Source
 Illinois,5,0,,,2,Source
 Arizona,5,0,,,,Source
 New Jersey,4,0,,,,Source
+Pennsylvania,4,0,,,,Source
 Maryland,3,0,0,0,0,Source
 Rhode Island,3,0,,,,Source
 New Hampshire,2,0,,,,Source
-Pennsylvania,2,0,,,,Source
 Nevada,2,0,,,,Source
 North Carolina,2,0,,,,Source
 South Carolina,2,0,,,,Source
+Virginia,1,0,,,,Source
 Utah,1,0,,,,Source
+Kansas,1,0,,,,Source
+Missouri,1,0,,,,Source
 Minnesota,1,0,,,,Source
 Oklahoma,1,0,,,,Source
 Indiana,1,0,,,,Source
@@ -31,4 +34,4 @@ District of Columbia,1,0,,,,Source
 Wuhan,3,0,,,,
 Grand Princess,21,0,,,,Source
 Diamond Princess,45,0,,,2,
-U.S. TOTAL,410,19,0,0,5,
+U.S. TOTAL,438,19,0,0,5,
