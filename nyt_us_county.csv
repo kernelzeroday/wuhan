@@ -10,14 +10,14 @@ San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FR
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,1,0
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,1,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
-Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,14,0
+Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,16,0
 Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,1,0
 Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,True,2,0
 Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,3,0
 Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,True,12,0
 Napa,California,CA,38.507351,-122.325995,Napa County,CA NAPA,136484,6055,55,True,1,0
 Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,6023,23,True,1,0
-Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,5,0
+Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,4,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,True,1,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,8,0
 King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,84,18
@@ -60,7 +60,7 @@ Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,6113,113,Tru
 Camden,New Jersey,NJ,39.802352,-74.961251,Camden County,NJ CAMDEN,513657,34007,7,True,1,0
 Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123,True,1,0
 Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,True,1,0
-Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,1,0
+Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,2,0
 Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,True,1,0
 Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,2,0
 Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,1,0
@@ -70,7 +70,7 @@ Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,1,0
 Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,4,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
-Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,2,0
+Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,3,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
 Clark,Washington,WA,45.771674,-122.485903,Clark County,WA CLARK,425363,53011,11,True,1,0
 Gwinnett,Georgia,GA,33.959101,-84.022938,Gwinnett County,GA GWINNETT,805321,13135,135,True,1,0
@@ -109,4 +109,7 @@ Bronx,New York,NY,40.848711,-73.852939,Bronx County,NY BRONX,1385108,36005,5,Tru
 Unknown,Massachusetts,MA,,,,,,,,True,1,0
 Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,True,1,0
 Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,True,1,0
-Unknown,Washington,WA,,,,,,,,True,13,0
+Unknown,Washington,WA,,,,,,,,True,14,0
+Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,True,1,0
+Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,21111,111,True,1,0
+Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,True,3,0

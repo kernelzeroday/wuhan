@@ -4,7 +4,7 @@
 8,California,96,1,,1,1,Source
 9,Massachusetts,28,0,,,,Source
 10,Oregon,14,0,,,,Source
-11,Florida,11,2,,,,Source
+11,Florida,12,2,,,,Source
 12,Colorado,8,0,,,,Source
 13,Illinois,7,0,,,2,Source
 14,New Jersey,6,0,,,,Source
@@ -17,22 +17,24 @@
 21,New Hampshire,4,0,,,,Source
 22,Rhode Island,3,0,,,,Source
 23,Tennessee,3,0,,,,Source
-24,Nevada,2,0,,,,Source
-25,North Carolina,2,0,,,,Source
-26,Indiana,2,0,,,,Source
-27,Virginia,2,0,,,,Source
-28,Vermont,1,0,,,,Source
-29,Utah,1,0,,,,Source
-30,Kansas,1,0,,,,Source
-31,Missouri,1,0,,,,Source
-32,Minnesota,1,0,,,,Source
-33,Oklahoma,1,0,,,,Source
-34,Kentucky,1,0,,,,Source
-35,Wisconsin,1,0,,,,Source
-36,Nebraska,1,0,,,,Source
-37,Hawaii,1,0,,,,Source
-38,District of Columbia,1,0,,,,Source
-39,Wuhan,3,0,,,,
-40,Grand Princess,21,0,,,,Source
-41,Diamond Princess,45,0,,,2,
-42,U.S. TOTAL,529,21,0,0,6,
+24,Iowa,3,0,,,,Source
+25,Nevada,2,0,,,,Source
+26,North Carolina,2,0,,,,Source
+27,Indiana,2,0,,,,Source
+28,Virginia,2,0,,,,Source
+29,Vermont,1,0,,,,Source
+30,Utah,1,0,,,,Source
+31,Kansas,1,0,,,,Source
+32,Missouri,1,0,,,,Source
+33,Minnesota,1,0,,,,Source
+34,Oklahoma,1,0,,,,Source
+35,Kentucky,1,0,,,,Source
+36,Wisconsin,1,0,,,,Source
+37,Nebraska,1,0,,,,Source
+38,Hawaii,1,0,,,,Source
+39,District of Columbia,1,0,,,,Source
+40,Connecticut,1,0,,,,Source
+41,Wuhan,3,0,,,,
+42,Grand Princess,21,0,,,,Source
+43,Diamond Princess,45,0,,,2,
+44,U.S. TOTAL,534,21,0,0,6,

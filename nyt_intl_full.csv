@@ -50,7 +50,6 @@ NZL,New Zealand,-44.63,168.376,New Zealand,,True,True,True,,JHU issue,5,,0001-03
 BLR,Belarus,53.71,27.953,Belarus,,True,True,True,,JHU issue,6,,0001-03-08,Belarus,Belarus,,,,,,,,,Belarus,6,0
 PAK,Pakistan,30.375,69.345,Pakistan,,True,True,True,,JHU issue,6,,0001-03-08,Pakistan,Pakistan,,,,,,,,,Pakistan,6,0
 MEX,Mexico,23.635,-102.553,Mexico,,True,True,True,,JHU missing at noon on 3/8,7,,,Mexico,Mexico,True,True,right,,,,,,Mexico,7,0
-ARG,Argentina,-38.416,-63.617,Argentina,,True,True,True,,,,,,Argentina,Argentina,True,True,,,,,,,Argentina,9,1
 AZE,Azerbaijan,40.143,47.577,Azerbaijan,,True,True,True,,JHU issue,9,,0001-03-08,Azerbaijan,Azerbaijan,,,,,,,,,Azerbaijan,9,0
 EST,Estonia,58.595,25.014,Estonia,,True,True,True,,,,,,Estonia,Estonia,,,,,,,,,Estonia,10,0
 MAC,Macau,22.199,113.544,Macau,Macau,True,True,False,,,,,,Macau,Macau,,,,,,,,,Macau (Macau),10,0
@@ -58,6 +57,7 @@ PHL,Philippines,12.88,121.774,Philippines,,True,True,True,,JHU issue,5,,0001-03-
 SAU,Saudi Arabia,23.886,45.079,Saudi Arabia,,True,True,True,,JH dashboard but not sheet,1,,0001-03-07,Saudi Arabia,Saudi Arabia,,,,,,,,,Saudi Arabia,11,0
 POL,Poland,51.919,19.145,Poland,,True,True,True,,JHU issue,5,,0001-03-07,Poland,Poland,,,,,,,,,Poland,11,0
 AUS,,-36.56,143.25,Australia,Victoria,True,,,,,,,,,,,,,,,,,,Victoria (Australia),11,0
+ARG,Argentina,-38.416,-63.617,Argentina,,True,True,True,,,,,,Argentina,Argentina,True,True,,,,,,,Argentina,12,1
 HRV,Croatia,45.1,15.2,Croatia,,True,True,True,,,,,,Croatia,Croatia,,,,,,,,,Croatia,12,0
 GEO,Georgia,42.315,43.357,Georgia,,True,True,True,,JHU issue. keep,4,,0001-03-07,Georgia,Georgia,,,,,,,,,Georgia,13,0
 ECU,Ecuador,-1.831,-78.183,Ecuador,,True,True,True,,,,,,Ecuador,Ecuador,,,,,,,,,Ecuador,14,0
@@ -69,8 +69,8 @@ SVN,Slovenia,46.151,14.995,Slovenia,,True,True,True,,,,,,Slovenia,Slovenia,,,,,,
 RUS,Russia,61.524,105.319,Russia,,True,True,True,,,,,,Russia,Russia,True,True,,,,,,,Russia,17,0
 CHN,,35.39,93.99,Mainland China,Qinghai,True,,,,,,,,,,,,,,,,,,Qinghai (Mainland China),18,0
 DZA,Algeria,28.034,1.66,Algeria,,True,True,True,,,,,,Algeria,Algeria,True,True,,,,,,,Algeria,19,0
-IRL,Ireland,53.413,-8.244,Ireland,,True,True,True,,,,,,Ireland,Ireland,,,,,,,,,Ireland,19,0
 BRA,Brazil,-14.235,-51.925,Brazil,,True,True,True,,,,,,Brazil,Brazil,True,True,,,,,,,Brazil,20,0
+IRL,Ireland,53.413,-8.244,Republic of Ireland,,True,True,True,,Ireland dept of health,21,,0001-03-08,Ireland,Ireland,,,,,,,,,Republic of Ireland,21,0
 PSE,West Bank & Gaza,31.952,35.233,Palestine,,True,True,False,,,,,,West Bank & Gaza,West Bank & Gaza,,,,,,,,,Palestine,22,0
 FIN,Finland,61.924,25.748,Finland,,True,True,True,,,,,,Finland,Finland,,,,,,,,,Finland,23,0
 CAN,,54.84,-125.1,Canada,British Columbia,True,,,,,,,,,,,,,,,,,,British Columbia (Canada),27,0
@@ -116,14 +116,14 @@ SWE,Sweden,60.128,18.644,Sweden,,True,True,True,,,,,,Sweden,Sweden,,,,,,,,,Swede
 CHN,,35.63,106.12,Mainland China,Shaanxi,True,,,,,,,,,,,,,,,,,,Shaanxi (Mainland China),245,1
 CHN,,23.72,108.66,Mainland China,Guangxi,True,,,,,,,,,,,,,,,,,,Guangxi (Mainland China),252,2
 NLD,Netherlands,52.133,5.291,Netherlands,,True,True,True,,,,,,Netherlands,Netherlands,,,,,,,,,Netherlands,265,3
-GBR,U.K.,55.378,-3.436,UK,,True,True,True,,,,,,U.K.,UK,True,True,,,True,,,the United Kingdom,UK,273,2
+GBR,U.K.,55.378,-3.436,UK,,True,True,True,,,,,,U.K.,UK,True,True,,,True,,,the United Kingdom,UK,273,3
 CHN,,25.92,117.17,Mainland China,Fujian,True,,,,,,,,,,,,,,,,,,Fujian (Mainland China),296,1
 CHN,,38.48,115.24,Mainland China,Hebei,True,,,,,,,,,,,,,,,,,,Hebei (Mainland China),318,6
 CHE,Switzerland,46.818,8.228,Switzerland,,True,True,True,,https://twitter.com/BAG_OFSP_UFSP/status/1236609977323790339,281,,0001-03-08,Switzerland,Switzerland,,,,,,,,,Switzerland,337,2
 CHN,,31.19,121.48,Mainland China,Shanghai,True,,,,,,,,,,,,,,,,,,Shanghai (Mainland China),342,3
 CHN,,39.9,116.3,Mainland China,Beijing,True,,,,,,,,,,,,count_only,,,,,,Beijing (Mainland China),428,8
 CHN,,46.8,127.07,Mainland China,Heilongjiang,True,,,,,,,,,,,,,,,,,,Heilongjiang (Mainland China),481,13
-USA,United States,37.09,-95.713,US,,True,True,True,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,527,21
+USA,United States,37.09,-95.713,US,,True,True,True,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,536,21
 CHN,,30.8,103.8,Mainland China,Sichuan,True,,,,,,,,,,,,,,,,,,Sichuan (Mainland China),539,3
 CHN,,29.5,106.4,Mainland China,Chongqing,True,,,,,,,,,,,,,,,,,,Chongqing (Mainland China),576,6
 CHN,,33.15,119.58,Mainland China,Jiangsu,True,,,,,,,,,,,,,,,,,,Jiangsu (Mainland China),631,0

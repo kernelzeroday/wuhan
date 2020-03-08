@@ -270,7 +270,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 268,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 269,True,Washington,Snohomish,,Male,50s,3/6/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
 270,True,Washington,Jefferson,,Male,60s,3/6/2020,recovering at home,"community transfer, family member in Kirkland, WA ",Personal contact in U.S.,Yes,,Link,,,,,,"Thomas Locke, MD, MPH, Health Officer 360-385-9400",,,,Washington,False,2020-03-06
-271,True,Nebraska,Douglas,,Female,,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,Link,,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
+271,True,Nebraska,Douglas,,Female,36,3/6/2020,very seriously ill,Travel overseas,Travel overseas,No,University of Nebraska Medical Center,Link,Link,,,"Traveled in UK, had minor illness, went to Methodist Hospital, transferred to UNMC",,,,,,Nebraska,False,2020-03-06
 272,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 273,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 274,True,New York,Westchester,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,360-385-9400,,,,New York,False,2020-03-06
@@ -504,8 +504,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 502,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 503,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 504,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-505,True,Washington,Spokane,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-506,True,Washington,Pierce,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+505,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+506,True,Washington,Pierce,,Female,30s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
 507,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 508,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 509,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
@@ -519,11 +519,20 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 517,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 518,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 519,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-520,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-08
-521,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-08
+520,True,Pennsylvania,Montgomery,,Unknown,Adult,3/8/2020,Home isolation,international exposure,Travel overseas,no,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-08
+521,True,Pennsylvania,Montgomery,,Unknown,Adult,3/8/2020,Home isolation,international exposure,Travel overseas,no,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-08
 522,True,Nevada,Clark,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Nevada,False,2020-03-08
 523,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 524,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 525,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 526,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 527,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,home isolation,close contact with previous patient,Personal contact in U.S.,yes,,Link,,,,,,,,,,California,False,2020-03-08
+528,True,Kentucky,Fayette,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
+529,True,Kentucky,Harrison,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
+530,True,Kentucky,Jefferson,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
+531,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 272,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nebraska,False,2020-03-08
+532,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 273,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nebraska,False,2020-03-08
+533,True,Florida,Broward,,Male,67,3/8/2020,isolation (but don't know where),Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-08
+534,True,Iowa,Johnson ,,Unknown,41-60,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
+535,True,Iowa,Johnson ,,Unknown,61-80,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
+536,True,Iowa,Johnson ,,Unknown,61-81,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08

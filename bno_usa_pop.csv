@@ -2,11 +2,13 @@ NAME,POPESTIMATE2019,Cases,Deaths,Serious,Critical,Recovered,Links,Postal,Hospit
 Arizona,7278717,5,0,,,,Source,AZ,94
 California,39512223,96,1,,1,1,Source,CA,383
 Colorado,5758736,8,0,,,,Source,CO,91
-Florida,21477737,11,2,,,,Source,FL,211
+Connecticut,3565287,1,0,,,,Source,CT,37
+Florida,21477737,12,2,,,,Source,FL,211
 Georgia,10617423,5,0,,,,Source,GA,147
 Hawaii,1415872,1,0,,,,Source,HI,25
 Illinois,12671821,7,0,,,2,Source,IL,194
 Indiana,6732219,2,0,,,,Source,IN,147
+Iowa,3155070,3,0,,,,Source,IA,118
 Kansas,2913314,1,0,,,,Source,KS,139
 Kentucky,4467673,1,0,,,,Source,KY,102
 Maryland,6045680,5,0,0,0,0,Source,MD,56
