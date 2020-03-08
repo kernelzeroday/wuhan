@@ -7,10 +7,10 @@ France,1126,19,21,,12
 Germany,1040,0,,2,18
 Diamond Princess,696,7,32,,245
 Spain,673,17,11,,32
-United States,515,21,2,6,9
+United States,528,21,2,6,9
 Japan,461,6,29,,59
 Switzerland,332,2,,,3
-United Kingdom,273,2,,,12
+United Kingdom,273,3,,,12
 Netherlands,265,3,1,,
 Sweden,203,0,,,
 Belgium,200,0,1,,1
@@ -48,14 +48,14 @@ Russia,15,0,,,3
 Qatar,15,0,,,
 Ecuador,14,0,,1,
 Romania,14,0,,,4
+Argentina,12,1,,,
 Saudi Arabia,11,0,,,
 Poland,11,0,1,0,0
 Macau,10,0,,,6
 Croatia,10,0,,,
 Philippines,10,1,1,,2
+Chile,10,0,,,
 Georgia,9,0,1,,
-Argentina,9,1,,,
-Chile,8,0,,,
 Mexico,7,0,1,,1
 Peru,6,0,,,
 Belarus,6,0,,,
@@ -101,4 +101,4 @@ Gibraltar,1,0,1,,
 Serbia,1,0,,,
 Vatican City,1,0,,,
 Colombia,1,0,,,
-TOTAL,109622,3800,5840,61,60646
+TOTAL,109640,3801,5840,61,60646

@@ -1,7 +1,7 @@
 Country,Year_2016,Cases,Deaths,Serious,Critical,Recovered
 Afghanistan,34656032,4,0,,,
 Andorra,77281,1,0,,,
-Argentina,43847430,9,1,,,
+Argentina,43847430,12,1,,,
 Armenia,2924816,1,0,,,
 Australia,24127159,80,3,,,22
 Austria,8747358,104,0,,,
@@ -14,7 +14,7 @@ Brazil,207652865,19,0,,,
 Bhutan,797765,1,0,,,
 Canada,36286425,64,0,,1,8
 Switzerland,8372098,332,2,,,3
-Chile,17909754,8,0,,,
+Chile,17909754,10,0,,,
 Cameroon,23439189,2,0,,,
 Colombia,48653419,1,0,,,
 Costa Rica,4857274,5,0,1,,
@@ -29,7 +29,7 @@ Spain,46443959,673,17,11,,32
 Estonia,1316481,5,0,0,0,0
 Finland,5495096,23,0,,,1
 France,66896109,1126,19,21,,12
-United Kingdom,65637239,273,2,,,12
+United Kingdom,65637239,273,3,,,12
 Georgia,3719300,9,0,1,,
 Gibraltar,34408,1,0,1,,
 Greece,10746740,73,0,1,,
@@ -87,6 +87,6 @@ Togo,7606374,1,0,,,
 Thailand,68863514,47,1,1,,31
 Tunisia,11403248,2,0,,,
 Ukraine,45004645,1,0,,,
-United States,323127513,515,21,2,6,9
+United States,323127513,528,21,2,6,9
 Vietnam,92701100,30,0,,,16
 South Africa,55908865,3,0,,,

@@ -1,5 +1,5 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
-Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,26,0
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,30,0
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,7,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,14,0
@@ -17,7 +17,7 @@ Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1
 Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,True,12,0
 Napa,California,CA,38.507351,-122.325995,Napa County,CA NAPA,136484,6055,55,True,1,0
 Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,6023,23,True,1,0
-Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,4,0
+Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,5,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,True,1,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,8,0
 King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,84,18
@@ -33,7 +33,7 @@ Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,2
 Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,True,4,0
 San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,1,0
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,1,0
-Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,4,0
+Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,9,0
 Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,82,0
 Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,True,6,0
 Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,True,4,0
@@ -44,10 +44,10 @@ Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,15137
 Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,True,5,0
 Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,True,5,0
 Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,8059,59,True,1,0
-Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,True,3,0
+Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,True,4,0
 Douglas,Colorado,CO,39.326435,-104.926199,Douglas County,CO DOUGLAS,285465,8035,35,True,3,0
 Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,True,10,0
-Clark,Nevada,NV,36.214236,-115.013819,Clark County,NV CLARK,1951269,32003,3,True,1,0
+Clark,Nevada,NV,36.214236,-115.013819,Clark County,NV CLARK,1951269,32003,3,True,2,0
 Washoe,Nevada,NV,40.703311,-119.710315,Washoe County,NV WASHOE,421407,32031,31,True,2,0
 Wayne,Pennsylvania,PA,41.646589,-75.292485,Wayne County,PA WAYNE,52822,42127,127,True,1,0
 Delaware,Pennsylvania,PA,39.91667,-75.398786,Delaware County,PA DELAWARE,558979,42045,45,True,1,0
@@ -65,10 +65,10 @@ Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,Tru
 Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,2,0
 Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,1,0
 El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,8041,41,True,1,0
-Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,1,0
+Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,4,0
 Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,True,1,0
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,1,0
-Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,3,0
+Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,4,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
 Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,2,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
@@ -84,7 +84,7 @@ Queens,New York,NY,40.658557,-73.837929,Queens County,NY QUEENS,2230722,36081,81
 Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,1,0
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,True,1,0
 Johnson,Kansas,KS,38.883907,-94.82233,Johnson County,KS JOHNSON,544179,20091,91,True,1,0
-Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,2,0
+Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,4,0
 District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,True,1,0
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,True,1,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,True,1,0
@@ -107,3 +107,6 @@ Douglas,Oregon,OR,43.285904,-123.15438,Douglas County,OR DOUGLAS,107667,41019,19
 Marion,Oregon,OR,44.900898,-122.57626,Marion County,OR MARION,315335,41047,47,True,1,0
 Bronx,New York,NY,40.848711,-73.852939,Bronx County,NY BRONX,1385108,36005,5,True,1,0
 Unknown,Massachusetts,MA,,,,,,,,True,1,0
+Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,True,1,0
+Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,True,1,0
+Unknown,Washington,WA,,,,,,,,True,13,0
