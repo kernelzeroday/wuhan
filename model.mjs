@@ -14,6 +14,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "UAE",
 		world_map_label_name: "U.A.E.",
 		world_map_label: "",
@@ -26,7 +27,8 @@ var locations = [
 		sentence_name: "",
 		label: "United Arab Emirates",
 		confirmed: 45,
-		deaths: 0
+		deaths: 0,
+		recovered: 7
 	},
 	{
 		adm0_a3: "AFG",
@@ -43,6 +45,7 @@ var locations = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Afghanistan",
 		world_map_label_name: "Afghanistan",
 		world_map_label: "",
@@ -55,7 +58,8 @@ var locations = [
 		sentence_name: "",
 		label: "Afghanistan",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ARM",
@@ -72,6 +76,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Armenia",
 		world_map_label_name: "Armenia",
 		world_map_label: "",
@@ -84,7 +89,8 @@ var locations = [
 		sentence_name: "",
 		label: "Armenia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ARG",
@@ -101,6 +107,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Argentina",
 		world_map_label_name: "Argentina",
 		world_map_label: "y",
@@ -113,7 +120,8 @@ var locations = [
 		sentence_name: "",
 		label: "Argentina",
 		confirmed: 12,
-		deaths: 1
+		deaths: 1,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AUT",
@@ -130,6 +138,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Austria",
 		world_map_label_name: "Austria",
 		world_map_label: "",
@@ -141,8 +150,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Austria",
-		confirmed: 112,
-		deaths: 0
+		confirmed: 131,
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "AUS",
@@ -159,6 +169,7 @@ var locations = [
 		override_count: "76",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Australia",
 		world_map_label_name: "Australia",
 		world_map_label: "y",
@@ -170,8 +181,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Australia",
-		confirmed: 76,
-		deaths: 3
+		confirmed: 77,
+		deaths: 3,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AZE",
@@ -188,6 +200,7 @@ var locations = [
 		override_count: "9",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Azerbaijan",
 		world_map_label_name: "Azerbaijan",
 		world_map_label: "",
@@ -200,7 +213,8 @@ var locations = [
 		sentence_name: "",
 		label: "Azerbaijan",
 		confirmed: 9,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BIH",
@@ -217,6 +231,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Bosnia and Herzegovina",
 		world_map_label_name: "Bosnia and Herzegovina",
 		world_map_label: "",
@@ -229,7 +244,8 @@ var locations = [
 		sentence_name: "",
 		label: "Bosnia and Herzegovina",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BGD",
@@ -246,6 +262,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Bangladesh",
 		world_map_label_name: "Bangladesh",
 		world_map_label: "",
@@ -258,7 +275,8 @@ var locations = [
 		sentence_name: "",
 		label: "Bangladesh",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BEL",
@@ -275,6 +293,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Belgium",
 		world_map_label_name: "Belgium",
 		world_map_label: "",
@@ -286,8 +305,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Belgium",
-		confirmed: 200,
-		deaths: 0
+		confirmed: 239,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "BGR",
@@ -304,6 +324,7 @@ var locations = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Bulgaria",
 		world_map_label_name: "Bulgaria",
 		world_map_label: "",
@@ -316,7 +337,8 @@ var locations = [
 		sentence_name: "",
 		label: "Bulgaria",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BHR",
@@ -333,6 +355,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Bahrain",
 		world_map_label_name: "Bahrain",
 		world_map_label: "",
@@ -344,8 +367,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Bahrain",
-		confirmed: 85,
-		deaths: 0
+		confirmed: 95,
+		deaths: 0,
+		recovered: 14
 	},
 	{
 		adm0_a3: "BRA",
@@ -362,6 +386,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Brazil",
 		world_map_label_name: "Brazil",
 		world_map_label: "y",
@@ -373,8 +398,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Brazil",
-		confirmed: 20,
-		deaths: 0
+		confirmed: 25,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BTN",
@@ -391,6 +417,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 6",
+		override_fixed: "",
 		mobile_table_name: "Bhutan",
 		world_map_label_name: "Bhutan",
 		world_map_label: "",
@@ -403,7 +430,8 @@ var locations = [
 		sentence_name: "",
 		label: "Bhutan",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BLR",
@@ -420,6 +448,7 @@ var locations = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Belarus",
 		world_map_label_name: "Belarus",
 		world_map_label: "",
@@ -432,7 +461,8 @@ var locations = [
 		sentence_name: "",
 		label: "Belarus",
 		confirmed: 6,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CAN",
@@ -449,6 +479,7 @@ var locations = [
 		override_count: "62",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Canada",
 		world_map_label_name: "Canada",
 		world_map_label: "y",
@@ -461,7 +492,8 @@ var locations = [
 		sentence_name: "",
 		label: "Canada",
 		confirmed: 62,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHE",
@@ -478,6 +510,7 @@ var locations = [
 		override_count: "281",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Switzerland",
 		world_map_label_name: "Switzerland",
 		world_map_label: "",
@@ -489,8 +522,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Switzerland",
-		confirmed: 337,
-		deaths: 2
+		confirmed: 374,
+		deaths: 2,
+		recovered: 3
 	},
 	{
 		adm0_a3: "CHL",
@@ -507,6 +541,7 @@ var locations = [
 		override_count: "8",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Chile",
 		world_map_label_name: "Chile",
 		world_map_label: "",
@@ -519,7 +554,8 @@ var locations = [
 		sentence_name: "",
 		label: "Chile",
 		confirmed: 8,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CMR",
@@ -536,6 +572,7 @@ var locations = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Cameroon",
 		world_map_label_name: "Cameroon",
 		world_map_label: "",
@@ -548,7 +585,8 @@ var locations = [
 		sentence_name: "",
 		label: "Cameroon",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "COL",
@@ -565,6 +603,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Colombia",
 		world_map_label_name: "Colombia",
 		world_map_label: "",
@@ -577,7 +616,8 @@ var locations = [
 		sentence_name: "",
 		label: "Colombia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CRI",
@@ -594,6 +634,7 @@ var locations = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Costa Rica",
 		world_map_label_name: "Costa Rica",
 		world_map_label: "",
@@ -606,7 +647,8 @@ var locations = [
 		sentence_name: "",
 		label: "Costa Rica",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CZE",
@@ -623,6 +665,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Czechia",
 		world_map_label_name: "Czech Republic",
 		world_map_label: "",
@@ -635,7 +678,8 @@ var locations = [
 		sentence_name: "",
 		label: "Czech Republic",
 		confirmed: 31,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "DEU",
@@ -652,6 +696,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Germany",
 		world_map_label_name: "Germany",
 		world_map_label: "y",
@@ -663,8 +708,9 @@ var locations = [
 		label_offset_y: "-30",
 		sentence_name: "",
 		label: "Germany",
-		confirmed: 1112,
-		deaths: 0
+		confirmed: 1176,
+		deaths: 2,
+		recovered: 18
 	},
 	{
 		adm0_a3: "DNK",
@@ -681,6 +727,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Denmark",
 		world_map_label_name: "Denmark",
 		world_map_label: "",
@@ -692,8 +739,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Denmark",
-		confirmed: 35,
-		deaths: 0
+		confirmed: 90,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "DOM",
@@ -710,6 +758,7 @@ var locations = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Dominican Rep.",
 		world_map_label_name: "Dominican Rep.",
 		world_map_label: "",
@@ -722,7 +771,8 @@ var locations = [
 		sentence_name: "",
 		label: "Dominican Republic",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "DZA",
@@ -739,6 +789,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Algeria",
 		world_map_label_name: "Algeria",
 		world_map_label: "y",
@@ -750,8 +801,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Algeria",
-		confirmed: 19,
-		deaths: 0
+		confirmed: 20,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ECU",
@@ -768,6 +820,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Ecuador",
 		world_map_label_name: "Ecuador",
 		world_map_label: "",
@@ -780,7 +833,8 @@ var locations = [
 		sentence_name: "",
 		label: "Ecuador",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "EST",
@@ -797,6 +851,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Estonia",
 		world_map_label_name: "Estonia",
 		world_map_label: "",
@@ -809,7 +864,8 @@ var locations = [
 		sentence_name: "",
 		label: "Estonia",
 		confirmed: 10,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "EGY",
@@ -826,6 +882,7 @@ var locations = [
 		override_count: "48",
 		override_deaths: "1",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Egypt",
 		world_map_label_name: "Egypt",
 		world_map_label: "y",
@@ -837,8 +894,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Egypt",
-		confirmed: 49,
-		deaths: 1
+		confirmed: 55,
+		deaths: 1,
+		recovered: 12
 	},
 	{
 		adm0_a3: "ESP",
@@ -855,6 +913,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Spain",
 		world_map_label_name: "Spain",
 		world_map_label: "",
@@ -866,8 +925,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Spain",
-		confirmed: 675,
-		deaths: 17
+		confirmed: 1073,
+		deaths: 28,
+		recovered: 32
 	},
 	{
 		adm0_a3: "FIN",
@@ -884,6 +944,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Finland",
 		world_map_label_name: "Finland",
 		world_map_label: "",
@@ -896,7 +957,8 @@ var locations = [
 		sentence_name: "",
 		label: "Finland",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "FRO",
@@ -913,6 +975,7 @@ var locations = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Faroe Islands",
 		world_map_label_name: "Faroe Islands",
 		world_map_label: "",
@@ -925,7 +988,8 @@ var locations = [
 		sentence_name: "",
 		label: "Faroe Islands",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "FRA",
@@ -939,9 +1003,10 @@ var locations = [
 		in_country_count: "y",
 		travel_warning: "",
 		source: "via Aurelien Breeden, NYT",
-		override_count: "1191",
-		override_deaths: "21",
+		override_count: "1412",
+		override_deaths: "30",
 		override_date: "Mar. 8",
+		override_fixed: "y",
 		mobile_table_name: "France",
 		world_map_label_name: "France",
 		world_map_label: "y",
@@ -953,8 +1018,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "France",
-		confirmed: 1209,
-		deaths: 21
+		confirmed: 1412,
+		deaths: 30,
+		recovered: 12
 	},
 	{
 		adm0_a3: "GBR",
@@ -971,6 +1037,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "U.K.",
 		world_map_label_name: "UK",
 		world_map_label: "y",
@@ -982,8 +1049,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "the United Kingdom",
 		label: "UK",
-		confirmed: 273,
-		deaths: 3
+		confirmed: 321,
+		deaths: 4,
+		recovered: 18
 	},
 	{
 		adm0_a3: "GEO",
@@ -1000,6 +1068,7 @@ var locations = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Georgia",
 		world_map_label_name: "Georgia",
 		world_map_label: "",
@@ -1011,8 +1080,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Georgia",
-		confirmed: 13,
-		deaths: 0
+		confirmed: 15,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "GRC",
@@ -1029,6 +1099,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Greece",
 		world_map_label_name: "Greece",
 		world_map_label: "",
@@ -1041,7 +1112,8 @@ var locations = [
 		sentence_name: "",
 		label: "Greece",
 		confirmed: 73,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "HKG",
@@ -1058,6 +1130,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Hong Kong",
 		world_map_label_name: "Hong Kong",
 		world_map_label: "",
@@ -1069,8 +1142,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Hong Kong (Hong Kong)",
-		confirmed: 114,
-		deaths: 3
+		confirmed: 115,
+		deaths: 3,
+		recovered: 59
 	},
 	{
 		adm0_a3: "HRV",
@@ -1087,6 +1161,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Croatia",
 		world_map_label_name: "Croatia",
 		world_map_label: "",
@@ -1099,7 +1174,8 @@ var locations = [
 		sentence_name: "",
 		label: "Croatia",
 		confirmed: 12,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "HUN",
@@ -1116,6 +1192,7 @@ var locations = [
 		override_count: "7",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Hungary",
 		world_map_label_name: "Hungary",
 		world_map_label: "",
@@ -1128,7 +1205,8 @@ var locations = [
 		sentence_name: "",
 		label: "Hungary",
 		confirmed: 7,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IRL",
@@ -1145,6 +1223,7 @@ var locations = [
 		override_count: "21",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Ireland",
 		world_map_label_name: "Ireland",
 		world_map_label: "",
@@ -1157,7 +1236,8 @@ var locations = [
 		sentence_name: "",
 		label: "Ireland",
 		confirmed: 21,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ISR",
@@ -1174,6 +1254,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Israel",
 		world_map_label_name: "Israel",
 		world_map_label: "y",
@@ -1186,7 +1267,8 @@ var locations = [
 		sentence_name: "",
 		label: "Israel",
 		confirmed: 39,
-		deaths: 0
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "IND",
@@ -1203,6 +1285,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "India",
 		world_map_label_name: "India",
 		world_map_label: "y",
@@ -1215,7 +1298,8 @@ var locations = [
 		sentence_name: "",
 		label: "India",
 		confirmed: 43,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "IRQ",
@@ -1232,6 +1316,7 @@ var locations = [
 		override_count: "62",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Iraq",
 		world_map_label_name: "Iraq",
 		world_map_label: "",
@@ -1244,7 +1329,8 @@ var locations = [
 		sentence_name: "",
 		label: "Iraq",
 		confirmed: 62,
-		deaths: 6
+		deaths: 6,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IRN",
@@ -1261,6 +1347,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Iran",
 		world_map_label_name: "Iran",
 		world_map_label: "y",
@@ -1272,8 +1359,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iran",
-		confirmed: 6566,
-		deaths: 194
+		confirmed: 7161,
+		deaths: 237,
+		recovered: 2394
 	},
 	{
 		adm0_a3: "ISL",
@@ -1290,6 +1378,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Iceland",
 		world_map_label_name: "Iceland",
 		world_map_label: "y",
@@ -1301,8 +1390,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iceland",
-		confirmed: 50,
-		deaths: 0
+		confirmed: 58,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ITA",
@@ -1319,6 +1409,7 @@ var locations = [
 		override_count: "7375",
 		override_deaths: "366",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Italy",
 		world_map_label_name: "Italy",
 		world_map_label: "y",
@@ -1330,8 +1421,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Italy",
-		confirmed: 7375,
-		deaths: 366
+		confirmed: 9172,
+		deaths: 463,
+		recovered: 724
 	},
 	{
 		adm0_a3: "JOR",
@@ -1348,6 +1440,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Jordan",
 		world_map_label_name: "Jordan",
 		world_map_label: "",
@@ -1360,7 +1453,8 @@ var locations = [
 		sentence_name: "",
 		label: "Jordan",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "JPN",
@@ -1377,6 +1471,7 @@ var locations = [
 		override_count: "1198",
 		override_deaths: "12",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Japan",
 		world_map_label_name: "Japan",
 		world_map_label: "y",
@@ -1389,7 +1484,8 @@ var locations = [
 		sentence_name: "",
 		label: "Japan",
 		confirmed: 1198,
-		deaths: 17
+		deaths: 17,
+		recovered: 76
 	},
 	{
 		adm0_a3: "KHM",
@@ -1406,6 +1502,7 @@ var locations = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Cambodia",
 		world_map_label_name: "Cambodia",
 		world_map_label: "",
@@ -1418,7 +1515,8 @@ var locations = [
 		sentence_name: "",
 		label: "Cambodia",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "KOR",
@@ -1435,6 +1533,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "S. Korea",
 		world_map_label_name: "S. Korea",
 		world_map_label: "y",
@@ -1447,7 +1546,8 @@ var locations = [
 		sentence_name: "South Korea",
 		label: "South Korea",
 		confirmed: 7478,
-		deaths: 53
+		deaths: 53,
+		recovered: 118
 	},
 	{
 		adm0_a3: "KWT",
@@ -1464,6 +1564,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Kuwait",
 		world_map_label_name: "Kuwait",
 		world_map_label: "",
@@ -1476,7 +1577,8 @@ var locations = [
 		sentence_name: "",
 		label: "Kuwait",
 		confirmed: 64,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "LBN",
@@ -1493,6 +1595,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Lebanon",
 		world_map_label_name: "Lebanon",
 		world_map_label: "",
@@ -1505,7 +1608,8 @@ var locations = [
 		sentence_name: "",
 		label: "Lebanon",
 		confirmed: 32,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "LKA",
@@ -1522,6 +1626,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Sri Lanka",
 		world_map_label_name: "Sri Lanka",
 		world_map_label: "",
@@ -1534,7 +1639,8 @@ var locations = [
 		sentence_name: "",
 		label: "Sri Lanka",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LTU",
@@ -1551,6 +1657,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Lithuania",
 		world_map_label_name: "Lithuania",
 		world_map_label: "",
@@ -1563,7 +1670,8 @@ var locations = [
 		sentence_name: "",
 		label: "Lithuania",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LUX",
@@ -1580,6 +1688,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Luxembourg",
 		world_map_label_name: "Luxembourg",
 		world_map_label: "",
@@ -1592,7 +1701,8 @@ var locations = [
 		sentence_name: "",
 		label: "Luxembourg",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MCO",
@@ -1609,6 +1719,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Monaco",
 		world_map_label_name: "Monaco",
 		world_map_label: "",
@@ -1621,7 +1732,8 @@ var locations = [
 		sentence_name: "",
 		label: "Monaco",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MDA",
@@ -1638,6 +1750,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Moldova",
 		world_map_label_name: "Moldova",
 		world_map_label: "",
@@ -1650,7 +1763,8 @@ var locations = [
 		sentence_name: "",
 		label: "",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MKD",
@@ -1667,6 +1781,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "North Macedonia",
 		world_map_label_name: "North Macedonia",
 		world_map_label: "",
@@ -1679,7 +1794,8 @@ var locations = [
 		sentence_name: "",
 		label: "North Macedonia",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MAC",
@@ -1696,6 +1812,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Macau",
 		world_map_label_name: "Macau",
 		world_map_label: "",
@@ -1708,7 +1825,8 @@ var locations = [
 		sentence_name: "",
 		label: "Macau (Macau)",
 		confirmed: 10,
-		deaths: 0
+		deaths: 0,
+		recovered: 10
 	},
 	{
 		adm0_a3: "MTQ",
@@ -1725,6 +1843,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Martinique",
 		world_map_label_name: "Martinique",
 		world_map_label: "",
@@ -1737,7 +1856,8 @@ var locations = [
 		sentence_name: "",
 		label: "Martinique",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MLT",
@@ -1754,6 +1874,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Malta",
 		world_map_label_name: "Malta",
 		world_map_label: "",
@@ -1766,7 +1887,8 @@ var locations = [
 		sentence_name: "",
 		label: "Malta",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MDV",
@@ -1783,6 +1905,7 @@ var locations = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Maldives",
 		world_map_label_name: "Maldives",
 		world_map_label: "",
@@ -1795,7 +1918,8 @@ var locations = [
 		sentence_name: "",
 		label: "",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MEX",
@@ -1812,6 +1936,7 @@ var locations = [
 		override_count: "7",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Mexico",
 		world_map_label_name: "Mexico",
 		world_map_label: "y",
@@ -1824,7 +1949,8 @@ var locations = [
 		sentence_name: "",
 		label: "Mexico",
 		confirmed: 7,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MYS",
@@ -1841,6 +1967,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Malaysia",
 		world_map_label_name: "Malaysia",
 		world_map_label: "",
@@ -1853,7 +1980,8 @@ var locations = [
 		sentence_name: "",
 		label: "Malaysia",
 		confirmed: 117,
-		deaths: 0
+		deaths: 0,
+		recovered: 24
 	},
 	{
 		adm0_a3: "NGA",
@@ -1870,6 +1998,7 @@ var locations = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 9",
+		override_fixed: "",
 		mobile_table_name: "Nigeria",
 		world_map_label_name: "Nigeria",
 		world_map_label: "y",
@@ -1882,7 +2011,8 @@ var locations = [
 		sentence_name: "",
 		label: "Nigeria",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NLD",
@@ -1899,6 +2029,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Netherlands",
 		world_map_label_name: "Netherlands",
 		world_map_label: "",
@@ -1910,8 +2041,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Netherlands",
-		confirmed: 265,
-		deaths: 3
+		confirmed: 321,
+		deaths: 3,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NOR",
@@ -1928,6 +2060,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Norway",
 		world_map_label_name: "Norway",
 		world_map_label: "",
@@ -1939,8 +2072,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Norway",
-		confirmed: 176,
-		deaths: 0
+		confirmed: 205,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "NPL",
@@ -1957,6 +2091,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Nepal",
 		world_map_label_name: "Nepal",
 		world_map_label: "",
@@ -1969,7 +2104,8 @@ var locations = [
 		sentence_name: "",
 		label: "Nepal",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NZL",
@@ -1986,6 +2122,7 @@ var locations = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "New Zealand",
 		world_map_label_name: "New Zealand",
 		world_map_label: "y",
@@ -1998,7 +2135,8 @@ var locations = [
 		sentence_name: "",
 		label: "New Zealand",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "OMN",
@@ -2015,6 +2153,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Oman",
 		world_map_label_name: "Oman",
 		world_map_label: "",
@@ -2027,7 +2166,8 @@ var locations = [
 		sentence_name: "",
 		label: "Oman",
 		confirmed: 16,
-		deaths: 0
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "PER",
@@ -2044,6 +2184,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Peru",
 		world_map_label_name: "Peru",
 		world_map_label: "",
@@ -2056,7 +2197,8 @@ var locations = [
 		sentence_name: "",
 		label: "Peru",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PHL",
@@ -2073,6 +2215,7 @@ var locations = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Philippines",
 		world_map_label_name: "Philippines",
 		world_map_label: "",
@@ -2085,7 +2228,8 @@ var locations = [
 		sentence_name: "",
 		label: "Philippines",
 		confirmed: 20,
-		deaths: 1
+		deaths: 1,
+		recovered: 1
 	},
 	{
 		adm0_a3: "PAK",
@@ -2102,6 +2246,7 @@ var locations = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Pakistan",
 		world_map_label_name: "Pakistan",
 		world_map_label: "",
@@ -2114,7 +2259,8 @@ var locations = [
 		sentence_name: "",
 		label: "Pakistan",
 		confirmed: 6,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PSE",
@@ -2131,6 +2277,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "West Bank & Gaza",
 		world_map_label_name: "West Bank & Gaza",
 		world_map_label: "",
@@ -2143,7 +2290,8 @@ var locations = [
 		sentence_name: "",
 		label: "Palestine",
 		confirmed: 22,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PRY",
@@ -2160,6 +2308,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Paraguay",
 		world_map_label_name: "Paraguay",
 		world_map_label: "",
@@ -2172,7 +2321,8 @@ var locations = [
 		sentence_name: "",
 		label: "",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "QAT",
@@ -2189,6 +2339,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Qatar",
 		world_map_label_name: "Qatar",
 		world_map_label: "",
@@ -2200,8 +2351,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Qatar",
-		confirmed: 15,
-		deaths: 0
+		confirmed: 18,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ROU",
@@ -2218,6 +2370,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Romania",
 		world_map_label_name: "Romania",
 		world_map_label: "",
@@ -2230,7 +2383,8 @@ var locations = [
 		sentence_name: "",
 		label: "Romania",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "SRB",
@@ -2247,6 +2401,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Serbia",
 		world_map_label_name: "Serbia",
 		world_map_label: "",
@@ -2259,7 +2414,8 @@ var locations = [
 		sentence_name: "",
 		label: "Serbia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "RUS",
@@ -2276,6 +2432,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Russia",
 		world_map_label_name: "Russia",
 		world_map_label: "y",
@@ -2288,7 +2445,8 @@ var locations = [
 		sentence_name: "",
 		label: "Russia",
 		confirmed: 17,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "SWE",
@@ -2305,6 +2463,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Sweden",
 		world_map_label_name: "Sweden",
 		world_map_label: "",
@@ -2316,8 +2475,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Sweden",
-		confirmed: 203,
-		deaths: 0
+		confirmed: 248,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "SGP",
@@ -2334,6 +2494,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Singapore",
 		world_map_label_name: "Singapore",
 		world_map_label: "y",
@@ -2346,7 +2507,8 @@ var locations = [
 		sentence_name: "",
 		label: "Singapore",
 		confirmed: 150,
-		deaths: 0
+		deaths: 0,
+		recovered: 78
 	},
 	{
 		adm0_a3: "SVN",
@@ -2363,6 +2525,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Slovenia",
 		world_map_label_name: "Slovenia",
 		world_map_label: "",
@@ -2375,7 +2538,8 @@ var locations = [
 		sentence_name: "",
 		label: "Slovenia",
 		confirmed: 16,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SVK",
@@ -2392,6 +2556,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Slovakia",
 		world_map_label_name: "Slovakia",
 		world_map_label: "",
@@ -2404,7 +2569,8 @@ var locations = [
 		sentence_name: "",
 		label: "Slovakia",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SMR",
@@ -2421,6 +2587,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "San Marino",
 		world_map_label_name: "San Marino",
 		world_map_label: "",
@@ -2433,7 +2600,8 @@ var locations = [
 		sentence_name: "",
 		label: "San Marino",
 		confirmed: 36,
-		deaths: 1
+		deaths: 1,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SEN",
@@ -2450,6 +2618,7 @@ var locations = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Senegal",
 		world_map_label_name: "Senegal",
 		world_map_label: "",
@@ -2462,7 +2631,8 @@ var locations = [
 		sentence_name: "",
 		label: "Senegal",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "TGO",
@@ -2479,6 +2649,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Togo",
 		world_map_label_name: "Togo",
 		world_map_label: "",
@@ -2491,7 +2662,8 @@ var locations = [
 		sentence_name: "",
 		label: "Togo",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "THA",
@@ -2508,6 +2680,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Thailand",
 		world_map_label_name: "Thailand",
 		world_map_label: "",
@@ -2520,7 +2693,8 @@ var locations = [
 		sentence_name: "",
 		label: "Thailand",
 		confirmed: 50,
-		deaths: 1
+		deaths: 1,
+		recovered: 31
 	},
 	{
 		adm0_a3: "TWN",
@@ -2537,6 +2711,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Taiwan",
 		world_map_label_name: "Taiwan",
 		world_map_label: "",
@@ -2549,7 +2724,8 @@ var locations = [
 		sentence_name: "",
 		label: "Taiwan (Taiwan)",
 		confirmed: 45,
-		deaths: 1
+		deaths: 1,
+		recovered: 15
 	},
 	{
 		adm0_a3: "UKR",
@@ -2566,6 +2742,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Ukraine",
 		world_map_label_name: "Ukraine",
 		world_map_label: "",
@@ -2578,7 +2755,8 @@ var locations = [
 		sentence_name: "",
 		label: "Ukraine",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "VAT",
@@ -2595,6 +2773,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Vatican City",
 		world_map_label_name: "Vatican City",
 		world_map_label: "",
@@ -2607,7 +2786,8 @@ var locations = [
 		sentence_name: "",
 		label: "Vatican City",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "VNM",
@@ -2624,6 +2804,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Vietnam",
 		world_map_label_name: "Vietnam",
 		world_map_label: "",
@@ -2636,7 +2817,8 @@ var locations = [
 		sentence_name: "",
 		label: "Vietnam",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 16
 	},
 	{
 		adm0_a3: "ZAF",
@@ -2653,6 +2835,7 @@ var locations = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "South Africa",
 		world_map_label_name: "South Africa",
 		world_map_label: "y",
@@ -2665,7 +2848,8 @@ var locations = [
 		sentence_name: "",
 		label: "South Africa",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IDN",
@@ -2682,6 +2866,7 @@ var locations = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Indonesia",
 		world_map_label_name: "Indonesia",
 		world_map_label: "y",
@@ -2693,8 +2878,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Indonesia",
-		confirmed: 6,
-		deaths: 0
+		confirmed: 19,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHN",
@@ -2711,6 +2897,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "China",
 		world_map_label_name: "China",
 		world_map_label: "y",
@@ -2723,7 +2910,8 @@ var locations = [
 		sentence_name: "China",
 		label: "Mainland China",
 		confirmed: 80734,
-		deaths: 3119
+		deaths: 3120,
+		recovered: 0
 	},
 	{
 		adm0_a3: "USA",
@@ -2740,6 +2928,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "U.S.",
 		world_map_label_name: "U.S.",
 		world_map_label: "y",
@@ -2751,8 +2940,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "the United States",
 		label: "US",
-		confirmed: 545,
-		deaths: 22
+		confirmed: 589,
+		deaths: 22,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AND",
@@ -2769,6 +2959,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Andorra",
 		world_map_label_name: "Andorra",
 		world_map_label: "",
@@ -2781,7 +2972,8 @@ var locations = [
 		sentence_name: "",
 		label: "Andorra",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PRT",
@@ -2798,6 +2990,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Portugal",
 		world_map_label_name: "Portugal",
 		world_map_label: "",
@@ -2810,7 +3003,8 @@ var locations = [
 		sentence_name: "",
 		label: "Portugal",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LVA",
@@ -2827,6 +3021,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Latvia",
 		world_map_label_name: "Latvia",
 		world_map_label: "",
@@ -2839,7 +3034,8 @@ var locations = [
 		sentence_name: "",
 		label: "Latvia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SAU",
@@ -2856,6 +3052,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Saudi Arabia",
 		world_map_label_name: "Saudi Arabia",
 		world_map_label: "",
@@ -2868,7 +3065,8 @@ var locations = [
 		sentence_name: "",
 		label: "Saudi Arabia",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "GIB",
@@ -2885,6 +3083,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Gibraltar",
 		world_map_label_name: "Gibraltar",
 		world_map_label: "",
@@ -2897,7 +3096,8 @@ var locations = [
 		sentence_name: "",
 		label: "Gibraltar",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MAR",
@@ -2914,6 +3114,7 @@ var locations = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Morocco",
 		world_map_label_name: "Morocco",
 		world_map_label: "",
@@ -2926,7 +3127,8 @@ var locations = [
 		sentence_name: "",
 		label: "Morocco",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "TUN",
@@ -2943,6 +3145,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Tunisia",
 		world_map_label_name: "Tunisia",
 		world_map_label: "",
@@ -2955,7 +3158,8 @@ var locations = [
 		sentence_name: "",
 		label: "Tunisia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LIE",
@@ -2972,6 +3176,7 @@ var locations = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Liechtenstein",
 		world_map_label_name: "Liechtenstein",
 		world_map_label: "",
@@ -2984,7 +3189,8 @@ var locations = [
 		sentence_name: "",
 		label: "Liechtenstein",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "POL",
@@ -3001,6 +3207,7 @@ var locations = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Poland",
 		world_map_label_name: "Poland",
 		world_map_label: "",
@@ -3012,8 +3219,40 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Poland",
-		confirmed: 11,
-		deaths: 0
+		confirmed: 16,
+		deaths: 0,
+		recovered: 0
+	},
+	{
+		adm0_a3: "GUF",
+		nyt_name: "French Guiana",
+		lat: 3.934,
+		lon: -51.925,
+		jhu_location: "French Guiana",
+		jhu_sublocation: "",
+		active: "y",
+		in_region_table: "",
+		in_country_count: "",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		mobile_table_name: "French Guiana",
+		world_map_label_name: "French Guiana",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		label: "French Guiana",
+		confirmed: 0,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHN",
@@ -3030,6 +3269,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3042,7 +3282,8 @@ var locations = [
 		sentence_name: "",
 		label: "Anhui (Mainland China)",
 		confirmed: 990,
-		deaths: 6
+		deaths: 6,
+		recovered: 984
 	},
 	{
 		adm0_a3: "CHN",
@@ -3059,6 +3300,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3071,7 +3313,8 @@ var locations = [
 		sentence_name: "",
 		label: "Beijing (Mainland China)",
 		confirmed: 428,
-		deaths: 8
+		deaths: 8,
+		recovered: 315
 	},
 	{
 		adm0_a3: "CHN",
@@ -3088,6 +3331,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3100,7 +3344,8 @@ var locations = [
 		sentence_name: "",
 		label: "Chongqing (Mainland China)",
 		confirmed: 576,
-		deaths: 6
+		deaths: 6,
+		recovered: 535
 	},
 	{
 		adm0_a3: "CHN",
@@ -3117,6 +3362,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3129,7 +3375,8 @@ var locations = [
 		sentence_name: "",
 		label: "Fujian (Mainland China)",
 		confirmed: 296,
-		deaths: 1
+		deaths: 1,
+		recovered: 295
 	},
 	{
 		adm0_a3: "CHN",
@@ -3146,6 +3393,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3158,7 +3406,8 @@ var locations = [
 		sentence_name: "",
 		label: "Gansu (Mainland China)",
 		confirmed: 124,
-		deaths: 2
+		deaths: 2,
+		recovered: 88
 	},
 	{
 		adm0_a3: "CHN",
@@ -3175,6 +3424,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3187,7 +3437,8 @@ var locations = [
 		sentence_name: "",
 		label: "Guangdong (Mainland China)",
 		confirmed: 1352,
-		deaths: 8
+		deaths: 8,
+		recovered: 1260
 	},
 	{
 		adm0_a3: "CHN",
@@ -3204,6 +3455,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3216,7 +3468,8 @@ var locations = [
 		sentence_name: "",
 		label: "Guangxi (Mainland China)",
 		confirmed: 252,
-		deaths: 2
+		deaths: 2,
+		recovered: 230
 	},
 	{
 		adm0_a3: "CHN",
@@ -3233,6 +3486,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3245,7 +3499,8 @@ var locations = [
 		sentence_name: "",
 		label: "Guizhou (Mainland China)",
 		confirmed: 146,
-		deaths: 2
+		deaths: 2,
+		recovered: 123
 	},
 	{
 		adm0_a3: "CHN",
@@ -3262,6 +3517,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3274,7 +3530,8 @@ var locations = [
 		sentence_name: "",
 		label: "Hainan (Mainland China)",
 		confirmed: 168,
-		deaths: 6
+		deaths: 6,
+		recovered: 159
 	},
 	{
 		adm0_a3: "CHN",
@@ -3291,6 +3548,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3303,7 +3561,8 @@ var locations = [
 		sentence_name: "",
 		label: "Hebei (Mainland China)",
 		confirmed: 318,
-		deaths: 6
+		deaths: 6,
+		recovered: 307
 	},
 	{
 		adm0_a3: "CHN",
@@ -3320,6 +3579,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3332,7 +3592,8 @@ var locations = [
 		sentence_name: "",
 		label: "Heilongjiang (Mainland China)",
 		confirmed: 481,
-		deaths: 13
+		deaths: 13,
+		recovered: 430
 	},
 	{
 		adm0_a3: "CHN",
@@ -3349,6 +3610,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3361,7 +3623,8 @@ var locations = [
 		sentence_name: "",
 		label: "Henan (Mainland China)",
 		confirmed: 1272,
-		deaths: 22
+		deaths: 22,
+		recovered: 1247
 	},
 	{
 		adm0_a3: "CHN",
@@ -3378,6 +3641,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3390,7 +3654,8 @@ var locations = [
 		sentence_name: "",
 		label: "Hubei (Mainland China)",
 		confirmed: 67743,
-		deaths: 3007
+		deaths: 3008,
+		recovered: 46488
 	},
 	{
 		adm0_a3: "CHN",
@@ -3407,6 +3672,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3419,7 +3685,8 @@ var locations = [
 		sentence_name: "",
 		label: "Hunan (Mainland China)",
 		confirmed: 1018,
-		deaths: 4
+		deaths: 4,
+		recovered: 979
 	},
 	{
 		adm0_a3: "CHN",
@@ -3436,6 +3703,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3448,7 +3716,8 @@ var locations = [
 		sentence_name: "",
 		label: "Inner Mongolia (Mainland China)",
 		confirmed: 75,
-		deaths: 1
+		deaths: 1,
+		recovered: 70
 	},
 	{
 		adm0_a3: "CHN",
@@ -3465,6 +3734,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3477,7 +3747,8 @@ var locations = [
 		sentence_name: "",
 		label: "Jiangsu (Mainland China)",
 		confirmed: 631,
-		deaths: 0
+		deaths: 0,
+		recovered: 621
 	},
 	{
 		adm0_a3: "CHN",
@@ -3494,6 +3765,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3506,7 +3778,8 @@ var locations = [
 		sentence_name: "",
 		label: "Jiangxi (Mainland China)",
 		confirmed: 935,
-		deaths: 1
+		deaths: 1,
+		recovered: 923
 	},
 	{
 		adm0_a3: "CHN",
@@ -3523,6 +3796,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3535,7 +3809,8 @@ var locations = [
 		sentence_name: "",
 		label: "Jilin (Mainland China)",
 		confirmed: 93,
-		deaths: 1
+		deaths: 1,
+		recovered: 91
 	},
 	{
 		adm0_a3: "CHN",
@@ -3552,6 +3827,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3564,7 +3840,8 @@ var locations = [
 		sentence_name: "",
 		label: "Liaoning (Mainland China)",
 		confirmed: 125,
-		deaths: 1
+		deaths: 1,
+		recovered: 109
 	},
 	{
 		adm0_a3: "CHN",
@@ -3581,6 +3858,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3593,7 +3871,8 @@ var locations = [
 		sentence_name: "",
 		label: "Ningxia (Mainland China)",
 		confirmed: 75,
-		deaths: 0
+		deaths: 0,
+		recovered: 71
 	},
 	{
 		adm0_a3: "CHN",
@@ -3610,6 +3889,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3622,7 +3902,8 @@ var locations = [
 		sentence_name: "",
 		label: "Qinghai (Mainland China)",
 		confirmed: 18,
-		deaths: 0
+		deaths: 0,
+		recovered: 18
 	},
 	{
 		adm0_a3: "CHN",
@@ -3639,6 +3920,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3651,7 +3933,8 @@ var locations = [
 		sentence_name: "",
 		label: "Shaanxi (Mainland China)",
 		confirmed: 245,
-		deaths: 1
+		deaths: 1,
+		recovered: 227
 	},
 	{
 		adm0_a3: "CHN",
@@ -3668,6 +3951,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3680,7 +3964,8 @@ var locations = [
 		sentence_name: "",
 		label: "Shandong (Mainland China)",
 		confirmed: 758,
-		deaths: 6
+		deaths: 6,
+		recovered: 700
 	},
 	{
 		adm0_a3: "CHN",
@@ -3697,6 +3982,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3709,7 +3995,8 @@ var locations = [
 		sentence_name: "",
 		label: "Shanghai (Mainland China)",
 		confirmed: 342,
-		deaths: 3
+		deaths: 3,
+		recovered: 315
 	},
 	{
 		adm0_a3: "CHN",
@@ -3726,6 +4013,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3738,7 +4026,8 @@ var locations = [
 		sentence_name: "",
 		label: "Shanxi (Mainland China)",
 		confirmed: 133,
-		deaths: 0
+		deaths: 0,
+		recovered: 127
 	},
 	{
 		adm0_a3: "CHN",
@@ -3755,6 +4044,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3767,7 +4057,8 @@ var locations = [
 		sentence_name: "",
 		label: "Sichuan (Mainland China)",
 		confirmed: 539,
-		deaths: 3
+		deaths: 3,
+		recovered: 466
 	},
 	{
 		adm0_a3: "CHN",
@@ -3784,6 +4075,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3796,7 +4088,8 @@ var locations = [
 		sentence_name: "",
 		label: "Tianjin (Mainland China)",
 		confirmed: 136,
-		deaths: 3
+		deaths: 3,
+		recovered: 130
 	},
 	{
 		adm0_a3: "CHN",
@@ -3813,6 +4106,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3825,7 +4119,8 @@ var locations = [
 		sentence_name: "",
 		label: "Tibet (Mainland China)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHN",
@@ -3842,6 +4137,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3854,7 +4150,8 @@ var locations = [
 		sentence_name: "",
 		label: "Xinjiang (Mainland China)",
 		confirmed: 76,
-		deaths: 3
+		deaths: 3,
+		recovered: 73
 	},
 	{
 		adm0_a3: "CHN",
@@ -3871,6 +4168,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3883,7 +4181,8 @@ var locations = [
 		sentence_name: "",
 		label: "Yunnan (Mainland China)",
 		confirmed: 174,
-		deaths: 2
+		deaths: 2,
+		recovered: 170
 	},
 	{
 		adm0_a3: "CHN",
@@ -3900,6 +4199,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3912,7 +4212,8 @@ var locations = [
 		sentence_name: "",
 		label: "Zhejiang (Mainland China)",
 		confirmed: 1215,
-		deaths: 1
+		deaths: 1,
+		recovered: 1176
 	},
 	{
 		adm0_a3: "AUS",
@@ -3929,6 +4230,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3940,8 +4242,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "New South Wales (Australia)",
-		confirmed: 38,
-		deaths: 3
+		confirmed: 47,
+		deaths: 3,
+		recovered: 4
 	},
 	{
 		adm0_a3: "AUS",
@@ -3958,6 +4261,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3970,7 +4274,8 @@ var locations = [
 		sentence_name: "",
 		label: "Queensland (Australia)",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 8
 	},
 	{
 		adm0_a3: "AUS",
@@ -3987,6 +4292,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -3999,7 +4305,8 @@ var locations = [
 		sentence_name: "",
 		label: "South Australia (Australia)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AUS",
@@ -4016,6 +4323,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4027,8 +4335,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Victoria (Australia)",
-		confirmed: 11,
-		deaths: 0
+		confirmed: 15,
+		deaths: 0,
+		recovered: 7
 	},
 	{
 		adm0_a3: "AUS",
@@ -4045,6 +4354,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4057,7 +4367,8 @@ var locations = [
 		sentence_name: "",
 		label: "From Diamond Princess (Australia)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AUS",
@@ -4074,6 +4385,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4086,7 +4398,8 @@ var locations = [
 		sentence_name: "",
 		label: "Western Australia (Australia)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CAN",
@@ -4103,6 +4416,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4115,7 +4429,8 @@ var locations = [
 		sentence_name: "",
 		label: "British Columbia (Canada)",
 		confirmed: 27,
-		deaths: 0
+		deaths: 0,
+		recovered: 4
 	},
 	{
 		adm0_a3: "CAN",
@@ -4132,6 +4447,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4144,7 +4460,8 @@ var locations = [
 		sentence_name: "",
 		label: "London, ON (Canada)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CAN",
@@ -4161,6 +4478,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4172,8 +4490,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Ontario (Canada)",
-		confirmed: 32,
-		deaths: 0
+		confirmed: 34,
+		deaths: 0,
+		recovered: 4
 	},
 	{
 		adm0_a3: "CAN",
@@ -4190,6 +4509,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4202,7 +4522,8 @@ var locations = [
 		sentence_name: "",
 		label: "Toronto, ON (Canada)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CAN",
@@ -4219,6 +4540,7 @@ var locations = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "",
 		world_map_label_name: "",
 		world_map_label: "",
@@ -4231,7 +4553,8 @@ var locations = [
 		sentence_name: "",
 		label: "Montreal, QC (Canada)",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	}
 ];
 
@@ -4773,7 +5096,7 @@ var us_counties = [
 		countyfips: "36119",
 		county_id: "119",
 		active: "y",
-		confirmed: 82,
+		confirmed: 98,
 		deaths: 0
 	},
 	{
@@ -4803,7 +5126,7 @@ var us_counties = [
 		countyfips: "34003",
 		county_id: "3",
 		active: "y",
-		confirmed: 4,
+		confirmed: 5,
 		deaths: 0
 	},
 	{
@@ -4878,7 +5201,7 @@ var us_counties = [
 		countyfips: "36059",
 		county_id: "59",
 		active: "y",
-		confirmed: 5,
+		confirmed: 17,
 		deaths: 0
 	},
 	{
@@ -5088,7 +5411,7 @@ var us_counties = [
 		countyfips: "36087",
 		county_id: "87",
 		active: "y",
-		confirmed: 2,
+		confirmed: 4,
 		deaths: 0
 	},
 	{
@@ -5497,16 +5820,16 @@ var us_counties = [
 		deaths: 0
 	},
 	{
-		county: "Johnson",
+		county: "Wyandotte",
 		state: "Kansas",
 		postal: "KS",
-		lat: "38.883907",
-		lon: "-94.82233",
-		county_full: "Johnson County",
-		countytext: "KS JOHNSON",
-		population_2010: "544179",
-		countyfips: "20091",
-		county_id: "91",
+		lat: "39.115384",
+		lon: "-94.763087",
+		county_full: "Wyandotte County",
+		countytext: "KS WYANDOTTE",
+		population_2010: "157505",
+		countyfips: "20209",
+		county_id: "209",
 		active: "y",
 		confirmed: 1,
 		deaths: 0
@@ -5523,7 +5846,7 @@ var us_counties = [
 		countyfips: "42091",
 		county_id: "91",
 		active: "y",
-		confirmed: 4,
+		confirmed: 5,
 		deaths: 0
 	},
 	{
@@ -5990,6 +6313,111 @@ var us_counties = [
 		active: "y",
 		confirmed: 1,
 		deaths: 0
+	},
+	{
+		county: "Unknown",
+		state: "New York",
+		postal: "NY",
+		lat: "",
+		lon: "",
+		county_full: "",
+		countytext: "",
+		population_2010: "",
+		countyfips: "",
+		county_id: "",
+		active: "y",
+		confirmed: 6,
+		deaths: 0
+	},
+	{
+		county: "Arlington",
+		state: "Virginia",
+		postal: "VA",
+		lat: "38.878337",
+		lon: "-77.100703",
+		county_full: "Arlington County",
+		countytext: "VA ARLINGTON",
+		population_2010: "207627",
+		countyfips: "51013",
+		county_id: "13",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Larimer",
+		state: "Colorado",
+		postal: "CO",
+		lat: "40.663091",
+		lon: "-105.482131",
+		county_full: "Larimer County",
+		countytext: "CO LARIMER",
+		population_2010: "299630",
+		countyfips: "8069",
+		county_id: "69",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Collin",
+		state: "Texas",
+		postal: "TX",
+		lat: "33.193885",
+		lon: "-96.578153",
+		county_full: "Collin County",
+		countytext: "TX COLLIN",
+		population_2010: "782341",
+		countyfips: "48085",
+		county_id: "85",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Jefferson",
+		state: "Louisiana",
+		postal: "LA",
+		lat: "29.5033",
+		lon: "-90.036231",
+		county_full: "Jefferson Parish",
+		countytext: "LA JEFFERSON",
+		population_2010: "432552",
+		countyfips: "22051",
+		county_id: "51",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Monmouth",
+		state: "New Jersey",
+		postal: "NJ",
+		lat: "40.287056",
+		lon: "-74.152446",
+		county_full: "Monmouth County",
+		countytext: "NJ MONMOUTH",
+		population_2010: "630380",
+		countyfips: "34025",
+		county_id: "25",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Union",
+		state: "New Jersey",
+		postal: "NJ",
+		lat: "40.659871",
+		lon: "-74.308696",
+		county_full: "Union County",
+		countytext: "NJ UNION",
+		population_2010: "536499",
+		countyfips: "34039",
+		county_id: "39",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
 	}
 ];
 
@@ -6069,7 +6497,7 @@ var us_states = [
 		statefips: "8",
 		nytabbrev_name: "",
 		state: "Colorado",
-		confirmed: 8,
+		confirmed: 9,
 		deaths: 0
 	},
 	{
@@ -6238,7 +6666,7 @@ var us_states = [
 		statefips: "22",
 		nytabbrev_name: "",
 		state: "Louisiana",
-		confirmed: 0,
+		confirmed: 1,
 		deaths: 0
 	},
 	{
@@ -6407,7 +6835,7 @@ var us_states = [
 		statefips: "34",
 		nytabbrev_name: "",
 		state: "New Jersey",
-		confirmed: 6,
+		confirmed: 9,
 		deaths: 0
 	},
 	{
@@ -6446,7 +6874,7 @@ var us_states = [
 		statefips: "36",
 		nytabbrev_name: "N.Y.",
 		state: "New York",
-		confirmed: 106,
+		confirmed: 142,
 		deaths: 0
 	},
 	{
@@ -6498,7 +6926,7 @@ var us_states = [
 		statefips: "42",
 		nytabbrev_name: "",
 		state: "Pennsylvania",
-		confirmed: 6,
+		confirmed: 7,
 		deaths: 0
 	},
 	{
@@ -6563,7 +6991,7 @@ var us_states = [
 		statefips: "48",
 		nytabbrev_name: "Texas",
 		state: "Texas",
-		confirmed: 23,
+		confirmed: 24,
 		deaths: 0
 	},
 	{
@@ -6589,7 +7017,7 @@ var us_states = [
 		statefips: "51",
 		nytabbrev_name: "",
 		state: "Virginia",
-		confirmed: 2,
+		confirmed: 3,
 		deaths: 0
 	},
 	{
@@ -6686,6 +7114,90 @@ var us_states = [
 ];
 
 var us_cases = [
+	{
+		ID: "",
+		GFX: "",
+		"State where treated": "New Jersey",
+		"County where treated": "Bergen",
+		"Place of residence, if known to be different": "",
+		Gender: "Male",
+		Age: "30",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "Holy Name Health",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "",
+		nyt_died: "",
+		nyt_date: ""
+	},
+	{
+		ID: "",
+		GFX: "",
+		"State where treated": "New Jersey",
+		"County where treated": "Union",
+		"Place of residence, if known to be different": "",
+		Gender: "Male",
+		Age: "48",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "Overlook Medical Center",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "",
+		nyt_died: "",
+		nyt_date: ""
+	},
+	{
+		ID: "",
+		GFX: "",
+		"State where treated": "New Jersey",
+		"County where treated": "Monmouth",
+		"Place of residence, if known to be different": "",
+		Gender: "Male",
+		Age: "83",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "Bayshore Medical Center",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "",
+		nyt_died: "",
+		nyt_date: ""
+	},
 	{
 		ID: "1",
 		GFX: "y",
@@ -9045,7 +9557,7 @@ var us_cases = [
 		"County where treated": "Manatee",
 		"Place of residence, if known to be different": "",
 		Gender: "Male",
-		Age: "60s",
+		Age: "63",
 		"Date announced": "3/1/2020",
 		Condition: "stable",
 		"How contracted?": "Unknown, no relevant travel history",
@@ -9441,7 +9953,7 @@ var us_cases = [
 		"Date announced": "3/2/2020",
 		Condition: "hospitalized",
 		"How contracted?": "Apparently on a cruise from San Francisco to Mexico; same as row #126",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -10169,7 +10681,7 @@ var us_cases = [
 		"Date announced": "3/3/2020",
 		Condition: "died (announced 3/4)",
 		"How contracted?": "On cruise from San Francisco to Mexico, same as row #100",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "Kaiser Permanente Roseville",
 		"Press release": "Link",
@@ -11229,7 +11741,7 @@ var us_cases = [
 		"County where treated": "Santa Rosa",
 		"Place of residence, if known to be different": "",
 		Gender: "Male",
-		Age: "70s",
+		Age: "71",
 		"Date announced": "3/5/2020",
 		Condition: "died (announced 3/6)",
 		"How contracted?": "Traveled to Israel/Egypt area",
@@ -13025,7 +13537,7 @@ var us_cases = [
 		"Date announced": "3/5/2020",
 		Condition: "stable",
 		"How contracted?": "Travel on Grand Princess cruise from San Francisco to Mexico",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "Home isolation",
 		"Press release": "Link",
@@ -13725,7 +14237,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "home isolation",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -13753,7 +14265,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "home isolation",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -13893,7 +14405,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "had mild symptoms, since recovered",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -13921,7 +14433,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "had mild symptoms, since recovered",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -13949,7 +14461,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "mild symptoms",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -14587,12 +15099,12 @@ var us_cases = [
 		GFX: "y",
 		"State where treated": "Kentucky",
 		"County where treated": "Fayette",
-		"Place of residence, if known to be different": "Harrison County, Kentucky",
+		"Place of residence, if known to be different": "Unknown, believed to be a community transfer, link to row 530",
 		Gender: "Unknown",
 		Age: "Unknown",
 		"Date announced": "3/6/2020",
 		Condition: "Unknown",
-		"How contracted?": "Unknown",
+		"How contracted?": "Unknown, believed to be a community transfer",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "University of Kentucky Albert B. Chandler Hospital",
@@ -15097,7 +15609,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "hospitalized, stable",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -15125,7 +15637,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "doing fine",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -15177,7 +15689,7 @@ var us_cases = [
 		"County where treated": "Lee",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
-		Age: "70s",
+		Age: "77",
 		"Date announced": "3/6/2020",
 		Condition: "died 3/5 (announced 3/6)",
 		"How contracted?": "Traveled to the Dominican Republic",
@@ -15265,7 +15777,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "home isolation",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -15316,11 +15828,11 @@ var us_cases = [
 		"State where treated": "Florida",
 		"County where treated": "Lee",
 		"Place of residence, if known to be different": "",
-		Gender: "Unknown",
-		Age: "Unknown",
+		Gender: "Male",
+		Age: "77",
 		"Date announced": "3/7/2020",
 		Condition: "Unknown",
-		"How contracted?": "Unknown",
+		"How contracted?": "Travel overseas",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
@@ -15489,7 +16001,7 @@ var us_cases = [
 		"Date announced": "3/7/2020",
 		Condition: "hospitalized, stable",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -17281,7 +17793,7 @@ var us_cases = [
 		"Date announced": "3/6/2020",
 		Condition: "Hospitalized",
 		"How contracted?": "Grand Princess cruise from feb. 11 to feb. 24",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -17305,7 +17817,7 @@ var us_cases = [
 		"County where treated": "Charlotte",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
-		Age: "50s",
+		Age: "54",
 		"Date announced": "3/7/2020",
 		Condition: "Unknown - isolated",
 		"How contracted?": "Travel in Israel/Egypt area",
@@ -17750,8 +18262,8 @@ var us_cases = [
 		ID: "396",
 		GFX: "y",
 		"State where treated": "Kansas",
-		"County where treated": "Johnson",
-		"Place of residence, if known to be different": "",
+		"County where treated": "Wyandotte",
+		"Place of residence, if known to be different": "Johnson County, Kansas. University of Kansas Hospital",
 		Gender: "Female",
 		Age: "Under 50",
 		"Date announced": "3/7/2020",
@@ -18233,7 +18745,7 @@ var us_cases = [
 		"Date announced": "3/7/2020",
 		Condition: "Unknown",
 		"How contracted?": "On the Grand Princess cruise from San Francisco to Mexico between Feb. 11 and Feb. 21",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -18285,7 +18797,7 @@ var us_cases = [
 		"County where treated": "Okaloosa",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
-		Age: "66",
+		Age: "61",
 		"Date announced": "3/7/2020",
 		Condition: "isolated",
 		"How contracted?": "Overseas travel",
@@ -18313,7 +18825,7 @@ var us_cases = [
 		"County where treated": "Volusia",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
-		Age: "61",
+		Age: "66",
 		"Date announced": "3/7/2020",
 		Condition: "isolated",
 		"How contracted?": "Overseas travel",
@@ -18373,7 +18885,7 @@ var us_cases = [
 		"Date announced": "3/7/2020",
 		Condition: "Unknown",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -18428,7 +18940,7 @@ var us_cases = [
 		Age: "81",
 		"Date announced": "3/7/2020",
 		Condition: "Unknown",
-		"How contracted?": "Unknown",
+		"How contracted?": "Overseas travel",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
@@ -20617,7 +21129,7 @@ var us_cases = [
 		"Contracted in United States?": "no",
 		Hospital: "",
 		"Press release": "Link",
-		"Press release 2": "",
+		"Press release 2": "Link",
 		"Press release 3": "",
 		"Health care worker?": "",
 		"Special circumstances?": "",
@@ -21480,7 +21992,7 @@ var us_cases = [
 		Age: "Unknown",
 		"Date announced": "3/8/2020",
 		Condition: "isolation (but don't know where)",
-		"How contracted?": "unknown",
+		"How contracted?": "unknown, linked to row 284",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
@@ -21589,7 +22101,7 @@ var us_cases = [
 		"County where treated": "Broward",
 		"Place of residence, if known to be different": "",
 		Gender: "Male",
-		Age: "67",
+		Age: "65",
 		"Date announced": "3/8/2020",
 		Condition: "isolation (but don't know where)",
 		"How contracted?": "Unknown",
@@ -21733,7 +22245,7 @@ var us_cases = [
 		"Date announced": "3/8/2020",
 		Condition: "unknown",
 		"How contracted?": "Grand Princess cruise",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -21761,7 +22273,7 @@ var us_cases = [
 		"Date announced": "3/8/2020",
 		Condition: "unknown",
 		"How contracted?": "Grand Princess cruise ",
-		nyt_contracted: "Grand Princess cruise ship",
+		nyt_contracted: "Grand Princess cruise in February",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
@@ -21945,6 +22457,1154 @@ var us_cases = [
 		nyt_state: "Hawaii",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-08"
+	},
+	{
+		ID: "546",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "547",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "548",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "549",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "550",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "551",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "552",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "553",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "554",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "555",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "556",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "557",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "558",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "559",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "560",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "561",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Westchester",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "562",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "563",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "564",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "565",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "566",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "567",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "NYC case; seeking county",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "568",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "569",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "570",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "571",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "572",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "573",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "574",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "575",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "576",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "577",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "578",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "579",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Nassau",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "580",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Rockland",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "581",
+		GFX: "y",
+		"State where treated": "New York",
+		"County where treated": "Rockland",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "New York",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "582",
+		GFX: "y",
+		"State where treated": "Virginia",
+		"County where treated": "Arlington",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "60s",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Travel overseas",
+		nyt_contracted: "Travel overseas",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "Link",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "Virginia",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "583",
+		GFX: "y",
+		"State where treated": "Pennsylvania",
+		"County where treated": "Montgomery",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Adult",
+		"Date announced": "3/9/2020",
+		Condition: "Critical",
+		"How contracted?": "Travel overseas",
+		nyt_contracted: "Travel overseas",
+		"Contracted in United States?": "No",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "Pennsylvania",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "584",
+		GFX: "y",
+		"State where treated": "Colorado",
+		"County where treated": "Larimer",
+		"Place of residence, if known to be different": "",
+		Gender: "Female",
+		Age: "50s",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown, diagnosed with pneumonia ",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "Colorado",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "585",
+		GFX: "y",
+		"State where treated": "Texas",
+		"County where treated": "Collin",
+		"Place of residence, if known to be different": "",
+		Gender: "Male",
+		Age: "30s",
+		"Date announced": "3/9/2020",
+		Condition: "home isolation",
+		"How contracted?": "Travel in California",
+		nyt_contracted: "Travel within the U.S.",
+		"Contracted in United States?": "Yes",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "Texas",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
+	},
+	{
+		ID: "586",
+		GFX: "y",
+		"State where treated": "Louisiana",
+		"County where treated": "Jefferson",
+		"Place of residence, if known to be different": "",
+		Gender: "Unknown",
+		Age: "Unknown",
+		"Date announced": "3/9/2020",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
+		Hospital: "",
+		"Press release": "Link",
+		"Press release 2": "",
+		"Press release 3": "",
+		"Health care worker?": "",
+		"Special circumstances?": "",
+		"NYT link": "",
+		"PIO contact": "",
+		Name: "",
+		"Family contact": "",
+		"": "",
+		nyt_state: "Louisiana",
+		nyt_died: "FALSE",
+		nyt_date: "2020-03-09"
 	}
 ];
 
@@ -21964,6 +23624,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "UAE",
 		world_map_label_name: "U.A.E.",
 		world_map_label: "",
@@ -21976,7 +23637,8 @@ var countries = [
 		sentence_name: "",
 		label: "United Arab Emirates",
 		confirmed: 45,
-		deaths: 0
+		deaths: 0,
+		recovered: 7
 	},
 	{
 		adm0_a3: "AFG",
@@ -21993,6 +23655,7 @@ var countries = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Afghanistan",
 		world_map_label_name: "Afghanistan",
 		world_map_label: "",
@@ -22005,7 +23668,8 @@ var countries = [
 		sentence_name: "",
 		label: "Afghanistan",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ARM",
@@ -22022,6 +23686,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Armenia",
 		world_map_label_name: "Armenia",
 		world_map_label: "",
@@ -22034,7 +23699,8 @@ var countries = [
 		sentence_name: "",
 		label: "Armenia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ARG",
@@ -22051,6 +23717,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Argentina",
 		world_map_label_name: "Argentina",
 		world_map_label: "y",
@@ -22063,7 +23730,8 @@ var countries = [
 		sentence_name: "",
 		label: "Argentina",
 		confirmed: 12,
-		deaths: 1
+		deaths: 1,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AUT",
@@ -22080,6 +23748,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Austria",
 		world_map_label_name: "Austria",
 		world_map_label: "",
@@ -22091,8 +23760,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Austria",
-		confirmed: 112,
-		deaths: 0
+		confirmed: 131,
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "AUS",
@@ -22109,6 +23779,7 @@ var countries = [
 		override_count: "76",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Australia",
 		world_map_label_name: "Australia",
 		world_map_label: "y",
@@ -22120,8 +23791,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Australia",
-		confirmed: 76,
-		deaths: 3
+		confirmed: 77,
+		deaths: 3,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AZE",
@@ -22138,6 +23810,7 @@ var countries = [
 		override_count: "9",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Azerbaijan",
 		world_map_label_name: "Azerbaijan",
 		world_map_label: "",
@@ -22150,7 +23823,8 @@ var countries = [
 		sentence_name: "",
 		label: "Azerbaijan",
 		confirmed: 9,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BIH",
@@ -22167,6 +23841,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Bosnia and Herzegovina",
 		world_map_label_name: "Bosnia and Herzegovina",
 		world_map_label: "",
@@ -22179,7 +23854,8 @@ var countries = [
 		sentence_name: "",
 		label: "Bosnia and Herzegovina",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BGD",
@@ -22196,6 +23872,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Bangladesh",
 		world_map_label_name: "Bangladesh",
 		world_map_label: "",
@@ -22208,7 +23885,8 @@ var countries = [
 		sentence_name: "",
 		label: "Bangladesh",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BEL",
@@ -22225,6 +23903,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Belgium",
 		world_map_label_name: "Belgium",
 		world_map_label: "",
@@ -22236,8 +23915,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Belgium",
-		confirmed: 200,
-		deaths: 0
+		confirmed: 239,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "BGR",
@@ -22254,6 +23934,7 @@ var countries = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Bulgaria",
 		world_map_label_name: "Bulgaria",
 		world_map_label: "",
@@ -22266,7 +23947,8 @@ var countries = [
 		sentence_name: "",
 		label: "Bulgaria",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BHR",
@@ -22283,6 +23965,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Bahrain",
 		world_map_label_name: "Bahrain",
 		world_map_label: "",
@@ -22294,8 +23977,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Bahrain",
-		confirmed: 85,
-		deaths: 0
+		confirmed: 95,
+		deaths: 0,
+		recovered: 14
 	},
 	{
 		adm0_a3: "BRA",
@@ -22312,6 +23996,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Brazil",
 		world_map_label_name: "Brazil",
 		world_map_label: "y",
@@ -22323,8 +24008,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Brazil",
-		confirmed: 20,
-		deaths: 0
+		confirmed: 25,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BTN",
@@ -22341,6 +24027,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 6",
+		override_fixed: "",
 		mobile_table_name: "Bhutan",
 		world_map_label_name: "Bhutan",
 		world_map_label: "",
@@ -22353,7 +24040,8 @@ var countries = [
 		sentence_name: "",
 		label: "Bhutan",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "BLR",
@@ -22370,6 +24058,7 @@ var countries = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Belarus",
 		world_map_label_name: "Belarus",
 		world_map_label: "",
@@ -22382,7 +24071,8 @@ var countries = [
 		sentence_name: "",
 		label: "Belarus",
 		confirmed: 6,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CAN",
@@ -22399,6 +24089,7 @@ var countries = [
 		override_count: "62",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Canada",
 		world_map_label_name: "Canada",
 		world_map_label: "y",
@@ -22411,7 +24102,8 @@ var countries = [
 		sentence_name: "",
 		label: "Canada",
 		confirmed: 62,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHE",
@@ -22428,6 +24120,7 @@ var countries = [
 		override_count: "281",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Switzerland",
 		world_map_label_name: "Switzerland",
 		world_map_label: "",
@@ -22439,8 +24132,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Switzerland",
-		confirmed: 337,
-		deaths: 2
+		confirmed: 374,
+		deaths: 2,
+		recovered: 3
 	},
 	{
 		adm0_a3: "CHL",
@@ -22457,6 +24151,7 @@ var countries = [
 		override_count: "8",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Chile",
 		world_map_label_name: "Chile",
 		world_map_label: "",
@@ -22469,7 +24164,8 @@ var countries = [
 		sentence_name: "",
 		label: "Chile",
 		confirmed: 8,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CMR",
@@ -22486,6 +24182,7 @@ var countries = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Cameroon",
 		world_map_label_name: "Cameroon",
 		world_map_label: "",
@@ -22498,7 +24195,8 @@ var countries = [
 		sentence_name: "",
 		label: "Cameroon",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "COL",
@@ -22515,6 +24213,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Colombia",
 		world_map_label_name: "Colombia",
 		world_map_label: "",
@@ -22527,7 +24226,8 @@ var countries = [
 		sentence_name: "",
 		label: "Colombia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CRI",
@@ -22544,6 +24244,7 @@ var countries = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Costa Rica",
 		world_map_label_name: "Costa Rica",
 		world_map_label: "",
@@ -22556,7 +24257,8 @@ var countries = [
 		sentence_name: "",
 		label: "Costa Rica",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CZE",
@@ -22573,6 +24275,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Czechia",
 		world_map_label_name: "Czech Republic",
 		world_map_label: "",
@@ -22585,7 +24288,8 @@ var countries = [
 		sentence_name: "",
 		label: "Czech Republic",
 		confirmed: 31,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "DEU",
@@ -22602,6 +24306,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Germany",
 		world_map_label_name: "Germany",
 		world_map_label: "y",
@@ -22613,8 +24318,9 @@ var countries = [
 		label_offset_y: "-30",
 		sentence_name: "",
 		label: "Germany",
-		confirmed: 1112,
-		deaths: 0
+		confirmed: 1176,
+		deaths: 2,
+		recovered: 18
 	},
 	{
 		adm0_a3: "DNK",
@@ -22631,6 +24337,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Denmark",
 		world_map_label_name: "Denmark",
 		world_map_label: "",
@@ -22642,8 +24349,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Denmark",
-		confirmed: 35,
-		deaths: 0
+		confirmed: 90,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "DOM",
@@ -22660,6 +24368,7 @@ var countries = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Dominican Rep.",
 		world_map_label_name: "Dominican Rep.",
 		world_map_label: "",
@@ -22672,7 +24381,8 @@ var countries = [
 		sentence_name: "",
 		label: "Dominican Republic",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "DZA",
@@ -22689,6 +24399,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Algeria",
 		world_map_label_name: "Algeria",
 		world_map_label: "y",
@@ -22700,8 +24411,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Algeria",
-		confirmed: 19,
-		deaths: 0
+		confirmed: 20,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ECU",
@@ -22718,6 +24430,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Ecuador",
 		world_map_label_name: "Ecuador",
 		world_map_label: "",
@@ -22730,7 +24443,8 @@ var countries = [
 		sentence_name: "",
 		label: "Ecuador",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "EST",
@@ -22747,6 +24461,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Estonia",
 		world_map_label_name: "Estonia",
 		world_map_label: "",
@@ -22759,7 +24474,8 @@ var countries = [
 		sentence_name: "",
 		label: "Estonia",
 		confirmed: 10,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "EGY",
@@ -22776,6 +24492,7 @@ var countries = [
 		override_count: "48",
 		override_deaths: "1",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Egypt",
 		world_map_label_name: "Egypt",
 		world_map_label: "y",
@@ -22787,8 +24504,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Egypt",
-		confirmed: 49,
-		deaths: 1
+		confirmed: 55,
+		deaths: 1,
+		recovered: 12
 	},
 	{
 		adm0_a3: "ESP",
@@ -22805,6 +24523,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Spain",
 		world_map_label_name: "Spain",
 		world_map_label: "",
@@ -22816,8 +24535,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Spain",
-		confirmed: 675,
-		deaths: 17
+		confirmed: 1073,
+		deaths: 28,
+		recovered: 32
 	},
 	{
 		adm0_a3: "FIN",
@@ -22834,6 +24554,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Finland",
 		world_map_label_name: "Finland",
 		world_map_label: "",
@@ -22846,7 +24567,8 @@ var countries = [
 		sentence_name: "",
 		label: "Finland",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "FRO",
@@ -22863,6 +24585,7 @@ var countries = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Faroe Islands",
 		world_map_label_name: "Faroe Islands",
 		world_map_label: "",
@@ -22875,7 +24598,8 @@ var countries = [
 		sentence_name: "",
 		label: "Faroe Islands",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "FRA",
@@ -22889,9 +24613,10 @@ var countries = [
 		in_country_count: "y",
 		travel_warning: "",
 		source: "via Aurelien Breeden, NYT",
-		override_count: "1191",
-		override_deaths: "21",
+		override_count: "1412",
+		override_deaths: "30",
 		override_date: "Mar. 8",
+		override_fixed: "y",
 		mobile_table_name: "France",
 		world_map_label_name: "France",
 		world_map_label: "y",
@@ -22903,8 +24628,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "France",
-		confirmed: 1209,
-		deaths: 21
+		confirmed: 1412,
+		deaths: 30,
+		recovered: 12
 	},
 	{
 		adm0_a3: "GBR",
@@ -22921,6 +24647,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "U.K.",
 		world_map_label_name: "UK",
 		world_map_label: "y",
@@ -22932,8 +24659,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "the United Kingdom",
 		label: "UK",
-		confirmed: 273,
-		deaths: 3
+		confirmed: 321,
+		deaths: 4,
+		recovered: 18
 	},
 	{
 		adm0_a3: "GEO",
@@ -22950,6 +24678,7 @@ var countries = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Georgia",
 		world_map_label_name: "Georgia",
 		world_map_label: "",
@@ -22961,8 +24690,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Georgia",
-		confirmed: 13,
-		deaths: 0
+		confirmed: 15,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "GRC",
@@ -22979,6 +24709,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Greece",
 		world_map_label_name: "Greece",
 		world_map_label: "",
@@ -22991,7 +24722,8 @@ var countries = [
 		sentence_name: "",
 		label: "Greece",
 		confirmed: 73,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "HKG",
@@ -23008,6 +24740,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Hong Kong",
 		world_map_label_name: "Hong Kong",
 		world_map_label: "",
@@ -23019,8 +24752,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Hong Kong (Hong Kong)",
-		confirmed: 114,
-		deaths: 3
+		confirmed: 115,
+		deaths: 3,
+		recovered: 59
 	},
 	{
 		adm0_a3: "HRV",
@@ -23037,6 +24771,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Croatia",
 		world_map_label_name: "Croatia",
 		world_map_label: "",
@@ -23049,7 +24784,8 @@ var countries = [
 		sentence_name: "",
 		label: "Croatia",
 		confirmed: 12,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "HUN",
@@ -23066,6 +24802,7 @@ var countries = [
 		override_count: "7",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Hungary",
 		world_map_label_name: "Hungary",
 		world_map_label: "",
@@ -23078,7 +24815,8 @@ var countries = [
 		sentence_name: "",
 		label: "Hungary",
 		confirmed: 7,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IRL",
@@ -23095,6 +24833,7 @@ var countries = [
 		override_count: "21",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Ireland",
 		world_map_label_name: "Ireland",
 		world_map_label: "",
@@ -23107,7 +24846,8 @@ var countries = [
 		sentence_name: "",
 		label: "Ireland",
 		confirmed: 21,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ISR",
@@ -23124,6 +24864,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Israel",
 		world_map_label_name: "Israel",
 		world_map_label: "y",
@@ -23136,7 +24877,8 @@ var countries = [
 		sentence_name: "",
 		label: "Israel",
 		confirmed: 39,
-		deaths: 0
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "IND",
@@ -23153,6 +24895,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "India",
 		world_map_label_name: "India",
 		world_map_label: "y",
@@ -23165,7 +24908,8 @@ var countries = [
 		sentence_name: "",
 		label: "India",
 		confirmed: 43,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "IRQ",
@@ -23182,6 +24926,7 @@ var countries = [
 		override_count: "62",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Iraq",
 		world_map_label_name: "Iraq",
 		world_map_label: "",
@@ -23194,7 +24939,8 @@ var countries = [
 		sentence_name: "",
 		label: "Iraq",
 		confirmed: 62,
-		deaths: 6
+		deaths: 6,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IRN",
@@ -23211,6 +24957,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Iran",
 		world_map_label_name: "Iran",
 		world_map_label: "y",
@@ -23222,8 +24969,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iran",
-		confirmed: 6566,
-		deaths: 194
+		confirmed: 7161,
+		deaths: 237,
+		recovered: 2394
 	},
 	{
 		adm0_a3: "ISL",
@@ -23240,6 +24988,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Iceland",
 		world_map_label_name: "Iceland",
 		world_map_label: "y",
@@ -23251,8 +25000,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iceland",
-		confirmed: 50,
-		deaths: 0
+		confirmed: 58,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ITA",
@@ -23269,6 +25019,7 @@ var countries = [
 		override_count: "7375",
 		override_deaths: "366",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Italy",
 		world_map_label_name: "Italy",
 		world_map_label: "y",
@@ -23280,8 +25031,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Italy",
-		confirmed: 7375,
-		deaths: 366
+		confirmed: 9172,
+		deaths: 463,
+		recovered: 724
 	},
 	{
 		adm0_a3: "JOR",
@@ -23298,6 +25050,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Jordan",
 		world_map_label_name: "Jordan",
 		world_map_label: "",
@@ -23310,7 +25063,8 @@ var countries = [
 		sentence_name: "",
 		label: "Jordan",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "JPN",
@@ -23327,6 +25081,7 @@ var countries = [
 		override_count: "1198",
 		override_deaths: "12",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Japan",
 		world_map_label_name: "Japan",
 		world_map_label: "y",
@@ -23339,7 +25094,8 @@ var countries = [
 		sentence_name: "",
 		label: "Japan",
 		confirmed: 1198,
-		deaths: 17
+		deaths: 17,
+		recovered: 76
 	},
 	{
 		adm0_a3: "KHM",
@@ -23356,6 +25112,7 @@ var countries = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Cambodia",
 		world_map_label_name: "Cambodia",
 		world_map_label: "",
@@ -23368,7 +25125,8 @@ var countries = [
 		sentence_name: "",
 		label: "Cambodia",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "KOR",
@@ -23385,6 +25143,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "S. Korea",
 		world_map_label_name: "S. Korea",
 		world_map_label: "y",
@@ -23397,7 +25156,8 @@ var countries = [
 		sentence_name: "South Korea",
 		label: "South Korea",
 		confirmed: 7478,
-		deaths: 53
+		deaths: 53,
+		recovered: 118
 	},
 	{
 		adm0_a3: "KWT",
@@ -23414,6 +25174,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Kuwait",
 		world_map_label_name: "Kuwait",
 		world_map_label: "",
@@ -23426,7 +25187,8 @@ var countries = [
 		sentence_name: "",
 		label: "Kuwait",
 		confirmed: 64,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "LBN",
@@ -23443,6 +25205,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Lebanon",
 		world_map_label_name: "Lebanon",
 		world_map_label: "",
@@ -23455,7 +25218,8 @@ var countries = [
 		sentence_name: "",
 		label: "Lebanon",
 		confirmed: 32,
-		deaths: 0
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "LKA",
@@ -23472,6 +25236,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Sri Lanka",
 		world_map_label_name: "Sri Lanka",
 		world_map_label: "",
@@ -23484,7 +25249,8 @@ var countries = [
 		sentence_name: "",
 		label: "Sri Lanka",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LTU",
@@ -23501,6 +25267,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Lithuania",
 		world_map_label_name: "Lithuania",
 		world_map_label: "",
@@ -23513,7 +25280,8 @@ var countries = [
 		sentence_name: "",
 		label: "Lithuania",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LUX",
@@ -23530,6 +25298,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Luxembourg",
 		world_map_label_name: "Luxembourg",
 		world_map_label: "",
@@ -23542,7 +25311,8 @@ var countries = [
 		sentence_name: "",
 		label: "Luxembourg",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MCO",
@@ -23559,6 +25329,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Monaco",
 		world_map_label_name: "Monaco",
 		world_map_label: "",
@@ -23571,7 +25342,8 @@ var countries = [
 		sentence_name: "",
 		label: "Monaco",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MDA",
@@ -23588,6 +25360,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Moldova",
 		world_map_label_name: "Moldova",
 		world_map_label: "",
@@ -23600,7 +25373,8 @@ var countries = [
 		sentence_name: "",
 		label: "",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MKD",
@@ -23617,6 +25391,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "North Macedonia",
 		world_map_label_name: "North Macedonia",
 		world_map_label: "",
@@ -23629,7 +25404,8 @@ var countries = [
 		sentence_name: "",
 		label: "North Macedonia",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MAC",
@@ -23646,6 +25422,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Macau",
 		world_map_label_name: "Macau",
 		world_map_label: "",
@@ -23658,7 +25435,8 @@ var countries = [
 		sentence_name: "",
 		label: "Macau (Macau)",
 		confirmed: 10,
-		deaths: 0
+		deaths: 0,
+		recovered: 10
 	},
 	{
 		adm0_a3: "MTQ",
@@ -23675,6 +25453,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Martinique",
 		world_map_label_name: "Martinique",
 		world_map_label: "",
@@ -23687,7 +25466,8 @@ var countries = [
 		sentence_name: "",
 		label: "Martinique",
 		confirmed: 0,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MLT",
@@ -23704,6 +25484,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Malta",
 		world_map_label_name: "Malta",
 		world_map_label: "",
@@ -23716,7 +25497,8 @@ var countries = [
 		sentence_name: "",
 		label: "Malta",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MDV",
@@ -23733,6 +25515,7 @@ var countries = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Maldives",
 		world_map_label_name: "Maldives",
 		world_map_label: "",
@@ -23745,7 +25528,8 @@ var countries = [
 		sentence_name: "",
 		label: "",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MEX",
@@ -23762,6 +25546,7 @@ var countries = [
 		override_count: "7",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Mexico",
 		world_map_label_name: "Mexico",
 		world_map_label: "y",
@@ -23774,7 +25559,8 @@ var countries = [
 		sentence_name: "",
 		label: "Mexico",
 		confirmed: 7,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MYS",
@@ -23791,6 +25577,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Malaysia",
 		world_map_label_name: "Malaysia",
 		world_map_label: "",
@@ -23803,7 +25590,8 @@ var countries = [
 		sentence_name: "",
 		label: "Malaysia",
 		confirmed: 117,
-		deaths: 0
+		deaths: 0,
+		recovered: 24
 	},
 	{
 		adm0_a3: "NGA",
@@ -23820,6 +25608,7 @@ var countries = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 9",
+		override_fixed: "",
 		mobile_table_name: "Nigeria",
 		world_map_label_name: "Nigeria",
 		world_map_label: "y",
@@ -23832,7 +25621,8 @@ var countries = [
 		sentence_name: "",
 		label: "Nigeria",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NLD",
@@ -23849,6 +25639,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Netherlands",
 		world_map_label_name: "Netherlands",
 		world_map_label: "",
@@ -23860,8 +25651,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Netherlands",
-		confirmed: 265,
-		deaths: 3
+		confirmed: 321,
+		deaths: 3,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NOR",
@@ -23878,6 +25670,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Norway",
 		world_map_label_name: "Norway",
 		world_map_label: "",
@@ -23889,8 +25682,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Norway",
-		confirmed: 176,
-		deaths: 0
+		confirmed: 205,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "NPL",
@@ -23907,6 +25701,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Nepal",
 		world_map_label_name: "Nepal",
 		world_map_label: "",
@@ -23919,7 +25714,8 @@ var countries = [
 		sentence_name: "",
 		label: "Nepal",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "NZL",
@@ -23936,6 +25732,7 @@ var countries = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "New Zealand",
 		world_map_label_name: "New Zealand",
 		world_map_label: "y",
@@ -23948,7 +25745,8 @@ var countries = [
 		sentence_name: "",
 		label: "New Zealand",
 		confirmed: 5,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "OMN",
@@ -23965,6 +25763,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Oman",
 		world_map_label_name: "Oman",
 		world_map_label: "",
@@ -23977,7 +25776,8 @@ var countries = [
 		sentence_name: "",
 		label: "Oman",
 		confirmed: 16,
-		deaths: 0
+		deaths: 0,
+		recovered: 2
 	},
 	{
 		adm0_a3: "PER",
@@ -23994,6 +25794,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Peru",
 		world_map_label_name: "Peru",
 		world_map_label: "",
@@ -24006,7 +25807,8 @@ var countries = [
 		sentence_name: "",
 		label: "Peru",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PHL",
@@ -24023,6 +25825,7 @@ var countries = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Philippines",
 		world_map_label_name: "Philippines",
 		world_map_label: "",
@@ -24035,7 +25838,8 @@ var countries = [
 		sentence_name: "",
 		label: "Philippines",
 		confirmed: 20,
-		deaths: 1
+		deaths: 1,
+		recovered: 1
 	},
 	{
 		adm0_a3: "PAK",
@@ -24052,6 +25856,7 @@ var countries = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Pakistan",
 		world_map_label_name: "Pakistan",
 		world_map_label: "",
@@ -24064,7 +25869,8 @@ var countries = [
 		sentence_name: "",
 		label: "Pakistan",
 		confirmed: 6,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PSE",
@@ -24081,6 +25887,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "West Bank & Gaza",
 		world_map_label_name: "West Bank & Gaza",
 		world_map_label: "",
@@ -24093,7 +25900,8 @@ var countries = [
 		sentence_name: "",
 		label: "Palestine",
 		confirmed: 22,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PRY",
@@ -24110,6 +25918,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Paraguay",
 		world_map_label_name: "Paraguay",
 		world_map_label: "",
@@ -24122,7 +25931,8 @@ var countries = [
 		sentence_name: "",
 		label: "",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "QAT",
@@ -24139,6 +25949,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Qatar",
 		world_map_label_name: "Qatar",
 		world_map_label: "",
@@ -24150,8 +25961,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Qatar",
-		confirmed: 15,
-		deaths: 0
+		confirmed: 18,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "ROU",
@@ -24168,6 +25980,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Romania",
 		world_map_label_name: "Romania",
 		world_map_label: "",
@@ -24180,7 +25993,8 @@ var countries = [
 		sentence_name: "",
 		label: "Romania",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "SRB",
@@ -24197,6 +26011,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Serbia",
 		world_map_label_name: "Serbia",
 		world_map_label: "",
@@ -24209,7 +26024,8 @@ var countries = [
 		sentence_name: "",
 		label: "Serbia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "RUS",
@@ -24226,6 +26042,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Russia",
 		world_map_label_name: "Russia",
 		world_map_label: "y",
@@ -24238,7 +26055,8 @@ var countries = [
 		sentence_name: "",
 		label: "Russia",
 		confirmed: 17,
-		deaths: 0
+		deaths: 0,
+		recovered: 3
 	},
 	{
 		adm0_a3: "SWE",
@@ -24255,6 +26073,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Sweden",
 		world_map_label_name: "Sweden",
 		world_map_label: "",
@@ -24266,8 +26085,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Sweden",
-		confirmed: 203,
-		deaths: 0
+		confirmed: 248,
+		deaths: 0,
+		recovered: 1
 	},
 	{
 		adm0_a3: "SGP",
@@ -24284,6 +26104,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Singapore",
 		world_map_label_name: "Singapore",
 		world_map_label: "y",
@@ -24296,7 +26117,8 @@ var countries = [
 		sentence_name: "",
 		label: "Singapore",
 		confirmed: 150,
-		deaths: 0
+		deaths: 0,
+		recovered: 78
 	},
 	{
 		adm0_a3: "SVN",
@@ -24313,6 +26135,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Slovenia",
 		world_map_label_name: "Slovenia",
 		world_map_label: "",
@@ -24325,7 +26148,8 @@ var countries = [
 		sentence_name: "",
 		label: "Slovenia",
 		confirmed: 16,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SVK",
@@ -24342,6 +26166,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Slovakia",
 		world_map_label_name: "Slovakia",
 		world_map_label: "",
@@ -24354,7 +26179,8 @@ var countries = [
 		sentence_name: "",
 		label: "Slovakia",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SMR",
@@ -24371,6 +26197,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "San Marino",
 		world_map_label_name: "San Marino",
 		world_map_label: "",
@@ -24383,7 +26210,8 @@ var countries = [
 		sentence_name: "",
 		label: "San Marino",
 		confirmed: 36,
-		deaths: 1
+		deaths: 1,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SEN",
@@ -24400,6 +26228,7 @@ var countries = [
 		override_count: "4",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Senegal",
 		world_map_label_name: "Senegal",
 		world_map_label: "",
@@ -24412,7 +26241,8 @@ var countries = [
 		sentence_name: "",
 		label: "Senegal",
 		confirmed: 4,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "TGO",
@@ -24429,6 +26259,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Togo",
 		world_map_label_name: "Togo",
 		world_map_label: "",
@@ -24441,7 +26272,8 @@ var countries = [
 		sentence_name: "",
 		label: "Togo",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "THA",
@@ -24458,6 +26290,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Thailand",
 		world_map_label_name: "Thailand",
 		world_map_label: "",
@@ -24470,7 +26303,8 @@ var countries = [
 		sentence_name: "",
 		label: "Thailand",
 		confirmed: 50,
-		deaths: 1
+		deaths: 1,
+		recovered: 31
 	},
 	{
 		adm0_a3: "TWN",
@@ -24487,6 +26321,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Taiwan",
 		world_map_label_name: "Taiwan",
 		world_map_label: "",
@@ -24499,7 +26334,8 @@ var countries = [
 		sentence_name: "",
 		label: "Taiwan (Taiwan)",
 		confirmed: 45,
-		deaths: 1
+		deaths: 1,
+		recovered: 15
 	},
 	{
 		adm0_a3: "UKR",
@@ -24516,6 +26352,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Ukraine",
 		world_map_label_name: "Ukraine",
 		world_map_label: "",
@@ -24528,7 +26365,8 @@ var countries = [
 		sentence_name: "",
 		label: "Ukraine",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "VAT",
@@ -24545,6 +26383,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Vatican City",
 		world_map_label_name: "Vatican City",
 		world_map_label: "",
@@ -24557,7 +26396,8 @@ var countries = [
 		sentence_name: "",
 		label: "Vatican City",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "VNM",
@@ -24574,6 +26414,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Vietnam",
 		world_map_label_name: "Vietnam",
 		world_map_label: "",
@@ -24586,7 +26427,8 @@ var countries = [
 		sentence_name: "",
 		label: "Vietnam",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 16
 	},
 	{
 		adm0_a3: "ZAF",
@@ -24603,6 +26445,7 @@ var countries = [
 		override_count: "3",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "South Africa",
 		world_map_label_name: "South Africa",
 		world_map_label: "y",
@@ -24615,7 +26458,8 @@ var countries = [
 		sentence_name: "",
 		label: "South Africa",
 		confirmed: 3,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "IDN",
@@ -24632,6 +26476,7 @@ var countries = [
 		override_count: "6",
 		override_deaths: "",
 		override_date: "Mar. 8",
+		override_fixed: "",
 		mobile_table_name: "Indonesia",
 		world_map_label_name: "Indonesia",
 		world_map_label: "y",
@@ -24643,8 +26488,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Indonesia",
-		confirmed: 6,
-		deaths: 0
+		confirmed: 19,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "CHN",
@@ -24661,6 +26507,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "China",
 		world_map_label_name: "China",
 		world_map_label: "y",
@@ -24673,7 +26520,8 @@ var countries = [
 		sentence_name: "China",
 		label: "Mainland China",
 		confirmed: 80734,
-		deaths: 3119
+		deaths: 3120,
+		recovered: 0
 	},
 	{
 		adm0_a3: "USA",
@@ -24690,6 +26538,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "U.S.",
 		world_map_label_name: "U.S.",
 		world_map_label: "y",
@@ -24701,8 +26550,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "the United States",
 		label: "US",
-		confirmed: 545,
-		deaths: 22
+		confirmed: 589,
+		deaths: 22,
+		recovered: 0
 	},
 	{
 		adm0_a3: "AND",
@@ -24719,6 +26569,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Andorra",
 		world_map_label_name: "Andorra",
 		world_map_label: "",
@@ -24731,7 +26582,8 @@ var countries = [
 		sentence_name: "",
 		label: "Andorra",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PRT",
@@ -24748,6 +26600,7 @@ var countries = [
 		override_count: "",
 		override_deaths: "",
 		override_date: "",
+		override_fixed: "",
 		mobile_table_name: "Portugal",
 		world_map_label_name: "Portugal",
 		world_map_label: "",
@@ -24760,7 +26613,8 @@ var countries = [
 		sentence_name: "",
 		label: "Portugal",
 		confirmed: 30,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LVA",
@@ -24777,6 +26631,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Latvia",
 		world_map_label_name: "Latvia",
 		world_map_label: "",
@@ -24789,7 +26644,8 @@ var countries = [
 		sentence_name: "",
 		label: "Latvia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "SAU",
@@ -24806,6 +26662,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Saudi Arabia",
 		world_map_label_name: "Saudi Arabia",
 		world_map_label: "",
@@ -24818,7 +26675,8 @@ var countries = [
 		sentence_name: "",
 		label: "Saudi Arabia",
 		confirmed: 15,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "GIB",
@@ -24835,6 +26693,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Gibraltar",
 		world_map_label_name: "Gibraltar",
 		world_map_label: "",
@@ -24847,7 +26706,8 @@ var countries = [
 		sentence_name: "",
 		label: "Gibraltar",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "MAR",
@@ -24864,6 +26724,7 @@ var countries = [
 		override_count: "2",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Morocco",
 		world_map_label_name: "Morocco",
 		world_map_label: "",
@@ -24876,7 +26737,8 @@ var countries = [
 		sentence_name: "",
 		label: "Morocco",
 		confirmed: 2,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "TUN",
@@ -24893,6 +26755,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Tunisia",
 		world_map_label_name: "Tunisia",
 		world_map_label: "",
@@ -24905,7 +26768,8 @@ var countries = [
 		sentence_name: "",
 		label: "Tunisia",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "LIE",
@@ -24922,6 +26786,7 @@ var countries = [
 		override_count: "1",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Liechtenstein",
 		world_map_label_name: "Liechtenstein",
 		world_map_label: "",
@@ -24934,7 +26799,8 @@ var countries = [
 		sentence_name: "",
 		label: "Liechtenstein",
 		confirmed: 1,
-		deaths: 0
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "POL",
@@ -24951,6 +26817,7 @@ var countries = [
 		override_count: "5",
 		override_deaths: "",
 		override_date: "Mar. 7",
+		override_fixed: "",
 		mobile_table_name: "Poland",
 		world_map_label_name: "Poland",
 		world_map_label: "",
@@ -24962,8 +26829,40 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Poland",
-		confirmed: 11,
-		deaths: 0
+		confirmed: 16,
+		deaths: 0,
+		recovered: 0
+	},
+	{
+		adm0_a3: "GUF",
+		nyt_name: "French Guiana",
+		lat: 3.934,
+		lon: -51.925,
+		jhu_location: "French Guiana",
+		jhu_sublocation: "",
+		active: "y",
+		in_region_table: "",
+		in_country_count: "",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		mobile_table_name: "French Guiana",
+		world_map_label_name: "French Guiana",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		label: "French Guiana",
+		confirmed: 0,
+		deaths: 0,
+		recovered: 0
 	}
 ];
 

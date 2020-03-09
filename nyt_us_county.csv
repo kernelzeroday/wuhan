@@ -34,14 +34,14 @@ Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,
 San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,1,0
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,1,0
 Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,9,0
-Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,82,0
+Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,98,0
 Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,True,6,0
-Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,True,4,0
+Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,True,5,0
 Chelan,Washington,WA,47.859891,-120.618543,Chelan County,WA CHELAN,72453,53007,7,True,1,1
 Kings,New York,NY,40.635133,-73.950777,Kings County,NY KINGS,2504700,36047,47,True,4,0
 Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,True,1,0
 Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,151372,12113,113,True,1,1
-Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,True,5,0
+Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,True,17,0
 Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,True,6,0
 Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,8059,59,True,1,0
 Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,True,4,0
@@ -55,7 +55,7 @@ Polk,Georgia,GA,33.995961,-85.186826,Polk County,GA POLK,41475,13233,233,True,1,
 Chatham,North Carolina,NC,35.704994,-79.251454,Chatham County,NC CHATHAM,63505,37037,37,True,1,0
 Pinal,Arizona,AZ,32.91891,-111.367257,Pinal County,AZ PINAL,375770,4021,21,True,3,0
 Marion,Indiana,IN,39.782976,-86.135794,Marion County,IN MARION,903393,18097,97,True,1,0
-Rockland,New York,NY,41.154785,-74.024772,Rockland County,NY ROCKLAND,311687,36087,87,True,2,0
+Rockland,New York,NY,41.154785,-74.024772,Rockland County,NY ROCKLAND,311687,36087,87,True,4,0
 Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,6113,113,True,1,0
 Camden,New Jersey,NJ,39.802352,-74.961251,Camden County,NJ CAMDEN,513657,34007,7,True,1,0
 Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123,True,1,0
@@ -83,8 +83,8 @@ Saratoga,New York,NY,43.106135,-73.855387,Saratoga County,NY SARATOGA,219607,360
 Queens,New York,NY,40.658557,-73.837929,Queens County,NY QUEENS,2230722,36081,81,True,1,0
 Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,1,0
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,True,1,0
-Johnson,Kansas,KS,38.883907,-94.82233,Johnson County,KS JOHNSON,544179,20091,91,True,1,0
-Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,4,0
+Wyandotte,Kansas,KS,39.115384,-94.763087,Wyandotte County,KS WYANDOTTE,157505,20209,209,True,1,0
+Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,5,0
 District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,True,1,0
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,True,1,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,True,1,0
@@ -116,3 +116,10 @@ Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,
 Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,True,3,0
 Carver,Minnesota,MN,44.821381,-93.800575,Carver County,MN CARVER,91042,27019,19,True,1,0
 Cherokee,Georgia,GA,34.244317,-84.475057,Cherokee County,GA CHEROKEE,214346,13057,57,True,1,0
+Unknown,New York,NY,,,,,,,,True,6,0
+Arlington,Virginia,VA,38.878337,-77.100703,Arlington County,VA ARLINGTON,207627,51013,13,True,1,0
+Larimer,Colorado,CO,40.663091,-105.482131,Larimer County,CO LARIMER,299630,8069,69,True,1,0
+Collin,Texas,TX,33.193885,-96.578153,Collin County,TX COLLIN,782341,48085,85,True,1,0
+Jefferson,Louisiana,LA,29.5033,-90.036231,Jefferson Parish,LA JEFFERSON,432552,22051,51,True,1,0
+Monmouth,New Jersey,NJ,40.287056,-74.152446,Monmouth County,NJ MONMOUTH,630380,34025,25,True,1,0
+Union,New Jersey,NJ,40.659871,-74.308696,Union County,NJ UNION,536499,34039,39,True,1,0

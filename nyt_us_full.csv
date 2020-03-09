@@ -1,4 +1,7 @@
 ID,GFX,State where treated,County where treated,"Place of residence, if known to be different",Gender,Age,Date announced,Condition,How contracted?,nyt_contracted,Contracted in United States?,Hospital,Press release,Press release 2,Press release 3,Health care worker?,Special circumstances?,NYT link,PIO contact,Name,Family contact,w,nyt_state,nyt_died,nyt_date
+,,New Jersey,Bergen,,Male,30,3/9/2020,Unknown,Unknown,Unknown,Unknown,Holy Name Health,Link,,,,,,,,,,,,
+,,New Jersey,Union,,Male,48,3/9/2020,Unknown,Unknown,Unknown,Unknown,Overlook Medical Center,Link,,,,,,,,,,,,
+,,New Jersey,Monmouth,,Male,83,3/9/2020,Unknown,Unknown,Unknown,Unknown,Bayshore Medical Center,Link,,,,,,,,,,,,
 1,True,Washington,Snohomish,,Male,35,1/21/2020,recovered ,Traveled in Wuhan,Travel in China,No,Providence Regional Medical Center-Everett,Link,,,,,Link,lisa.stromme@doh.wa.gov,,Released statement requesting privacy on 2/3,,Washington,False,2020-01-21
 2,True,Illinois,Cook,,Female,60s,1/24/2020,recovered ,Traveled in Wuhan,Travel in China,No,AMITA Health St. Alexius Medical Center,Link,,,,,Link,andrew.buchanan@cityofchicago.org,,https://rochellenews-leader.com/article/illinois-coronavirus-patients-cured-released-from-home-isolation,,Illinois,False,2020-01-24
 3,True,California,Orange,"Wuhan, China",Unknown,Unknown,1/25/2020,recovered ,From Wuhan,Travel in China,No,Unknown,Link,,,,,Link,CDPHpress@cdph.ca.gov,,,,California,False,2020-01-25
@@ -83,7 +86,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 82,True,Washington,King,,Male,70s,3/1/2020,critical,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-01
 83,True,Washington,King,,Male,70s,3/1/2020,died 2/29,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-01
 84,True,Washington,King,"Snohomish County, Washington",Male,40s,3/1/2020,died,"Unknown, believed to be community transfer",Unknown,Yes,EvergreenHealth Hospital,Link,,,,presumptive positive,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,Washington,True,2020-03-01
-85,True,Florida,Manatee,,Male,60s,3/1/2020,stable,"Unknown, no relevant travel history",Unknown,Yes,Home isolation,,,,,"Was treated at Doctors Hospital in Sarasota, then released to home isolation on 3/6",,newsmedia@flhealth.gov,,,,Florida,False,2020-03-01
+85,True,Florida,Manatee,,Male,63,3/1/2020,stable,"Unknown, no relevant travel history",Unknown,Yes,Home isolation,,,,,"Was treated at Doctors Hospital in Sarasota, then released to home isolation on 3/6",,newsmedia@flhealth.gov,,,,Florida,False,2020-03-01
 86,True,Florida,Hillsborough,,Female,20s,3/1/2020,,Traveled in Italy,Travel in Italy,No,Home isolation,,,,,,,newsmedia@flhealth.gov,,,,Florida,False,2020-03-01
 87,True,Oregon,Washington,,Female,40-50,3/1/2020,doesn't require medical care,household contact of row #64,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,phd.communications@dhsoha.state.or.us,,,,Oregon,False,2020-03-01
 88,True,Rhode Island,Unknown,,Female,Teenager,3/1/2020,mild symptoms,Traveled in Italy on same school trip as row #72,Travel in Italy,No,Home isolation,Link,,,,presumptive positive; traveled to Italy on a school trip ,,"Joseph Wendelken: joseph.wendelken@health.ri.gov, 401-222-3998; Weekend:  401-641-8726",,,,Rhode Island,False,2020-03-01
@@ -97,7 +100,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 96,True,Washington,King,,Female,80s,3/2/2020,died 3/6 (announced 3/7),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-02
 97,True,New Hampshire,Grafton,,Male,Adult,3/2/2020,minor symptoms,Traveled to Italy; apparently ignored self-isolation suggestion and infected person in row #117,Travel in Italy,No,Home isolation,Link,Link,,,"person is an employee of Dartmouth-Hitchcock Medical Center in Lebanon, N.H.; he apparently attended private event depsite being asked to self-isolate",,603-271-9389 or pio@dhhs.nh.gov,,,,New Hampshire,False,2020-03-02
 98,True,Washington,Snohomish,,Female,40s,3/2/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,"Heather Thomas, hthomas@snohd.org, 425-339-8688 ",,,,Washington,False,2020-03-02
-99,True,California,Sonoma,,Unknown,Unknown,3/2/2020,hospitalized,Apparently on a cruise from San Francisco to Mexico; same as row #126,Grand Princess cruise ship,Unknown,,Link,,,,,,Rohish.Lal@sonoma-county.org,,,,California,False,2020-03-02
+99,True,California,Sonoma,,Unknown,Unknown,3/2/2020,hospitalized,Apparently on a cruise from San Francisco to Mexico; same as row #126,Grand Princess cruise in February,Unknown,,Link,,,,,,Rohish.Lal@sonoma-county.org,,,,California,False,2020-03-02
 100,True,California,Placer,,Unknown,Unknown,3/2/2020,mild symptoms,Exposed to person in row 61,"Hospital in Vacaville, Calif.",Yes,Home isolation,Link,,,"Yes, at hospital",Presumptive positive. This person is a worker at NorthBay VacaValley Hospital who had contact with the patient in row 61 who was later sent to UC Davis. ,,,,,,California,False,2020-03-02
 101,True,Massachusetts,Norfolk,,Female,20s,3/2/2020,,Traveled to Italy on same school trip as RI cases in rows #89 and #72,Travel in Italy,No,Home isolation,Link,Link,,,Presumptive positive. This person went on a school trip to Italy.,,ann.scales@state.ma.us,,,,Massachusetts,False,2020-03-02
 102,True,Georgia,Fulton,,Unknown,Unknown,3/2/2020,minimal symptoms,Traveled to Italy,Travel in Italy,No,Home isolation,Link,,,,,,,,,,Georgia,False,2020-03-02
@@ -123,7 +126,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 122,True,California,Orange,,Female,30s,3/3/2020,Unknown,High-risk overseas travel (country unclear),Travel overseas,No,,Link,,,,,,HCAComm@ochca.com,,,,California,False,2020-03-03
 123,True,California,Alameda,,Unknown,Unknown,3/3/2020,Unknown,Traveled in Italy,Travel in Italy,No,,Link,,,,,,Matthai Chakko: mchakko@cityofberkeley.info; (510) 981-7008,,,,California,False,2020-03-03
 124,True,California,Contra Costa,,Unknown,Unknown,3/3/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,"Will Harper, 925-967-8125",,,,California,False,2020-03-03
-125,True,California,Placer,,Unknown,Older Adult,3/3/2020,died (announced 3/4),"On cruise from San Francisco to Mexico, same as row #100",Grand Princess cruise ship,Unknown,Kaiser Permanente Roseville,Link,Link,,,,,,,,,California,True,2020-03-03
+125,True,California,Placer,,Unknown,Older Adult,3/3/2020,died (announced 3/4),"On cruise from San Francisco to Mexico, same as row #100",Grand Princess cruise in February,Unknown,Kaiser Permanente Roseville,Link,Link,,,,,,,,,California,True,2020-03-03
 126,True,New York,Westchester,,Female,Adult,3/4/2020,at home,Wife of person in row #106,"Cluster connected to a community in New Rochelle, N.Y.",Yes,Home isolation,,,,,,Link,,,,,New York,False,2020-03-04
 127,True,New York,Westchester,,Male,College age,3/4/2020,at home,Son of person in row #106,"Cluster connected to a community in New Rochelle, N.Y.",Yes,Home isolation,,,,,Student at Yeshiva U.,Link,,,,,New York,False,2020-03-04
 128,True,New York,Westchester,,Female,Teenager,3/4/2020,at home,Daughter of person in row #106,"Cluster connected to a community in New Rochelle, N.Y.",Yes,Home isolation,,,,,,Link,,,,,New York,False,2020-03-04
@@ -161,7 +164,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 160,True,New York,New York,,Male,40s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 161,True,New York,Kings,,Female,80s,3/5/2020,hospitalized,"Unknown, believed to be community transfer",Unknown,Yes,,Link,,,,,,,,,,New York,False,2020-03-05
 162,True,Tennessee,Williamson,,Male,44,3/5/2020,mild symptoms,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Yes,,Link,,,,"community transfer, connected to Biogen conference at Marriott in Boston",,,,,,Tennessee,False,2020-03-05
-163,True,Florida,Santa Rosa,,Male,70s,3/5/2020,died (announced 3/6),Traveled to Israel/Egypt area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
+163,True,Florida,Santa Rosa,,Male,71,3/5/2020,died (announced 3/6),Traveled to Israel/Egypt area,Travel overseas,No,,Link,,,,,,,,,,Florida,True,2020-03-05
 164,True,Illinois,Cook,,Male,20s,3/5/2020,hospitalized in isolation,Traveled in Italy,Travel in Italy,No,Rush University Medical Center,,,,,,,"Melaney Arnold 217-558-0500
 COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 165,True,New York,Westchester,,Unknown,Unknown,3/5/2020,home,,"Cluster connected to a community in New Rochelle, N.Y.",,,Link,,,,,,,,,,New York,False,2020-03-05
@@ -226,7 +229,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 224,True,California,Santa Clara,,Male,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,"224 & 225 are listed together as cases 18 and 19 per santa clara, would imply relation",,,,,,California,False,2020-03-05
 225,True,California,Santa Clara,,Male,Adult,3/5/2020,home isolation,Close contact of an existing case,Unknown,Unknown,,Link,Link,,,,,,,,,California,False,2020-03-05
 226,True,Nevada,Clark,,Male,50s,3/5/2020,hospitalized,Travel in Washington State,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nevada,False,2020-03-05
-227,True,Nevada,Washoe,,Male,50s,3/5/2020,stable,Travel on Grand Princess cruise from San Francisco to Mexico,Grand Princess cruise ship,Unknown,Home isolation,Link,,,,,,,,,,Nevada,False,2020-03-05
+227,True,Nevada,Washoe,,Male,50s,3/5/2020,stable,Travel on Grand Princess cruise from San Francisco to Mexico,Grand Princess cruise in February,Unknown,Home isolation,Link,,,,,,,,,,Nevada,False,2020-03-05
 228,True,Pennsylvania,Wayne,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",International travel,Travel overseas,no,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
 229,True,Pennsylvania,Delaware,,Unknown,Unknown,3/6/2020,"good condition, isolated at home",Domestic travel,Personal contact in U.S.,Yes,Home isolation,Link,,,,,,,,,,Pennsylvania,False,2020-03-06
 230,True,Georgia,Polk,,Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Was previously reported as Floyd County, GA. State corrected itself on 3/7",,,,,,Georgia,False,2020-03-06
@@ -251,15 +254,15 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 249,True,Massachusetts,Norfolk,,Male,40s,3/6/2020,Unknown,"community transfer, connected to Biogen conference at Marriott in Boston",Business conference in Boston,Unknown,,Link,Link,,,,,,,,,Massachusetts,False,2020-03-06
 250,True,Texas,Harris,,Female,60-70,3/6/2020,stable,Travel in Egypt with other Houston-area patients,Travel in Egypt,No,,Link,,,,City of Houston resident (within Harris County) tracked by Houston Health Dept,,,,,,Texas,False,2020-03-06
 251,True,California,Yolo,,Female,Older,3/6/2020,hospitalized and improving,"Unknown, believed to be community transmission",Unknown,Yes,,Link,,,,,,,,,,California,False,2020-03-06
-252,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
-253,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
+252,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
+253,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
 254,True,California,Contra Costa,,Unknown,Unknown,3/6/2020,home isolation,Close contact with another COVID patient,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
 255,True,New Jersey,Camden,,Male,60s,3/6/2020,"stable, hospitalized",Unknown,Unknown,Unknown,,Link,,,,,,,,,,New Jersey,False,2020-03-06
 256,True,California,Los Angeles,,Unknown,Unknown,3/6/2020,Unknown,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,California,False,2020-03-06
 257,True,California,Los Angeles,,Unknown,Unknown,3/6/2020,Unknown,Personal contact (worked as LAX quarantine screener; had contact with colleague in row 136),Personal contact in U.S.,Yes,,Link,,,,,,,,,,California,False,2020-03-06
-258,True,California,Placer,,Unknown,Unknown,3/6/2020,"had mild symptoms, since recovered",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
-259,True,California,Placer,,Unknown,Unknown,3/6/2020,"had mild symptoms, since recovered",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
-260,True,California,Placer,,Unknown,Unknown,3/6/2020,mild symptoms,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
+258,True,California,Placer,,Unknown,Unknown,3/6/2020,"had mild symptoms, since recovered",Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
+259,True,California,Placer,,Unknown,Unknown,3/6/2020,"had mild symptoms, since recovered",Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
+260,True,California,Placer,,Unknown,Unknown,3/6/2020,mild symptoms,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-06
 261,True,Minnesota,Ramsey,,Unknown,Older Adult,3/6/2020,recovering,cruise (trying to figure out which one),Unknown,Unknown,,Link,,,,,,Doug Schultz MDH Communications 651-201-4993 doug.schultz@state.mn.us,,,,Minnesota,False,2020-03-06
 262,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-06
 263,True,Washington,King,,Unknown,Unknown,3/6/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,King Co has anonymized numbers. We had 12 Life Care people spread over 3/5 and 3/6. Adding six for each day until and unless we get better data. ,,,,,,Washington,False,2020-03-06
@@ -282,7 +285,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 280,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 281,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
 282,True,New York,Nassau,,Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be community transfer",Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-06
-283,True,Kentucky,Fayette,"Harrison County, Kentucky",Unknown,Unknown,3/6/2020,Unknown,Unknown,Unknown,Unknown,University of Kentucky Albert B. Chandler Hospital,Link,Link,,,,,,,,,Kentucky,False,2020-03-06
+283,True,Kentucky,Fayette,"Unknown, believed to be a community transfer, link to row 530",Unknown,Unknown,3/6/2020,Unknown,"Unknown, believed to be a community transfer",Unknown,Unknown,University of Kentucky Albert B. Chandler Hospital,Link,Link,,,,,,,,,Kentucky,False,2020-03-06
 284,True,Oklahoma,Tulsa,,Male,50s,3/6/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Oklahoma,False,2020-03-06
 285,True,California,Santa Clara,,Male,Adult,3/6/2020,home isolation,Household contact of previously confirmed case in Santa Clara County,Personal contact in U.S.,Yes,,Link,Link,,,,,,,,,California,False,2020-03-06
 286,True,California,Santa Clara,,Female,Adult,3/6/2020,Hospitalized,Travel overseas,Unknown,No,,Link,Link,,,,,,,,,California,False,2020-03-06
@@ -300,21 +303,21 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 298,True,New Jersey,Bergen,,Male,50s,3/6/2020,Hospitalized,Unknown,Unknown,Unknown,Englewood Hospital,Link,,,,,,,,,,New Jersey,False,2020-03-06
 299,True,South Carolina,Kershaw,,Female,Elderly,3/6/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,South Carolina,False,2020-03-06
 300,True,South Carolina,Charleston,,Female,Adult,3/6/2020,home isolation,Travel in Italy and France,Travel overseas,No,,Link,,,,,,,,,,South Carolina,False,2020-03-06
-301,True,Illinois,Cook,,Female,50s,3/6/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,She's a Chicago school worker who had been on cruise; Chicago Public Health case,,,,,,Illinois,False,2020-03-06
-302,True,Hawaii,Honolulu,,Unknown,Unknown,3/6/2020,doing fine,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,Link,,,,,,,,,Hawaii,False,2020-03-06
+301,True,Illinois,Cook,,Female,50s,3/6/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,She's a Chicago school worker who had been on cruise; Chicago Public Health case,,,,,,Illinois,False,2020-03-06
+302,True,Hawaii,Honolulu,,Unknown,Unknown,3/6/2020,doing fine,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,Link,,,,,,,,,Hawaii,False,2020-03-06
 303,True,Washington,Pierce,,Male,50s,3/6/2020,"hospitalized, stable","Unknown, did not travel outside the US",Unknown,Yes,"St. Anthony Hospital, Gig Harbor",Link,,,,,,,,,,Washington,False,2020-03-06
-304,True,Florida,Lee,,Female,70s,3/6/2020,died 3/5 (announced 3/6),Traveled to the Dominican Republic,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,True,2020-03-06
+304,True,Florida,Lee,,Female,77,3/6/2020,died 3/5 (announced 3/6),Traveled to the Dominican Republic,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,True,2020-03-06
 305,True,Florida,Broward,,Male,75,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-06
 306,True,Florida,Broward,,Male,65,3/6/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"This man is likely — but not 100% confirmed to be — a subcontractor hired by a cruise line to work as shore staff, per Pati's tweets",,,,,,Florida,False,2020-03-06
-307,True,Utah,Davis,,Unknown,60+,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,Utah,False,2020-03-06
+307,True,Utah,Davis,,Unknown,60+,3/6/2020,home isolation,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,Utah,False,2020-03-06
 308,True,Washington,Clark,,Male,70s,3/6/2020,remains in isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-06
-309,True,Florida,Lee,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
+309,True,Florida,Lee,,Male,77,3/7/2020,Unknown,Travel overseas,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-07
 310,True,Georgia,Gwinnett,,Unknown,Unknown,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,Georgia,False,2020-03-07
 311,True,Georgia,Fulton,,Unknown,Unknown,3/7/2020,Hospitalized,Unknown,Unknown,Yes,,Link,,,,,,,,,,Georgia,False,2020-03-07
 312,True,Georgia,Cobb,,Unknown,Unknown,3/7/2020,Isolated at home,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,Georgia,False,2020-03-07
 313,True,Arizona,Pinal,,Unknown,Unknown,3/7/2020,Unknown,household contact of row #233,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Arizona,False,2020-03-07
 314,True,Arizona,Pinal,,Unknown,Unknown,3/7/2020,Unknown,household contact of row #233,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Arizona,False,2020-03-07
-315,True,California,Madera,,Unknown,Unknown,3/7/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,"Confirmed that the Princess cruise mentioned in the release was the Grand Princess — per Sara Bosse, Public Health Director (",,,,,,California,False,2020-03-07
+315,True,California,Madera,,Unknown,Unknown,3/7/2020,"hospitalized, stable",Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,"Confirmed that the Princess cruise mentioned in the release was the Grand Princess — per Sara Bosse, Public Health Director (",,,,,,California,False,2020-03-07
 316,True,Oregon,Jackson,,Unknown,Unknown,3/7/2020,Unknown,Travel (unidentified country),Travel overseas,No,,Link,,,,,,,,,,Oregon,False,2020-03-07
 317,True,Oregon,Klamath,,Unknown,Unknown,3/7/2020,Unknown,Travel (unidentified country),Travel overseas,No,,Link,,,,,,,,,,Oregon,False,2020-03-07
 318,True,Oregon,Washington,,Unknown,Unknown,3/7/2020,Unknown,Personal contact in U.S.,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Oregon,False,2020-03-07
@@ -378,8 +381,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 376,True,Washington,Snohomish,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
 377,True,Washington,Snohomish,,Female,40s,3/7/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,False,2020-03-07
 378,True,Washington,Snohomish,,Female,80s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-07
-379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise ship,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
-380,True,Florida,Charlotte,,Female,50s,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,False,2020-03-07
+379,True,California,Alameda,,Unknown,Older adult,3/6/2020,Hospitalized,Grand Princess cruise from feb. 11 to feb. 24,Grand Princess cruise in February,Unknown,,Link,,,,Underlying medical conditions; family members are in quarantine,,,,,,California,False,2020-03-06
+380,True,Florida,Charlotte,,Female,54,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,Florida,False,2020-03-07
 381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Travel within the U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,California,False,2020-03-07
 382,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
 383,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,California,False,2020-03-07
@@ -395,7 +398,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 393,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 394,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 395,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
-396,True,Kansas,Johnson,,Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
+396,True,Kansas,Wyandotte,"Johnson County, Kansas. University of Kansas Hospital",Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
 397,True,Pennsylvania,Montgomery,,male,adult,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-07
 398,True,Pennsylvania,Montgomery,,Female,adult,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-07
 399,True,District of Columbia,District of Columbia,,Male,50s,3/7/2020,Admitted to hospital March 5,Community transfer,Personal contact in U.S.,Yes,,Link,Link,Link,,Patient is the rector of Episcopalian Christ Church Georgetown,,,Rev. Tim Cole,,,District of Columbia,False,2020-03-07
@@ -412,14 +415,14 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 410,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 411,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
 412,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-07
-413,True,California,Santa Cruz,,Unknown,Unknown,3/7/2020,Unknown,On the Grand Princess cruise from San Francisco to Mexico between Feb. 11 and Feb. 21,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+413,True,California,Santa Cruz,,Unknown,Unknown,3/7/2020,Unknown,On the Grand Princess cruise from San Francisco to Mexico between Feb. 11 and Feb. 21,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 414,True,Virginia,Fairfax,,Unknown,Unknown,3/7/2020,hospitalized,Overseas travel,Travel overseas,No,Fort Belvoir Community Hospital,Link,Link,,,Announced by Pentagon. This is a US Marine at Fort Belvoir who had recently traveled overseas for work.,,,,,,Virginia,False,2020-03-07
-415,True,Florida,Okaloosa,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
-416,True,Florida,Volusia,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
+415,True,Florida,Okaloosa,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
+416,True,Florida,Volusia,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Florida,False,2020-03-07
 417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,Missouri,False,2020-03-07
-418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
+418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 419,True,Georgia,Fulton,,Unknown,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Georgia,False,2020-03-07
-420,True,Florida,Manatee,,Female,81,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Florida,False,2020-03-07
+420,True,Florida,Manatee,,Female,81,3/7/2020,Unknown,Overseas travel,Unknown,Unknown,,Link,Link,,,,,,,,,Florida,False,2020-03-07
 421,True,Washington,Pierce,,Female,30s,3/7/2020,discharged from hospital,Unknown,Unknown,Unknown,Good Samaritan Hospital (discharged),Link,,,,,,,,,,Washington,False,2020-03-07
 422,True,Washington,Pierce,,Male,40s,3/7/2020,hospitalized,Unknown,Unknown,Unknown,Tacoma General Hospital,Link,,,,,,,,,,Washington,False,2020-03-07
 423,True,Vermont,Unknown,,Male,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Vermont,False,2020-03-07
@@ -497,7 +500,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 495,True,South Carolina,Kershaw,,Female,Unknown,3/8/2020,hospitalized for other reasons,Direct contact with person in row #300,Personal contact in U.S.,yes,,Link,,,,Confirmed this is a Kershaw County resident with state spox,,,,,,South Carolina,False,2020-03-08
 496,True,South Carolina,Kershaw,,Male,Elderly,3/8/2020,discharged and in home isolation,Direct contact with person in row #300,Personal contact in U.S.,yes,,Link,,,,Confirmed this is a Kershaw County resident with state spox,,,,,,South Carolina,False,2020-03-08
 497,True,South Carolina,Kershaw,,Female,Unknown,3/8/2020,home isolation,Unknown,Unknown,unknown,,Link,,,,,,,,,,South Carolina,False,2020-03-08
-498,True,South Carolina,Spartanburg,,Male,Unknown,3/8/2020,home isolation,Travel in Italy,Travel in Italy,no,,Link,,,,,,,,,,South Carolina,False,2020-03-08
+498,True,South Carolina,Spartanburg,,Male,Unknown,3/8/2020,home isolation,Travel in Italy,Travel in Italy,no,,Link,Link,,,,,,,,,South Carolina,False,2020-03-08
 499,True,Maryland,Harford,,Female,80s,3/8/2020,hospitalized,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Maryland,False,2020-03-08
 500,True,Maryland,Montgomery,,Male,60s,3/8/2020,hospitalized briefly,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Maryland,False,2020-03-08
 501,True,Washington,Snohomish,,Female,70s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
@@ -528,20 +531,61 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 526,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 527,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,home isolation,close contact with previous patient,Personal contact in U.S.,yes,,Link,,,,,,,,,,California,False,2020-03-08
 528,True,Kentucky,Fayette,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
-529,True,Kentucky,Harrison,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
+529,True,Kentucky,Harrison,,Unknown,Unknown,3/8/2020,isolation (but don't know where),"unknown, linked to row 284",Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
 530,True,Kentucky,Jefferson,,Unknown,Unknown,3/8/2020,isolation (but don't know where),unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Kentucky,False,2020-03-08
 531,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 272,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nebraska,False,2020-03-08
 532,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 273,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Nebraska,False,2020-03-08
-533,True,Florida,Broward,,Male,67,3/8/2020,isolation (but don't know where),Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-08
+533,True,Florida,Broward,,Male,65,3/8/2020,isolation (but don't know where),Unknown,Unknown,Unknown,,Link,,,,,,,,,,Florida,False,2020-03-08
 534,True,Iowa,Johnson ,,Unknown,41-60,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
 535,True,Iowa,Johnson ,,Unknown,61-80,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
 536,True,Iowa,Johnson ,,Unknown,61-81,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
 537,True,Minnesota,Carver,,Unknown,50s,3/8/2020,home isolation,Travel in Europe,Travel overseas,no,,Link,,,,,,,,,,Minnesota,False,2020-03-08
-538,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
-539,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise ,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+538,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+539,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise ,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
 540,True,Texas,Harris,,Female,60-70,3/8/2020,stable,Egypt cruise with other Houston-area people,Travel in Egypt,No,,Link,,,,"Harris County Health case, non-Houston resident",,,,,,Texas,False,2020-03-08
 541,True,Georgia,Fulton,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
 542,True,Georgia,Cherokee,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
 543,True,Georgia,Cobb,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
 544,True,Georgia,Cobb,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
 545,True,Hawaii,Honolulu,,Unknown,Elderly,3/8/2020,hospitalized,Travel in Washington State; flew back to Hawaii while already ill,Travel within the U.S.,yes,,Link,,,,,,,,,,Hawaii,False,2020-03-08
+546,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+547,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+548,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+549,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+550,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+551,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+552,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+553,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+554,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+555,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+556,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+557,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+558,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+559,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+560,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+561,True,New York,Westchester,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+562,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+563,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+564,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+565,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+566,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+567,True,New York,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,NYC case; seeking county,,,,,,New York,False,2020-03-09
+568,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+569,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+570,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+571,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+572,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+573,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+574,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+575,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+576,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+577,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+578,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+579,True,New York,Nassau,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+580,True,New York,Rockland,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+581,True,New York,Rockland,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New York,False,2020-03-09
+582,True,Virginia,Arlington,,Unknown,60s,3/9/2020,Unknown,Travel overseas,Travel overseas,Unknown,,Link,Link,,,,,,,,,Virginia,False,2020-03-09
+583,True,Pennsylvania,Montgomery,,Unknown,Adult,3/9/2020,Critical,Travel overseas,Travel overseas,No,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
+584,True,Colorado,Larimer,,Female,50s,3/9/2020,"Unknown, diagnosed with pneumonia ",Unknown,Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
+585,True,Texas,Collin,,Male,30s,3/9/2020,home isolation,Travel in California,Travel within the U.S.,Yes,,Link,,,,,,,,,,Texas,False,2020-03-09
+586,True,Louisiana,Jefferson,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Louisiana,False,2020-03-09

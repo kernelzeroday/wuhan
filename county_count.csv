@@ -1,4 +1,7 @@
 Confirmed,County
+1,Bergen
+1,Union
+1,Monmouth
 1,Snohomish
 1,Cook
 1,Orange
@@ -177,7 +180,7 @@ Confirmed,County
 1,Los Angeles
 6,San Francisco
 8,Santa Clara
-1,Johnson
+1,Wyandotte
 2,Montgomery
 1,District of Columbia
 13,Westchester
@@ -243,3 +246,12 @@ Confirmed,County
 1,Cherokee
 2,Cobb
 1,Honolulu
+16,Westchester
+6,Unknown
+12,Nassau
+2,Rockland
+1,Arlington
+1,Montgomery
+1,Larimer
+1,Collin
+1,Jefferson
