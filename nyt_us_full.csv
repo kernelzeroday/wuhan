@@ -1,7 +1,4 @@
 ID,GFX,State where treated,County where treated,"Place of residence, if known to be different",Gender,Age,Date announced,Condition,How contracted?,nyt_contracted,Contracted in United States?,Hospital,Press release,Press release 2,Press release 3,Health care worker?,Special circumstances?,NYT link,PIO contact,Name,Family contact,w,nyt_state,nyt_died,nyt_date
-,,New Jersey,Bergen,,Male,30,3/9/2020,Unknown,Unknown,Unknown,Unknown,Holy Name Health,Link,,,,,,,,,,,,
-,,New Jersey,Union,,Male,48,3/9/2020,Unknown,Unknown,Unknown,Unknown,Overlook Medical Center,Link,,,,,,,,,,,,
-,,New Jersey,Monmouth,,Male,83,3/9/2020,Unknown,Unknown,Unknown,Unknown,Bayshore Medical Center,Link,,,,,,,,,,,,
 1,True,Washington,Snohomish,,Male,35,1/21/2020,recovered ,Traveled in Wuhan,Travel in China,No,Providence Regional Medical Center-Everett,Link,,,,,Link,lisa.stromme@doh.wa.gov,,Released statement requesting privacy on 2/3,,Washington,False,2020-01-21
 2,True,Illinois,Cook,,Female,60s,1/24/2020,recovered ,Traveled in Wuhan,Travel in China,No,AMITA Health St. Alexius Medical Center,Link,,,,,Link,andrew.buchanan@cityofchicago.org,,https://rochellenews-leader.com/article/illinois-coronavirus-patients-cured-released-from-home-isolation,,Illinois,False,2020-01-24
 3,True,California,Orange,"Wuhan, China",Unknown,Unknown,1/25/2020,recovered ,From Wuhan,Travel in China,No,Unknown,Link,,,,,Link,CDPHpress@cdph.ca.gov,,,,California,False,2020-01-25
@@ -63,7 +60,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 59,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,Evacuated from Diamond Princess,Diamond Princess cruise ship,No,,,,,,,,,,,,California,False,2020-02-26
 60,True,California,Sacramento,"Solano County, California",Female,Unknown,2/26/2020,,"Unknown, believed to be community transfer",Unknown,Yes,UC-Davis Medical Center,Link,,,,Health officials suspect this could be the first known community transmission in the U.S.,,"Jayleen Richards, (707) 975-3027, JMRichards@SolanoCounty.com   ",,,,California,False,2020-02-26
 61,True,Texas,Bexar,,Unknown,Unknown,2/28/2020,,Evacuated from Diamond Princess,Diamond Princess cruise ship,No,Texas Center for Infectious Disease,,,,,,,,,,,Texas,False,2020-02-28
-62,True,California,Santa Clara,,Female,Older adult,2/28/2020,,"Unknown, believed to be community transfer",Unknown,Yes,,Link,Link,,,Patient was in hospital with chronic problems when tested. Believed to be second known community transmission in U.S.,Link,Joy.Alexiou@hhs.sccgov.org,,,,California,False,2020-02-28
+62,True,California,Santa Clara,,Female,Older adult,2/28/2020,died 3/9 (announced 3/9),"Unknown, believed to be community transfer",Unknown,Yes,El Camino Hospital,Link,Link,Link,,Patient was in hospital with chronic problems when tested. Believed to be second known community transmission in U.S.,Link,Joy.Alexiou@hhs.sccgov.org,,,,California,True,2020-02-28
 63,True,Oregon,Washington,,Male,40-50,2/28/2020,hospitalized (Still in hospital 3/6),"Unknown, believed to be community transfer",Unknown,Yes,Kaiser Permanente Westside Medical Center,Link,,,,"Announced as a ""presumptive positive"" Believed to be third known community transmission in U.S.",,"Jonathan Modie, 971-246-9139 phd.communications@dhsoha.state.or.us",,,,Oregon,False,2020-02-28
 64,True,Washington,King,,Female,50s,2/28/2020,,"Traveled in Daegu, South Korea",Travel in South Korea,No,,Link,,,,"Announced as a ""presumptive positive"" ",,lisa.stromme@doh.wa.gov,,,,Washington,False,2020-02-28
 65,True,Washington,Snohomish,,Male,Under 18,2/28/2020,"had flu-like symptoms for few days, now symptom-free","Unknown, believed to be community transfer",Unknown,Yes,Home isolation,Link,,,,"Announced as a ""presumptive positive""; Believed to be fourth known community transmission in U.S.; high school he attends was being closed for deep cleaning",,lisa.stromme@doh.wa.gov,,,,Washington,False,2020-02-28
@@ -145,7 +142,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 141,True,Washington,King,,Female,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 142,True,Washington,King,,Male,50s,3/4/2020,not hospitalized,associated with LifeCare; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 143,True,Washington,King,,Male,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
-144,True,Washington,King,,Female,70s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
+144,True,Washington,King,,Female,70s,3/4/2020,died 3/8 (announced 3/9),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-04
 145,True,Washington,King,,Male,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 146,True,Washington,King,,Female,90s,3/4/2020,died 3/3 (announced 3/4),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-04
 147,True,Washington,King,,Female,70s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
@@ -398,7 +395,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 393,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 394,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
 395,True,California,Santa Clara,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-07
-396,True,Kansas,Wyandotte,"Johnson County, Kansas. University of Kansas Hospital",Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Kansas,False,2020-03-07
+396,True,Kansas,Wyandotte,"Johnson County, Kansas",Female,Under 50,3/7/2020,home isolation; doing well,"Domestic travel to Northeastern U.S., but they won't say for sure that she was exposed to a case there",Travel within the U.S.,Yes,University of Kansas Hospital,Link,Link,,,,,,,,,Kansas,False,2020-03-07
 397,True,Pennsylvania,Montgomery,,male,adult,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-07
 398,True,Pennsylvania,Montgomery,,Female,adult,3/7/2020,Mild symptoms; isolating at home,exposed to an area of the United States where COVID-19 is present,Travel within the U.S.,Yes,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-07
 399,True,District of Columbia,District of Columbia,,Male,50s,3/7/2020,Admitted to hospital March 5,Community transfer,Personal contact in U.S.,Yes,,Link,Link,Link,,Patient is the rector of Episcopalian Christ Church Georgetown,,,Rev. Tim Cole,,,District of Columbia,False,2020-03-07
@@ -589,3 +586,48 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 584,True,Colorado,Larimer,,Female,50s,3/9/2020,"Unknown, diagnosed with pneumonia ",Unknown,Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
 585,True,Texas,Collin,,Male,30s,3/9/2020,home isolation,Travel in California,Travel within the U.S.,Yes,,Link,,,,,,,,,,Texas,False,2020-03-09
 586,True,Louisiana,Jefferson,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Louisiana,False,2020-03-09
+587,True,New Jersey,Monmouth,,Male,83,3/9/2020,Unknown,Unknown,Unknown,Unknown,Bayshore Medical Center,Link,,,,,,,,,,New Jersey,False,2020-03-09
+588,True,New Jersey,Union,,Male,48,3/9/2020,Unknown,Unknown,Unknown,Unknown,Overlook Medical Center,Link,,,,,,,,,,New Jersey,False,2020-03-09
+589,True,New Jersey,Bergen,,Male,30,3/9/2020,Unknown,Unknown,Unknown,Unknown,Holy Name Health,Link,,,,,,,,,,New Jersey,False,2020-03-09
+590,True,New Jersey,Unknown,,Female,18,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New Jersey,False,2020-03-09
+591,True,New Jersey,Unknown,,Male,27,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,New Jersey,False,2020-03-09
+592,True,California,Marin,,Male,Older,3/9/2020,hospitalized,Passenger on Grand Princess curise ship that returned to San Francisco from Mexico on Feb 21,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+593,True,Ohio,Cuyahoga,,Male,50's,3/9/2020,Unknown,Traveled on Cruise from the Nile,Travel in Egypt,Unknown,,Link,,,,Spouse of row 595,,,,,,Ohio,False,2020-03-09
+594,True,Ohio,Cuyahoga,,Female,50's,3/9/2020,Unknown,Traveled on Cruise from the Nile,Travel in Egypt,Unknown,,Link,,,,Spouse of row 594,,,,,,Ohio,False,2020-03-09
+595,True,Ohio,Cuyahoga,,Unknown,50's,3/9/2020,hospitalized,Unkown,Unknown,Unknown,,Link,,,,,,,,,,Ohio,False,2020-03-09
+596,,South Carolina,Kershaw,,Male,Unkown,3/9/2020,Home isolation,Close contact of existing case (details unknown),Personal contact in U.S.,Unknown,,,,,,,,,,,,South Carolina,False,2020-03-09
+597,,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Traveled in Japan,Travel overseas,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+598,,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Community transfer,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+599,,Washington,King,,Female,80s,3/9/2020,died 3/4 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-09
+600,,Washington,King,,Female,90s,3/9/2020,died 3/8 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-09
+601,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+602,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+603,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+604,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+605,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+606,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+607,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+608,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+609,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+610,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+611,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+612,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+613,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+614,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+615,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+616,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+617,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+618,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+619,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+620,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+621,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+622,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+623,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+624,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+625,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+626,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+627,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+628,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+629,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+630,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+631,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09

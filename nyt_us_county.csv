@@ -2,16 +2,16 @@ county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,co
 Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,35,0
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,7,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
-Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,14,0
+Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,16,0
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
-Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,37,0
+Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,37,1
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,9,0
 San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,11,0
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,1,0
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,1,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
 Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,16,0
-Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,1,0
+Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,2,0
 Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,True,2,0
 Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,3,0
 Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,True,12,0
@@ -20,7 +20,7 @@ Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,
 Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,True,4,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,True,1,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,8,0
-King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,84,18
+King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,117,21
 Unknown,Rhode Island,RI,,,,,,,,True,3,0
 Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,3,0
 New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,7,0
@@ -65,7 +65,7 @@ Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,Tru
 Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,2,0
 Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,1,0
 El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,8041,41,True,1,0
-Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,4,0
+Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,5,0
 Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,True,1,0
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,2,0
 Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,4,0
@@ -123,3 +123,5 @@ Collin,Texas,TX,33.193885,-96.578153,Collin County,TX COLLIN,782341,48085,85,Tru
 Jefferson,Louisiana,LA,29.5033,-90.036231,Jefferson Parish,LA JEFFERSON,432552,22051,51,True,1,0
 Monmouth,New Jersey,NJ,40.287056,-74.152446,Monmouth County,NJ MONMOUTH,630380,34025,25,True,1,0
 Union,New Jersey,NJ,40.659871,-74.308696,Union County,NJ UNION,536499,34039,39,True,1,0
+Unknown,New Jersey,NJ,,,,,,,,True,2,0
+Cuyahoga,Ohio,OH,41.760392,-81.724217,Cuyahoga County,OH CUYAHOGA,1280122,39035,35,True,3,0
