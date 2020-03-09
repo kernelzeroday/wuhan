@@ -1,40 +1,61 @@
 UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 Washington,123,19,,,1,Source
-New York,105,0,,,0,Source
+New York,108,0,,,0,Source
 California,96,1,,1,1,Source
 Massachusetts,28,0,,,,Source
 Oregon,14,0,,,,Source
 Florida,12,2,,,,Source
+Georgia,11,0,,,,Source
 Colorado,8,0,,,,Source
 Illinois,7,0,,,2,Source
+Texas,7,0,,,,Source
 New Jersey,6,0,,,,Source
-Texas,6,0,,,,Source
 Pennsylvania,6,0,,,,Source
 South Carolina,6,0,,,,Source
-Georgia,5,0,,,,Source
-Arizona,5,0,,,,Source
+Arizona,5,0,,,1,Source
 Maryland,5,0,0,0,0,Source
 New Hampshire,4,0,,,,Source
 Kentucky,4,0,,,,Source
+Nevada,4,0,,,,Source
 Rhode Island,3,0,,,,Source
 Tennessee,3,0,,,,Source
 Iowa,3,0,,,,Source
-Nevada,2,0,,,,Source
 North Carolina,2,0,,,,Source
 Indiana,2,0,,,,Source
 Virginia,2,0,,,,Source
+Minnesota,2,0,,,,Source
+Hawaii,2,0,,,,Source
 Vermont,1,0,,,,Source
 Utah,1,0,,,,Source
 Kansas,1,0,,,,Source
 Missouri,1,0,,,,Source
-Minnesota,1,0,,,,Source
 Oklahoma,1,0,,,,Source
 Wisconsin,1,0,,,,Source
 Nebraska,1,0,,,,Source
-Hawaii,1,0,,,,Source
 District of Columbia,1,0,,,,Source
 Connecticut,1,0,,,,Source
 Wuhan,3,0,,,,
 Grand Princess,21,0,,,,Source
 Diamond Princess,45,0,,,2,
-U.S. TOTAL,537,22,0,0,6,
+Alabama,0,0,,,,
+Alaska,0,0,,,,
+Arkansas,0,0,,,,
+Delaware,0,0,,,,
+Idaho,0,0,,,,
+Louisiana,0,0,,,,
+Maine,0,0,,,,
+Michigan,0,0,,,,
+Mississippi,0,0,,,,
+Montana,0,0,,,,
+New Mexico,0,0,,,,
+North Dakota,0,0,,,,
+Ohio,0,0,,,,
+South Dakota,0,0,,,,
+West Virginia,0,0,,,,
+Wyoming,0,0,,,,
+American Samoa,0,0,,,,
+Guam,0,0,,,,
+Northern Mariana Islands,0,0,,,,
+Puerto Rico,0,0,,,,
+U.S. Virgin Islands,0,0,,,,
+U.S. TOTAL,551,22,0,1,7,

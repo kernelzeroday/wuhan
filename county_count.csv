@@ -222,10 +222,11 @@ Confirmed,County
 1,Spartanburg
 1,Harford
 1,Montgomery
-4,Snohomish
-1,Unknown
+5,Snohomish
 1,Pierce
-13,Unknown
+4,Snohomish
+1,Kitsap
+8,Unknown
 2,Montgomery
 1,Clark
 5,Contra Costa
@@ -235,3 +236,10 @@ Confirmed,County
 2,Douglas
 1,Broward
 3,Johnson 
+1,Carver
+2,Placer
+1,Harris
+1,Fulton
+1,Cherokee
+2,Cobb
+1,Honolulu

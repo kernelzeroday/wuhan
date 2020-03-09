@@ -500,17 +500,17 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 498,True,South Carolina,Spartanburg,,Male,Unknown,3/8/2020,home isolation,Travel in Italy,Travel in Italy,no,,Link,,,,,,,,,,South Carolina,False,2020-03-08
 499,True,Maryland,Harford,,Female,80s,3/8/2020,hospitalized,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Maryland,False,2020-03-08
 500,True,Maryland,Montgomery,,Male,60s,3/8/2020,hospitalized briefly,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,Maryland,False,2020-03-08
-501,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-502,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-503,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-504,True,Washington,Snohomish,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-505,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+501,True,Washington,Snohomish,,Female,70s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
+502,True,Washington,Snohomish,,Male,60s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
+503,True,Washington,Snohomish,,Female,70s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
+504,True,Washington,Snohomish,,Female,70s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
+505,True,Washington,Snohomish,,Male,70s,3/8/2020,hospitalized with underlying conditions,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
 506,True,Washington,Pierce,,Female,30s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Washington,False,2020-03-08
-507,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-508,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-509,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-510,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-511,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+507,True,Washington,Snohomish,,Male,60s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
+508,True,Washington,Snohomish,,Male,30s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
+509,True,Washington,Snohomish,,Female,80s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
+510,True,Washington,Snohomish,,Female,50s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
+511,True,Washington,Kitsap,,Unknown,60s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,Listed among 14 county unassigned WA cases on 3/8. Kitsap later reported one not assigned. Listing as 1 of the 14 to avoid double count.,,,,,,Washington,False,2020-03-08
 512,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 513,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 514,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
@@ -519,8 +519,8 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 517,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 518,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
 519,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-520,True,Pennsylvania,Montgomery,,Unknown,Adult,3/8/2020,Home isolation,international exposure,Travel overseas,no,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-08
-521,True,Pennsylvania,Montgomery,,Unknown,Adult,3/8/2020,Home isolation,international exposure,Travel overseas,no,,Link,Link,,,,,,,,,Pennsylvania,False,2020-03-08
+520,True,Pennsylvania,Montgomery,,male,Adult,3/8/2020,Home isolation,international exposure with person in row 522,Travel overseas,no,,Link,Link,Link,,,,,,,,Pennsylvania,False,2020-03-08
+521,True,Pennsylvania,Montgomery,,female,Adult,3/8/2020,Home isolation,international exposure with person in row 521,Travel overseas,no,,Link,Link,Link,,,,,,,,Pennsylvania,False,2020-03-08
 522,True,Nevada,Clark,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Nevada,False,2020-03-08
 523,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 524,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
@@ -536,3 +536,12 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 534,True,Iowa,Johnson ,,Unknown,41-60,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
 535,True,Iowa,Johnson ,,Unknown,61-80,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
 536,True,Iowa,Johnson ,,Unknown,61-81,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,Iowa,False,2020-03-08
+537,True,Minnesota,Carver,,Unknown,50s,3/8/2020,home isolation,Travel in Europe,Travel overseas,no,,Link,,,,,,,,,,Minnesota,False,2020-03-08
+538,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+539,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise ,Grand Princess cruise ship,Unknown,,Link,,,,,,,,,,California,False,2020-03-08
+540,True,Texas,Harris,,Female,60-70,3/8/2020,stable,Egypt cruise with other Houston-area people,Travel in Egypt,No,,Link,,,,"Harris County Health case, non-Houston resident",,,,,,Texas,False,2020-03-08
+541,True,Georgia,Fulton,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
+542,True,Georgia,Cherokee,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
+543,True,Georgia,Cobb,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
+544,True,Georgia,Cobb,,Unknown,Unknown,3/8/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Georgia,False,2020-03-08
+545,True,Hawaii,Honolulu,,Unknown,Elderly,3/8/2020,hospitalized,Travel in Washington State; flew back to Hawaii while already ill,Travel within the U.S.,yes,,Link,,,,,,,,,,Hawaii,False,2020-03-08

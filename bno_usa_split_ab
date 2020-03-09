@@ -1,40 +1,61 @@
 5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
 6,Washington,123,19,,,1,Source
-7,New York,105,0,,,0,Source
+7,New York,108,0,,,0,Source
 8,California,96,1,,1,1,Source
 9,Massachusetts,28,0,,,,Source
 10,Oregon,14,0,,,,Source
 11,Florida,12,2,,,,Source
-12,Colorado,8,0,,,,Source
-13,Illinois,7,0,,,2,Source
-14,New Jersey,6,0,,,,Source
-15,Texas,6,0,,,,Source
-16,Pennsylvania,6,0,,,,Source
-17,South Carolina,6,0,,,,Source
-18,Georgia,5,0,,,,Source
-19,Arizona,5,0,,,,Source
+12,Georgia,11,0,,,,Source
+13,Colorado,8,0,,,,Source
+14,Illinois,7,0,,,2,Source
+15,Texas,7,0,,,,Source
+16,New Jersey,6,0,,,,Source
+17,Pennsylvania,6,0,,,,Source
+18,South Carolina,6,0,,,,Source
+19,Arizona,5,0,,,1,Source
 20,Maryland,5,0,0,0,0,Source
 21,New Hampshire,4,0,,,,Source
 22,Kentucky,4,0,,,,Source
-23,Rhode Island,3,0,,,,Source
-24,Tennessee,3,0,,,,Source
-25,Iowa,3,0,,,,Source
-26,Nevada,2,0,,,,Source
+23,Nevada,4,0,,,,Source
+24,Rhode Island,3,0,,,,Source
+25,Tennessee,3,0,,,,Source
+26,Iowa,3,0,,,,Source
 27,North Carolina,2,0,,,,Source
 28,Indiana,2,0,,,,Source
 29,Virginia,2,0,,,,Source
-30,Vermont,1,0,,,,Source
-31,Utah,1,0,,,,Source
-32,Kansas,1,0,,,,Source
-33,Missouri,1,0,,,,Source
-34,Minnesota,1,0,,,,Source
-35,Oklahoma,1,0,,,,Source
-36,Wisconsin,1,0,,,,Source
-37,Nebraska,1,0,,,,Source
-38,Hawaii,1,0,,,,Source
+30,Minnesota,2,0,,,,Source
+31,Hawaii,2,0,,,,Source
+32,Vermont,1,0,,,,Source
+33,Utah,1,0,,,,Source
+34,Kansas,1,0,,,,Source
+35,Missouri,1,0,,,,Source
+36,Oklahoma,1,0,,,,Source
+37,Wisconsin,1,0,,,,Source
+38,Nebraska,1,0,,,,Source
 39,District of Columbia,1,0,,,,Source
 40,Connecticut,1,0,,,,Source
 41,Wuhan,3,0,,,,
 42,Grand Princess,21,0,,,,Source
 43,Diamond Princess,45,0,,,2,
-44,U.S. TOTAL,537,22,0,0,6,
+44,Alabama,0,0,,,,
+45,Alaska,0,0,,,,
+46,Arkansas,0,0,,,,
+47,Delaware,0,0,,,,
+48,Idaho,0,0,,,,
+49,Louisiana,0,0,,,,
+50,Maine,0,0,,,,
+51,Michigan,0,0,,,,
+52,Mississippi,0,0,,,,
+53,Montana,0,0,,,,
+54,New Mexico,0,0,,,,
+55,North Dakota,0,0,,,,
+56,Ohio,0,0,,,,
+57,South Dakota,0,0,,,,
+58,West Virginia,0,0,,,,
+59,Wyoming,0,0,,,,
+60,American Samoa,0,0,,,,
+61,Guam,0,0,,,,
+62,Northern Mariana Islands,0,0,,,,
+63,Puerto Rico,0,0,,,,
+64,U.S. Virgin Islands,0,0,,,,
+65,U.S. TOTAL,551,22,0,1,7,

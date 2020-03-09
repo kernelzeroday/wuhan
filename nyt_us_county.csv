@@ -1,5 +1,5 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
-Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,30,0
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,35,0
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,7,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,14,0
@@ -28,9 +28,9 @@ Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,8
 Hillsborough,Florida,FL,27.90659,-82.349568,Hillsborough County,FL HILLSBOROUGH,1229226,12057,57,True,2,0
 Walla Walla,Washington,WA,46.254606,-118.480374,Walla Walla County,WA WALLA WALLA,58781,53071,71,True,1,0
 Grafton,New Hampshire,NH,43.926488,-71.842264,Grafton County,NH GRAFTON,89118,33009,9,True,3,0
-Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,6061,61,True,5,1
+Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,6061,61,True,7,1
 Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,True,7,0
-Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,True,4,0
+Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,True,5,0
 San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,1,0
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,1,0
 Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,9,0
@@ -42,7 +42,7 @@ Kings,New York,NY,40.635133,-73.950777,Kings County,NY KINGS,2504700,36047,47,Tr
 Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,True,1,0
 Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,151372,12113,113,True,1,1
 Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,True,5,0
-Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,True,5,0
+Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,True,6,0
 Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,8059,59,True,1,0
 Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,True,4,0
 Douglas,Colorado,CO,39.326435,-104.926199,Douglas County,CO DOUGLAS,285465,8035,35,True,3,0
@@ -67,14 +67,14 @@ Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True
 El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,8041,41,True,1,0
 Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,4,0
 Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,True,1,0
-Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,1,0
+Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,2,0
 Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,4,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
 Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,3,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
 Clark,Washington,WA,45.771674,-122.485903,Clark County,WA CLARK,425363,53011,11,True,1,0
 Gwinnett,Georgia,GA,33.959101,-84.022938,Gwinnett County,GA GWINNETT,805321,13135,135,True,1,0
-Cobb,Georgia,GA,33.93994,-84.574166,Cobb County,GA COBB,688078,13067,67,True,1,0
+Cobb,Georgia,GA,33.93994,-84.574166,Cobb County,GA COBB,688078,13067,67,True,3,0
 Madera,California,CA,37.210039,-119.749852,Madera County,CA MADERA,150865,6039,39,True,1,0
 Jackson,Oregon,OR,42.411782,-122.675797,Jackson County,OR JACKSON,203206,41029,29,True,2,0
 Klamath,Oregon,OR,42.683761,-121.646168,Klamath County,OR KLAMATH,66380,41035,35,True,1,0
@@ -109,7 +109,10 @@ Bronx,New York,NY,40.848711,-73.852939,Bronx County,NY BRONX,1385108,36005,5,Tru
 Unknown,Massachusetts,MA,,,,,,,,True,1,0
 Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,True,1,0
 Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,True,1,0
-Unknown,Washington,WA,,,,,,,,True,14,0
+Kitsap,Washington,WA,47.639687,-122.649636,Kitsap County,WA KITSAP,251133,53035,35,True,1,0
+Unknown,Washington,WA,,,,,,,,True,8,0
 Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,True,1,0
 Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,21111,111,True,1,0
 Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,True,3,0
+Carver,Minnesota,MN,44.821381,-93.800575,Carver County,MN CARVER,91042,27019,19,True,1,0
+Cherokee,Georgia,GA,34.244317,-84.475057,Cherokee County,GA CHEROKEE,214346,13057,57,True,1,0
