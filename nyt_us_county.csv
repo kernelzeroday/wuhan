@@ -1,6 +1,6 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
 Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,35,0
-Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,7,0
+Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,11,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,16,0
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
@@ -22,7 +22,7 @@ Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,True,8,0
 King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,117,21
 Unknown,Rhode Island,RI,,,,,,,,True,3,0
-Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,3,0
+Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,24,0
 New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,7,0
 Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,81,True,2,0
 Hillsborough,Florida,FL,27.90659,-82.349568,Hillsborough County,FL HILLSBOROUGH,1229226,12057,57,True,2,0
@@ -62,8 +62,8 @@ Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123
 Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,True,1,0
 Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,2,0
 Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,True,1,0
-Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,2,0
-Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,1,0
+Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,3,0
+Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,2,0
 El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,8041,41,True,1,0
 Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,5,0
 Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,True,1,0
@@ -84,7 +84,7 @@ Queens,New York,NY,40.658557,-73.837929,Queens County,NY QUEENS,2230722,36081,81
 Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,1,0
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,True,1,0
 Wyandotte,Kansas,KS,39.115384,-94.763087,Wyandotte County,KS WYANDOTTE,157505,20209,209,True,1,0
-Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,5,0
+Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,7,0
 District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,True,1,0
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,True,1,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,True,1,0
@@ -94,7 +94,7 @@ St. Louis,Missouri,MO,38.640702,-90.445954,St. Louis County,MO ST. LOUIS,998954,
 Fresno,California,CA,36.761006,-119.655019,Fresno County,CA FRESNO,930450,6019,19,True,1,0
 Unknown,Vermont,VT,,,,,,,,True,1,0
 Rockingham,New Hampshire,NH,42.98936,-71.099437,Rockingham County,NH ROCKINGHAM,295223,33015,15,True,1,0
-Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,6065,65,True,1,0
+Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,6065,65,True,4,0
 Fairfax city,Virginia,VA,38.853183,-77.299025,Fairfax city,VA FAIRFAX CITY,22565,51600,600,True,1,0
 Ulster,New York,NY,41.947232,-74.265447,Ulster County,NY ULSTER,182493,36111,111,True,1,0
 Suffolk,New York,NY,40.943554,-72.692218,Suffolk County,NY SUFFOLK,1493350,36103,103,True,1,0
@@ -125,3 +125,6 @@ Monmouth,New Jersey,NJ,40.287056,-74.152446,Monmouth County,NJ MONMOUTH,630380,3
 Union,New Jersey,NJ,40.659871,-74.308696,Union County,NJ UNION,536499,34039,39,True,1,0
 Unknown,New Jersey,NJ,,,,,,,,True,2,0
 Cuyahoga,Ohio,OH,41.760392,-81.724217,Cuyahoga County,OH CUYAHOGA,1280122,39035,35,True,3,0
+Monroe,Pennsylvania,PA,41.056233,-75.329037,Monroe County,PA MONROE,169842,42089,89,True,1,0
+Noble,Indiana,IN,41.400794,-85.41785,Noble County,IN NOBLE,47536,18113,113,True,1,0
+Unknown,Indiana,IN,,,,,,,,True,1,0

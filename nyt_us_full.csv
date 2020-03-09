@@ -142,7 +142,7 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 141,True,Washington,King,,Female,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 142,True,Washington,King,,Male,50s,3/4/2020,not hospitalized,associated with LifeCare; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 143,True,Washington,King,,Male,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
-144,True,Washington,King,,Female,70s,3/4/2020,died 3/8 (announced 3/9),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-04
+144,True,Washington,King,,Female,70s,3/4/2020,died 3/8 (announced 3/9),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,Link,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-04
 145,True,Washington,King,,Male,60s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
 146,True,Washington,King,,Female,90s,3/4/2020,died 3/3 (announced 3/4),LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,True,2020-03-04
 147,True,Washington,King,,Female,70s,3/4/2020,hospitalized,LifeCare resident; apparent community transfer,"Nursing facility in Kirkland, Wash.",Yes,EvergreenHealth Hospital,Link,,,,,,PHPIO@kingcounty.gov,,,,Washington,False,2020-03-04
@@ -595,39 +595,74 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 593,True,Ohio,Cuyahoga,,Male,50's,3/9/2020,Unknown,Traveled on Cruise from the Nile,Travel in Egypt,Unknown,,Link,,,,Spouse of row 595,,,,,,Ohio,False,2020-03-09
 594,True,Ohio,Cuyahoga,,Female,50's,3/9/2020,Unknown,Traveled on Cruise from the Nile,Travel in Egypt,Unknown,,Link,,,,Spouse of row 594,,,,,,Ohio,False,2020-03-09
 595,True,Ohio,Cuyahoga,,Unknown,50's,3/9/2020,hospitalized,Unkown,Unknown,Unknown,,Link,,,,,,,,,,Ohio,False,2020-03-09
-596,,South Carolina,Kershaw,,Male,Unkown,3/9/2020,Home isolation,Close contact of existing case (details unknown),Personal contact in U.S.,Unknown,,,,,,,,,,,,South Carolina,False,2020-03-09
-597,,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Traveled in Japan,Travel overseas,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
-598,,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Community transfer,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
-599,,Washington,King,,Female,80s,3/9/2020,died 3/4 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-09
-600,,Washington,King,,Female,90s,3/9/2020,died 3/8 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,,,,,,,,,,,Washington,True,2020-03-09
-601,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-602,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-603,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-604,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-605,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-606,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-607,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-608,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-609,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-610,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-611,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-612,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-613,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-614,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-615,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-616,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-617,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-618,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-619,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-620,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-621,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-622,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-623,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-624,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-625,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-626,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-627,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-628,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-629,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-630,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
-631,,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,,,,,,,,,,,Washington,False,2020-03-09
+596,True,South Carolina,Kershaw,,Male,Unkown,3/9/2020,Home isolation,Close contact of existing case (details unknown),Personal contact in U.S.,Unknown,,,,,,,,,,,,South Carolina,False,2020-03-09
+597,True,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Traveled in Japan,Travel overseas,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+598,True,California,Los Angeles,,Unknown,Unkown,3/9/2020,Unknown,Community transfer,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+599,True,Washington,King,,Female,80s,3/9/2020,died 3/4 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,True,2020-03-09
+600,True,Washington,King,,Female,90s,3/9/2020,died 3/8 (announced 3/9),LifeCare resident,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,Washington,True,2020-03-09
+601,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+602,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+603,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+604,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+605,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+606,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+607,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+608,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+609,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+610,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+611,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+612,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+613,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+614,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+615,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+616,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+617,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+618,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+619,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+620,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+621,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+622,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+623,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+624,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+625,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+626,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+627,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+628,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+629,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+630,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+631,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+632,True,Pennsylvania,Monroe,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
+633,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
+634,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
+635,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+636,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+637,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+638,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+639,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+640,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+641,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+642,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+643,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+644,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+645,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+646,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+647,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+648,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+649,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+650,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+651,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+652,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+653,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+654,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+655,True,California,Alameda,,Unknown,Unknown,3/9/2020,Unknown,Grand Princess cruise from Hawaii to San Francisco; announced by VP Pence,Grand Princess cruise in March,Yes,,Link,,,,,,,,,,California,False,2020-03-09
+656,True,Illinois,Cook,,Female,50s,3/9/2020,good,exposed to Chicago school worker in row #302,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Illinois,False,2020-03-09
+657,True,Illinois,Cook,,Female,70s,3/9/2020,good,exposed to Chicago school worker in row #302,Personal contact in U.S.,Yes,,Link,,,,,,,,,,Illinois,False,2020-03-09
+658,True,Illinois,Cook,California,Female,50s,3/9/2020,good,Traveled to Chicago from California,Unknown,Yes,,Link,,,,,,,,,,Illinois,False,2020-03-09
+659,True,Illinois,Cook,,Female,70s,3/9/2020,good,Exposed on Egypt cruise,Travel in Egypt,No,,Link,,,,,,,,,,Illinois,False,2020-03-09
+660,True,California,Riverside,,Unknown,Unknown,3/9/2020,Home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+661,True,California,Riverside,,Unknown,Unknown,3/9/2020,Home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+662,True,California,Riverside,,Unknown,Unknown,3/9/2020,Hospitalized at a Coachella Valley hospital,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+663,True,Indiana,Noble,,Uknown,Unknown,3/9/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Indiana,False,2020-03-09
+664,True,Indiana,Unknown,,Unkown,Unknown,3/9/2020,Self-isolating,Unkown,Unknown,Unknown,,Link,,,,,,,,,,Indiana,False,2020-03-09
+665,True,Colorado,Eagle,,Female,70s,3/9/2020,Unknown,"Unknown, but does have a recent history of travel in the US",Travel within the U.S.,Yes,,Link,,,,,,,,,,Colorado,False,2020-03-09
+666,True,Colorado,Denver,,Female,30s,3/9/2020,Unknown,"Unknown, no known contact with an infected person and no recent travel",Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
