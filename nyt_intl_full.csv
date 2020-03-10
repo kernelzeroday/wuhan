@@ -53,8 +53,8 @@ HUN,Hungary,47.162,19.503,Hungary,,True,True,True,,JHU issue. keep,7,,0001-03-08
 MEX,Mexico,23.635,-102.553,Mexico,,True,True,True,,JHU missing at noon on 3/8,7,,,,Mexico,Mexico,True,True,right,,,,,,Mexico,7,0,0
 CHL,Chile,-35.675,-71.543,Chile,,True,True,True,,"JHU has it on the dashboard, but somehow not in the sheet.",8,,0001-03-08,,Chile,Chile,,,,,,,,,Chile,8,0,0
 AZE,Azerbaijan,40.143,47.577,Azerbaijan,,True,True,True,,JHU issue,9,,0001-03-08,,Azerbaijan,Azerbaijan,,,,,,,,,Azerbaijan,9,0,0
-EST,Estonia,58.595,25.014,Estonia,,True,True,True,,,,,,,Estonia,Estonia,,,,,,,,,Estonia,10,0,0
-MAC,Macau,22.199,113.544,Macau,Macau,True,True,False,,,,,,,Macau,Macau,,,,,,,,,Macau (Macau),10,0,10
+EST,Estonia,58.595,25.014,Estonia,,True,True,True,,,10,,0001-03-09,,Estonia,Estonia,,,,,,,,,Estonia,10,0,0
+MAC,Macau,22.199,113.544,Macau,Macau,True,True,False,,,10,,0001-03-09,,Macau,Macau,,,,,,,,,Macau (Macau),10,0,0
 ARG,Argentina,-38.416,-63.617,Argentina,,True,True,True,,,,,,,Argentina,Argentina,True,True,,,,,,,Argentina,12,1,0
 HRV,Croatia,45.1,15.2,Croatia,,True,True,True,,,,,,,Croatia,Croatia,,,,,,,,,Croatia,13,0,0
 ECU,Ecuador,-1.831,-78.183,Ecuador,,True,True,True,,,,,,,Ecuador,Ecuador,,,,,,,,,Ecuador,15,0,0
@@ -129,20 +129,20 @@ CHN,,46.8,127.07,Mainland China,Heilongjiang,True,,,,,,,,,,,,,,,,,,,Heilongjiang
 CHN,,30.8,103.8,Mainland China,Sichuan,True,,,,,,,,,,,,,,,,,,,Sichuan (Mainland China),539,3,470
 CHN,,29.5,106.4,Mainland China,Chongqing,True,,,,,,,,,,,,,,,,,,,Chongqing (Mainland China),576,6,542
 CHN,,33.15,119.58,Mainland China,Jiangsu,True,,,,,,,,,,,,,,,,,,,Jiangsu (Mainland China),631,0,622
-USA,United States,37.09,-95.713,US,,True,True,True,,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,688,26,0
+USA,United States,37.09,-95.713,US,,True,True,True,,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,707,26,0
 CHN,,36.4,116.5,Mainland China,Shandong,True,,,,,,,,,,,,,,,,,,,Shandong (Mainland China),758,6,703
-CHN,,27.28,114.91,Mainland China,Jiangxi,True,,,,,,,,,,,,,,,,,,,Jiangxi (Mainland China),935,1,923
+CHN,,27.28,114.91,Mainland China,Jiangxi,True,,,,,,,,,,,,,,,,,,,Jiangxi (Mainland China),935,1,927
 CHN,,32,116.1,Mainland China,Anhui,True,,,,,,,,,,,,,,,,,,,Anhui (Mainland China),990,6,984
 CHN,,27.4,110.4,Mainland China,Hunan,True,,,,,,,,,,,,,,,,,,,Hunan (Mainland China),1018,4,988
 ESP,Spain,40.464,-3.749,Spain,,True,True,True,,,,,,,Spain,Spain,,,,,True,,,,Spain,1073,28,32
 DEU,Germany,51.166,10.452,Germany,,True,True,True,,,,,,,Germany,Germany,True,True,,,True,,-30,,Germany,1176,2,18
 JPN,Japan,36.49,143,Japan,,True,True,True,2,"NYT, includes 696 cruise ship + 502 in Japan from JHU. 6 died on cruise and 6 died in Japan. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2",1198,12,0001-03-08,,Japan,Japan,True,,top,,,,,,Japan,1198,17,76
-CHN,,29.1,120.1,Mainland China,Zhejiang,True,,,,,,,,,,,,,,,,,,,Zhejiang (Mainland China),1215,1,1176
+CHN,,29.1,120.1,Mainland China,Zhejiang,True,,,,,,,,,,,,,,,,,,,Zhejiang (Mainland China),1215,1,1178
 CHN,,33.9,112.4,Mainland China,Henan,True,,,,,,,,,,,,,,,,,,,Henan (Mainland China),1272,22,1247
-CHN,,22.9,112.4,Mainland China,Guangdong,True,,,,,,,,,,,,,,,,,,,Guangdong (Mainland China),1352,8,1260
+CHN,,22.9,112.4,Mainland China,Guangdong,True,,,,,,,,,,,,,,,,,,,Guangdong (Mainland China),1353,8,1270
 FRA,France,46.228,2.214,France,,True,True,True,,"via Aurelien Breeden, NYT",1412,30,0001-03-08,True,France,France,True,True,,,True,,,,France,1412,30,12
 IRN,Iran,32.428,53.688,Iran,,True,True,True,3,,,,,,Iran,Iran,True,,,,,,,,Iran,7161,237,2394
 KOR,South Korea,35.908,127.767,South Korea,,True,True,True,3,,,,,,S. Korea,S. Korea,True,,top,True,,,-20,South Korea,South Korea,7478,53,118
 ITA,Italy,41.872,12.567,Italy,,True,True,True,3,"via Elisabetta Povoledo, NYT",7375,366,0001-03-08,,Italy,Italy,True,,,,True,,,,Italy,9172,463,724
 CHN,,32.05,110.5,Mainland China,Hubei,True,,,,,,,,,,,,,count_only,,,,,,Hubei (Mainland China),67760,3024,47585
-CHN,Mainland China,35.862,104.195,Mainland China,,True,True,True,3,,,,,,China,China,True,,,,,,,China,Mainland China,80752,3136,0
+CHN,Mainland China,35.862,104.195,Mainland China,,True,True,True,3,,,,,,China,China,True,,,,,,,China,Mainland China,80753,3136,0

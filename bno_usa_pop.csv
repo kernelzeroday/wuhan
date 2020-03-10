@@ -3,7 +3,7 @@ Alabama,4903185,0,0,,,,,AL,97
 Alaska,731545,0,0,,,,,AK,26
 Arizona,7278717,5,0,,,1,Source,AZ,94
 Arkansas,3017804,0,0,,,,,AR,86
-California,39512223,96,1,,1,1,Source,CA,383
+California,39512223,102,2,,1,1,Source,CA,383
 Colorado,5758736,8,0,,,,Source,CO,91
 Connecticut,3565287,1,0,,,,Source,CT,37
 Delaware,973764,0,0,,,,,DE,12
@@ -44,7 +44,7 @@ Tennessee,6829174,3,0,,,,Source,TN,118
 Texas,28995881,7,0,,,,Source,TX,457
 Utah,3205958,1,0,,,,Source,UT,52
 Vermont,623989,1,0,,,,Source,VT,16
-Virginia,8535519,2,0,,,,Source,VA,95
+Virginia,8535519,5,0,,,,Source,VA,95
 Washington,7614893,162,23,,,1,Source,WA,101
 West Virginia,1792147,0,0,,,,,WV,53
 Wisconsin,5822434,1,0,,,,Source,WI,136

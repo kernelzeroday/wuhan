@@ -1,0 +1,61 @@
+UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links,date2,unixtime
+Washington,162,23,,,1,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+New York,142,0,,,0,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+California,102,2,,1,1,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Massachusetts,28,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Oregon,14,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Florida,13,2,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Georgia,11,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Colorado,8,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Illinois,7,0,,,2,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Texas,7,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+New Jersey,6,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Pennsylvania,6,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Maryland,6,0,0,0,0,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+South Carolina,6,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Kentucky,6,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Arizona,5,0,,,1,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Virginia,5,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+New Hampshire,4,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Nevada,4,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Rhode Island,3,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Tennessee,3,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Iowa,3,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+North Carolina,2,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Indiana,2,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Minnesota,2,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Hawaii,2,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Vermont,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Utah,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Kansas,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Missouri,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Oklahoma,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Wisconsin,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Nebraska,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+District of Columbia,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Connecticut,1,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Wuhan,3,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Grand Princess,21,0,,,,Source,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Diamond Princess,45,0,,,2,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Alabama,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Alaska,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Arkansas,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Delaware,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Idaho,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Louisiana,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Maine,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Michigan,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Mississippi,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Montana,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+New Mexico,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+North Dakota,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Ohio,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+South Dakota,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+West Virginia,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Wyoming,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+American Samoa,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Guam,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Northern Mariana Islands,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+Puerto Rico,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+U.S. Virgin Islands,0,0,,,,,Mon Mar  9 20:22:00 PDT 2020,1583810520
+U.S. TOTAL,637,27,0,1,7,,Mon Mar  9 20:22:00 PDT 2020,1583810520
