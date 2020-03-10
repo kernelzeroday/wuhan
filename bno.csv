@@ -1,50 +1,51 @@
 OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
-Mainland China,80735,3119,5111,,58600
-South Korea,7478,53,,36,166
+Mainland China,80754,3136,4794,,59897
+South Korea,7513,54,,36,247
 Italy,9172,463,733,,724
 Iran,7161,237,,,2394
 France,1412,30,66,,12
 Germany,1224,2,,2,18
-Spain,999,25,11,,32
+Spain,1231,30,11,,32
 Diamond Princess,696,7,31,,245
-United States,551,22,2,6,9
+United States,628,26,2,6,9
 Japan,497,7,30,,59
 Switzerland,374,2,,,3
+Netherlands,321,3,1,,
 United Kingdom,319,3,,,12
-Netherlands,265,3,1,,
-Belgium,239,0,1,,1
-Sweden,203,0,,,
-Norway,176,0,,,
-Singapore,150,0,,9,90
+Sweden,248,0,,,
+Belgium,239,0,1,1,1
+Norway,227,0,,,
+Singapore,160,0,,10,93
+Austria,131,0,,,2
 Malaysia,117,0,2,,24
-Hong Kong,115,2,2,4,59
-Austria,112,0,,,2
+Hong Kong,116,2,2,4,59
 Bahrain,109,0,,,14
 Australia,91,3,,,22
-Greece,73,0,1,,
-Kuwait,64,0,2,1,0
+Greece,84,0,1,,
 Canada,67,0,,1,8
+Iceland,65,0,,,
+Kuwait,64,0,2,1,0
 Iraq,60,5,,,
 UAE,59,0,2,,7
-Iceland,58,0,,,
 Egypt,55,1,,,1
 Thailand,50,1,1,,31
+San Marino,49,2,5,,
 Taiwan,45,1,0,0,15
 India,43,0,,,4
+Portugal,39,0,,,
 Israel,39,0,,,
 Denmark*,37,0,,,
-San Marino,36,1,5,,
 Lebanon,32,0,,1,
 Czech Republic,31,0,0,0,0
 Vietnam,31,0,,,16
-Portugal,30,0,,,
 Finland,30,0,,,1
 Brazil,25,0,,,
-Ireland,21,0,,,
+Ireland,24,0,,,
 Algeria,20,0,,,
 Philippines,20,1,1,,2
 Indonesia,19,0,,,
 Qatar,18,0,,,
+Romania,17,0,,,4
 Oman,16,0,,,2
 Poland,16,0,2,0,0
 Slovenia,16,0,0,0,0
@@ -52,7 +53,6 @@ Russia,15,0,,,3
 Saudi Arabia,15,0,,,
 Ecuador,15,0,,1,
 Georgia,15,0,1,,
-Romania,14,0,,,4
 Argentina,12,1,,,
 Croatia,12,0,,,
 Macau,10,0,,,6
@@ -60,7 +60,7 @@ Chile,10,0,,,
 Estonia,10,0,0,0,0
 Costa Rica,9,0,1,,
 Hungary,9,0,0,0,0
-Mexico,7,0,1,,1
+Mexico,7,0,1,,4
 Peru,7,0,,,
 Belarus,6,0,,,
 Azerbaijan,6,0,,,
@@ -76,6 +76,7 @@ Bulgaria,4,0,,,
 Maldives,4,0,,,
 South Africa,3,0,,,
 Bangladesh,3,0,,,
+Colombia,3,0,,,
 Morocco,2,0,,,
 Bosnia,2,0,,,
 Cameroon,2,0,,,
@@ -102,5 +103,4 @@ Bhutan,1,0,,,
 Gibraltar,1,0,1,,
 Serbia,1,0,,,
 Vatican City,1,0,,,
-Colombia,1,0,,,
-TOTAL,113464,3989,6008,61,62590
+TOTAL,114057,4017,5691,63,63974

@@ -56,7 +56,7 @@ AZE,Azerbaijan,40.143,47.577,Azerbaijan,,True,True,True,,JHU issue,9,,0001-03-08
 EST,Estonia,58.595,25.014,Estonia,,True,True,True,,,,,,,Estonia,Estonia,,,,,,,,,Estonia,10,0,0
 MAC,Macau,22.199,113.544,Macau,Macau,True,True,False,,,,,,,Macau,Macau,,,,,,,,,Macau (Macau),10,0,10
 ARG,Argentina,-38.416,-63.617,Argentina,,True,True,True,,,,,,,Argentina,Argentina,True,True,,,,,,,Argentina,12,1,0
-HRV,Croatia,45.1,15.2,Croatia,,True,True,True,,,,,,,Croatia,Croatia,,,,,,,,,Croatia,12,0,0
+HRV,Croatia,45.1,15.2,Croatia,,True,True,True,,,,,,,Croatia,Croatia,,,,,,,,,Croatia,13,0,0
 ECU,Ecuador,-1.831,-78.183,Ecuador,,True,True,True,,,,,,,Ecuador,Ecuador,,,,,,,,,Ecuador,15,0,0
 GEO,Georgia,42.315,43.357,Georgia,,True,True,True,,JHU issue. keep,4,,0001-03-07,,Georgia,Georgia,,,,,,,,,Georgia,15,0,0
 ROU,Romania,45.943,24.967,Romania,,True,True,True,,,,,,,Romania,Romania,,,,,,,,,Romania,15,0,3
@@ -69,7 +69,7 @@ POL,Poland,51.919,19.145,Poland,,True,True,True,,JHU issue,5,,0001-03-07,,Poland
 RUS,Russia,61.524,105.319,Russia,,True,True,True,,,,,,,Russia,Russia,True,True,,,,,,,Russia,17,0,3
 QAT,Qatar,25.343,50.657,Qatar,,True,True,True,,,,,,,Qatar,Qatar,,,,,,,,,Qatar,18,0,0
 CHN,,35.39,93.99,Mainland China,Qinghai,True,,,,,,,,,,,,,,,,,,,Qinghai (Mainland China),18,0,18
-IDN,Indonesia,-0.789,113.921,Indonesia,,True,True,True,,JHU issue. Pls keep,6,,0001-03-08,,Indonesia,Indonesia,True,True,,,,,,,Indonesia,19,0,0
+IDN,Indonesia,-0.789,113.921,Indonesia,,True,True,True,,JHU issue. Pls keep,6,,0001-03-08,,Indonesia,Indonesia,,True,,,,,,,Indonesia,19,0,0
 DZA,Algeria,28.034,1.66,Algeria,,True,True,True,,,,,,,Algeria,Algeria,True,True,,,,,,,Algeria,20,0,0
 PHL,Philippines,12.88,121.774,Philippines,,True,True,True,,JHU issue,5,,0001-03-07,,Philippines,Philippines,,,right,True,,,,,Philippines,20,1,1
 IRL,Ireland,53.413,-8.244,Ireland,,True,True,True,,Ireland dept of health,21,,0001-03-08,,Ireland,Ireland,,,,,,,,,Ireland,21,0,0
@@ -91,7 +91,7 @@ AUS,,-32.74,145.56,Australia,New South Wales,True,,,,,,,,,,,,,,,,,,,New South Wa
 THA,Thailand,15.87,100.993,Thailand,,True,True,True,,,,,,,Thailand,Thailand,,,top,,,,,,Thailand,50,1,31
 EGY,Egypt,26.821,30.802,Egypt,,True,True,True,,"via Declan Walsh, NYT",48,1,,,Egypt,Egypt,True,True,,,,,,,Egypt,55,1,12
 ISL,Iceland,64.963,-19.021,Iceland,,True,True,True,,,,,,,Iceland,Iceland,True,True,top,,,,,,Iceland,58,0,0
-IRQ,Iraq,33.223,43.679,Iraq,,True,True,True,,"via Alissa Rubin, NYT",62,,0001-03-08,,Iraq,Iraq,,,,,,,,,Iraq,62,6,0
+IRQ,Iraq,33.223,43.679,Iraq,,True,True,True,,"via Alissa Rubin, NYT",62,,0001-03-08,,Iraq,Iraq,,,,,,,,,Iraq,62,6,9
 KWT,Kuwait,29.312,47.482,Kuwait,,True,True,True,,,,,,,Kuwait,Kuwait,,,,,,,,,Kuwait,64,0,1
 CAN,Canada,56.13,-106.347,Canada,,True,True,True,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,62,,0001-03-08,,Canada,Canada,True,True,,,,,,,Canada,66,1,0
 GRC,Greece,39.074,21.824,Greece,,True,True,True,,,,,,,Greece,Greece,,,,,,,,,Greece,73,0,0
@@ -102,14 +102,14 @@ AUS,Australia,-25.274,133.775,Australia,,True,True,True,,JHU issue,76,,0001-03-0
 DNK,Denmark,56.264,9.502,Denmark,,True,True,True,,,,,,,Denmark,Denmark,,,,,,,,,Denmark,90,0,1
 CHN,,43.85,126.5,Mainland China,Jilin,True,,,,,,,,,,,,,,,,,,,Jilin (Mainland China),93,1,91
 BHR,Bahrain,25.93,50.638,Bahrain,,True,True,True,,,,,,,Bahrain,Bahrain,,,,,,,,,Bahrain,95,0,14
-HKG,Hong Kong,22.396,114.109,Hong Kong,Hong Kong,True,True,False,1,,,,,,Hong Kong,Hong Kong,,,,,,,,,Hong Kong (Hong Kong),115,3,59
+HKG,Hong Kong,22.396,114.109,Hong Kong,Hong Kong,True,True,False,1,,,,,,Hong Kong,Hong Kong,,,,,,,,,Hong Kong (Hong Kong),115,3,60
 MYS,Malaysia,4.21,101.976,Malaysia,,True,True,True,,,,,,,Malaysia,Malaysia,,,right,True,,,,,Malaysia,117,0,24
 CHN,,40.39,96.81,Mainland China,Gansu,True,,,,,,,,,,,,,,,,,,,Gansu (Mainland China),124,2,88
-CHN,,41.3,121.9,Mainland China,Liaoning,True,,,,,,,,,,,,,,,,,,,Liaoning (Mainland China),125,1,109
+CHN,,41.3,121.9,Mainland China,Liaoning,True,,,,,,,,,,,,,,,,,,,Liaoning (Mainland China),125,1,110
 AUT,Austria,47.516,14.55,Austria,,True,True,True,,,,,,,Austria,Austria,,,,,,,,,Austria,131,0,2
 CHN,,37.64,110.15,Mainland China,Shanxi,True,,,,,,,,,,,,,,,,,,,Shanxi (Mainland China),133,0,127
 CHN,,39.13,117.01,Mainland China,Tianjin,True,,,,,,,,,,,,,,,,,,,Tianjin (Mainland China),136,3,130
-CHN,,26.91,105.48,Mainland China,Guizhou,True,,,,,,,,,,,,,,,,,,,Guizhou (Mainland China),146,2,123
+CHN,,26.91,105.48,Mainland China,Guizhou,True,,,,,,,,,,,,,,,,,,,Guizhou (Mainland China),146,2,129
 SGP,Singapore,1.352,103.82,Singapore,,True,True,True,,,,,,,Singapore,Singapore,True,True,right,,,,,,Singapore,150,0,78
 CHN,,19.15,109.37,Mainland China,Hainan,True,,,,,,,,,,,,,,,,,,,Hainan (Mainland China),168,6,159
 CHN,,24.64,101.29,Mainland China,Yunnan,True,,,,,,,,,,,,,,,,,,,Yunnan (Mainland China),174,2,170
@@ -117,23 +117,23 @@ NOR,Norway,60.472,8.469,Norway,,True,True,True,,,,,,,Norway,Norway,,,,,True,,,,N
 BEL,Belgium,50.504,4.47,Belgium,,True,True,True,,,,,,,Belgium,Belgium,,,,,,,,,Belgium,239,0,1
 CHN,,35.63,106.12,Mainland China,Shaanxi,True,,,,,,,,,,,,,,,,,,,Shaanxi (Mainland China),245,1,227
 SWE,Sweden,60.128,18.644,Sweden,,True,True,True,,,,,,,Sweden,Sweden,,,,,,,,,Sweden,248,0,1
-CHN,,23.72,108.66,Mainland China,Guangxi,True,,,,,,,,,,,,,,,,,,,Guangxi (Mainland China),252,2,230
+CHN,,23.72,108.66,Mainland China,Guangxi,True,,,,,,,,,,,,,,,,,,,Guangxi (Mainland China),252,2,234
 CHN,,25.92,117.17,Mainland China,Fujian,True,,,,,,,,,,,,,,,,,,,Fujian (Mainland China),296,1,295
 CHN,,38.48,115.24,Mainland China,Hebei,True,,,,,,,,,,,,,,,,,,,Hebei (Mainland China),318,6,307
 GBR,U.K.,55.378,-3.436,UK,,True,True,True,,,,,,,U.K.,UK,True,True,,,True,,,the United Kingdom,UK,321,4,18
 NLD,Netherlands,52.133,5.291,Netherlands,,True,True,True,,,,,,,Netherlands,Netherlands,,,,,,,,,Netherlands,321,3,0
 CHN,,31.19,121.48,Mainland China,Shanghai,True,,,,,,,,,,,,,,,,,,,Shanghai (Mainland China),342,3,315
 CHE,Switzerland,46.818,8.228,Switzerland,,True,True,True,,https://twitter.com/BAG_OFSP_UFSP/status/1236609977323790339,281,,0001-03-08,,Switzerland,Switzerland,,,,,,,,,Switzerland,374,2,3
-CHN,,39.9,116.3,Mainland China,Beijing,True,,,,,,,,,,,,,count_only,,,,,,Beijing (Mainland China),428,8,315
-CHN,,46.8,127.07,Mainland China,Heilongjiang,True,,,,,,,,,,,,,,,,,,,Heilongjiang (Mainland China),481,13,430
-CHN,,30.8,103.8,Mainland China,Sichuan,True,,,,,,,,,,,,,,,,,,,Sichuan (Mainland China),539,3,466
-CHN,,29.5,106.4,Mainland China,Chongqing,True,,,,,,,,,,,,,,,,,,,Chongqing (Mainland China),576,6,535
-CHN,,33.15,119.58,Mainland China,Jiangsu,True,,,,,,,,,,,,,,,,,,,Jiangsu (Mainland China),631,0,621
-USA,United States,37.09,-95.713,US,,True,True,True,,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,666,26,0
-CHN,,36.4,116.5,Mainland China,Shandong,True,,,,,,,,,,,,,,,,,,,Shandong (Mainland China),758,6,700
+CHN,,39.9,116.3,Mainland China,Beijing,True,,,,,,,,,,,,,count_only,,,,,,Beijing (Mainland China),429,8,320
+CHN,,46.8,127.07,Mainland China,Heilongjiang,True,,,,,,,,,,,,,,,,,,,Heilongjiang (Mainland China),481,13,434
+CHN,,30.8,103.8,Mainland China,Sichuan,True,,,,,,,,,,,,,,,,,,,Sichuan (Mainland China),539,3,470
+CHN,,29.5,106.4,Mainland China,Chongqing,True,,,,,,,,,,,,,,,,,,,Chongqing (Mainland China),576,6,542
+CHN,,33.15,119.58,Mainland China,Jiangsu,True,,,,,,,,,,,,,,,,,,,Jiangsu (Mainland China),631,0,622
+USA,United States,37.09,-95.713,US,,True,True,True,,,,,,,U.S.,U.S.,True,,,,,,,the United States,US,688,26,0
+CHN,,36.4,116.5,Mainland China,Shandong,True,,,,,,,,,,,,,,,,,,,Shandong (Mainland China),758,6,703
 CHN,,27.28,114.91,Mainland China,Jiangxi,True,,,,,,,,,,,,,,,,,,,Jiangxi (Mainland China),935,1,923
 CHN,,32,116.1,Mainland China,Anhui,True,,,,,,,,,,,,,,,,,,,Anhui (Mainland China),990,6,984
-CHN,,27.4,110.4,Mainland China,Hunan,True,,,,,,,,,,,,,,,,,,,Hunan (Mainland China),1018,4,979
+CHN,,27.4,110.4,Mainland China,Hunan,True,,,,,,,,,,,,,,,,,,,Hunan (Mainland China),1018,4,988
 ESP,Spain,40.464,-3.749,Spain,,True,True,True,,,,,,,Spain,Spain,,,,,True,,,,Spain,1073,28,32
 DEU,Germany,51.166,10.452,Germany,,True,True,True,,,,,,,Germany,Germany,True,True,,,True,,-30,,Germany,1176,2,18
 JPN,Japan,36.49,143,Japan,,True,True,True,2,"NYT, includes 696 cruise ship + 502 in Japan from JHU. 6 died on cruise and 6 died in Japan. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2",1198,12,0001-03-08,,Japan,Japan,True,,top,,,,,,Japan,1198,17,76
@@ -144,5 +144,5 @@ FRA,France,46.228,2.214,France,,True,True,True,,"via Aurelien Breeden, NYT",1412
 IRN,Iran,32.428,53.688,Iran,,True,True,True,3,,,,,,Iran,Iran,True,,,,,,,,Iran,7161,237,2394
 KOR,South Korea,35.908,127.767,South Korea,,True,True,True,3,,,,,,S. Korea,S. Korea,True,,top,True,,,-20,South Korea,South Korea,7478,53,118
 ITA,Italy,41.872,12.567,Italy,,True,True,True,3,"via Elisabetta Povoledo, NYT",7375,366,0001-03-08,,Italy,Italy,True,,,,True,,,,Italy,9172,463,724
-CHN,,32.05,110.5,Mainland China,Hubei,True,,,,,,,,,,,,,count_only,,,,,,Hubei (Mainland China),67743,3008,46488
-CHN,Mainland China,35.862,104.195,Mainland China,,True,True,True,3,,,,,,China,China,True,,,,,,,China,Mainland China,80734,3120,0
+CHN,,32.05,110.5,Mainland China,Hubei,True,,,,,,,,,,,,,count_only,,,,,,Hubei (Mainland China),67760,3024,47585
+CHN,Mainland China,35.862,104.195,Mainland China,,True,True,True,3,,,,,,China,China,True,,,,,,,China,Mainland China,80752,3136,0

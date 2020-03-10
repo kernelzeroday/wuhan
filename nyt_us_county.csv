@@ -1,5 +1,5 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
-Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,35,0
+Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,45,0
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,11,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,16,0
@@ -32,7 +32,7 @@ Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,6061,6
 Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,True,7,0
 Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,True,5,0
 San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,1,0
-Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,1,0
+Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,6,0
 Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,9,0
 Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,98,0
 Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,48157,157,True,6,0
@@ -60,7 +60,7 @@ Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,6113,113,Tru
 Camden,New Jersey,NJ,39.802352,-74.961251,Camden County,NJ CAMDEN,513657,34007,7,True,1,0
 Ramsey,Minnesota,MN,45.01525,-93.100141,Ramsey County,MN RAMSEY,508640,27123,123,True,1,0
 Jefferson,Washington,WA,47.802641,-123.52181,Jefferson County,WA JEFFERSON,29872,53031,31,True,1,0
-Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,2,0
+Fayette,Kentucky,KY,38.040157,-84.458443,Fayette County,KY FAYETTE,295803,21067,67,True,3,0
 Tulsa,Oklahoma,OK,36.12012,-95.941731,Tulsa County,OK TULSA,603403,40143,143,True,1,0
 Denver,Colorado,CO,39.761849,-104.880625,Denver County,CO DENVER,600158,8031,31,True,3,0
 Eagle,Colorado,CO,39.630638,-106.692944,Eagle County,CO EAGLE,52197,8037,37,True,2,0
@@ -68,7 +68,7 @@ El Paso,Colorado,CO,38.827383,-104.527472,El Paso County,CO EL PASO,622263,8041,
 Kershaw,South Carolina,SC,34.338356,-80.590885,Kershaw County,SC KERSHAW,61697,45055,55,True,5,0
 Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON,350209,45019,19,True,1,0
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,2,0
-Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,4,0
+Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,7,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
 Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,3,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
@@ -89,10 +89,10 @@ District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Co
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,True,1,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,True,1,0
 Okaloosa,Florida,FL,30.665858,-86.594194,Okaloosa County,FL OKALOOSA,180822,12091,91,True,1,0
-Volusia,Florida,FL,29.057617,-81.161813,Volusia County,FL VOLUSIA,494593,12127,127,True,1,0
+Volusia,Florida,FL,29.057617,-81.161813,Volusia County,FL VOLUSIA,494593,12127,127,True,2,0
 St. Louis,Missouri,MO,38.640702,-90.445954,St. Louis County,MO ST. LOUIS,998954,29189,189,True,1,0
 Fresno,California,CA,36.761006,-119.655019,Fresno County,CA FRESNO,930450,6019,19,True,1,0
-Unknown,Vermont,VT,,,,,,,,True,1,0
+Bennington,Vermont,VT,43.035325,-73.11146,Bennington County,VT BENNINGTON,37125,50003,3,True,1,0
 Rockingham,New Hampshire,NH,42.98936,-71.099437,Rockingham County,NH ROCKINGHAM,295223,33015,15,True,1,0
 Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,6065,65,True,4,0
 Fairfax city,Virginia,VA,38.853183,-77.299025,Fairfax city,VA FAIRFAX CITY,22565,51600,600,True,1,0
@@ -110,10 +110,9 @@ Unknown,Massachusetts,MA,,,,,,,,True,1,0
 Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,True,1,0
 Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,True,1,0
 Kitsap,Washington,WA,47.639687,-122.649636,Kitsap County,WA KITSAP,251133,53035,35,True,1,0
-Unknown,Washington,WA,,,,,,,,True,8,0
-Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,True,1,0
+Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,True,2,0
 Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,21111,111,True,1,0
-Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,True,3,0
+Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,True,7,0
 Carver,Minnesota,MN,44.821381,-93.800575,Carver County,MN CARVER,91042,27019,19,True,1,0
 Cherokee,Georgia,GA,34.244317,-84.475057,Cherokee County,GA CHEROKEE,214346,13057,57,True,1,0
 Unknown,New York,NY,,,,,,,,True,6,0
@@ -128,3 +127,8 @@ Cuyahoga,Ohio,OH,41.760392,-81.724217,Cuyahoga County,OH CUYAHOGA,1280122,39035,
 Monroe,Pennsylvania,PA,41.056233,-75.329037,Monroe County,PA MONROE,169842,42089,89,True,1,0
 Noble,Indiana,IN,41.400794,-85.41785,Noble County,IN NOBLE,47536,18113,113,True,1,0
 Unknown,Indiana,IN,,,,,,,,True,1,0
+Pottawattamie,Iowa,IA,41.340184,-95.544905,Pottawattamie County,IA POTTAWATTAMIE,93158,19155,155,True,1,0
+Unknown,Connecticut,CT,,,,,,,,True,1,0
+Pierce,Wisconsin,WI,44.725336,-92.426279,Pierce County,WI PIERCE,41019,55093,93,True,1,0
+Pima,Arizona,AZ,32.128237,-111.783018,Pima County,AZ PIMA,980263,4019,19,True,1,0
+Prince George's,Maryland,MD,38.82588,-76.847272,Prince George's County,MD PRINCE GEORGE'S,863420,24033,33,True,1,0

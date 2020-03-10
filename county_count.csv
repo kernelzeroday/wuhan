@@ -190,7 +190,7 @@ Confirmed,County
 1,Fulton
 1,Manatee
 2,Pierce
-1,Unknown
+1,Bennington
 1,Grafton
 1,Rockingham
 1,Riverside
@@ -226,7 +226,8 @@ Confirmed,County
 1,Pierce
 4,Snohomish
 1,Kitsap
-8,Unknown
+7,King
+1,Snohomish
 2,Montgomery
 1,Clark
 5,Contra Costa
@@ -260,7 +261,7 @@ Confirmed,County
 3,Cuyahoga
 1,Kershaw
 2,Los Angeles
-33,King
+26,King
 1,Monroe
 2,Montgomery
 21,Alameda
@@ -270,3 +271,15 @@ Confirmed,County
 1,Unknown
 1,Eagle
 1,Denver
+1,Pottawattamie
+1,Unknown
+1,Pierce
+4,Johnson 
+1,Harrison
+1,Fayette
+5,Wake 
+1,Pima
+9,Snohomish
+1,Volusia
+1,Prince George's
+3,Pierce

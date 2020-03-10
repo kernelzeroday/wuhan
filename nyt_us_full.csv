@@ -422,11 +422,11 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 420,True,Florida,Manatee,,Female,81,3/7/2020,Unknown,Overseas travel,Unknown,Unknown,,Link,Link,,,,,,,,,Florida,False,2020-03-07
 421,True,Washington,Pierce,,Female,30s,3/7/2020,discharged from hospital,Unknown,Unknown,Unknown,Good Samaritan Hospital (discharged),Link,,,,,,,,,,Washington,False,2020-03-07
 422,True,Washington,Pierce,,Male,40s,3/7/2020,hospitalized,Unknown,Unknown,Unknown,Tacoma General Hospital,Link,,,,,,,,,,Washington,False,2020-03-07
-423,True,Vermont,Unknown,,Male,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Vermont,False,2020-03-07
+423,True,Vermont,Bennington,,Male,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,Vermont,False,2020-03-07
 424,True,New Hampshire,Grafton,,Male,Adult,3/7/2020,home isolation,"Contact with previous case at Hope Bible Fellowship in West Lebanon, NH",Personal contact in U.S.,Yes,,Link,,,,,,,,,,New Hampshire,False,2020-03-07
 425,True,New Hampshire,Rockingham,,Male,Adult,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,New Hampshire,False,2020-03-07
-426,True,California,Riverside,,Unknown,Unknown,3/7/2020,hospitalized,Unknown ,Unknown,Unknown,Eisenhower Health in Rancho Mirage,Link,,,,,,,,,,California,False,2020-03-07
-427,True,Virginia,Fairfax city,,Unknown,80s,3/8/2020,hospitalized,Nile River cruise with other COVID cases (seeking clarity on whether it's the one tied to TX cases),Travel overseas,No,,Link,,,,,,,,,,Virginia,False,2020-03-08
+426,True,California,Riverside,,Unknown,Unknown,3/7/2020,hospitalized,Unknown -- believed to be community spread,Unknown,Unknown,Eisenhower Health in Rancho Mirage,Link,Link,,,,,,,,,California,False,2020-03-07
+427,True,Virginia,Fairfax city,,Unknown,80s,3/8/2020,hospitalized,Nile River cruise with other COVID cases (seeking clarity on whether it's the one tied to TX cases),Travel in Egypt,No,,Link,,,,,,,,,,Virginia,False,2020-03-08
 428,True,Texas,Fort Bend,,Male,70s,3/8/2020,good; discharged from hospital,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
 429,True,Texas,Fort Bend,,Male,70s,3/8/2020,home isolation,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
 430,True,Texas,Fort Bend,,Female,60s,3/8/2020,home isolation,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,Texas,False,2020-03-08
@@ -511,17 +511,17 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 509,True,Washington,Snohomish,,Female,80s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
 510,True,Washington,Snohomish,,Female,50s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,"Listed among 14 county unassigned WA cases on 3/8. Snohomish reported five more than state. We're unsure if it's five beyond the 14, or five of those 14. Listing as 5 of the 14 to avoid double count.",,,,,,Washington,False,2020-03-08
 511,True,Washington,Kitsap,,Unknown,60s,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,Link,,,Listed among 14 county unassigned WA cases on 3/8. Kitsap later reported one not assigned. Listing as 1 of the 14 to avoid double count.,,,,,,Washington,False,2020-03-08
-512,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-513,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-514,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-515,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-516,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-517,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-518,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
-519,True,Washington,Unknown,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+512,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+513,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+514,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+515,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+516,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+517,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+518,True,Washington,King,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-08
+519,True,Washington,Snohomish,,Female,70s,3/8/2020,Unknown,"Unknown, resident of Josephine Caring Community in Stanwood",Unknown,Unknown,,Link,Link,,,"This was announced by county on 3/9, but we believe it's a former ""county unassigned case",,,,,,Washington,False,2020-03-08
 520,True,Pennsylvania,Montgomery,,male,Adult,3/8/2020,Home isolation,international exposure with person in row 522,Travel overseas,no,,Link,Link,Link,,,,,,,,Pennsylvania,False,2020-03-08
 521,True,Pennsylvania,Montgomery,,female,Adult,3/8/2020,Home isolation,international exposure with person in row 521,Travel overseas,no,,Link,Link,Link,,,,,,,,Pennsylvania,False,2020-03-08
-522,True,Nevada,Clark,,Unknown,Unknown,3/8/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Nevada,False,2020-03-08
+522,True,Nevada,Clark,,Woman,70s,3/8/2020,Hospitalized,"Unknown, reported in-state travel prior to symptoms",Unknown,Yes,,Link,Link,,,,,,,,,Nevada,False,2020-03-08
 523,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 524,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
 525,True,California,Contra Costa,,Unknown,Unknown,3/8/2020,hospitalized,"unknown, believed to be community transfer",Unknown,yes,,Link,,,,,,,,,,California,False,2020-03-08
@@ -585,7 +585,7 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 583,True,Pennsylvania,Montgomery,,Unknown,Adult,3/9/2020,Critical,Travel overseas,Travel overseas,No,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
 584,True,Colorado,Larimer,,Female,50s,3/9/2020,"Unknown, diagnosed with pneumonia ",Unknown,Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
 585,True,Texas,Collin,,Male,30s,3/9/2020,home isolation,Travel in California,Travel within the U.S.,Yes,,Link,,,,,,,,,,Texas,False,2020-03-09
-586,True,Louisiana,Jefferson,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Louisiana,False,2020-03-09
+586,True,Louisiana,Jefferson,,Unknown,Unknown,3/9/2020,Unknown,Travel did not contribute to the patient's exposure to the virus,Travel within the U.S.,Unknown,Hospitalized in Orleans Parish,Link,Link (for presser),Link,,,,,,,,Louisiana,False,2020-03-09
 587,True,New Jersey,Monmouth,,Male,83,3/9/2020,Unknown,Unknown,Unknown,Unknown,Bayshore Medical Center,Link,,,,,,,,,,New Jersey,False,2020-03-09
 588,True,New Jersey,Union,,Male,48,3/9/2020,Unknown,Unknown,Unknown,Unknown,Overlook Medical Center,Link,,,,,,,,,,New Jersey,False,2020-03-09
 589,True,New Jersey,Bergen,,Male,30,3/9/2020,Unknown,Unknown,Unknown,Unknown,Holy Name Health,Link,,,,,,,,,,New Jersey,False,2020-03-09
@@ -624,13 +624,6 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 622,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
 623,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
 624,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-625,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-626,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-627,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-628,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-629,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-630,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
-631,True,Washington,King,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
 632,True,Pennsylvania,Monroe,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
 633,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
 634,True,Pennsylvania,Montgomery,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Pennsylvania,False,2020-03-09
@@ -665,4 +658,33 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 663,True,Indiana,Noble,,Uknown,Unknown,3/9/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Indiana,False,2020-03-09
 664,True,Indiana,Unknown,,Unkown,Unknown,3/9/2020,Self-isolating,Unkown,Unknown,Unknown,,Link,,,,,,,,,,Indiana,False,2020-03-09
 665,True,Colorado,Eagle,,Female,70s,3/9/2020,Unknown,"Unknown, but does have a recent history of travel in the US",Travel within the U.S.,Yes,,Link,,,,,,,,,,Colorado,False,2020-03-09
-666,True,Colorado,Denver,,Female,30s,3/9/2020,Unknown,"Unknown, no known contact with an infected person and no recent travel",Unknown,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
+666,True,Colorado,Denver,,Female,30s,3/9/2020,Unknown,"Unknown, no known contact with an infected person but has a recent history of travel in US",Travel within the U.S.,Unknown,,Link,,,,,,,,,,Colorado,False,2020-03-09
+667,True,Iowa,Pottawattamie,,Female,41-60,3/9/2020,Home isolation,"Unknown, but recently traveled to California (state says travel related)",Travel within the U.S.,Yes,,Link,Link,,,Worked at Panera Bread (unclear if worked after contracting). Underlying health issues noted,,,,,,Iowa,False,2020-03-09
+668,True,Connecticut,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Connecticut,False,2020-03-09
+669,True,Wisconsin,Pierce,,Unknown,Unknown,3/9/2020,Home isolation,Traveling within the US,Travel within the U.S.,Yes,,Link,,,,,,,,,,Wisconsin,False,2020-03-09
+670,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,Iowa,False,2020-03-09
+671,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,Iowa,False,2020-03-09
+672,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,Iowa,False,2020-03-09
+673,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,Iowa,False,2020-03-09
+674,True,Kentucky,Harrison,,Unknown,Unknown,3/9/2020,Home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Kentucky,False,2020-03-09
+675,True,Kentucky,Fayette,,Unknown,Unknown,3/9/2020,Isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,Kentucky,False,2020-03-09
+676,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,North Carolina,False,2020-03-09
+677,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Home isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,North Carolina,False,2020-03-09
+678,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Home isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,North Carolina,False,2020-03-09
+679,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Home isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,North Carolina,False,2020-03-09
+680,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Home isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,North Carolina,False,2020-03-09
+681,True,Arizona,Pima,,Unknown,Unknown,3/9/2020,Home isolation,Recently returned from travel (unspecified international or domestic),Unknown,Unknown,,Link,,,,,,,,,,Arizona,False,2020-03-09
+682,True,Washington,Snohomish,,Male,50s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+683,True,Washington,Snohomish,,Female,40s,3/9/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+684,True,Washington,Snohomish,,Female,50s,3/9/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+685,True,Washington,Snohomish,,Female,30s,3/9/2020,home isolation,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+686,True,Washington,Snohomish,,Female,70s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+687,True,Washington,Snohomish,,Female,80s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+688,True,Washington,Snohomish,,Female,70s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+689,True,Washington,Snohomish,,Male,70s,3/9/2020,hospitalized,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+690,True,Washington,Snohomish,,Male,60s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+691,True,Florida,Volusia,,Female,60,3/9/2020,Currently isolated,History of international travel,Travel overseas,No,,Link,Link,,,,,,,,,Florida,False,2020-03-09
+692,True,Maryland,Prince George's,,Unknown,Unknown,3/9/2020,Unknown,Out-of-state travel,Travel within the U.S.,Yes,,Link,,,,,,,,,,Maryland,False,2020-03-09
+693,True,Washington,Pierce,,Female,80s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+694,True,Washington,Pierce,,Female,50s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
+695,True,Washington,Pierce,,Female,60s,3/9/2020,unknown,unknown,Unknown,unknown,,Link,,,,,,,,,,Washington,False,2020-03-09
