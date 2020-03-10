@@ -150,7 +150,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Argentina",
-		confirmed: 12,
+		confirmed: 17,
 		deaths: 1,
 		recovered: 0
 	},
@@ -429,9 +429,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Bahrain",
-		confirmed: 95,
+		confirmed: 109,
 		deaths: 0,
-		recovered: 14
+		recovered: 22
 	},
 	{
 		adm0_a3: "BRN",
@@ -646,7 +646,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Chile",
-		confirmed: 8,
+		confirmed: 13,
 		deaths: 0,
 		recovered: 0
 	},
@@ -801,7 +801,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Czech Republic",
-		confirmed: 31,
+		confirmed: 38,
 		deaths: 0,
 		recovered: 0
 	},
@@ -1018,9 +1018,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Egypt",
-		confirmed: 55,
+		confirmed: 59,
 		deaths: 1,
-		recovered: 12
+		recovered: 1
 	},
 	{
 		adm0_a3: "ESP",
@@ -1080,7 +1080,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Finland",
-		confirmed: 30,
+		confirmed: 33,
 		deaths: 0,
 		recovered: 1
 	},
@@ -1235,7 +1235,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Greece",
-		confirmed: 73,
+		confirmed: 84,
 		deaths: 0,
 		recovered: 0
 	},
@@ -1359,7 +1359,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Ireland",
-		confirmed: 21,
+		confirmed: 24,
 		deaths: 0,
 		recovered: 0
 	},
@@ -1390,9 +1390,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Israel",
-		confirmed: 39,
+		confirmed: 50,
 		deaths: 0,
-		recovered: 2
+		recovered: 4
 	},
 	{
 		adm0_a3: "IND",
@@ -1421,9 +1421,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "India",
-		confirmed: 43,
+		confirmed: 47,
 		deaths: 0,
-		recovered: 3
+		recovered: 4
 	},
 	{
 		adm0_a3: "IRQ",
@@ -1452,9 +1452,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iraq",
-		confirmed: 62,
-		deaths: 6,
-		recovered: 9
+		confirmed: 71,
+		deaths: 7,
+		recovered: 3
 	},
 	{
 		adm0_a3: "IRN",
@@ -1514,9 +1514,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iceland",
-		confirmed: 58,
+		confirmed: 65,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "ITA",
@@ -1700,7 +1700,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Kuwait",
-		confirmed: 64,
+		confirmed: 65,
 		deaths: 0,
 		recovered: 1
 	},
@@ -1731,7 +1731,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Lebanon",
-		confirmed: 32,
+		confirmed: 41,
 		deaths: 0,
 		recovered: 1
 	},
@@ -2227,7 +2227,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Norway",
-		confirmed: 205,
+		confirmed: 227,
 		deaths: 0,
 		recovered: 1
 	},
@@ -2320,9 +2320,40 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Oman",
-		confirmed: 16,
+		confirmed: 19,
 		deaths: 0,
-		recovered: 2
+		recovered: 9
+	},
+	{
+		adm0_a3: "PAN",
+		nyt_name: "Panama",
+		lat: 8.538,
+		lon: -80.782,
+		jhu_location: "",
+		jhu_sublocation: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "https://www.reuters.com/article/us-health-coronavirus-panama/panamas-health-ministry-confirms-first-coronavirus-case-idUSKBN20X05F",
+		override_count: "1",
+		override_deaths: "",
+		override_date: "Mar. 10",
+		override_fixed: "",
+		mobile_table_name: "Panama",
+		world_map_label_name: "Panama",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		label: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PER",
@@ -2413,9 +2444,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Pakistan",
-		confirmed: 6,
+		confirmed: 16,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "PSE",
@@ -2444,7 +2475,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Palestine",
-		confirmed: 22,
+		confirmed: 25,
 		deaths: 0,
 		recovered: 0
 	},
@@ -2537,7 +2568,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Romania",
-		confirmed: 15,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 3
 	},
@@ -2599,7 +2630,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Russia",
-		confirmed: 17,
+		confirmed: 20,
 		deaths: 0,
 		recovered: 3
 	},
@@ -2630,7 +2661,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Sweden",
-		confirmed: 248,
+		confirmed: 261,
 		deaths: 0,
 		recovered: 1
 	},
@@ -2661,7 +2692,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Singapore",
-		confirmed: 150,
+		confirmed: 160,
 		deaths: 0,
 		recovered: 78
 	},
@@ -2692,7 +2723,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Slovenia",
-		confirmed: 16,
+		confirmed: 25,
 		deaths: 0,
 		recovered: 0
 	},
@@ -2754,8 +2785,8 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "San Marino",
-		confirmed: 36,
-		deaths: 1,
+		confirmed: 51,
+		deaths: 2,
 		recovered: 0
 	},
 	{
@@ -2878,9 +2909,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Taiwan (Taiwan)",
-		confirmed: 45,
+		confirmed: 47,
 		deaths: 1,
-		recovered: 15
+		recovered: 17
 	},
 	{
 		adm0_a3: "UKR",
@@ -2971,7 +3002,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Vietnam",
-		confirmed: 30,
+		confirmed: 31,
 		deaths: 0,
 		recovered: 16
 	},
@@ -3064,7 +3095,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "China",
 		label: "Mainland China",
-		confirmed: 80753,
+		confirmed: 80755,
 		deaths: 3136,
 		recovered: 0
 	},
@@ -3157,7 +3188,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Portugal",
-		confirmed: 30,
+		confirmed: 39,
 		deaths: 0,
 		recovered: 0
 	},
@@ -3219,9 +3250,9 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Saudi Arabia",
-		confirmed: 15,
+		confirmed: 20,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "GIB",
@@ -3374,7 +3405,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Poland",
-		confirmed: 16,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 0
 	},
@@ -3593,7 +3624,7 @@ var locations = [
 		label: "Guangdong (Mainland China)",
 		confirmed: 1353,
 		deaths: 8,
-		recovered: 1272
+		recovered: 1273
 	},
 	{
 		adm0_a3: "CHN",
@@ -3810,7 +3841,7 @@ var locations = [
 		label: "Hubei (Mainland China)",
 		confirmed: 67760,
 		deaths: 3024,
-		recovered: 47587
+		recovered: 47590
 	},
 	{
 		adm0_a3: "CHN",
@@ -4149,7 +4180,7 @@ var locations = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Shanghai (Mainland China)",
-		confirmed: 342,
+		confirmed: 344,
 		deaths: 3,
 		recovered: 319
 	},
@@ -4213,7 +4244,7 @@ var locations = [
 		label: "Sichuan (Mainland China)",
 		confirmed: 539,
 		deaths: 3,
-		recovered: 473
+		recovered: 474
 	},
 	{
 		adm0_a3: "CHN",
@@ -4368,7 +4399,7 @@ var locations = [
 		label: "Zhejiang (Mainland China)",
 		confirmed: 1215,
 		deaths: 1,
-		recovered: 1178
+		recovered: 1183
 	},
 	{
 		adm0_a3: "AUS",
@@ -28045,7 +28076,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Argentina",
-		confirmed: 12,
+		confirmed: 17,
 		deaths: 1,
 		recovered: 0
 	},
@@ -28324,9 +28355,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Bahrain",
-		confirmed: 95,
+		confirmed: 109,
 		deaths: 0,
-		recovered: 14
+		recovered: 22
 	},
 	{
 		adm0_a3: "BRN",
@@ -28541,7 +28572,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Chile",
-		confirmed: 8,
+		confirmed: 13,
 		deaths: 0,
 		recovered: 0
 	},
@@ -28696,7 +28727,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Czech Republic",
-		confirmed: 31,
+		confirmed: 38,
 		deaths: 0,
 		recovered: 0
 	},
@@ -28913,9 +28944,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Egypt",
-		confirmed: 55,
+		confirmed: 59,
 		deaths: 1,
-		recovered: 12
+		recovered: 1
 	},
 	{
 		adm0_a3: "ESP",
@@ -28975,7 +29006,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Finland",
-		confirmed: 30,
+		confirmed: 33,
 		deaths: 0,
 		recovered: 1
 	},
@@ -29130,7 +29161,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Greece",
-		confirmed: 73,
+		confirmed: 84,
 		deaths: 0,
 		recovered: 0
 	},
@@ -29254,7 +29285,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Ireland",
-		confirmed: 21,
+		confirmed: 24,
 		deaths: 0,
 		recovered: 0
 	},
@@ -29285,9 +29316,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Israel",
-		confirmed: 39,
+		confirmed: 50,
 		deaths: 0,
-		recovered: 2
+		recovered: 4
 	},
 	{
 		adm0_a3: "IND",
@@ -29316,9 +29347,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "India",
-		confirmed: 43,
+		confirmed: 47,
 		deaths: 0,
-		recovered: 3
+		recovered: 4
 	},
 	{
 		adm0_a3: "IRQ",
@@ -29347,9 +29378,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iraq",
-		confirmed: 62,
-		deaths: 6,
-		recovered: 9
+		confirmed: 71,
+		deaths: 7,
+		recovered: 3
 	},
 	{
 		adm0_a3: "IRN",
@@ -29409,9 +29440,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Iceland",
-		confirmed: 58,
+		confirmed: 65,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "ITA",
@@ -29595,7 +29626,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Kuwait",
-		confirmed: 64,
+		confirmed: 65,
 		deaths: 0,
 		recovered: 1
 	},
@@ -29626,7 +29657,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Lebanon",
-		confirmed: 32,
+		confirmed: 41,
 		deaths: 0,
 		recovered: 1
 	},
@@ -30122,7 +30153,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Norway",
-		confirmed: 205,
+		confirmed: 227,
 		deaths: 0,
 		recovered: 1
 	},
@@ -30215,9 +30246,40 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Oman",
-		confirmed: 16,
+		confirmed: 19,
 		deaths: 0,
-		recovered: 2
+		recovered: 9
+	},
+	{
+		adm0_a3: "PAN",
+		nyt_name: "Panama",
+		lat: 8.538,
+		lon: -80.782,
+		jhu_location: "",
+		jhu_sublocation: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "https://www.reuters.com/article/us-health-coronavirus-panama/panamas-health-ministry-confirms-first-coronavirus-case-idUSKBN20X05F",
+		override_count: "1",
+		override_deaths: "",
+		override_date: "Mar. 10",
+		override_fixed: "",
+		mobile_table_name: "Panama",
+		world_map_label_name: "Panama",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		label: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0
 	},
 	{
 		adm0_a3: "PER",
@@ -30308,9 +30370,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Pakistan",
-		confirmed: 6,
+		confirmed: 16,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "PSE",
@@ -30339,7 +30401,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Palestine",
-		confirmed: 22,
+		confirmed: 25,
 		deaths: 0,
 		recovered: 0
 	},
@@ -30432,7 +30494,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Romania",
-		confirmed: 15,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 3
 	},
@@ -30494,7 +30556,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Russia",
-		confirmed: 17,
+		confirmed: 20,
 		deaths: 0,
 		recovered: 3
 	},
@@ -30525,7 +30587,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Sweden",
-		confirmed: 248,
+		confirmed: 261,
 		deaths: 0,
 		recovered: 1
 	},
@@ -30556,7 +30618,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Singapore",
-		confirmed: 150,
+		confirmed: 160,
 		deaths: 0,
 		recovered: 78
 	},
@@ -30587,7 +30649,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Slovenia",
-		confirmed: 16,
+		confirmed: 25,
 		deaths: 0,
 		recovered: 0
 	},
@@ -30649,8 +30711,8 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "San Marino",
-		confirmed: 36,
-		deaths: 1,
+		confirmed: 51,
+		deaths: 2,
 		recovered: 0
 	},
 	{
@@ -30773,9 +30835,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Taiwan (Taiwan)",
-		confirmed: 45,
+		confirmed: 47,
 		deaths: 1,
-		recovered: 15
+		recovered: 17
 	},
 	{
 		adm0_a3: "UKR",
@@ -30866,7 +30928,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Vietnam",
-		confirmed: 30,
+		confirmed: 31,
 		deaths: 0,
 		recovered: 16
 	},
@@ -30959,7 +31021,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "China",
 		label: "Mainland China",
-		confirmed: 80753,
+		confirmed: 80755,
 		deaths: 3136,
 		recovered: 0
 	},
@@ -31052,7 +31114,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Portugal",
-		confirmed: 30,
+		confirmed: 39,
 		deaths: 0,
 		recovered: 0
 	},
@@ -31114,9 +31176,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Saudi Arabia",
-		confirmed: 15,
+		confirmed: 20,
 		deaths: 0,
-		recovered: 0
+		recovered: 1
 	},
 	{
 		adm0_a3: "GIB",
@@ -31269,7 +31331,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		label: "Poland",
-		confirmed: 16,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 0
 	},
