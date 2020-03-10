@@ -1,19 +1,19 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,active,confirmed,deaths
 Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,45,0
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,11,0
-Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,3,0
+Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,5,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,16,0
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
 Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,43,1
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,9,0
-San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,11,0
+San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,16,0
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,1,0
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,2,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
 Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,16,0
 Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,2,0
 Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,True,2,0
-Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,3,0
+Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,9,0
 Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,True,12,0
 Napa,California,CA,38.507351,-122.325995,Napa County,CA NAPA,136484,6055,55,True,1,0
 Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,6023,23,True,1,0
@@ -31,7 +31,7 @@ Grafton,New Hampshire,NH,43.926488,-71.842264,Grafton County,NH GRAFTON,89118,33
 Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,6061,61,True,7,1
 Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,True,7,0
 Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,True,5,0
-San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,1,0
+San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,True,9,0
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,True,6,0
 Contra Costa,California,CA,37.919479,-121.951543,Contra Costa County,CA CONTRA COSTA,1049025,6013,13,True,9,0
 Westchester,New York,NY,41.15277,-73.745912,Westchester County,NY WESTCHESTER,949113,36119,119,True,98,0
@@ -70,7 +70,7 @@ Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,2,0
 Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,7,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
-Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,3,0
+Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,4,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
 Clark,Washington,WA,45.771674,-122.485903,Clark County,WA CLARK,425363,53011,11,True,1,0
 Gwinnett,Georgia,GA,33.959101,-84.022938,Gwinnett County,GA GWINNETT,805321,13135,135,True,2,0

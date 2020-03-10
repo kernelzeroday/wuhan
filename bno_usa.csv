@@ -21,19 +21,21 @@ Nevada,4,0,,,,Source
 Rhode Island,3,0,,,,Source
 Tennessee,3,0,,,,Source
 Iowa,3,0,,,,Source
+Ohio,3,0,,,,Source
 North Carolina,2,0,,,,Source
 Indiana,2,0,,,,Source
 Minnesota,2,0,,,,Source
 Hawaii,2,0,,,,Source
+Wisconsin,2,0,,,,Source
 Vermont,1,0,,,,Source
 Utah,1,0,,,,Source
 Kansas,1,0,,,,Source
 Missouri,1,0,,,,Source
 Oklahoma,1,0,,,,Source
-Wisconsin,1,0,,,,Source
 Nebraska,1,0,,,,Source
 District of Columbia,1,0,,,,Source
 Connecticut,1,0,,,,Source
+Louisiana,1,0,,,,Source
 Wuhan,3,0,,,,
 Grand Princess,21,0,,,,Source
 Diamond Princess,45,0,,,2,
@@ -42,14 +44,12 @@ Alaska,0,0,,,,
 Arkansas,0,0,,,,
 Delaware,0,0,,,,
 Idaho,0,0,,,,
-Louisiana,0,0,,,,
 Maine,0,0,,,,
 Michigan,0,0,,,,
 Mississippi,0,0,,,,
 Montana,0,0,,,,
 New Mexico,0,0,,,,
 North Dakota,0,0,,,,
-Ohio,0,0,,,,
 South Dakota,0,0,,,,
 West Virginia,0,0,,,,
 Wyoming,0,0,,,,
@@ -58,4 +58,5 @@ Guam,0,0,,,,
 Northern Mariana Islands,0,0,,,,
 Puerto Rico,0,0,,,,
 U.S. Virgin Islands,0,0,,,,
-U.S. TOTAL,637,27,0,1,7,
+TBD,60,0,,,,
+U.S. TOTAL,702,27,0,1,7,

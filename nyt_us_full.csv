@@ -29,8 +29,8 @@ ID,GFX,State where treated,County where treated,"Place of residence, if known to
 28,True,California,Sacramento,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 29,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,"Evacuated from Diamond Princess Cruises ship, tested positive before boarding plane, arrived at Travis AFB then moved to hospital",Diamond Princess cruise ship,No,Near Travis,,,,,,Link,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
 30,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Near Travis,,,,,,,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
-31,True,California,Napa,,Unknown,Unknown,Feb. 17-26 ,Hospitalized,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Queen of the Valley Medical Center,Link,,,,,,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
-32,True,California,Solano,,Unknown,Unknown,Feb 17-26,,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Unknown,,,,,,,,,,,California,False,2020-02-26
+31,True,California,Napa,,Unknown,Unknown,Feb. 17-26,Hospitalized,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Queen of the Valley Medical Center,Link,,,,,,"Corey Egel, Calif DOH Corey.Egel@cdph.ca.gov",,,,California,False,2020-02-26
+32,True,California,Solano,,Unknown,Unknown,Feb. 17-26,,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Unknown,,,,,,,,,,,California,False,2020-02-26
 33,True,Nebraska,Douglas,,Unknown,Unknown,2/20/2020,mild symptoms -in quarantine at UNMC,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,Not sure (spouse may have contracted here),University of Nebraska Medical Center,,,,,,,"Taylor Wilson, twilson@nebraskamed.com",,,,Nebraska,False,2020-02-20
 34,True,California,Humboldt,,Unknown,Unknown,2/20/2020,recovered,Had traveled to mainland China,Travel in China,Unlikely ,Self-isolating at home,Link,,,,,,"Connie Beck, county health director, cbeck@co.humboldt.ca.us",,,,California,False,2020-02-20
 35,True,Texas,Bexar,,Unknown,Unknown,2/21/2020,stable,Evacuated from Diamond Princess Cruise,Diamond Princess cruise ship,No,Texas Center for Infectious Diseases,,,,,,,,,,,Texas,False,2020-02-21
@@ -707,3 +707,25 @@ COVID.media@illinois.gov",,,,Illinois,False,2020-03-05
 712,True,District of Columbia,District of Columbia,,Male,39,3/9/2020,Unknown,"Attended Christ Church in DC, where rector was later diagnosed",Personal contact in U.S.,Yes,,Link,,,,,,,,,,District of Columbia,False,2020-03-09
 713,True,District of Columbia,District of Columbia,,Male,77,3/9/2020,Unknown,Attended Biogen,Business conference in Boston,Yes,,Link,,,,,,,,,,District of Columbia,False,2020-03-09
 714,True,District of Columbia,District of Columbia,,Male,79,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,District of Columbia,False,2020-03-09
+715,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+716,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+717,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+718,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+719,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+720,True,California,Sacramento,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+721,True,California,San Francisco,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+722,True,California,San Francisco,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+723,True,California,San Francisco,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+724,True,California,San Francisco,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+725,True,California,San Francisco,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,California,False,2020-03-09
+726,True,California,Orange,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+727,True,California,Orange,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+728,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+729,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+730,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+731,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+732,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+733,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+734,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+735,True,California,San Mateo,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"They're now reporting in aggregate; we believe they were added 3/9, though possibly before",,,,,,California,False,2020-03-09
+736,True,Florida,Broward,,Female,69,3/10/2020,Unknown,At Port Everglades,Unknown,Yes,,,,,,,,,,,,Florida,False,2020-03-10

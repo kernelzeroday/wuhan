@@ -6,9 +6,9 @@ Iran,7161,237,,,2394
 France,1412,30,66,,12
 Germany,1224,2,,2,18
 Spain,1231,30,11,,32
+United States,702,27,2,6,9
 Diamond Princess,696,7,31,,245
-United States,637,27,2,6,9
-Japan,497,7,30,,59
+Japan,522,7,30,,59
 Switzerland,374,2,,,3
 Netherlands,321,3,1,,
 United Kingdom,319,3,,,12
@@ -20,9 +20,9 @@ Austria,131,0,,,2
 Malaysia,117,0,2,,24
 Hong Kong,116,2,2,4,59
 Bahrain,109,0,,,14
-Australia,91,3,,,22
+Australia,101,3,,,22
 Greece,84,0,1,,
-Canada,67,0,,1,8
+Canada,72,1,,1,8
 Iceland,65,0,,,
 Kuwait,64,0,2,1,0
 Iraq,60,5,,,
@@ -46,6 +46,7 @@ Philippines,20,1,1,,2
 Indonesia,19,0,,,
 Qatar,18,0,,,
 Romania,17,0,,,4
+Pakistan,16,0,,,2
 Oman,16,0,,,2
 Poland,16,0,2,0,0
 Slovenia,16,0,0,0,0
@@ -62,19 +63,18 @@ Costa Rica,9,0,1,,
 Hungary,9,0,0,0,0
 Mexico,7,0,1,,4
 Peru,7,0,,,
+South Africa,7,0,,,
 Belarus,6,0,,,
 Azerbaijan,6,0,,,
 Latvia,6,0,,,
 New Zealand,5,0,,,
 Luxembourg,5,0,,,
-Pakistan,5,0,,,
 Slovakia,5,0,,,
 Senegal,4,0,0,0,0
 Palestine,4,0,,,
 Afghanistan,4,0,,,
 Bulgaria,4,0,,,
 Maldives,4,0,,,
-South Africa,3,0,,,
 Bangladesh,3,0,,,
 Colombia,3,0,,,
 Morocco,2,0,,,
@@ -103,4 +103,4 @@ Bhutan,1,0,,,
 Gibraltar,1,0,1,,
 Serbia,1,0,,,
 Vatican City,1,0,,,
-TOTAL,114066,4018,5691,63,63974
+TOTAL,114186,4019,5691,63,63976
