@@ -13,7 +13,7 @@ Hawaii,1415872,2,0,,,,Source,HI,25
 Idaho,1787065,0,0,,,,,ID,45
 Illinois,12671821,19,0,,,2,Source,IL,194
 Indiana,6732219,2,0,,,,Source,IN,147
-Iowa,3155070,3,0,,,,Source,IA,118
+Iowa,3155070,14,0,,,,,IA,118
 Kansas,2913314,1,0,,,,Source,KS,139
 Kentucky,4467673,8,0,,,,Source,KY,102
 Louisiana,4648794,1,0,,,,Source,LA,152
@@ -28,7 +28,7 @@ Montana,1068778,0,0,,,,,MT,64
 Nebraska,1934408,1,0,,,,Source,NE,91
 Nevada,3080156,4,0,,,,Source,NV,45
 New Hampshire,1359711,4,0,,,,Source,NH,28
-New Jersey,8882190,15,1,,,,Source,NJ,80
+New Jersey,8882190,23,1,,,,Source,NJ,80
 New Mexico,2096829,0,0,,,,,NM,46
 New York,19453561,173,0,,,0,Source,NY,194
 North Carolina,10488084,2,0,,,,Source,NC,120
@@ -45,7 +45,7 @@ Texas,28995881,7,0,,,,Source,TX,457
 Utah,3205958,1,0,,,,Source,UT,52
 Vermont,623989,1,0,,,,Source,VT,16
 Virginia,8535519,5,0,,,,Source,VA,95
-Washington,7614893,267,24,,,1,Source,WA,101
+Washington,7614893,367,29,,,1,Source,WA,101
 West Virginia,1792147,0,0,,,,,WV,53
-Wisconsin,5822434,3,0,,,,Source,WI,136
+Wisconsin,5822434,6,0,,,1,Source,WI,136
 Wyoming,578759,0,0,,,,,WY,29

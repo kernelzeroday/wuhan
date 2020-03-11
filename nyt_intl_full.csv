@@ -1,7 +1,7 @@
 adm0_a3,lat,lon,jhu_country_region,jhu_state_province,nyt_name,asia_map_label,asia_map_label_desktop_only,confirmed,deaths,recovered
 CHN,32,116.1,China,Anhui,,,,990,6,984
 CHN,39.9,116.3,China,Beijing,,count_only,,435,8,326
-CHN,29.5,106.4,China,Chongqing,,,,576,6,549
+CHN,29.5,106.4,China,Chongqing,,,,576,6,554
 CHN,25.92,117.17,China,Fujian,,,,296,1,295
 CHN,40.39,96.81,China,Gansu,,,,127,2,88
 CHN,22.9,112.4,China,Guangdong,,,,1356,8,1282
@@ -26,18 +26,18 @@ CHN,31.19,121.48,China,Shanghai,,,,344,3,320
 CHN,37.64,110.15,China,Shanxi,,,,133,0,131
 CHN,30.8,103.8,China,Sichuan,,,,539,3,488
 CHN,39.13,117.01,China,Tianjin,,,,136,3,131
-CHN,31.6,84.27,China,Tibet,,,,0,0,0
+CHN,31.6,84.27,China,Tibet,,,,1,0,1
 CHN,40.06,87.7,China,Xinjiang,,,,76,3,73
 CHN,24.64,101.29,China,Yunnan,,,,174,2,170
 CHN,29.1,120.1,China,Zhejiang,,,,1215,1,1195
-AUS,-32.74,145.56,Australia,New South Wales,,,,55,2,4
-AUS,-20.9176,142.7028,Australia,Queensland,,,,18,0,8
-AUS,-34.93,138.61,Australia,South Australia,,,,0,0,0
-AUS,-36.56,143.25,Australia,Victoria,,,,18,0,7
+AUS,-32.74,145.56,Australia,New South Wales,,,,65,2,4
+AUS,-20.9176,142.7028,Australia,Queensland,,,,20,0,8
+AUS,-34.93,138.61,Australia,South Australia,,,,9,0,2
+AUS,-36.56,143.25,Australia,Victoria,,,,21,0,7
 AUS,-36.56,143.25,Australia,From Diamond Princess,,,,0,0,0
-AUS,-36.56,143.25,Australia,Western Australia,,,,0,0,0
+AUS,-36.56,143.25,Australia,Western Australia,,,,9,1,0
 CAN,54.84,-125.1,Canada,British Columbia,,,,39,1,4
 CAN,51.4,-87.12,Canada,"London, ON",,,,0,0,0
-CAN,51.4,-87.12,Canada,Ontario,,,,36,0,4
+CAN,51.4,-87.12,Canada,Ontario,,,,41,0,4
 CAN,51.4,-87.12,Canada,"Toronto, ON",,,,0,0,0
 CAN,51.4,-87.12,Canada,"Montreal, QC",,,,0,0,0

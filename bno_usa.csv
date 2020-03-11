@@ -1,13 +1,14 @@
 UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-Washington,267,24,,,1,Source
+Washington,367,29,,,1,Source
 New York,173,0,,,0,Source
 California,109,3,,1,1,Source
 Massachusetts,92,0,,,,Source
+New Jersey,23,1,,,,Source
 Georgia,22,0,,,,Source
 Florida,21,2,,,,Source
 Illinois,19,0,,,2,Source
-New Jersey,15,1,,,,Source
 Oregon,15,0,,,,Source
+Iowa,14,0,,,,
 Pennsylvania,11,0,,1,,Source
 South Carolina,9,0,,,,Source
 Colorado,8,0,,,,Source
@@ -15,16 +16,15 @@ Kentucky,8,0,,,,Source
 Texas,7,0,,,,Source
 Maryland,6,0,0,0,0,Source
 Arizona,5,0,,,1,Source
+Wisconsin,6,0,,,1,Source
 Virginia,5,0,,,,Source
 South Dakota,5,1,,,,Source
 New Hampshire,4,0,,,,Source
 Nevada,4,0,,,,Source
 Rhode Island,3,0,,,,Source
 Tennessee,3,0,,,,Source
-Iowa,3,0,,,,Source
 Ohio,3,0,,,,Source
 Minnesota,3,0,,1,,Source
-Wisconsin,3,0,,,,Source
 North Carolina,2,0,,,,Source
 Indiana,2,0,,,,Source
 Hawaii,2,0,,,,Source
@@ -58,5 +58,5 @@ Guam,0,0,,,,
 Northern Mariana Islands,0,0,,,,
 Puerto Rico,0,0,,,,
 U.S. Virgin Islands,0,0,,,,
-TBD,106,0,,,,
-U.S. TOTAL,1016,31,0,3,7,
+TBD,156,0,,,,
+U.S. TOTAL,1188,36,0,3,8,
