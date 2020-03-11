@@ -5,5 +5,5 @@ bash bno_usa_pop.sh
 bash county.sh 
 bash nys_icu.sh
 bash tables.sh
-cd az ; bash az.sh ; cd ..
+cd az ; bash session.sh ; cd ..
 bash git_update.sh
