@@ -1,11 +1,1 @@
-county,state,population_2010,confirmed,deaths,Unspecialized
-New York,New York,1585873,7,0,653
-Westchester,New York,949113,107,0,148
-Kings,New York,2504700,4,0,301
-Nassau,New York,1339532,19,0,265
-Rockland,New York,311687,6,0,35
-Saratoga,New York,219607,2,0,12
-Queens,New York,2230722,1,0,191
-Ulster,New York,182493,1,0,25
-Suffolk,New York,1493350,1,0,216
-Bronx,New York,1385108,1,0,205
+adm0_a3,lat,asia_map_label_desktop_only,Unspecialized,Neonatal,Pediatric

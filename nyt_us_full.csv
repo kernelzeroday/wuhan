@@ -532,9 +532,9 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 531,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 272,Personal contact in U.S.,Yes,,Link,,,,,,,,,,531,Nebraska,False,2020-03-08
 532,True,Nebraska,Douglas,,Unknown,Unknown,3/8/2020,self-quarantine,Family member of person in row 273,Personal contact in U.S.,Yes,,Link,,,,,,,,,,532,Nebraska,False,2020-03-08
 533,True,Florida,Broward,,Male,67,3/8/2020,isolation (but don't know where),Port Everglades,"Connected to Port Everglades in Fort Lauderdale, Fla.",Yes,,Link,,,,Pati confirmed tie to Port Everglades on 3/10 with FL Health,,,,,,533,Florida,False,2020-03-08
-534,True,Iowa,Johnson ,,Unknown,41-60,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,534,Iowa,False,2020-03-08
-535,True,Iowa,Johnson ,,Unknown,61-80,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,535,Iowa,False,2020-03-08
-536,True,Iowa,Johnson ,,Unknown,61-81,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,536,Iowa,False,2020-03-08
+534,True,Iowa,Johnson,,Unknown,41-60,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,534,Iowa,False,2020-03-08
+535,True,Iowa,Johnson,,Unknown,61-80,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,535,Iowa,False,2020-03-08
+536,True,Iowa,Johnson,,Unknown,61-81,3/8/2020,home isolation,Egypt cruise,Travel in Egypt,no,,,,,,,,,,,,536,Iowa,False,2020-03-08
 537,True,Minnesota,Carver,,Unknown,50s,3/8/2020,home isolation,Travel in Europe,Travel overseas,no,,Link,,,,,,,,,,537,Minnesota,False,2020-03-08
 538,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,538,California,False,2020-03-08
 539,True,California,Placer,,Unknown,Unknown,3/8/2020,unknown,Grand Princess cruise ,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,539,California,False,2020-03-08
@@ -656,16 +656,16 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 654,True,California,Riverside,,Unknown,Unknown,3/9/2020,Home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,661,California,False,2020-03-09
 655,True,California,Riverside,,Unknown,Unknown,3/9/2020,Hospitalized at a Coachella Valley hospital,Unknown,Unknown,Unknown,,Link,,,,,,,,,,662,California,False,2020-03-09
 656,True,Indiana,Noble,,Uknown,Unknown,3/9/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,663,Indiana,False,2020-03-09
-657,True,Indiana,Unknown,,Unkown,Unknown,3/9/2020,Self-isolating,Unkown,Unknown,Unknown,,Link,,,,,,,,,,664,Indiana,False,2020-03-09
+657,True,Indiana,Hendricks,,Unkown,Unknown,3/9/2020,Self-isolating,Unkown,Unknown,Unknown,,Link,"County originally unknown, but updated based on map counts",,,,,,,,,664,Indiana,False,2020-03-09
 658,True,Colorado,Eagle,,Female,70s,3/9/2020,Unknown,"Unknown, but does have a recent history of travel in the US",Travel within the U.S.,Yes,,Link,,,,,,,,,,665,Colorado,False,2020-03-09
 659,True,Colorado,Denver,,Female,30s,3/9/2020,Unknown,"Unknown, no known contact with an infected person but has a recent history of travel in US",Travel within the U.S.,Unknown,,Link,,,,,,,,,,666,Colorado,False,2020-03-09
 660,True,Iowa,Pottawattamie,,Female,41-60,3/9/2020,Home isolation,Traveled to California ,Travel within the U.S.,Yes,,Link,Link,,,Worked at Panera Bread (unclear if worked after contracting). Underlying health issues noted,,,,,,667,Iowa,False,2020-03-09
 661,True,Connecticut,Fairfield,"Bethlehem, Connecticut (Litchfield county)",Female,60s,3/9/2020,Unknown,"Recently returned from a trip to Nevada, where she is believed to have contracted it",Travel within the U.S.,Yes,,Link,Link,,,,,,,,,668,Connecticut,False,2020-03-09
 662,True,Wisconsin,Pierce,,Unknown,Unknown,3/9/2020,Home isolation,Traveling within the US,Travel within the U.S.,Yes,,Link,,,,,,,,,,669,Wisconsin,False,2020-03-09
-663,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,670,Iowa,False,2020-03-09
-664,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,671,Iowa,False,2020-03-09
-665,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,672,Iowa,False,2020-03-09
-666,True,Iowa,Johnson ,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,673,Iowa,False,2020-03-09
+663,True,Iowa,Johnson,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,670,Iowa,False,2020-03-09
+664,True,Iowa,Johnson,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,671,Iowa,False,2020-03-09
+665,True,Iowa,Johnson,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,672,Iowa,False,2020-03-09
+666,True,Iowa,Johnson,,Unknown,61-80,3/9/2020,Home isolation,Cruise in Egypt with previous Iowa cases,Travel in Egypt,No,,Link,,,,,,,,,,673,Iowa,False,2020-03-09
 667,True,Kentucky,Harrison,,Unknown,Unknown,3/9/2020,Home isolation,"Unknown, believed to be a community transfer",Unknown,Unknown,,Link,FB Live Presser,,,,,,,,,674,Kentucky,False,2020-03-09
 668,True,Kentucky,Fayette,,Unknown,Unknown,3/9/2020,Isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,675,Kentucky,False,2020-03-09
 669,True,North Carolina,Wake ,,Unknown,Unknown,3/9/2020,Isolation,BioGen conference in Boston,Business conference in Boston,Yes,,Link,,,,,,,,,,676,North Carolina,False,2020-03-09
@@ -1014,4 +1014,4 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 1012,True,Georgia,Cobb,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1019,Georgia,False,2020-03-10
 1013,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1020,Louisiana,False,2020-03-10
 1014,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1021,Louisiana,False,2020-03-10
-1015,True,Louisiana,Orleans,St. Tammany Parish,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1022,Louisiana,False,2020-03-10
+1015,True,Louisiana,Orleans,"St. Tammany Parish, Louisiana",Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1022,Louisiana,False,2020-03-10

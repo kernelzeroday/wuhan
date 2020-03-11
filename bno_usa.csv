@@ -16,7 +16,7 @@ Texas,7,0,,,,Source
 Maryland,6,0,0,0,0,Source
 Arizona,5,0,,,1,Source
 Virginia,5,0,,,,Source
-North Dakota,5,1,,,,Source
+South Dakota,5,1,,,,Source
 New Hampshire,4,0,,,,Source
 Nevada,4,0,,,,Source
 Rhode Island,3,0,,,,Source
@@ -50,7 +50,7 @@ Maine,0,0,,,,
 Mississippi,0,0,,,,
 Montana,0,0,,,,
 New Mexico,0,0,,,,
-South Dakota,0,0,,,,
+North Dakota,0,0,,,,
 West Virginia,0,0,,,,
 Wyoming,0,0,,,,
 American Samoa,0,0,,,,
@@ -58,5 +58,5 @@ Guam,0,0,,,,
 Northern Mariana Islands,0,0,,,,
 Puerto Rico,0,0,,,,
 U.S. Virgin Islands,0,0,,,,
-TBD,102,0,,,,
-U.S. TOTAL,1012,31,0,3,7,
+TBD,106,0,,,,
+U.S. TOTAL,1016,31,0,3,7,
