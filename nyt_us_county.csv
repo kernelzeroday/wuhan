@@ -3,7 +3,7 @@ Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,7133
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,17,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,5,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,20,0
-Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,2,0
+Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,3,0
 Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,45,1
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,20,0
 San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,True,17,0
@@ -53,7 +53,7 @@ Wayne,Pennsylvania,PA,41.646589,-75.292485,Wayne County,PA WAYNE,52822,42127,127
 Delaware,Pennsylvania,PA,39.91667,-75.398786,Delaware County,PA DELAWARE,558979,42045,45,True,1,0
 Polk,Georgia,GA,33.995961,-85.186826,Polk County,GA POLK,41475,13233,233,True,1,0
 Chatham,North Carolina,NC,35.704994,-79.251454,Chatham County,NC CHATHAM,63505,37037,37,True,1,0
-Pinal,Arizona,AZ,32.91891,-111.367257,Pinal County,AZ PINAL,375770,4021,21,True,3,0
+Pinal,Arizona,AZ,32.91891,-111.367257,Pinal County,AZ PINAL,375770,4021,21,True,5,0
 Marion,Indiana,IN,39.782976,-86.135794,Marion County,IN MARION,903393,18097,97,True,1,0
 Rockland,New York,NY,41.154785,-74.024772,Rockland County,NY ROCKLAND,311687,36087,87,True,6,0
 Yolo,California,CA,38.679268,-121.903178,Yolo County,CA YOLO,200849,6113,113,True,1,0
@@ -78,7 +78,7 @@ Cobb,Georgia,GA,33.93994,-84.574166,Cobb County,GA COBB,688078,13067,67,True,7,0
 Madera,California,CA,37.210039,-119.749852,Madera County,CA MADERA,150865,6039,39,True,1,0
 Jackson,Oregon,OR,42.411782,-122.675797,Jackson County,OR JACKSON,203206,41029,29,True,2,0
 Klamath,Oregon,OR,42.683761,-121.646168,Klamath County,OR KLAMATH,66380,41035,35,True,1,0
-Kittitas,Washington,WA,47.124444,-120.676714,Kittitas County,WA KITTITAS,40915,53037,37,True,1,0
+Kittitas,Washington,WA,47.124444,-120.676714,Kittitas County,WA KITTITAS,40915,53037,37,True,2,0
 Saratoga,New York,NY,43.106135,-73.855387,Saratoga County,NY SARATOGA,219607,36091,91,True,2,0
 Queens,New York,NY,40.658557,-73.837929,Queens County,NY QUEENS,2230722,36081,81,True,1,0
 Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,7,0
@@ -175,3 +175,5 @@ Montgomery,Texas,TX,30.302364,-95.503523,Montgomery County,TX MONTGOMERY,455746,
 Howard,Indiana,IN,40.483537,-86.114118,Howard County,IN HOWARD,82752,18067,67,True,1,0
 Johnson,Indiana,IN,39.495986,-86.0946,Johnson County,IN JOHNSON,139654,18081,81,True,3,0
 Unknown,Virginia,VA,,,,,,,,True,1,0
+Jefferson,Arkansas,AR,34.277695,-91.930701,Jefferson County,AR JEFFERSON,77435,5069,69,True,1,0
+Unknown,Nevada,NV,,,,,,,,True,1,0

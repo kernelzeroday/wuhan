@@ -320,7 +320,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 317,True,Oregon,Klamath,,Unknown,Unknown,3/7/2020,Unknown,Travel (unidentified country),Travel overseas,No,,Link,,,,,,,,,,317,Oregon,False,2020-03-07
 318,True,Oregon,Washington,,Unknown,Unknown,3/7/2020,Unknown,Personal contact in U.S.,Personal contact in U.S.,Yes,,Link,,,,,,,,,,318,Oregon,False,2020-03-07
 319,True,Oregon,Jackson,,Unknown,Unknown,3/7/2020,Unknown,Travel (unidentified country),Travel overseas,No,,Link,,,,,,,,,,319,Oregon,False,2020-03-07
-320,True,Washington,Kittitas,,Female,67,3/7/2020,"At home, stable, in isolation",Unknown,Unknown,Unknown,,Link,,,,,,,,,,320,Washington,False,2020-03-07
+320,True,Washington,Kittitas,,Female,67,3/7/2020,Being evaluated for hopitalization,Unknown,Unknown,Unknown,,Link,,,,,,,,,,320,Washington,False,2020-03-07
 321,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,321,New York,False,2020-03-07
 322,True,New York,Saratoga,,Unknown,Unknown,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,322,New York,False,2020-03-07
 323,True,New York,Westchester,,Unknown,Unknown,3/7/2020,Unknown,"Had contact with known case (New Rochelle lawyer, Row #106)","Cluster connected to a community in New Rochelle, N.Y.",Yes,,Link,,,,,,,,,,323,New York,False,2020-03-07
@@ -981,7 +981,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 979,True,Iowa,Johnson,,Unknown,61-80,3/10/2020,Home isolation,Egyptian cruise,Travel in Egypt,No,,Link,,,,,,,,,,986,Iowa,False,2020-03-10
 980,True,Iowa,Johnson,,Unknown,61-80,3/10/2020,Home isolation,Egyptian cruise,Travel in Egypt,No,,Link,,,,,,,,,,987,Iowa,False,2020-03-10
 981,True,Iowa,Johnson,,Unknown,61-80,3/10/2020,Home isolation,Egyptian cruise,Travel in Egypt,No,,Link,,,,,,,,,,988,Iowa,False,2020-03-10
-982,True,Texas,Tarrant,,Unknown,Unknown,3/10/2020,Unknown,Traveled to a conference in Kentucky in late February,Travel within the U.S.,Yes,,Link,,,,,,,,,,989,Texas,False,2020-03-10
+982,True,Texas,Tarrant,,Unknown,Unknown,3/10/2020,Hospitalized in Fort Worth as of 3/10,Traveled to a conference in Kentucky in late February,Travel within the U.S.,Yes,"A hospital in Fort Worth, TX",Link,Link,,,,,,,,,989,Texas,False,2020-03-10
 983,True,Washington,Snohomish,,Female,50s,3/10/2020,unknown,Unknown,Unknown,unknown,,Link,,,,,,,,,,990,Washington,False,2020-03-10
 984,True,Washington,Snohomish,,Female,20s,3/10/2020,home isolation,Unknown,Unknown,unknown,,Link,,,,,,,,,,991,Washington,False,2020-03-10
 985,True,Washington,Snohomish,,Female,40s,3/10/2020,home isolation,Unknown,Unknown,unknown,,Link,,,,,,,,,,992,Washington,False,2020-03-10
@@ -1026,3 +1026,9 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 1024,True,Indiana,Johnson,,Unknown,Adult,3/11/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1031,Indiana,False,2020-03-11
 1025,True,Virginia,Unknown,,Unknown,Unknown,3/11/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1032,Virginia,False,2020-03-11
 1026,True,Pennsylvania,Montgomery,,Unknown,Adult,3/11/2020,Home isolation,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1033,Pennsylvania,False,2020-03-11
+1027,True,Arizona,Maricopa,,Male,90s,3/11/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1034,Arizona,False,2020-03-11
+1028,True,Arkansas,Jefferson,,Unknown,Unknown,3/11/2020,Hospitalized and Isolated ,Travel within the US,Travel within the U.S.,Yes,,Link,,,,,,,,,,1035,Arkansas,False,2020-03-11
+1029,True,Arizona,Pinal,,Unknown,60s,3/11/2020,Home isolation,Same household as other cases in county,Personal contact in U.S.,Yes,,Link,,,,,,,,,,1036,Arizona,False,2020-03-11
+1030,True,Nevada,Unknown,,Unknown,Unknown,3/11/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1037,Nevada,False,2020-03-11
+1031,True,Arizona,Pinal,,Unknown,60s,3/11/2020,Home isolation,Same household as other cases in county,Personal contact in U.S.,Yes,,Link,,,,,,,,,,1038,Arizona,False,2020-03-11
+1032,True,Washington,Kittitas,,Unknown,Unknown,3/11/2020,Home isolation,Family Memeber of first positive case in county (row 321),Personal contact in U.S.,Yes,,Link,,,,,,,,,,1039,Washington,False,2020-03-11
