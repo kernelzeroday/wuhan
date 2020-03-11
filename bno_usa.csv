@@ -1,32 +1,34 @@
 UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
-Washington,162,23,,,1,Source
-New York,142,0,,,0,Source
-California,102,2,,1,1,Source
-Massachusetts,28,0,,,,Source
-Oregon,14,0,,,,Source
-Florida,13,2,,,,Source
-Georgia,11,0,,,,Source
+Washington,267,24,,,1,Source
+New York,173,0,,,0,Source
+California,109,3,,1,1,Source
+Massachusetts,92,0,,,,Source
+Georgia,22,0,,,,Source
+Florida,21,2,,,,Source
+Illinois,19,0,,,2,Source
+New Jersey,15,1,,,,Source
+Oregon,15,0,,,,Source
+Pennsylvania,11,0,,1,,Source
+South Carolina,9,0,,,,Source
 Colorado,8,0,,,,Source
-Illinois,7,0,,,2,Source
+Kentucky,8,0,,,,Source
 Texas,7,0,,,,Source
-New Jersey,6,0,,,,Source
-Pennsylvania,6,0,,,,Source
 Maryland,6,0,0,0,0,Source
-South Carolina,6,0,,,,Source
-Kentucky,6,0,,,,Source
 Arizona,5,0,,,1,Source
 Virginia,5,0,,,,Source
+North Dakota,5,1,,,,Source
 New Hampshire,4,0,,,,Source
 Nevada,4,0,,,,Source
 Rhode Island,3,0,,,,Source
 Tennessee,3,0,,,,Source
 Iowa,3,0,,,,Source
 Ohio,3,0,,,,Source
+Minnesota,3,0,,1,,Source
+Wisconsin,3,0,,,,Source
 North Carolina,2,0,,,,Source
 Indiana,2,0,,,,Source
-Minnesota,2,0,,,,Source
 Hawaii,2,0,,,,Source
-Wisconsin,2,0,,,,Source
+Michigan,2,0,,,,Source
 Vermont,1,0,,,,Source
 Utah,1,0,,,,Source
 Kansas,1,0,,,,Source
@@ -45,11 +47,9 @@ Arkansas,0,0,,,,
 Delaware,0,0,,,,
 Idaho,0,0,,,,
 Maine,0,0,,,,
-Michigan,0,0,,,,
 Mississippi,0,0,,,,
 Montana,0,0,,,,
 New Mexico,0,0,,,,
-North Dakota,0,0,,,,
 South Dakota,0,0,,,,
 West Virginia,0,0,,,,
 Wyoming,0,0,,,,
@@ -58,5 +58,5 @@ Guam,0,0,,,,
 Northern Mariana Islands,0,0,,,,
 Puerto Rico,0,0,,,,
 U.S. Virgin Islands,0,0,,,,
-TBD,60,0,,,,
-U.S. TOTAL,702,27,0,1,7,
+TBD,103,0,,,,
+U.S. TOTAL,1012,31,0,3,7,
