@@ -5,7 +5,4 @@ bash bno_usa_pop.sh
 bash county.sh 
 bash nys_icu.sh
 bash tables.sh
-cd az
-bash az.sh
-cd ..
 bash git_update.sh
