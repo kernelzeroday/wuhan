@@ -3,7 +3,7 @@
 curl `curl -s 'https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html' | pup | grep 'NYTG.load' | grep main |sed 's/    NYTG.load(//g' | sed 's/);//g' | sed 's/main/chunks\/model/g' | tr -d \'` > model.mjs
 node nyt2 | jq '.u' | in2csv -f json > nyt_us_full.csv
 csvstack -g "`date +%s`" -n unixtime nyt_us_full.csv |csvstack -g "`date`" -n date2 >> nyt2/nyt_us_full_$(date +%s).csv
-node nyt2 | jq '.a' | in2csv -f json > nyt_us_county.csv
+node nyt2 | jq '.d' | in2csv -f json > nyt_us_county.csv
 csvstack -g "`date +%s`" -n unixtime nyt_us_county.csv |csvstack -g "`date`" -n date2 >> nyt2/nyt_us_county_$(date +%s).csv 
-node nyt2 | jq '.l' | in2csv -f json > nyt_intl_full.csv
+node nyt2 | jq '.a' | in2csv -f json > nyt_intl_full.csv
 csvstack -g "`date +%s`" -n unixtime nyt_intl_full.csv |csvstack -g "`date`" -n date2 >> nyt2/nyt_intl_full_$(date +%s).csv 

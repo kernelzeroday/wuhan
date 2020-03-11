@@ -1,43 +1,54 @@
-adm0_a3,lat,lon,jhu_country_region,jhu_state_province,nyt_name,asia_map_label,asia_map_label_desktop_only,confirmed,deaths,recovered
-CHN,32,116.1,China,Anhui,,,,990,6,984
-CHN,39.9,116.3,China,Beijing,,count_only,,435,8,326
-CHN,29.5,106.4,China,Chongqing,,,,576,6,549
-CHN,25.92,117.17,China,Fujian,,,,296,1,295
-CHN,40.39,96.81,China,Gansu,,,,127,2,88
-CHN,22.9,112.4,China,Guangdong,,,,1356,8,1282
-CHN,23.72,108.66,China,Guangxi,,,,252,2,238
-CHN,26.91,105.48,China,Guizhou,,,,146,2,133
-CHN,19.15,109.37,China,Hainan,,,,168,6,159
-CHN,38.48,115.24,China,Hebei,,,,318,6,307
-CHN,46.8,127.07,China,Heilongjiang,,,,482,13,436
-CHN,33.9,112.4,China,Henan,,,,1273,22,1249
-CHN,32.05,110.5,China,Hubei,,count_only,,67773,3046,49134
-CHN,27.4,110.4,China,Hunan,,,,1018,4,995
-CHN,43.61,113.35,China,Inner Mongolia,,,,75,1,71
-CHN,33.15,119.58,China,Jiangsu,,,,631,0,627
-CHN,27.28,114.91,China,Jiangxi,,,,935,1,932
-CHN,43.85,126.5,China,Jilin,,,,93,1,91
-CHN,41.3,121.9,China,Liaoning,,,,125,1,111
-CHN,37.3,104.85,China,Ningxia,,,,75,0,72
-CHN,35.39,93.99,China,Qinghai,,,,18,0,18
-CHN,35.63,106.12,China,Shaanxi,,,,245,1,232
-CHN,36.4,116.5,China,Shandong,,,,760,6,726
-CHN,31.19,121.48,China,Shanghai,,,,344,3,320
-CHN,37.64,110.15,China,Shanxi,,,,133,0,131
-CHN,30.8,103.8,China,Sichuan,,,,539,3,488
-CHN,39.13,117.01,China,Tianjin,,,,136,3,131
-CHN,31.6,84.27,China,Tibet,,,,0,0,0
-CHN,40.06,87.7,China,Xinjiang,,,,76,3,73
-CHN,24.64,101.29,China,Yunnan,,,,174,2,170
-CHN,29.1,120.1,China,Zhejiang,,,,1215,1,1195
-AUS,-32.74,145.56,Australia,New South Wales,,,,55,2,4
-AUS,-20.9176,142.7028,Australia,Queensland,,,,18,0,8
-AUS,-34.93,138.61,Australia,South Australia,,,,0,0,0
-AUS,-36.56,143.25,Australia,Victoria,,,,18,0,7
-AUS,-36.56,143.25,Australia,From Diamond Princess,,,,0,0,0
-AUS,-36.56,143.25,Australia,Western Australia,,,,0,0,0
-CAN,54.84,-125.1,Canada,British Columbia,,,,39,1,4
-CAN,51.4,-87.12,Canada,"London, ON",,,,0,0,0
-CAN,51.4,-87.12,Canada,Ontario,,,,36,0,4
-CAN,51.4,-87.12,Canada,"Toronto, ON",,,,0,0,0
-CAN,51.4,-87.12,Canada,"Montreal, QC",,,,0,0,0
+postal,sublocation,nytabbrev,lat,lon,nytregion,statefips,nytabbrev_name,state,confirmed,deaths
+AK,Alaska,Alaska,63.588753,-154.493062,W,2,,Alaska,0,0
+AL,Alabama,Ala.,32.318231,-86.902298,S,1,,Alabama,0,0
+AR,Arkansas,Ark.,35.20105,-91.831833,S,5,,Arkansas,0,0
+AZ,Arizona,Ariz.,34.048928,-111.093731,W,4,,Arizona,6,0
+CA,California,Calif.,36.509065,-119.388663,W,6,Calif.,California,178,3
+CO,Colorado,Colo.,39.550051,-105.782067,W,8,,Colorado,17,0
+CT,Connecticut,Conn.,41.603221,-73.087749,NE,9,,Connecticut,2,0
+DC,District of Columbia,D.C.,38.905985,-77.033418,NE,11,,District of Columbia,4,0
+DE,Delaware,Del.,38.910832,-75.52767,NE,10,,Delaware,0,0
+FL,Florida,Fla.,27.664827,-81.515754,S,12,,Florida,23,2
+GA,Georgia,Ga.,32.157435,-82.907123,S,13,,Georgia,22,0
+HI,Hawaii,Hawaii,19.898682,-155.665857,W,15,,Hawaii,2,0
+IA,Iowa,Iowa,41.878003,-93.097702,MW,19,,Iowa,13,0
+ID,Idaho,Idaho,44.068202,-114.742041,W,16,,Idaho,0,0
+IL,Illinois,Ill.,40.633125,-89.398528,MW,17,,Illinois,19,0
+IN,Indiana,Ind.,40.551217,-85.602364,MW,18,,Indiana,6,0
+KS,Kansas,Kan.,39.011902,-98.484246,MW,20,,Kansas,1,0
+KY,Kentucky,Ky.,37.77429,-85.002638,S,21,,Kentucky,8,0
+LA,Louisiana,La.,31.244823,-92.145024,S,22,,Louisiana,6,0
+MA,Massachusetts,Mass.,42.138477,-69.3,NE,25,,Massachusetts,92,0
+MD,Maryland,Md.,39.177316,-76.206326,NE,24,,Maryland,9,0
+ME,Maine,Maine,45.253783,-69.445469,NE,23,,Maine,0,0
+MI,Michigan,Mich.,44.314844,-85.602364,MW,26,,Michigan,2,0
+MN,Minnesota,Minn.,46.729553,-94.6859,MW,27,,Minnesota,3,0
+MO,Missouri,Mo.,37.964253,-91.831833,MW,29,,Missouri,1,0
+MS,Mississippi,Miss.,32.354668,-89.398528,S,28,,Mississippi,0,0
+MT,Montana,Mont.,46.879682,-110.362566,W,30,,Montana,0,0
+NC,North Carolina,N.C.,35.6029126,-77.4473952,S,37,,North Carolina,7,0
+ND,North Dakota,N.D.,47.551493,-101.002012,MW,38,,North Dakota,0,0
+NE,Nebraska,Neb.,41.492537,-99.901813,MW,31,Neb.,Nebraska,16,0
+NH,New Hampshire,N.H.,43.193852,-71.572395,NE,33,,New Hampshire,5,0
+NJ,New Jersey,N.J.,40.058324,-74.405661,NE,34,,New Jersey,15,1
+NM,New Mexico,N.M.,34.97273,-105.032363,W,35,,New Mexico,0,0
+NV,Nevada,Nev.,38.80261,-116.419389,W,32,,Nevada,4,0
+NY,New York,N.Y.,43,-75.12,NE,36,N.Y.,New York,173,0
+OH,Ohio,Ohio,40.417287,-82.907123,MW,39,,Ohio,3,0
+OK,Oklahoma,Okla.,35.007752,-97.092877,S,40,,Oklahoma,2,0
+OR,Oregon,Ore.,43.804133,-120.554201,W,41,,Oregon,14,0
+PA,Pennsylvania,Pa.,41.203322,-77.194525,NE,42,,Pennsylvania,12,0
+RI,Rhode Island,R.I.,39.6,-71.64,NE,44,,Rhode Island,5,0
+SC,South Carolina,S.C.,33.836081,-81.163725,S,45,,South Carolina,9,0
+SD,South Dakota,S.D.,43.969515,-99.901813,MW,46,,South Dakota,5,1
+TN,Tennessee,Tenn.,35.866877,-85.895452,S,47,,Tennessee,7,0
+TX,Texas,Texas,31.968599,-99.901813,S,48,Texas,Texas,30,0
+UT,Utah,Utah,39.32098,-111.093731,W,49,,Utah,3,0
+VA,Virginia,Va.,37.431573,-78.656894,S,51,,Virginia,8,0
+VT,Vermont,Vt.,44.558803,-72.577841,NE,50,,Vermont,1,0
+WA,Washington,Wash.,46.751074,-120.740139,W,53,Wash.,Washington,279,24
+WI,Wisconsin,Wis.,43.78444,-88.787868,MW,55,,Wisconsin,3,0
+WV,West Virginia,W.Va.,38.597626,-80.454903,NE,54,,West Virginia,0,0
+WY,Wyoming,Wyo.,43.075968,-107.290284,W,56,,Wyoming,0,0
+PR,Puerto Rico,P.R.,18.220833,-66.590149,,72,,Puerto Rico,0,0
+,Unknown,,9999,9999,,,,Unknown,0,0
