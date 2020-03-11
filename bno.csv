@@ -16,37 +16,37 @@ United Kingdom,383,6,,,12
 Sweden,326,0,,,
 Belgium,267,0,1,1,1
 Denmark*,264,0,,,
-Austria,182,0,,,4
+Austria,206,0,,,4
 Singapore,166,0,,12,93
 Malaysia,129,0,2,,25
 Hong Kong,121,2,2,4,59
 Bahrain,110,0,,1,30
-Australia,101,3,,,22
+Australia,127,3,,,24
+Canada,97,1,,1,9
 Greece,89,0,,1,
 Iceland,81,0,,,
-Canada,72,1,,1,8
+Israel,76,0,1,,3
 Kuwait,69,0,2,1,0
 Czech Republic,63,0,0,0,0
+San Marino,62,2,5,,
 Iraq,60,5,,,
+India,60,0,,,4
 UAE,59,0,2,,7
-Egypt,55,1,,,1
-India,50,0,,,4
-Thailand,50,1,1,,31
-San Marino,49,2,5,,
-Taiwan,45,1,0,0,15
+Thailand,59,1,1,,34
+Egypt,59,1,,,26
+Taiwan,48,1,0,0,17
 Portugal,39,0,,,
-Israel,39,0,,,
+Vietnam,35,0,,,16
 Brazil,34,0,,,
-Vietnam,34,0,,,16
 Ireland,34,0,,,
 Philippines,33,1,1,,2
 Lebanon,32,0,,1,
 Slovenia,31,0,0,0,0
 Finland,30,0,,,1
 Romania,25,0,,,5
-Indonesia,27,0,,,
+Indonesia,27,1,,,
+Poland,25,0,2,0,0
 Qatar,24,0,,,
-Poland,22,0,2,0,0
 Algeria,20,0,,,
 Chile,17,0,,,
 Pakistan,16,0,,,2
@@ -63,47 +63,47 @@ Albania,10,0,,,
 Costa Rica,9,0,1,,
 Hungary,9,0,0,0,0
 Panama,8,1,,,
+Maldives,8,0,,,
 Mexico,7,0,1,,4
 Peru,7,0,,,
 South Africa,7,0,,,
 Afghanistan,7,0,,,
+Luxembourg,7,0,,,
+North Macedonia,7,0,0,0,0
 Belarus,6,0,,,
 Azerbaijan,6,0,,,
 Latvia,6,0,,,
 New Zealand,5,0,,,
-Luxembourg,5,0,,,
+Dominican Republic,5,0,,,
 Slovakia,5,0,,,
 Paraguay,5,0,1,,
 Serbia,5,0,,,
 Senegal,4,0,0,0,0
 Palestine,4,0,,,
 Bulgaria,4,0,,,
-Maldives,4,0,,,
 Bangladesh,3,0,,,
 Colombia,3,0,,,
 Morocco,3,1,,,
+Lithuania,3,0,,,
 Bosnia,2,0,,,
 Cameroon,2,0,,,
 Cambodia,2,0,,,1
 Tunisia,2,0,,,
 Nigeria,2,0,0,0,0
+Sri Lanka,2,0,,,1
 Moldova,1,0,,,
 Malta,1,0,,,
 Togo,1,0,,,
 Nepal,1,0,,,1
-Sri Lanka,1,0,,,1
-North Macedonia,1,0,,,
-Lithuania,1,0,,,
 Monaco,1,0,,,
 Ukraine,1,0,,,
 Jordan,1,0,,,
 Andorra,1,0,,,
 Armenia,1,0,,,
-Dominican Republic,1,0,,,
 Liechtenstein,1,0,,,
 Bhutan,1,0,,,
 Gibraltar,1,0,1,,
 Vatican City,1,0,,,
 Turkey,1,0,,,
-Queue,439,,,,
-TOTAL,119295,4292,5631,67,66335
+Queue,535,,,,
+TOTAL,119565,4293,5632,67,66371

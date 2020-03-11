@@ -1,0 +1,113 @@
+{
+  "id": "510066ec-acc9-44e3-9949-f254422914ef",
+  "version": "2.0",
+  "name": "az",
+  "url": "https://tableau.azdhs.gov",
+  "tests": [{
+    "id": "3cdc908e-c18b-4b12-b7ff-cf63fc3a3499",
+    "name": "az",
+    "commands": [{
+      "id": "b4e53c8c-43ca-4696-b774-5b3c0ef82da3",
+      "comment": "",
+      "command": "open",
+      "target": "/views/COVID-19Table/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e11cdae-ce09-4615-bb86-84e25980a829",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "800x600",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fc89dbfa-f5e0-472a-8138-dfb4007a899e",
+      "comment": "",
+      "command": "waitForElementVisible",
+      "target": "css=#tabZoneId3 .tab-tvYLabel .tabCanvas",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "31c0b28f-0f53-4798-be01-6f7ef3b21ea1",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "css=#tabZoneId3 .tab-tvYLabel .tabCanvas",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "85cb0a03-5c34-4b02-afa5-3d2d2e0b664c",
+      "comment": "",
+      "command": "click",
+      "target": "css=#view8275719771277684273_10329084236957726728 .tabCanvas:nth-child(2)",
+      "targets": [
+        ["css=#view8275719771277684273_10329084236957726728 .tabCanvas:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='view8275719771277684273_10329084236957726728']/div/div[2]/canvas[2]", "xpath:idRelative"],
+        ["xpath=//canvas[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9e11f2d0-1d88-4081-b5cf-0c4429c3219e",
+      "comment": "",
+      "command": "waitForElementVisible",
+      "target": "css=.download > .tabToolbarButtonText",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "6d3c09b0-3744-4be0-9941-9916bb94eb30",
+      "comment": "",
+      "command": "click",
+      "target": "css=.download > .tabToolbarButtonText",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "8c456bd9-c7c1-405c-8488-b927c0ea9ffa",
+      "comment": "",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab653d68-954b-4027-8d7e-5b716478d292",
+      "comment": "",
+      "command": "click",
+      "target": "css=.tab-downloadDialog > div:nth-child(4)",
+      "targets": [
+        ["css=.tab-downloadDialog > div:nth-child(4)", "css:finder"],
+        ["xpath=//div[@id='DownloadDialog-Dialog-Body-Id']/div/div[3]", "xpath:idRelative"],
+        ["xpath=//div/div/div/div[2]/div/div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4a54ee1c-2efc-4500-8541-6d84c256ead3",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Download",
+      "targets": [
+        ["linkText=Download", "linkText"],
+        ["css=.tabDownloadFileButton", "css:finder"],
+        ["xpath=//a[contains(text(),'Download')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'https://tableau.azdhs.gov/vizql/w/COVID-19Table/v/COVID-19table/exportcrosstab/sessions/4E66BC186D7E4D8FBB1D561E2D3A271B-1:3/views/8275719771277684273_10329084236957726728?charset=utf16&download=true')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1d889e23-d290-41fb-aac0-231b564dbe07",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "658b452c-9272-48f5-87cb-ad605b81a063",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3cdc908e-c18b-4b12-b7ff-cf63fc3a3499"]
+  }],
+  "urls": ["https://tableau.azdhs.gov/"],
+  "plugins": []
+}

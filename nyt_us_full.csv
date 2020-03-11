@@ -378,7 +378,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 376,True,Washington,Snohomish,,Male,60s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,376,Washington,False,2020-03-07
 377,True,Washington,Snohomish,,Female,40s,3/7/2020,Unknown,connected to Life Care,"Nursing facility in Kirkland, Wash.",Yes,,Link,,,,,,,,,,377,Washington,False,2020-03-07
 378,True,Washington,Snohomish,,Female,80s,3/7/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,378,Washington,False,2020-03-07
-426,True,California,Riverside,,Unknown,Unknown,3/7/2020,hospitalized,Unknown -- believed to be community spread,Unknown,Unknown,Eisenhower Health in Rancho Mirage,Link,Link,,,,,,,,,426,California,False,2020-03-07
+416,True,Florida,Volusia,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,416,Florida,False,2020-03-07
 380,True,Florida,Charlotte,,Female,54,3/7/2020,Unknown - isolated,Travel in Israel/Egypt area,Travel overseas,No,,Link,,,,Additional reporting via Pati,,,,,,380,Florida,False,2020-03-07
 381,True,California,Los Angeles,,Unknown,Unknown,3/7/2020,Unknown,AIPAC Conference,Travel within the U.S.,Yes,,Link,,,,"""The additional positive case in LA County is a resident who recently returned from attending the AIPAC Conference in Washington, D.C. where there was a known exposure to a person who was positive for COVID-19.""",,,,,,381,California,False,2020-03-07
 382,True,California,San Francisco,,Female,Unknown,3/7/2020,"Good condition, isolated at home",Contact with known coronavirus patient in United States,Personal contact in U.S.,Yes,,Link,,,,confirmed with SF Health Dept flack Rachel Kagan that the contact with a known patient was in the U.S.,,,,,,382,California,False,2020-03-07
@@ -415,7 +415,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 413,True,California,Santa Cruz,,Unknown,Unknown,3/7/2020,Unknown,On the Grand Princess cruise from San Francisco to Mexico between Feb. 11 and Feb. 21,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,413,California,False,2020-03-07
 414,True,Virginia,Fairfax,,Unknown,Unknown,3/7/2020,hospitalized,Overseas travel,Travel overseas,No,Fort Belvoir Community Hospital,Link,Link,,,Announced by Pentagon. This is a US Marine at Fort Belvoir who had recently traveled overseas for work.,,,,,,414,Virginia,False,2020-03-07
 415,True,Florida,Okaloosa,,Female,61,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,415,Florida,False,2020-03-07
-416,True,Florida,Volusia,,Female,66,3/7/2020,isolated,Overseas travel,Travel overseas,No,,Link,,,,,,,,,,416,Florida,False,2020-03-07
+309,True,Florida,Lee,,Male,77,3/7/2020,Unknown,Travel overseas,Unknown,Unknown,,Link,,,,,,,,,,309,Florida,False,2020-03-07
 417,True,Missouri,St. Louis,,Female,20s,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,Link,,,,,,,,,417,Missouri,False,2020-03-07
 418,True,California,Fresno,,Unknown,Unknown,3/7/2020,Unknown,Grand Princess cruise,Grand Princess cruise in February,Unknown,,Link,,,,,,,,,,418,California,False,2020-03-07
 419,True,Georgia,Fulton,,Unknown,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,419,Georgia,False,2020-03-07
@@ -425,7 +425,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 423,True,Vermont,Bennington,,Male,Unknown,3/7/2020,hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,,,,,,,423,Vermont,False,2020-03-07
 424,True,New Hampshire,Grafton,,Male,Adult,3/7/2020,home isolation,"Contact with previous case at Hope Bible Fellowship in West Lebanon, NH",Personal contact in U.S.,Yes,,Link,,,,,,,,,,424,New Hampshire,False,2020-03-07
 425,True,New Hampshire,Rockingham,,Male,Adult,3/7/2020,home isolation,Travel in Italy,Travel in Italy,No,,Link,,,,,,,,,,425,New Hampshire,False,2020-03-07
-309,True,Florida,Lee,,Male,77,3/7/2020,Unknown,Travel overseas,Unknown,Unknown,,Link,,,,,,,,,,309,Florida,False,2020-03-07
+426,True,California,Riverside,,Unknown,Unknown,3/7/2020,hospitalized,Unknown -- believed to be community spread,Unknown,Unknown,Eisenhower Health in Rancho Mirage,Link,Link,,,,,,,,,426,California,False,2020-03-07
 487,True,Massachusetts,Middlesex,,Male,Unknown,3/8/2020,home isolation,At BioGen conference in Boston,Business conference in Boston,yes,,Link,,,,,,,,,,487,Massachusetts,False,2020-03-08
 427,True,Virginia,Fairfax city,,Unknown,80s,3/8/2020,hospitalized,Nile River cruise with other COVID cases (seeking clarity on whether it's the one tied to TX cases),Travel in Egypt,No,,Link,,,,,,,,,,427,Virginia,False,2020-03-08
 430,True,Texas,Fort Bend,,Female,60s,3/8/2020,home isolation,cruise in Egypt,Travel in Egypt,No,,Link,,,,,,,,,,430,Texas,False,2020-03-08
@@ -747,7 +747,7 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 808,True,California,Los Angeles,See column R,Unknown,Unknown,3/9/2020,Unknown,Nile River cruise,Unknown,Unknown,,Presser,,,,In Long Beach; officials counting as separate even though it's in LA county,,,,,,815,California,False,2020-03-09
 798,True,California,Santa Cruz,,Unknown,Unknown,3/9/2020,Recovering in isolation,Travel to Seattle,Travel within the U.S.,Yes,,LInk,,,,,,,,,,805,California,False,2020-03-09
 759,True,Tennessee,Unknown,,Unknown,Unknown,3/9/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,"Location stated as ""middle Tennessee""",,,,,,766,Tennessee,False,2020-03-09
-876,True,Massachusetts,Berkshire,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,,,,,,,,,,883,Massachusetts,False,2020-03-10
+882,True,Washington,King,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,889,Washington,False,2020-03-10
 748,True,California,Ventura,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,755,California,False,2020-03-10
 750,True,Virginia,Loudoun,,Unknown,40s,3/10/2020,Doing well as of 3/10; in home isolation,"Attended Christ Church in Georgetown, D.C.","Connected to Episcopal church in Washington, D.C.",Yes,,Link,,,,"Attended Christ Church in Georgetown, D.C.",,,,,,757,Virginia,False,2020-03-10
 751,True,Texas,Collin,,Female,Unknown,3/10/2020,Home isolation,"Contact with her husband, who's in row 586",Personal contact in U.S.,Yes,,Link,,,,,,,,,,758,Texas,False,2020-03-10
@@ -875,13 +875,13 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 873,True,Massachusetts,Suffolk,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,Release from City of Boston,,,,,,,,,880,Massachusetts,False,2020-03-10
 874,True,Massachusetts,Suffolk,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,Release from City of Boston,,,,,,,,,881,Massachusetts,False,2020-03-10
 875,True,Massachusetts,Berkshire,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,,,,,,,,,,882,Massachusetts,False,2020-03-10
-749,True,Wisconsin,Dane,,Unknown,Unknown,3/10/2020,Home isolation,Traveling within the US,Travel within the U.S.,Yes,,Link,,,,,,,,,,756,Wisconsin,False,2020-03-10
+876,True,Massachusetts,Berkshire,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,,,,,,,,,,883,Massachusetts,False,2020-03-10
 877,True,Massachusetts,Essex,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Presser,,,,,,,,,,884,Massachusetts,False,2020-03-10
 878,True,South Carolina,Kershaw,,Unknown,Unknown,3/10/2020,Hospitalized,Household Contact,Personal contact in U.S.,Yes,,Link,,,,,,,,,,885,South Carolina,False,2020-03-10
 879,True,South Carolina,Kershaw,,Unknown,Unknown,3/10/2020,Hospitalized,Household Contact,Personal contact in U.S.,Yes,,Link,,,,,,,,,,886,South Carolina,False,2020-03-10
 880,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,Orleans Parish,,,,,,887,Louisiana,False,2020-03-10
 881,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,Hospitalized,Unknown,Unknown,Unknown,,Link,Link,,,Orleans Parish,,,,,,888,Louisiana,False,2020-03-10
-882,True,Washington,King,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,889,Washington,False,2020-03-10
+749,True,Wisconsin,Dane,,Unknown,Unknown,3/10/2020,Home isolation,Traveling within the US,Travel within the U.S.,Yes,,Link,,,,,,,,,,756,Wisconsin,False,2020-03-10
 883,True,Washington,King,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,890,Washington,False,2020-03-10
 884,True,Washington,King,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,891,Washington,False,2020-03-10
 885,True,Washington,King,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,892,Washington,False,2020-03-10
@@ -1004,3 +1004,14 @@ COVID.media@illinois.gov",,,,164,Illinois,False,2020-03-05
 1002,True,Florida,Pinellas,,Male,67,3/10/2020,Unknown,"travel, but unclear whether in US or abroad",Unknown,Unknown,,Link,,,,,,,,,,1009,Florida,False,2020-03-10
 1003,True,Florida,Pinellas,,Male,64,3/10/2020,Unknown,"travel, but unclear whether in US or abroad",Unknown,Unknown,,Link,,,,,,,,,,1010,Florida,False,2020-03-10
 1004,True,Florida,Pasco,,Male,46,3/10/2020,Unknown,"travel, but unclear whether in US or abroad",Unknown,Unknown,,Link,,,,,,,,,,1011,Florida,False,2020-03-10
+1005,True,Texas,Dallas,,Unknown,50s,3/10/2020,Unknown,person was in close contact with the other victim (#974) that was announced earlier today in Dallas ,Personal contact in U.S.,Unknown,,Link,,,,,,,,,,1012,Texas,False,2020-03-10
+1006,True,Michigan,Oakland,,Female,Middle-aged,3/10/2020,hospitalized,recent travel abroad,Unknown,Unknown,,Link,,,,,,,,,,1013,Michigan,False,2020-03-10
+1007,True,Michigan,Wayne,,Male,Middle-aged,3/10/2020,hospitalized,recent travel in US,Unknown,Unknown,,Link,,,,,,,,,,1014,Michigan,False,2020-03-10
+1008,True,Georgia,Charlton,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1015,Georgia,False,2020-03-10
+1009,True,Georgia,Fulton,,Unknown,Unknown,3/10/2020,Unknown,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1016,Georgia,False,2020-03-10
+1010,True,Georgia,Cobb,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1017,Georgia,False,2020-03-10
+1011,True,Georgia,Cobb,,Unknown,Unknown,3/10/2020,hospitalized,travel abroad,Unknown,Unknown,,Link,,,,,,,,,,1018,Georgia,False,2020-03-10
+1012,True,Georgia,Cobb,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1019,Georgia,False,2020-03-10
+1013,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1020,Louisiana,False,2020-03-10
+1014,True,Louisiana,Orleans,,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1021,Louisiana,False,2020-03-10
+1015,True,Louisiana,Orleans,St. Tammany Parish,Unknown,Unknown,3/10/2020,hospitalized,Unknown,Unknown,Unknown,,Link,,,,,,,,,,1022,Louisiana,False,2020-03-10

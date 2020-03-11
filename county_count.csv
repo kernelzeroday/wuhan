@@ -179,7 +179,7 @@ Confirmed,County
 1,Berkshire
 13,King
 8,Snohomish
-1,Riverside
+1,Volusia
 1,Charlotte
 1,Los Angeles
 6,San Francisco
@@ -191,7 +191,7 @@ Confirmed,County
 1,Santa Cruz
 1,Fairfax
 1,Okaloosa
-1,Volusia
+1,Lee
 1,St. Louis
 1,Fresno
 1,Fulton
@@ -200,7 +200,7 @@ Confirmed,County
 1,Bennington
 1,Grafton
 1,Rockingham
-1,Lee
+1,Riverside
 1,Middlesex
 1,Fairfax city
 1,Fort Bend
@@ -319,7 +319,7 @@ Confirmed,County
 2,Los Angeles
 1,Santa Cruz
 1,Unknown
-1,Berkshire
+1,King
 1,Ventura
 1,Loudoun
 2,Collin
@@ -356,12 +356,12 @@ Confirmed,County
 26,Middlesex
 12,Norfolk
 10,Suffolk
-1,Berkshire
-1,Dane
+2,Berkshire
 1,Essex
 2,Kershaw
 2,Orleans
-74,King
+1,Dane
+73,King
 2,Unknown
 7,Pierce
 1,Alameda
@@ -388,3 +388,10 @@ Confirmed,County
 3,Collier
 2,Pinellas
 1,Pasco
+1,Dallas
+1,Oakland
+1,Wayne
+1,Charlton
+1,Fulton
+3,Cobb
+3,Orleans
