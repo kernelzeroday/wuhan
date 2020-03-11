@@ -10,7 +10,7 @@ San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FR
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,2,0
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,2,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
-Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,16,0
+Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,18,0
 Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,2,0
 Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,True,2,0
 Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,9,1
@@ -39,7 +39,7 @@ Fort Bend,Texas,TX,29.526602,-95.771015,Fort Bend County,TX FORT BEND,585375,481
 Bergen,New Jersey,NJ,40.95909,-74.074522,Bergen County,NJ BERGEN,905116,34003,3,True,7,1
 Chelan,Washington,WA,47.859891,-120.618543,Chelan County,WA CHELAN,72453,53007,7,True,1,1
 Kings,New York,NY,40.635133,-73.950777,Kings County,NY KINGS,2504700,36047,47,True,4,0
-Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,True,1,0
+Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,True,4,0
 Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,151372,12113,113,True,1,1
 Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,True,19,0
 Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,True,7,0
@@ -84,7 +84,7 @@ Queens,New York,NY,40.658557,-73.837929,Queens County,NY QUEENS,2230722,36081,81
 Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,131219,25003,3,True,7,0
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,True,1,0
 Wyandotte,Kansas,KS,39.115384,-94.763087,Wyandotte County,KS WYANDOTTE,157505,20209,209,True,1,0
-Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,8,0
+Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,True,9,0
 District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,True,4,0
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,True,2,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,True,1,0
@@ -142,9 +142,9 @@ Boone,Indiana,IN,40.050892,-86.469014,Boone County,IN BOONE,56640,18011,11,True,
 Ventura,California,CA,34.358741,-119.133143,Ventura County,CA VENTURA,823318,6111,111,True,1,0
 Loudoun,Virginia,VA,39.08113,-77.638857,Loudoun County,VA LOUDOUN,312311,51107,107,True,1,0
 Gunnison,Colorado,CO,38.669679,-107.078108,Gunnison County,CO GUNNISON,15324,8051,51,True,1,0
-Unknown,Tennessee,TN,,,,,,,,True,4,0
 Burlington,New Jersey,NJ,39.875786,-74.663006,Burlington County,NJ BURLINGTON,448734,34005,5,True,2,0
 Virginia Beach city,Virginia,VA,36.779322,-76.02402,Virginia Beach city,VA VIRGINIA BEACH CITY,437994,51810,810,True,2,0
+Sullivan,Tennessee,TN,36.510212,-82.299397,Sullivan County,TN SULLIVAN,156823,47163,163,True,1,0
 Philadelphia,Pennsylvania,PA,40.009376,-75.133346,Philadelphia County,PA PHILADELPHIA,1526006,42101,101,True,1,0
 Anoka,Minnesota,MN,45.27411,-93.242723,Anoka County,MN ANOKA,330844,27003,3,True,1,0
 Multnomah,Oregon,OR,45.547693,-122.417173,Multnomah County,OR MULTNOMAH,735334,41051,51,True,1,0
@@ -170,3 +170,8 @@ Pasco,Florida,FL,28.302024,-82.455707,Pasco County,FL PASCO,464697,12101,101,Tru
 Oakland,Michigan,MI,42.660452,-83.38421,Oakland County,MI OAKLAND,1202362,26125,125,True,1,0
 Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,True,1,0
 Charlton,Georgia,GA,30.779904,-82.139644,Charlton County,GA CHARLTON,12171,13049,49,True,1,0
+Bucks,Pennsylvania,PA,40.336887,-75.10706,Bucks County,PA BUCKS,625249,42017,17,True,2,0
+Montgomery,Texas,TX,30.302364,-95.503523,Montgomery County,TX MONTGOMERY,455746,48339,339,True,1,0
+Howard,Indiana,IN,40.483537,-86.114118,Howard County,IN HOWARD,82752,18067,67,True,1,0
+Johnson,Indiana,IN,39.495986,-86.0946,Johnson County,IN JOHNSON,139654,18081,81,True,3,0
+Unknown,Virginia,VA,,,,,,,,True,1,0
