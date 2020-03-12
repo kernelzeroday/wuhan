@@ -41137,7 +41137,7 @@ var countries = [
 		confirmed: 9,
 		deaths: 0,
 		recovered: 3,
-		jhu_id: 108,
+		jhu_id: 109,
 		unique: "Belarus"
 	},
 	{
@@ -41247,6 +41247,42 @@ var countries = [
 		recovered: 4,
 		jhu_id: 81,
 		unique: "Switzerland"
+	},
+	{
+		nyt_id: "41",
+		adm0_a3: "CIV",
+		nyt_name: "Ivory Coast",
+		lat: 7.54,
+		lon: -5.547,
+		jhu_country_region: "Cote d'Ivoire",
+		jhu_state_province: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		mobile_table_name: "Ivory Coast",
+		world_map_label_name: "Ivory Coast",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		jhu_timeline_fix: "",
+		jhu_location: "Ivory Coast",
+		jhu_sublocation: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0,
+		jhu_id: 102,
+		unique: "Cote d'Ivoire"
 	},
 	{
 		nyt_id: "43",
@@ -41713,7 +41749,7 @@ var countries = [
 		confirmed: 60,
 		deaths: 1,
 		recovered: 27,
-		jhu_id: 111,
+		jhu_id: 112,
 		unique: "Egypt"
 	},
 	{
@@ -41821,7 +41857,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 95,
+		jhu_id: 94,
 		unique: "Faroe Islands, Denmark"
 	},
 	{
@@ -41963,9 +41999,9 @@ var countries = [
 		jhu_location: "Greece",
 		jhu_sublocation: "",
 		confirmed: 99,
-		deaths: 0,
+		deaths: 1,
 		recovered: 0,
-		jhu_id: 114,
+		jhu_id: 115,
 		unique: "Greece"
 	},
 	{
@@ -42037,7 +42073,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 109,
+		jhu_id: 110,
 		unique: "Honduras"
 	},
 	{
@@ -42109,7 +42145,7 @@ var countries = [
 		confirmed: 13,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 107,
+		jhu_id: 108,
 		unique: "Hungary"
 	},
 	{
@@ -42433,7 +42469,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 102,
+		jhu_id: 103,
 		unique: "Jordan"
 	},
 	{
@@ -42448,9 +42484,9 @@ var countries = [
 		in_region_table: "y",
 		in_country_count: "y",
 		travel_warning: "2",
-		source: "NYT, includes 696 cruise ship + 581 in Japan from JHU. 6 died on cruise and 6 died in Japan. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2",
-		override_count: "1277",
-		override_deaths: "16",
+		source: "NYT, includes 696 cruise ship + 620 in Japan via Motoko Rich. 6 died on cruise and 15 died in Japan. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_2",
+		override_count: "1316",
+		override_deaths: "21",
 		override_date: "Mar. 11",
 		override_fixed: "",
 		mobile_table_name: "Japan",
@@ -42466,8 +42502,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		jhu_location: "Japan",
 		jhu_sublocation: "",
-		confirmed: 1277,
-		deaths: 16,
+		confirmed: 1316,
+		deaths: 21,
 		recovered: 118,
 		jhu_id: 56,
 		unique: "Japan"
@@ -42649,7 +42685,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 115,
+		jhu_id: 116,
 		unique: "Sri Lanka"
 	},
 	{
@@ -42937,7 +42973,7 @@ var countries = [
 		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 103,
+		jhu_id: 104,
 		unique: "Martinique"
 	},
 	{
@@ -43045,7 +43081,7 @@ var countries = [
 		confirmed: 8,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 110,
+		jhu_id: 111,
 		unique: "Mexico"
 	},
 	{
@@ -43405,7 +43441,7 @@ var countries = [
 		confirmed: 49,
 		deaths: 1,
 		recovered: 2,
-		jhu_id: 104,
+		jhu_id: 105,
 		unique: "Philippines"
 	},
 	{
@@ -43513,7 +43549,7 @@ var countries = [
 		confirmed: 5,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 105,
+		jhu_id: 106,
 		unique: "Paraguay"
 	},
 	{
@@ -43657,7 +43693,7 @@ var countries = [
 		confirmed: 12,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 112,
+		jhu_id: 113,
 		unique: "Serbia"
 	},
 	{
@@ -44413,7 +44449,7 @@ var countries = [
 		confirmed: 10,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 106,
+		jhu_id: 107,
 		unique: "Latvia"
 	},
 	{
@@ -44485,7 +44521,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 171,
+		jhu_id: 172,
 		unique: "Gibraltar, United Kingdom"
 	},
 	{
