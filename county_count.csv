@@ -7,39 +7,38 @@ Confirmed,County
 1,Cook
 1,Santa Clara
 1,Suffolk
-1,San Francisco
 1,Santa Clara
-1,San Francisco
+2,San Francisco
 1,Dane
 1,San Diego
 2,Bexar
 11,Douglas
 1,Humboldt
+2,Bexar
 1,Sacramento
-4,Bexar
+6,Bexar
 1,San Francisco
 1,Douglas
 4,Spokane
 1,Solano
-4,Bexar
-1,Salt Lake 
 1,Douglas
-2,Solano
-1,Napa
-2,Solano
+1,Salt Lake 
 1,Marin
 1,Sonoma
 1,Sacramento
-6,Solano
+2,Solano
+1,Napa
+8,Solano
 1,Sacramento
-1,Washington
-1,Snohomish
 1,Bexar
 1,Santa Clara
+1,Washington
 1,King
+1,Snohomish
+3,King
 1,Santa Clara
-1,King
 1,Cook
+1,Unknown
 2,King
 1,Alameda
 1,Solano
@@ -50,34 +49,30 @@ Confirmed,County
 1,Hillsborough
 1,Washington
 1,Unknown
-2,King
-1,Unknown
-1,Santa Clara
+1,Cook
+1,Walla Walla
+2,Santa Clara
 4,King
 1,Grafton
 1,Snohomish
-1,Santa Clara
+1,Sonoma
 1,Placer
 1,Norfolk
 2,Fulton
 1,San Mateo
-1,Walla Walla
-1,Cook
-1,Sonoma
+1,New York
+1,Maricopa
 1,Hillsborough
 7,King
 1,Wake
 1,Grafton
 2,Santa Clara
-1,New York
-1,Snohomish
+2,Snohomish
 2,Orange
 1,Alameda
 1,Contra Costa
 1,Placer
-1,Maricopa
-1,Snohomish
-2,Westchester
+4,Westchester
 6,Los Angeles
 5,Westchester
 10,King
@@ -87,19 +82,15 @@ Confirmed,County
 1,Fort Bend
 1,Bergen
 1,Chelan
-2,Westchester
-1,Snohomish
+2,New York
 1,Williamson
+1,Santa Rosa
 1,Cook
 8,Westchester
 1,Nassau
 2,San Francisco
-2,King
-1,New York
-16,King
-1,Snohomish
-1,Santa Rosa
-7,Snohomish
+19,King
+9,Snohomish
 1,King
 1,Bergen
 4,Los Angeles
@@ -112,8 +103,7 @@ Confirmed,County
 6,Santa Clara
 1,Clark
 1,Washoe
-1,New York
-1,King
+1,Wayne
 1,Delaware
 1,Polk
 1,Chatham
@@ -135,9 +125,7 @@ Confirmed,County
 1,Snohomish
 1,Jefferson
 1,Douglas
-3,Westchester
-1,Wayne
-4,Westchester
+8,Westchester
 3,Nassau
 1,Fayette
 1,Tulsa
@@ -159,8 +147,9 @@ Confirmed,County
 1,Davis
 1,Clark
 1,Alameda
-1,Westchester
+1,Lee
 1,Gwinnett
+1,Fulton
 1,Cobb
 2,Pinal
 1,Madera
@@ -176,7 +165,6 @@ Confirmed,County
 1,Berkshire
 13,King
 8,Snohomish
-1,Lee
 1,Charlotte
 1,Los Angeles
 6,San Francisco
@@ -198,10 +186,8 @@ Confirmed,County
 1,Grafton
 1,Rockingham
 1,Riverside
-1,Fulton
-1,Middlesex
 1,Fairfax city
-1,Fort Bend
+3,Fort Bend
 1,Ulster
 1,Suffolk
 1,Nassau
@@ -222,9 +208,7 @@ Confirmed,County
 5,Santa Clara
 1,New York
 5,Suffolk
-2,Middlesex
-1,Fort Bend
-2,Middlesex
+5,Middlesex
 4,Norfolk
 1,Worcester
 3,Kershaw
@@ -253,7 +237,6 @@ Confirmed,County
 1,Cherokee
 2,Cobb
 1,Honolulu
-1,Fort Bend
 16,Westchester
 6,New York
 12,Nassau
@@ -308,17 +291,21 @@ Confirmed,County
 5,San Francisco
 2,Orange
 8,San Mateo
-1,Los Angeles
 1,Floyd
 1,Suffolk
 3,Norfolk
 5,Middlesex
 4,Berkshire
-2,Los Angeles
-1,Santa Cruz
 1,Williamson
-1,Pinellas
+1,Santa Cruz
+3,Los Angeles
+1,Broward
+1,Weber
+1,Adams
+1,Boone
+1,Montgomery
 1,Ventura
+1,Dane
 1,Loudoun
 2,Collin
 1,Eagle
@@ -326,7 +313,6 @@ Confirmed,County
 1,Gunnison
 2,Williamson
 1,Tulsa
-1,Montgomery
 10,Westchester
 17,New York
 2,Nassau
@@ -335,7 +321,6 @@ Confirmed,County
 2,Burlington
 2,Virginia Beach city
 1,San Francisco
-1,Boone
 2,Prince George's
 1,Rockingham
 1,Kitsap
@@ -344,9 +329,6 @@ Confirmed,County
 1,Philadelphia
 1,Anoka
 1,Multnomah
-1,Adams
-1,Weber
-1,Broward
 1,Kane
 1,McHenry
 6,Cook
@@ -383,8 +365,7 @@ Confirmed,County
 1,Nassau
 1,Alachua
 3,Collier
-1,Pinellas
-1,Dane
+2,Pinellas
 1,Pasco
 1,Dallas
 1,Oakland
@@ -393,10 +374,10 @@ Confirmed,County
 1,Fulton
 3,Cobb
 3,Orleans
-1,Montgomery
 1,Douglas
-1,King
+1,Montgomery
 2,Bucks
+1,Douglas
 1,Howard
 3,Johnson
 1,Unknown
@@ -445,20 +426,17 @@ Confirmed,County
 1,Monroe
 6,Pitkin 
 1,Lancaster
-3,King
-1,Douglas
-40,King
+44,King
 1,Dallas
 2,Minnehaha
 1,Bon Homme
 8,Snohomish
 1,Waukesha
 2,Fond du Lac
-1,Iberia
+1,Orleans
 1,Lafourche
 1,Caddo
-1,St. Tammany
-3,Unknown
+4,Orleans
 6,San Mateo
 1,Johnson
 1,Island
@@ -495,3 +473,23 @@ Confirmed,County
 2,Marin
 1,Los Angeles
 1,Sheridan
+3,Pierce
+1,Denver
+1,Alexandria city
+1,Monroe
+9,New York
+1,Lee
+2,Broward
+4,Unknown
+1,Northampton
+4,Montgomery
+2,Albany
+1,St. Joseph
+1,Marion
+1,Orleans
+1,Harris
+2,Mecklenburg
+1,Rockingham
+1,Oklahoma
+3,New Castle
+5,Unknown
