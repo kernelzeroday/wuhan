@@ -80,6 +80,7 @@ Tunisia,6,0,,,
 Belarus,6,0,,,
 Azerbaijan,6,0,,,3
 Latvia,6,0,,,
+Cyprus,6,0,,,
 New Zealand,5,0,,,
 Dominican Republic,5,0,,,
 Paraguay,5,0,1,,
@@ -95,7 +96,6 @@ Cameroon,2,0,,,
 Nigeria,2,0,0,0,0
 Sri Lanka,2,0,,,1
 Jamaica,2,0,,,
-Cyprus,2,0,,,
 Togo,1,0,,,
 Nepal,1,0,,,1
 Monaco,1,0,,,
@@ -109,4 +109,4 @@ Gibraltar,1,0,1,,
 Vatican City,1,0,,,
 Turkey,1,0,,,
 Queue,690,,,,
-TOTAL,126247,4601,5829,65,66723
+TOTAL,126251,4601,5829,65,66723
