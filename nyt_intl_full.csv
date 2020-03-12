@@ -15,7 +15,7 @@ CHN,32.05,110.5,China,Hubei,,count_only,,67781,3056,50298
 CHN,27.4,110.4,China,Hunan,,,,1018,4,998
 CHN,43.61,113.35,China,Inner Mongolia,,,,75,1,71
 CHN,33.15,119.58,China,Jiangsu,,,,631,0,628
-CHN,27.28,114.91,China,Jiangxi,,,,935,1,932
+CHN,27.28,114.91,China,Jiangxi,,,,935,1,934
 CHN,43.85,126.5,China,Jilin,,,,93,1,91
 CHN,41.3,121.9,China,Liaoning,,,,125,1,111
 CHN,37.3,104.85,China,Ningxia,,,,75,0,72
@@ -25,7 +25,7 @@ CHN,36.4,116.5,China,Shandong,,,,760,6,733
 CHN,31.19,121.48,China,Shanghai,,,,344,3,320
 CHN,37.64,110.15,China,Shanxi,,,,133,0,131
 CHN,30.8,103.8,China,Sichuan,,,,539,3,494
-CHN,39.13,117.01,China,Tianjin,,,,136,3,131
+CHN,39.13,117.01,China,Tianjin,,,,136,3,132
 CHN,31.6,84.27,China,Tibet,,,,1,0,1
 CHN,40.06,87.7,China,Xinjiang,,,,76,3,73
 CHN,24.64,101.29,China,Yunnan,,,,174,2,170
@@ -36,8 +36,8 @@ AUS,-34.93,138.61,Australia,South Australia,,,,9,0,2
 AUS,-36.56,143.25,Australia,Victoria,,,,21,0,7
 AUS,-36.56,143.25,Australia,From Diamond Princess,,,,0,0,0
 AUS,-36.56,143.25,Australia,Western Australia,,,,9,1,0
-CAN,54.84,-125.1,Canada,British Columbia,,,,39,1,4
+CAN,54.84,-125.1,Canada,British Columbia,,,,46,1,4
 CAN,51.4,-87.12,Canada,"London, ON",,,,0,0,0
-CAN,51.4,-87.12,Canada,Ontario,,,,41,0,4
+CAN,51.4,-87.12,Canada,Ontario,,,,42,0,4
 CAN,51.4,-87.12,Canada,"Toronto, ON",,,,0,0,0
 CAN,51.4,-87.12,Canada,"Montreal, QC",,,,0,0,0

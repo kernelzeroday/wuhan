@@ -7,35 +7,35 @@ France,2281,48,105,,12
 Spain,2277,55,126,,183
 Germany,1966,3,,2,25
 United States,1189,36,2,6,9
-Diamond Princess,696,7,18,,245
+Diamond Princess,696,7,14,,245
 Switzerland,642,4,,,4
-Norway,596,0,,,
-Japan,581,10,31,,59
+Norway,629,0,,,
+Japan,638,16,26,,59
 Denmark*,516,0,,,
-Netherlands,503,5,1,,
+Netherlands,503,5,1,,2
 Sweden,500,1,,,
 United Kingdom,456,8,,,12
-Belgium,314,1,1,1,1
+Belgium,314,3,,,1
+Qatar,262,0,,,
 Austria,246,0,,,4
-Qatar,238,0,,,
 Bahrain,195,0,,1,35
 Singapore,178,0,,9,96
 Malaysia,149,0,2,,26
-Hong Kong,121,2,2,4,59
-Australia,127,3,,,24
+Hong Kong,130,2,2,4,59
+Australia,139,3,,,24
 Canada,109,1,,1,9
 Greece,99,0,2,,
+Israel,97,0,1,,3
 Iceland,85,0,,,
-Israel,76,0,1,,3
+Egypt,67,1,,,27
 UAE,74,0,2,,17
 Kuwait,72,0,2,1,2
+Thailand,70,1,1,,35
 Czech Republic,94,0,0,0,0
 San Marino,62,2,5,,
 Lebanon,61,2,,3,
 Iraq,60,5,,,
 India,60,0,,,4
-Egypt,60,1,,,27
-Thailand,59,1,1,,34
 Finland,59,0,,,1
 Portugal,59,0,,,
 Brazil,52,0,,,
@@ -43,7 +43,7 @@ Philippines,49,2,1,,2
 Taiwan,48,1,0,0,17
 Saudi Arabia,45,0,,,1
 Ireland,43,1,,,
-Vietnam,37,0,,,16
+Vietnam,39,0,,,16
 Slovenia,31,0,0,0,0
 Indonesia,34,1,,,
 Romania,32,0,,,6
@@ -109,4 +109,4 @@ Gibraltar,1,0,1,,
 Vatican City,1,0,,,
 Turkey,1,0,,,
 Queue,730,,,,
-TOTAL,126550,4621,5594,65,68086
+TOTAL,126726,4629,5584,64,68089

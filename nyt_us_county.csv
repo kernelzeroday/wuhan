@@ -2,7 +2,7 @@ county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,co
 Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,True,69,1
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,True,22,0
 Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,True,5,0
-Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,27,1
+Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,True,28,1
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,True,3,0
 Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,True,48,1
 Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,True,20,0
@@ -11,7 +11,7 @@ Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,True,
 San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,True,2,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,True,11,0
 Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,True,23,0
-Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,2,0
+Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,True,4,0
 Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,True,2,0
 Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,True,9,1
 Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,True,12,0
@@ -23,7 +23,7 @@ Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,52971
 King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,True,235,27
 Unknown,Rhode Island,RI,,,,,,,,True,5,0
 Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,True,25,0
-New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,49,0
+New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,True,52,0
 Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,81,True,2,0
 Hillsborough,Florida,FL,27.90659,-82.349568,Hillsborough County,FL HILLSBOROUGH,1229226,12057,57,True,2,0
 Walla Walla,Washington,WA,46.254606,-118.480374,Walla Walla County,WA WALLA WALLA,58781,53071,71,True,1,0
@@ -69,7 +69,7 @@ Charleston,South Carolina,SC,32.800458,-79.94248,Charleston County,SC CHARLESTON
 Honolulu,Hawaii,HI,21.461364,-158.201976,Honolulu County,HI HONOLULU,953207,15003,3,True,2,0
 Pierce,Washington,WA,47.040716,-122.144709,Pierce County,WA PIERCE,795225,53053,53,True,14,0
 Lee,Florida,FL,26.552134,-81.89225,Lee County,FL LEE,618754,12071,71,True,2,1
-Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,4,0
+Broward,Florida,FL,26.19352,-80.476658,Broward County,FL BROWARD,1748066,12011,11,True,5,0
 Davis,Utah,UT,41.037045,-112.202123,Davis County,UT DAVIS,306479,49011,11,True,1,0
 Clark,Washington,WA,45.771674,-122.485903,Clark County,WA CLARK,425363,53011,11,True,1,0
 Gwinnett,Georgia,GA,33.959101,-84.022938,Gwinnett County,GA GWINNETT,805321,13135,135,True,2,0
@@ -125,7 +125,7 @@ Noble,Indiana,IN,41.400794,-85.41785,Noble County,IN NOBLE,47536,18113,113,True,
 Pottawattamie,Iowa,IA,41.340184,-95.544905,Pottawattamie County,IA POTTAWATTAMIE,93158,19155,155,True,1,0
 Pierce,Wisconsin,WI,44.725336,-92.426279,Pierce County,WI PIERCE,41019,55093,93,True,1,0
 Pima,Arizona,AZ,32.128237,-111.783018,Pima County,AZ PIMA,980263,4019,19,True,1,0
-Prince George's,Maryland,MD,38.82588,-76.847272,Prince George's County,MD PRINCE GEORGE'S,863420,24033,33,True,4,0
+Prince George's,Maryland,MD,38.82588,-76.847272,Prince George's County,MD PRINCE GEORGE'S,863420,24033,33,True,5,0
 Shasta,California,CA,40.760521,-122.04355,Shasta County,CA SHASTA,177223,6089,89,True,1,0
 Fayette,Georgia,GA,33.412717,-84.493941,Fayette County,GA FAYETTE,106567,13113,113,True,1,0
 DeKalb,Georgia,GA,33.770661,-84.226343,DeKalb County,GA DEKALB,691893,13089,89,True,4,0
@@ -135,7 +135,7 @@ Floyd,Georgia,GA,34.263677,-85.21373,Floyd County,GA FLOYD,96317,13115,115,True,
 Weber,Utah,UT,41.270355,-111.875879,Weber County,UT WEBER,231236,49057,57,True,1,0
 Adams,Indiana,IN,40.745733,-84.93613,Adams County,IN ADAMS,34387,18001,1,True,1,0
 Boone,Indiana,IN,40.050892,-86.469014,Boone County,IN BOONE,56640,18011,11,True,1,0
-Ventura,California,CA,34.358741,-119.133143,Ventura County,CA VENTURA,823318,6111,111,True,1,0
+Ventura,California,CA,34.358741,-119.133143,Ventura County,CA VENTURA,823318,6111,111,True,2,0
 Loudoun,Virginia,VA,39.08113,-77.638857,Loudoun County,VA LOUDOUN,312311,51107,107,True,1,0
 Gunnison,Colorado,CO,38.669679,-107.078108,Gunnison County,CO GUNNISON,15324,8051,51,True,3,0
 Burlington,New Jersey,NJ,39.875786,-74.663006,Burlington County,NJ BURLINGTON,448734,34005,5,True,2,0
@@ -177,7 +177,7 @@ Socorro,New Mexico,NM,33.991614,-106.939003,Socorro County,NM SOCORRO,17866,3505
 Bernalillo,New Mexico,NM,35.054002,-106.669064,Bernalillo County,NM BERNALILLO,662564,35001,1,True,1,0
 Olmsted,Minnesota,MN,44.003429,-92.406722,Olmsted County,MN OLMSTED,144248,27109,109,True,1,0
 Pitkin,Colorado,CO,39.217533,-106.915943,Pitkin County,CO PITKIN,17148,8097,97,True,9,0
-Stark,Ohio,OH,40.814131,-81.365667,Stark County,OH STARK,375586,39151,151,True,1,0
+Stark,Ohio,OH,40.814131,-81.365667,Stark County,OH STARK,375586,39151,151,True,2,0
 Thurston,Washington,WA,46.932598,-122.829441,Thurston County,WA THURSTON,252264,53067,67,True,1,0
 St. Joseph,Indiana,IN,41.617699,-86.288159,St. Joseph County,IN ST. JOSEPH,266931,18141,141,True,1,0
 New Castle,Delaware,DE,39.575915,-75.644132,New Castle County,DE NEW CASTLE,538479,10003,3,True,1,0
@@ -205,3 +205,9 @@ Unknown,Massachusetts,MA,,,,,,,,True,3,0
 Gregg,Texas,TX,32.486397,-94.816276,Gregg County,TX GREGG,121730,48183,183,True,1,0
 Lee,Georgia,GA,31.818419,-84.146681,Lee County,GA LEE,28298,13177,177,True,1,0
 Bartow,Georgia,GA,34.240917,-84.838188,Bartow County,GA BARTOW,100157,13015,15,True,3,0
+St. Johns,Florida,FL,29.890593,-81.383914,St. Johns County,FL ST. JOHNS,190039,12109,109,True,1,0
+Miami-Dade,Florida,FL,25.610494,-80.499045,Miami-Dade County,FL MIAMI-DADE,2496435,12086,86,True,1,0
+Linn,Oregon,OR,44.494824,-122.543755,Linn County,OR LINN,116672,41043,43,True,2,0
+Ward,North Dakota,ND,48.216686,-101.540537,Ward County,ND WARD,61675,38101,101,True,1,0
+Oklahoma,Oklahoma,OK,35.554611,-97.409401,Oklahoma County,OK OKLAHOMA,718633,40109,109,True,1,0
+Sheridan,Wyoming,WY,44.781369,-106.881211,Sheridan County,WY SHERIDAN,29116,56033,33,True,1,0
