@@ -1,21 +1,21 @@
 OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
-Mainland China,80793,3169,4257,,62793
+Mainland China,80813,3176,4020,,64111
 Italy,15113,1016,1153,,1258
 Iran,10075,429,,,2959
-South Korea,7869,66,,36,333
-Spain,3059,86,190,,189
-Germany,2512,5,,2,25
-France,2281,48,105,,12
+South Korea,7979,67,,36,510
+Spain,3146,67,190,,189
+France,2876,61,129,,12
+Germany,2745,6,,2,25
 United States,1336,36,2,6,9
-Diamond Princess,696,7,14,,245
-Switzerland,642,4,,,4
-Japan,638,16,26,,59
-Norway,629,0,,,
+Switzerland,854,7,,,4
+Norway,800,1,,,
+Diamond Princess,697,7,14,,245
+Japan,690,19,29,,59
+Sweden,687,1,,,
 Denmark*,617,0,,,
-Netherlands,503,5,1,,2
-Sweden,500,1,,,
-United Kingdom,456,8,20,,12
-Belgium,314,3,,,1
+Netherlands,614,5,1,,2
+United Kingdom,590,10,20,,12
+Belgium,399,3,,,1
 Austria,302,1,,,4
 Qatar,262,0,,,
 Bahrain,195,0,,1,35
@@ -23,7 +23,7 @@ Singapore,178,0,,9,96
 Malaysia,149,0,2,,26
 Australia,156,3,,,26
 Hong Kong,130,2,2,4,59
-Canada,109,1,,1,9
+Canada,109,1,,1,11
 Israel,100,0,1,,3
 Greece,99,1,2,,
 Czech Republic,94,0,0,0,0
@@ -48,8 +48,8 @@ Saudi Arabia,45,0,,,1
 Ireland,43,1,,,
 Vietnam,39,0,,,16
 Indonesia,34,1,,,
+Russia,34,0,,,3
 Palestine,30,0,,,
-Russia,28,0,,,3
 Algeria,24,1,,,
 Georgia,24,0,1,,
 Chile,23,0,,,
@@ -109,4 +109,4 @@ Gibraltar,1,0,1,,
 Vatican City,1,0,,,
 Turkey,1,0,,,
 Queue,2850,15,,,
-TOTAL,134446,4948,5795,63,68344
+TOTAL,136450,4960,5585,63,69841

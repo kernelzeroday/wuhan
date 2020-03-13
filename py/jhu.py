@@ -1,9 +1,9 @@
 import pandas as pd
+import time
 
 df = pd.read_csv('time_series_19-covid-Confirmed.csv')
 df = df[['Province/State' , 'Country/Region', 'Lat', 'Long',  df.columns[-2], df.columns[-1]]] 
 df['Delta'] = (df[df.columns[-1]]  - df[df.columns[-2]])
-df['Delta'] = df.columns[-1] - df.columns[-2] 
 df['Percentage'] = df['Delta'] / df[df.columns[-3]] 
 df['Percentage'] = df['Percentage'] * 100 
  

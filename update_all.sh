@@ -1,3 +1,4 @@
+git pull --recurse-submodules
 ./get_bno
 ./get_bno_usa
 bash bno_usa_pop.sh

@@ -1,7 +1,7 @@
 adm0_a3,lat,lon,jhu_country_region,jhu_state_province,nyt_name,asia_map_label,asia_map_label_desktop_only,confirmed,deaths,recovered
 CHN,32,116.1,China,Anhui,,,,990,6,984
 CHN,39.9,116.3,China,Beijing,,count_only,,435,8,334
-CHN,29.5,106.4,China,Chongqing,,,,576,6,554
+CHN,29.5,106.4,China,Chongqing,,,,576,6,564
 CHN,25.92,117.17,China,Fujian,,,,296,1,295
 CHN,40.39,96.81,China,Gansu,,,,127,2,88
 CHN,22.9,112.4,China,Guangdong,,,,1356,8,1289
@@ -16,7 +16,7 @@ CHN,27.4,110.4,China,Hunan,,,,1018,4,999
 CHN,43.61,113.35,China,Inner Mongolia,,,,75,1,71
 CHN,33.15,119.58,China,Jiangsu,,,,631,0,629
 CHN,27.28,114.91,China,Jiangxi,,,,935,1,934
-CHN,43.85,126.5,China,Jilin,,,,93,1,92
+CHN,43.85,126.5,China,Jilin,,,,93,1,91
 CHN,41.3,121.9,China,Liaoning,,,,125,1,112
 CHN,37.3,104.85,China,Ningxia,,,,75,0,72
 CHN,35.39,93.99,China,Qinghai,,,,18,0,18

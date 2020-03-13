@@ -1,10 +1,14 @@
-county,state,population_2010,confirmed,deaths,Unspecialized
-New York,New York,1585873,61,0,653
-Westchester,New York,949113,120,0,148
-Nassau,New York,1339532,28,0,265
-Rockland,New York,311687,6,0,35
-Saratoga,New York,219607,2,0,12
-Ulster,New York,182493,2,0,25
-Suffolk,New York,1493350,6,0,216
-Monroe,New York,744344,1,0,161
-Albany,New York,304204,2,0,84
+county,state,population_2010,active,confirmed,deaths
+New York,New York,1585873,True,96,0
+Westchester,New York,949113,True,147,0
+Nassau,New York,1339532,True,41,0
+Rockland,New York,311687,True,7,0
+Saratoga,New York,219607,True,3,0
+Ulster,New York,182493,True,4,0
+Suffolk,New York,1493350,True,20,0
+Monroe,New York,744344,True,2,0
+Albany,New York,304204,True,2,0
+Delaware,New York,47980,True,1,0
+Dutchess,New York,297488,True,1,0
+Herkimer,New York,64519,True,1,0
+Orange,New York,372813,True,2,0
