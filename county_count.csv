@@ -7,44 +7,40 @@ Confirmed,County
 1,Cook
 1,Santa Clara
 1,Suffolk
-1,San Francisco
 1,Santa Clara
-1,San Francisco
+2,San Francisco
 1,Dane
 1,San Diego
 2,Bexar
-10,Douglas
+11,Douglas
 1,Humboldt
-1,Douglas
 2,Bexar
 1,Sacramento
-3,Spokane
-5,Bexar
-1,Solano
+6,Bexar
 1,San Francisco
-1,Spokane
 1,Douglas
-1,Bexar
+4,Spokane
+1,Solano
 1,Douglas
 1,Salt Lake 
-2,Solano
-1,Napa
-7,Solano
-1,Sacramento
 1,Marin
 1,Sonoma
 1,Sacramento
-1,Solano
+2,Solano
+1,Napa
+8,Solano
+1,Sacramento
+1,Bexar
+1,Santa Clara
+1,Washington
 1,King
 1,Snohomish
-1,Washington
+3,King
 1,Santa Clara
-1,Bexar
-1,King
 1,Cook
+1,Unknown
 2,King
-1,Santa Clara
-1,King
+1,Alameda
 1,Solano
 1,New York
 3,Santa Clara
@@ -52,39 +48,31 @@ Confirmed,County
 1,Manatee
 1,Hillsborough
 1,Washington
-2,Unknown
-1,King
-1,Alameda
-1,Santa Clara
-1,Norfolk
-3,King
+1,Unknown
+1,Cook
+1,Walla Walla
+2,Santa Clara
+4,King
 1,Grafton
 1,Snohomish
 1,Sonoma
 1,Placer
-1,Santa Clara
+1,Norfolk
 2,Fulton
 1,San Mateo
-1,Cook
-1,Walla Walla
-1,King
-1,Santa Clara
-1,King
+1,New York
+1,Maricopa
 1,Hillsborough
-4,King
+7,King
 1,Wake
 1,Grafton
-1,Santa Clara
-1,King
+2,Santa Clara
 2,Snohomish
 2,Orange
 1,Alameda
 1,Contra Costa
 1,Placer
-1,Maricopa
-1,New York
-1,King
-2,Westchester
+4,Westchester
 6,Los Angeles
 5,Westchester
 10,King
@@ -94,16 +82,15 @@ Confirmed,County
 1,Fort Bend
 1,Bergen
 1,Chelan
-2,Westchester
-1,Snohomish
+2,New York
 1,Williamson
+1,Santa Rosa
+1,Cook
 8,Westchester
 1,Nassau
 2,San Francisco
 19,King
-2,Snohomish
-1,Cook
-6,Snohomish
+9,Snohomish
 1,King
 1,Bergen
 4,Los Angeles
@@ -116,16 +103,15 @@ Confirmed,County
 6,Santa Clara
 1,Clark
 1,Washoe
-1,Santa Rosa
-2,New York
+1,Wayne
+1,Delaware
 1,Polk
 1,Chatham
 1,Pinal
 1,Marion
 2,Rockland
 1,New York
-1,Alameda
-7,Westchester
+8,Westchester
 3,Suffolk
 2,Norfolk
 1,Harris
@@ -160,9 +146,9 @@ Confirmed,County
 2,Broward
 1,Davis
 1,Clark
-1,Wayne
-1,Delaware
-1,Westchester
+1,Alameda
+1,Lee
+1,Gwinnett
 1,Fulton
 1,Cobb
 2,Pinal
@@ -178,10 +164,7 @@ Confirmed,County
 4,Middlesex
 1,Berkshire
 13,King
-5,Snohomish
-1,Lee
-2,Snohomish
-1,Gwinnett
+8,Snohomish
 1,Charlotte
 1,Los Angeles
 6,San Francisco
@@ -203,9 +186,8 @@ Confirmed,County
 1,Grafton
 1,Rockingham
 1,Riverside
-1,Snohomish
-1,Fairfax city
-2,Fort Bend
+1,Fairfax
+3,Fort Bend
 1,Ulster
 1,Suffolk
 1,Nassau
@@ -255,21 +237,20 @@ Confirmed,County
 1,Cherokee
 2,Cobb
 1,Honolulu
-1,Fort Bend
-1,Alameda
-14,Westchester
+16,Westchester
 6,New York
 12,Nassau
 2,Rockland
-1,Arlington
+1,Fairfax
 1,Montgomery
 1,Larimer
 1,Collin
 1,Jefferson
 1,Monmouth
-1,Westchester
+1,Union
 1,Bergen
-2,Unknown
+1,Hudson
+1,Monmouth
 1,Marin
 3,Cuyahoga
 1,Kershaw
@@ -277,8 +258,7 @@ Confirmed,County
 26,King
 1,Monroe
 2,Montgomery
-20,Alameda
-1,Westchester
+21,Alameda
 4,Cook
 3,Riverside
 1,Noble
@@ -302,8 +282,8 @@ Confirmed,County
 1,Fayette
 1,Gwinnett
 2,DeKalb
-1,Fairfax city
-1,Spotsylvania
+1,Fairfax
+1,Virginia Beach city
 1,San Diego
 1,Arapahoe
 6,Santa Clara
@@ -320,26 +300,28 @@ Confirmed,County
 1,Williamson
 1,Santa Cruz
 3,Los Angeles
-1,Union
+1,Broward
+1,Weber
+1,Adams
+1,Boone
+1,Montgomery
 1,Ventura
 1,Dane
-1,Loudoun
+1,Virginia Beach city
 2,Collin
 1,Eagle
 1,Arapahoe
 1,Gunnison
 2,Williamson
 1,Tulsa
-1,Middlesex
 10,Westchester
 17,New York
 2,Nassau
 2,Rockland
 2,Bergen
 2,Burlington
-2,Virginia Beach city
+2,Loudoun
 1,San Francisco
-1,Broward
 2,Prince George's
 1,Rockingham
 1,Kitsap
@@ -348,16 +330,11 @@ Confirmed,County
 1,Philadelphia
 1,Anoka
 1,Multnomah
-1,Weber
-1,Adams
-1,Boone
 1,Kane
 1,McHenry
 6,Cook
 8,Snohomish
-23,Middlesex
-1,Montgomery
-2,Middlesex
+26,Middlesex
 12,Norfolk
 10,Suffolk
 2,Berkshire
@@ -398,13 +375,13 @@ Confirmed,County
 1,Fulton
 3,Cobb
 3,Orleans
-1,Montgomery
 1,Douglas
-1,King
-1,Bucks
+1,Montgomery
+2,Bucks
+1,Douglas
 1,Howard
 3,Johnson
-1,Unknown
+1,Arlington
 1,Montgomery
 1,Maricopa
 1,Jefferson
@@ -450,9 +427,7 @@ Confirmed,County
 1,Monroe
 6,Pitkin
 1,Lancaster
-7,King
-1,Bucks
-36,King
+44,King
 1,Dallas
 2,Minnehaha
 1,Bon Homme
@@ -501,20 +476,15 @@ Confirmed,County
 1,Sheridan
 3,Pierce
 1,Denver
-1,Alexandria city
+1,Arlington
 1,Monroe
-1,Douglas
 1,Orange
-2,New York
+9,New York
 1,Lee
 2,Broward
-1,Linn
-2,New York
 4,Unknown
-1,New York
 1,Northampton
 4,Montgomery
-2,New York
 2,Albany
 1,Marion
 1,Orleans
@@ -523,7 +493,11 @@ Confirmed,County
 1,Rockingham
 1,Oklahoma
 3,New Castle
-5,Unknown
+1,Fredericksburg city
+1,Prince William
+1,Prince Edward
+1,Hanover
+1,Alexandria city
 1,Androscoggin
 1,Williamson 
 2,Yakima
@@ -542,16 +516,15 @@ Confirmed,County
 1,Delaware
 1,Dutchess
 1,Herkimer
-1,Monroe
 34,New York
-2,Orange
+1,Orange
 1,Rockland
 1,Saratoga
 14,Suffolk
 2,Ulster
 27,Westchester
 13,Nassau
-2,Unknown
+2,James City
 1,Eagle
 1,New York
 2,Denver
@@ -592,13 +565,12 @@ Confirmed,County
 4,Eagle
 1,Greene
 1,Fayette
-1,Jefferson
+1,Johnson
 38,Snohomish
 7,Sacramento
 5,San Mateo
 4,San Francisco
 4,Alameda
-1,New York
 1,Los Angeles
 18,Santa Clara
 1,Wyandotte
@@ -634,5 +606,65 @@ Confirmed,County
 1,Hillsborough
 1,Lee
 1,Cass
-5,Linn
-1,New York
+6,Linn
+1,Miami-Dade
+5,Dallas
+2,Travis
+1,Bell
+2,Jefferson
+12,Orleans
+1,St. Bernard
+1,St. Charles
+2,St. Tammany
+1,Terrebonne
+2,Cumberland
+1,Hudson
+1,Butler
+1,Montgomery
+2,Delaware
+4,Montgomery
+2,Douglas
+2,Fairfax
+5,James City
+1,Loudoun
+1,Prince William
+1,Harrisonburg city
+3,Arlington
+2,Prince George's
+1,Charles
+1,Anne Arundel
+1,Baltimore
+11,Unknown
+1,Collin
+2,Delaware
+2,Philadelphia
+1,Monroe
+2,Forrest
+1,McCook
+1,Galveston
+3,Bernalillo
+1,Santa Fe
+9,Unknown
+1,Adams
+4,Arapahoe
+4,Denver
+3,Eagle
+1,El Paso
+1,Jefferson
+1,Pueblo
+2,Summit
+2,Weld
+2,Eagle
+1,Routt
+1,Unknown
+59,New York
+10,Westchester
+2,Dutchess
+10,Nassau
+2,Orange
+2,Rockland
+1,Schenectady
+8,Suffolk
+1,Ulster
+1,Kitsap
+5,Unknown
