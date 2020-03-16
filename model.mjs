@@ -684,7 +684,7 @@ var us_counties = [
 		county_id: "201",
 		county_original_name: "Harris",
 		active: "y",
-		confirmed: 9,
+		confirmed: 10,
 		deaths: 0
 	},
 	{
@@ -3900,7 +3900,7 @@ var us_counties = [
 		county_id: "81",
 		county_original_name: "Kent",
 		active: "y",
-		confirmed: 3,
+		confirmed: 4,
 		deaths: 0
 	},
 	{
@@ -4492,7 +4492,7 @@ var us_counties = [
 		county_id: "",
 		county_original_name: "Unknown",
 		active: "y",
-		confirmed: 13,
+		confirmed: 12,
 		deaths: 0
 	},
 	{
@@ -5744,22 +5744,6 @@ var us_counties = [
 		deaths: 0
 	},
 	{
-		county: "Houston",
-		state: "Texas",
-		postal: "TX",
-		lat: "31.323036",
-		lon: "-95.4216",
-		county_full: "Houston County",
-		countytext: "TX HOUSTON",
-		population_2010: "23732",
-		countyfips: "48225",
-		county_id: "225",
-		county_original_name: "Houston",
-		active: "y",
-		confirmed: 1,
-		deaths: 0
-	},
-	{
 		county: "Bourbon",
 		state: "Kentucky",
 		postal: "KY",
@@ -6432,6 +6416,70 @@ var us_counties = [
 		deaths: 0
 	},
 	{
+		county: "Champaign",
+		state: "Illinois",
+		postal: "IL",
+		lat: "40.13915",
+		lon: "-88.197201",
+		county_full: "Champaign County",
+		countytext: "IL CHAMPAIGN",
+		population_2010: "201081",
+		countyfips: "17019",
+		county_id: "19",
+		county_original_name: "Champaign",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Clinton",
+		state: "Illinois",
+		postal: "IL",
+		lat: "38.606423",
+		lon: "-89.423136",
+		county_full: "Clinton County",
+		countytext: "IL CLINTON",
+		population_2010: "37762",
+		countyfips: "17027",
+		county_id: "27",
+		county_original_name: "Clinton",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Whiteside",
+		state: "Illinois",
+		postal: "IL",
+		lat: "41.750571",
+		lon: "-89.910957",
+		county_full: "Whiteside County",
+		countytext: "IL WHITESIDE",
+		population_2010: "58498",
+		countyfips: "17195",
+		county_id: "195",
+		county_original_name: "Whiteside",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
+		county: "Winnebago",
+		state: "Illinois",
+		postal: "IL",
+		lat: "42.337396",
+		lon: "-89.161205",
+		county_full: "Winnebago County",
+		countytext: "IL WINNEBAGO",
+		population_2010: "295266",
+		countyfips: "17201",
+		county_id: "201",
+		county_original_name: "Winnebago",
+		active: "y",
+		confirmed: 1,
+		deaths: 0
+	},
+	{
 		county: "Unknown",
 		state: "Illinois",
 		postal: "IL",
@@ -6444,7 +6492,7 @@ var us_counties = [
 		county_id: "",
 		county_original_name: "Unknown",
 		active: "y",
-		confirmed: 29,
+		confirmed: 25,
 		deaths: 0
 	},
 	{
@@ -90416,7 +90464,7 @@ var us_cases = [
 		"no of cases": "2679",
 		GFX: "y",
 		"State where treated": "Texas",
-		"County where treated": "Houston",
+		"County where treated": "Harris",
 		"Place of residence, if known to be different": "",
 		Gender: "Male",
 		Age: "50 to 60",
@@ -106009,7 +106057,7 @@ var us_cases = [
 		"no of cases": "3181",
 		GFX: "y",
 		"State where treated": "Illinois",
-		"County where treated": "Unknown",
+		"County where treated": "Champaign",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Uknown",
@@ -106040,7 +106088,7 @@ var us_cases = [
 		"no of cases": "3182",
 		GFX: "y",
 		"State where treated": "Illinois",
-		"County where treated": "Unknown",
+		"County where treated": "Clinton",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Uknown",
@@ -106071,7 +106119,7 @@ var us_cases = [
 		"no of cases": "3183",
 		GFX: "y",
 		"State where treated": "Illinois",
-		"County where treated": "Unknown",
+		"County where treated": "Whiteside",
 		"Place of residence, if known to be different": "",
 		Gender: "Uknown",
 		Age: "Uknown",
@@ -106102,7 +106150,7 @@ var us_cases = [
 		"no of cases": "3184",
 		GFX: "y",
 		"State where treated": "Illinois",
-		"County where treated": "Unknown",
+		"County where treated": "Winnebago",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
@@ -109884,7 +109932,7 @@ var us_cases = [
 		"no of cases": "3306",
 		GFX: "y",
 		"State where treated": "Michigan",
-		"County where treated": "Unknown",
+		"County where treated": "Kent",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
@@ -109896,10 +109944,10 @@ var us_cases = [
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
-		"Press release 2": "",
+		"Press release 2": "Link",
 		"Press release 3": "",
 		"Health care worker?": "",
-		"Special circumstances?": "Number announced at 3/15 eve presser - awaiting details from press release",
+		"Special circumstances?": "Number announced at 3/15 eve presser - Kent confirmed additional separately",
 		"NYT link": "",
 		"PIO contact": "",
 		Name: "",
@@ -115516,9 +115564,9 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "count_only",
 		asia_map_label_desktop_only: "",
-		confirmed: 442,
+		confirmed: 446,
 		deaths: 8,
-		recovered: 353
+		recovered: 358
 	},
 	{
 		adm0_a3: "CHN",
@@ -115568,9 +115616,9 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 1360,
+		confirmed: 1361,
 		deaths: 8,
-		recovered: 1304
+		recovered: 1306
 	},
 	{
 		adm0_a3: "CHN",
@@ -115583,7 +115631,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 252,
 		deaths: 2,
-		recovered: 243
+		recovered: 247
 	},
 	{
 		adm0_a3: "CHN",
@@ -115635,7 +115683,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 482,
 		deaths: 13,
-		recovered: 453
+		recovered: 454
 	},
 	{
 		adm0_a3: "CHN",
@@ -115659,9 +115707,9 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "count_only",
 		asia_map_label_desktop_only: "",
-		confirmed: 67794,
-		deaths: 3085,
-		recovered: 54288
+		confirmed: 67798,
+		deaths: 3099,
+		recovered: 55094
 	},
 	{
 		adm0_a3: "CHN",
@@ -115726,7 +115774,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 93,
 		deaths: 1,
-		recovered: 91
+		recovered: 92
 	},
 	{
 		adm0_a3: "CHN",
@@ -115791,7 +115839,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 760,
 		deaths: 7,
-		recovered: 741
+		recovered: 743
 	},
 	{
 		adm0_a3: "CHN",
@@ -115802,7 +115850,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 353,
+		confirmed: 355,
 		deaths: 3,
 		recovered: 324
 	},
@@ -115880,7 +115928,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 174,
+		confirmed: 175,
 		deaths: 2,
 		recovered: 172
 	},
@@ -115895,7 +115943,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 1231,
 		deaths: 1,
-		recovered: 1211
+		recovered: 1213
 	},
 	{
 		adm0_a3: "AUS",
@@ -116074,7 +116122,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 86,
+		confirmed: 98,
 		deaths: 0,
 		recovered: 23,
 		jhu_id: 29,
@@ -116114,7 +116162,7 @@ var countries = [
 		confirmed: 16,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 37,
+		jhu_id: 38,
 		unique: "Afghanistan"
 	},
 	{
@@ -116151,7 +116199,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 107,
+		jhu_id: 108,
 		unique: "Antigua and Barbuda"
 	},
 	{
@@ -116222,10 +116270,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 23,
+		confirmed: 26,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 52,
+		jhu_id: 53,
 		unique: "Armenia"
 	},
 	{
@@ -116262,7 +116310,7 @@ var countries = [
 		confirmed: 45,
 		deaths: 2,
 		recovered: 1,
-		jhu_id: 48,
+		jhu_id: 49,
 		unique: "Argentina"
 	},
 	{
@@ -116296,10 +116344,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 800,
+		confirmed: 860,
 		deaths: 1,
 		recovered: 6,
-		jhu_id: 69,
+		jhu_id: 70,
 		unique: "Austria"
 	},
 	{
@@ -116336,7 +116384,7 @@ var countries = [
 		confirmed: 297,
 		deaths: 3,
 		recovered: 23,
-		jhu_id: 81,
+		jhu_id: 82,
 		unique: "Australia"
 	},
 	{
@@ -116407,10 +116455,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 15,
+		confirmed: 23,
 		deaths: 1,
-		recovered: 3,
-		jhu_id: 32,
+		recovered: 6,
+		jhu_id: 33,
 		unique: "Azerbaijan"
 	},
 	{
@@ -116444,7 +116492,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 21,
+		confirmed: 24,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 15,
@@ -116484,7 +116532,7 @@ var countries = [
 		confirmed: 5,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 38,
+		jhu_id: 39,
 		unique: "Bangladesh"
 	},
 	{
@@ -116521,7 +116569,7 @@ var countries = [
 		confirmed: 886,
 		deaths: 4,
 		recovered: 1,
-		jhu_id: 86,
+		jhu_id: 87,
 		unique: "Belgium"
 	},
 	{
@@ -116555,7 +116603,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 2,
+		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 10,
@@ -116592,10 +116640,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 43,
+		confirmed: 51,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 62,
+		jhu_id: 63,
 		unique: "Bulgaria"
 	},
 	{
@@ -116629,9 +116677,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 210,
+		confirmed: 214,
 		deaths: 0,
-		recovered: 44,
+		recovered: 60,
 		jhu_id: 11,
 		unique: "Bahrain"
 	},
@@ -116669,7 +116717,7 @@ var countries = [
 		confirmed: 50,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 80,
+		jhu_id: 81,
 		unique: "Brunei"
 	},
 	{
@@ -116743,7 +116791,7 @@ var countries = [
 		confirmed: 162,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 71,
+		jhu_id: 72,
 		unique: "Brazil"
 	},
 	{
@@ -116891,7 +116939,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 19,
+		jhu_id: 119,
 		unique: "Congo (Kinshasa)"
 	},
 	{
@@ -116928,7 +116976,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 58,
+		jhu_id: 59,
 		unique: "Central African Republic"
 	},
 	{
@@ -116965,7 +117013,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 33,
+		jhu_id: 34,
 		unique: "Congo (Brazzaville)"
 	},
 	{
@@ -117002,7 +117050,7 @@ var countries = [
 		confirmed: 2200,
 		deaths: 14,
 		recovered: 4,
-		jhu_id: 96,
+		jhu_id: 97,
 		unique: "Switzerland"
 	},
 	{
@@ -117073,10 +117121,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 61,
+		confirmed: 74,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 85,
+		jhu_id: 86,
 		unique: "Chile"
 	},
 	{
@@ -117150,7 +117198,7 @@ var countries = [
 		confirmed: 34,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 108,
+		jhu_id: 109,
 		unique: "Colombia"
 	},
 	{
@@ -117187,7 +117235,7 @@ var countries = [
 		confirmed: 27,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 74,
+		jhu_id: 75,
 		unique: "Costa Rica"
 	},
 	{
@@ -117224,7 +117272,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 49,
+		jhu_id: 50,
 		unique: "Cuba"
 	},
 	{
@@ -117261,7 +117309,7 @@ var countries = [
 		confirmed: 26,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 111,
+		jhu_id: 112,
 		unique: "Cyprus"
 	},
 	{
@@ -117295,10 +117343,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 231,
+		confirmed: 253,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 84,
+		jhu_id: 85,
 		unique: "Czechia"
 	},
 	{
@@ -117370,7 +117418,7 @@ var countries = [
 		sentence_name: "",
 		jhu_timeline_fix: "",
 		confirmed: 864,
-		deaths: 1,
+		deaths: 2,
 		recovered: 1,
 		jhu_id: 74,
 		unique: "Denmark, Denmark"
@@ -117409,7 +117457,7 @@ var countries = [
 		confirmed: 11,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 53,
+		jhu_id: 54,
 		unique: "Dominican Republic"
 	},
 	{
@@ -117446,7 +117494,7 @@ var countries = [
 		confirmed: 48,
 		deaths: 4,
 		recovered: 12,
-		jhu_id: 83,
+		jhu_id: 84,
 		unique: "Algeria"
 	},
 	{
@@ -117483,7 +117531,7 @@ var countries = [
 		confirmed: 28,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 79,
+		jhu_id: 80,
 		unique: "Ecuador"
 	},
 	{
@@ -117517,10 +117565,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 135,
+		confirmed: 171,
 		deaths: 0,
-		recovered: 0,
-		jhu_id: 100,
+		recovered: 1,
+		jhu_id: 101,
 		unique: "Estonia"
 	},
 	{
@@ -117556,8 +117604,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 110,
 		deaths: 2,
-		recovered: 21,
-		jhu_id: 106,
+		recovered: 27,
+		jhu_id: 107,
 		unique: "Egypt"
 	},
 	{
@@ -117628,7 +117676,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 5,
@@ -117665,10 +117713,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 243,
+		confirmed: 244,
 		deaths: 0,
-		recovered: 1,
-		jhu_id: 56,
+		recovered: 10,
+		jhu_id: 57,
 		unique: "Finland"
 	},
 	{
@@ -117705,7 +117753,7 @@ var countries = [
 		confirmed: 11,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 119,
+		jhu_id: 120,
 		unique: "Faroe Islands, Denmark"
 	},
 	{
@@ -117742,7 +117790,7 @@ var countries = [
 		confirmed: 5423,
 		deaths: 127,
 		recovered: 12,
-		jhu_id: 43,
+		jhu_id: 44,
 		unique: "France"
 	},
 	{
@@ -117850,10 +117898,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 30,
+		confirmed: 33,
 		deaths: 0,
-		recovered: 0,
-		jhu_id: 89,
+		recovered: 1,
+		jhu_id: 90,
 		unique: "Georgia"
 	},
 	{
@@ -117890,7 +117938,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 95,
+		jhu_id: 96,
 		unique: "Guernsey"
 	},
 	{
@@ -117927,7 +117975,7 @@ var countries = [
 		confirmed: 6,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 55,
+		jhu_id: 56,
 		unique: "Ghana"
 	},
 	{
@@ -117964,7 +118012,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 72,
+		jhu_id: 73,
 		unique: "Guinea"
 	},
 	{
@@ -117998,7 +118046,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 137,
@@ -118072,7 +118120,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 228,
+		confirmed: 331,
 		deaths: 4,
 		recovered: 8,
 		jhu_id: 144,
@@ -118183,10 +118231,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 145,
+		confirmed: 149,
 		deaths: 4,
-		recovered: 81,
-		jhu_id: 144,
+		recovered: 84,
+		jhu_id: 146,
 		unique: "Hong Kong, China"
 	},
 	{
@@ -118297,7 +118345,7 @@ var countries = [
 		confirmed: 32,
 		deaths: 1,
 		recovered: 1,
-		jhu_id: 40,
+		jhu_id: 41,
 		unique: "Hungary"
 	},
 	{
@@ -118334,7 +118382,7 @@ var countries = [
 		confirmed: 129,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 77,
+		jhu_id: 78,
 		unique: "Ireland"
 	},
 	{
@@ -118368,7 +118416,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 200,
+		confirmed: 251,
 		deaths: 0,
 		recovered: 4,
 		jhu_id: 123,
@@ -118407,8 +118455,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 113,
 		deaths: 2,
-		recovered: 4,
-		jhu_id: 31,
+		recovered: 13,
+		jhu_id: 32,
 		unique: "India"
 	},
 	{
@@ -118442,10 +118490,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 110,
+		confirmed: 124,
 		deaths: 10,
 		recovered: 26,
-		jhu_id: 88,
+		jhu_id: 89,
 		unique: "Iraq"
 	},
 	{
@@ -118482,7 +118530,7 @@ var countries = [
 		confirmed: 13938,
 		deaths: 724,
 		recovered: 4590,
-		jhu_id: 82,
+		jhu_id: 83,
 		unique: "Iran"
 	},
 	{
@@ -118516,9 +118564,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 161,
+		confirmed: 180,
 		deaths: 0,
-		recovered: 1,
+		recovered: 0,
 		jhu_id: 124,
 		unique: "Iceland"
 	},
@@ -118555,8 +118603,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 24747,
 		deaths: 1809,
-		recovered: 1966,
-		jhu_id: 113,
+		recovered: 2335,
+		jhu_id: 114,
 		unique: "Italy"
 	},
 	{
@@ -118590,9 +118638,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 8,
+		confirmed: 10,
 		deaths: 0,
-		recovered: 0,
+		recovered: 2,
 		jhu_id: 20,
 		unique: "Jamaica"
 	},
@@ -118627,7 +118675,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 7,
+		confirmed: 12,
 		deaths: 0,
 		recovered: 1,
 		jhu_id: 128,
@@ -118649,7 +118697,7 @@ var countries = [
 		override_count: "1485",
 		override_deaths: "28",
 		override_date: "Mar. 15",
-		override_fixed: "",
+		override_fixed: "y",
 		primary_data: "",
 		nyt_reporter: "",
 		scraping_status: "",
@@ -118666,8 +118714,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 1485,
 		deaths: 28,
-		recovered: 118,
-		jhu_id: 70,
+		recovered: 144,
+		jhu_id: 71,
 		unique: "Japan"
 	},
 	{
@@ -118701,10 +118749,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 35,
+		jhu_id: 36,
 		unique: "Kenya"
 	},
 	{
@@ -118777,8 +118825,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 8162,
 		deaths: 75,
-		recovered: 510,
-		jhu_id: 104,
+		recovered: 834,
+		jhu_id: 105,
 		unique: "Korea, South"
 	},
 	{
@@ -118814,7 +118862,7 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 112,
 		deaths: 0,
-		recovered: 5,
+		recovered: 9,
 		jhu_id: 16,
 		unique: "Kuwait"
 	},
@@ -118852,7 +118900,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 64,
+		jhu_id: 65,
 		unique: "Cayman Islands"
 	},
 	{
@@ -118886,7 +118934,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 8,
+		confirmed: 9,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 130,
@@ -118923,10 +118971,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 110,
+		confirmed: 99,
 		deaths: 3,
 		recovered: 1,
-		jhu_id: 103,
+		jhu_id: 104,
 		unique: "Lebanon"
 	},
 	{
@@ -118960,10 +119008,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 39,
+		jhu_id: 40,
 		unique: "Saint Lucia"
 	},
 	{
@@ -118997,7 +119045,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 11,
+		confirmed: 18,
 		deaths: 0,
 		recovered: 1,
 		jhu_id: 145,
@@ -119071,10 +119119,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 59,
+		confirmed: 77,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 75,
+		jhu_id: 76,
 		unique: "Luxembourg"
 	},
 	{
@@ -119145,10 +119193,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 12,
+		confirmed: 23,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 92,
+		jhu_id: 93,
 		unique: "Moldova"
 	},
 	{
@@ -119222,7 +119270,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 42,
+		jhu_id: 43,
 		unique: "Mongolia"
 	},
 	{
@@ -119293,7 +119341,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 9,
+		confirmed: 10,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 129,
@@ -119369,7 +119417,7 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 21,
 		deaths: 0,
-		recovered: 1,
+		recovered: 2,
 		jhu_id: 118,
 		unique: "Malta"
 	},
@@ -119441,10 +119489,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 41,
+		confirmed: 43,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 102,
+		jhu_id: 103,
 		unique: "Mexico"
 	},
 	{
@@ -119481,7 +119529,7 @@ var countries = [
 		confirmed: 428,
 		deaths: 0,
 		recovered: 42,
-		jhu_id: 68,
+		jhu_id: 69,
 		unique: "Malaysia"
 	},
 	{
@@ -119518,7 +119566,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 94,
+		jhu_id: 95,
 		unique: "Namibia"
 	},
 	{
@@ -119555,7 +119603,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 78,
+		jhu_id: 79,
 		unique: "Nigeria"
 	},
 	{
@@ -119592,7 +119640,7 @@ var countries = [
 		confirmed: 1135,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 119,
+		jhu_id: 19,
 		unique: "Netherlands"
 	},
 	{
@@ -119626,10 +119674,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1207,
+		confirmed: 1256,
 		deaths: 3,
 		recovered: 1,
-		jhu_id: 47,
+		jhu_id: 48,
 		unique: "Norway"
 	},
 	{
@@ -119737,7 +119785,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 20,
+		confirmed: 22,
 		deaths: 0,
 		recovered: 9,
 		jhu_id: 21,
@@ -119777,7 +119825,7 @@ var countries = [
 		confirmed: 43,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 73,
+		jhu_id: 74,
 		unique: "Panama"
 	},
 	{
@@ -119811,10 +119859,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 43,
+		confirmed: 71,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 46,
+		jhu_id: 47,
 		unique: "Peru"
 	},
 	{
@@ -119849,9 +119897,9 @@ var countries = [
 		sentence_name: "",
 		jhu_timeline_fix: "",
 		confirmed: 140,
-		deaths: 11,
+		deaths: 12,
 		recovered: 2,
-		jhu_id: 91,
+		jhu_id: 92,
 		unique: "Philippines"
 	},
 	{
@@ -119959,7 +120007,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 6,
+		confirmed: 7,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 133,
@@ -119996,10 +120044,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 337,
+		confirmed: 401,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 112,
+		jhu_id: 113,
 		unique: "Qatar"
 	},
 	{
@@ -120036,7 +120084,7 @@ var countries = [
 		confirmed: 7,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 109,
+		jhu_id: 110,
 		unique: "Reunion"
 	},
 	{
@@ -120070,10 +120118,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 131,
+		confirmed: 139,
 		deaths: 0,
 		recovered: 9,
-		jhu_id: 63,
+		jhu_id: 64,
 		unique: "Romania"
 	},
 	{
@@ -120107,9 +120155,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 46,
+		confirmed: 48,
 		deaths: 0,
-		recovered: 0,
+		recovered: 1,
 		jhu_id: 142,
 		unique: "Serbia"
 	},
@@ -120147,7 +120195,7 @@ var countries = [
 		confirmed: 63,
 		deaths: 0,
 		recovered: 8,
-		jhu_id: 61,
+		jhu_id: 62,
 		unique: "Russia"
 	},
 	{
@@ -120181,10 +120229,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 5,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 44,
+		jhu_id: 45,
 		unique: "Rwanda"
 	},
 	{
@@ -120218,10 +120266,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 2,
+		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 98,
+		jhu_id: 99,
 		unique: "Seychelles"
 	},
 	{
@@ -120292,10 +120340,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1022,
+		confirmed: 1032,
 		deaths: 3,
 		recovered: 1,
-		jhu_id: 59,
+		jhu_id: 60,
 		unique: "Sweden"
 	},
 	{
@@ -120403,10 +120451,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 54,
+		confirmed: 61,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 45,
+		jhu_id: 46,
 		unique: "Slovakia"
 	},
 	{
@@ -120440,10 +120488,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 92,
-		deaths: 5,
+		confirmed: 109,
+		deaths: 7,
 		recovered: 4,
-		jhu_id: 41,
+		jhu_id: 42,
 		unique: "San Marino"
 	},
 	{
@@ -120479,7 +120527,7 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 24,
 		deaths: 0,
-		recovered: 1,
+		recovered: 2,
 		jhu_id: 125,
 		unique: "Senegal"
 	},
@@ -120554,7 +120602,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 110,
+		jhu_id: 111,
 		unique: "Eswatini"
 	},
 	{
@@ -120591,7 +120639,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 50,
+		jhu_id: 51,
 		unique: "Togo"
 	},
 	{
@@ -120628,7 +120676,7 @@ var countries = [
 		confirmed: 114,
 		deaths: 1,
 		recovered: 35,
-		jhu_id: 87,
+		jhu_id: 88,
 		unique: "Thailand"
 	},
 	{
@@ -120662,10 +120710,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 6,
+		confirmed: 18,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 36,
+		jhu_id: 37,
 		unique: "Turkey"
 	},
 	{
@@ -120739,7 +120787,7 @@ var countries = [
 		confirmed: 59,
 		deaths: 1,
 		recovered: 20,
-		jhu_id: 97,
+		jhu_id: 98,
 		unique: "Taiwan*"
 	},
 	{
@@ -120776,7 +120824,7 @@ var countries = [
 		confirmed: 3,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 54,
+		jhu_id: 55,
 		unique: "Ukraine"
 	},
 	{
@@ -120813,7 +120861,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 30,
+		jhu_id: 31,
 		unique: "Uruguay"
 	},
 	{
@@ -120850,7 +120898,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 105,
+		jhu_id: 106,
 		unique: "Uzbekistan"
 	},
 	{
@@ -120924,7 +120972,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 34,
+		jhu_id: 35,
 		unique: "Saint Vincent and the Grenadines"
 	},
 	{
@@ -120958,7 +121006,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 8,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 121,
@@ -120998,7 +121046,7 @@ var countries = [
 		confirmed: 56,
 		deaths: 0,
 		recovered: 16,
-		jhu_id: 60,
+		jhu_id: 61,
 		unique: "Vietnam"
 	},
 	{
@@ -121032,10 +121080,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 51,
+		confirmed: 61,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 65,
+		jhu_id: 66,
 		unique: "South Africa"
 	},
 	{
@@ -121072,7 +121120,7 @@ var countries = [
 		confirmed: 117,
 		deaths: 5,
 		recovered: 8,
-		jhu_id: 57,
+		jhu_id: 58,
 		unique: "Indonesia"
 	},
 	{
@@ -121108,8 +121156,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 80860,
 		deaths: 3213,
-		recovered: 67017,
-		jhu_id: 51,
+		recovered: 67843,
+		jhu_id: 52,
 		unique: "China"
 	},
 	{
@@ -121146,7 +121194,7 @@ var countries = [
 		confirmed: 3486,
 		deaths: 66,
 		recovered: 12,
-		jhu_id: 67,
+		jhu_id: 68,
 		unique: "US"
 	},
 	{
@@ -121183,7 +121231,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 76,
+		jhu_id: 77,
 		unique: "Andorra"
 	},
 	{
@@ -121220,7 +121268,7 @@ var countries = [
 		confirmed: 245,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 99,
+		jhu_id: 100,
 		unique: "Portugal"
 	},
 	{
@@ -121291,9 +121339,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 103,
+		confirmed: 118,
 		deaths: 0,
-		recovered: 1,
+		recovered: 2,
 		jhu_id: 12,
 		unique: "Saudi Arabia"
 	},
@@ -121331,7 +121379,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 201,
+		jhu_id: 204,
 		unique: "Gibraltar, United Kingdom"
 	},
 	{
@@ -121368,7 +121416,7 @@ var countries = [
 		confirmed: 28,
 		deaths: 1,
 		recovered: 1,
-		jhu_id: 93,
+		jhu_id: 94,
 		unique: "Morocco"
 	},
 	{
@@ -121402,7 +121450,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 18,
+		confirmed: 20,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 140,
@@ -121442,7 +121490,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 66,
+		jhu_id: 67,
 		unique: "Liechtenstein"
 	},
 	{
@@ -121476,9 +121524,9 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 119,
+		confirmed: 125,
 		deaths: 3,
-		recovered: 0,
+		recovered: 13,
 		jhu_id: 131,
 		unique: "Poland"
 	}

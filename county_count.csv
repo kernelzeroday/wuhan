@@ -965,7 +965,7 @@ Confirmed,County
 1,Linn
 2,Douglas
 12,Santa Clara
-1,Houston
+1,Harris
 1,Fayette
 2,Harrison
 1,Bourbon
@@ -1163,7 +1163,12 @@ Confirmed,County
 2,Gunnison
 3,Jefferson
 2,Weld
-30,Unknown
+1,Unknown
+1,Champaign
+1,Clinton
+1,Whiteside
+1,Winnebago
+25,Unknown
 2,Arapahoe
 1,Clayton
 1,Kershaw
@@ -1191,7 +1196,8 @@ Confirmed,County
 1,Pima
 4,Bernalillo
 1,Milwaukee
-12,Unknown
+1,Kent
+11,Unknown
 2,Travis
 19,Nassau
 1,Denton
