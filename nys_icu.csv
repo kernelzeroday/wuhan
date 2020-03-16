@@ -1,5 +1,5 @@
 county,state,population_2010,active,confirmed,deaths
-New York,New York,1585873,True,330,1
+New York,New York,1585873,True,330,5
 Westchester,New York,949113,True,195,0
 Nassau,New York,1339532,True,98,0
 Rockland,New York,311687,True,13,1

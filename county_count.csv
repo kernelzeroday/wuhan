@@ -182,7 +182,7 @@ Confirmed,County
 1,Los Angeles
 6,San Francisco
 8,Santa Clara
-1,Wyandotte
+1,Johnson
 2,Montgomery
 1,District of Columbia
 13,Westchester
@@ -646,7 +646,7 @@ Confirmed,County
 1,St. Charles
 2,St. Tammany
 1,Terrebonne
-2,Cumberland
+1,Cumberland
 1,Hudson
 1,Butler
 1,Montgomery
@@ -663,9 +663,9 @@ Confirmed,County
 1,Charles
 1,Anne Arundel
 1,Baltimore
-4,Bartow
-3,Cherokee
 1,Travis
+3,Bartow
+4,Cherokee
 2,Gordon
 1,Henry
 1,Collin
@@ -704,7 +704,7 @@ Confirmed,County
 1,Wright
 1,Ramsey
 1,Dakota
-3,Unknown
+1,Unknown
 5,Essex
 4,Bergen
 1,Burlington
@@ -731,7 +731,7 @@ Confirmed,County
 16,Contra Costa
 6,Clark
 3,Orleans
-1,Cherokee
+1,Bartow
 11,Middlesex
 4,Suffolk
 3,Fairfield
@@ -825,8 +825,8 @@ Confirmed,County
 2,Milwaukee
 4,Fond du Lac
 1,Dane
-1,Middlesex
-12,Westchester
+1,Loudoun
+11,Westchester
 59,New York
 4,Suffolk
 1,Westchester
@@ -892,7 +892,7 @@ Confirmed,County
 2,Montgomery
 1,Philadelphia
 2,Brazoria
-3,Unknown
+2,Unknown
 3,Hennepin
 1,Stearns
 1,Ramsey
@@ -948,7 +948,8 @@ Confirmed,County
 1,Summit
 1,James City
 2,Arlington
-2,Loudoun
+1,Westchester
+1,Loudoun
 1,Virginia Beach city
 1,Spotsylvania
 1,Chesterfield
@@ -993,13 +994,6 @@ Confirmed,County
 1,Monroe
 1,Wayne
 1,Washtenaw
-1,Davidson
-1,San Luis Obispo
-1,Davidson
-1,Harnett
-1,Johnston
-1,Davidson
-33,New York
 1,Broome
 1,Hays
 1,Albany
@@ -1012,40 +1006,43 @@ Confirmed,County
 1,Baldwin
 4,Jefferson
 1,Tuscaloosa
-22,New York
-1,Dutchess
-2,Albany
-2,Rockland
-3,Suffolk
 1,Ada
 1,Unknown
 1,Teton
-5,Suffolk
-9,Nassau
 1,Barnstable
 1,Bristol
 3,Essex
-2,Middlesex
-1,Westchester
-2,Middlesex
+5,Middlesex
 4,Norfolk
 1,Suffolk
 1,Sheridan
-2,Nassau
-7,Westchester
-1,Davis
-9,Salt Lake
-6,Bergen
+1,Westchester
 1,Unknown
+6,Bergen
+9,Salt Lake
+1,Davis
+7,Westchester
+11,Nassau
+8,Suffolk
+2,Rockland
+2,Albany
+1,Dutchess
+55,New York
+1,Davidson
+1,Johnston
+1,Harnett
+1,Davidson
+1,San Luis Obispo
+1,Davidson
 1,Washoe
-2,Dougherty
-2,Clayton
 2,Clarke
 1,Newton
-3,Dougherty
-1,Lowndes
+1,Broward
+2,Collier
+1,Washoe
+1,Clay
+1,Baker
 1,Lee
-2,Gwinnett
 1,Allegheny
 1,Bucks
 2,Cumberland
@@ -1058,52 +1055,59 @@ Confirmed,County
 1,Cleveland
 1,Payne
 1,Tulsa
-7,Fulton
-1,Floyd
-1,Fayette
-1,DeKalb
-1,Unknown
-1,DeKalb
-4,Cobb
-1,Cherokee
-2,Bartow
-1,Lucas
-1,St. Bernard
-1,Jefferson
-12,Orleans
-2,New Castle
-5,Fond du Lac
-1,Unknown
-3,Erie
-2,Unknown
-3,Marion
-1,Hamilton
-4,Unknown
-1,Pulaski
-1,Saline
-1,Jefferson
-1,Williamson
-3,Davidson
-1,Franklin
-1,Baltimore city
-1,Anne Arundel
-2,Prince George's
-2,Collier
-9,Broward
-1,Alachua
-1,Miami-Dade
-7,Broward
-4,Miami-Dade
+1,Citrus
 1,Duval
-2,Hillsborough
+1,St. Johns
+1,Volusia
+1,Orange
+1,Clay
+1,Duval
+1,Hillsborough
 1,Pasco
 1,Hillsborough
+1,Unknown
+1,Hillsborough
 1,Duval
-1,Clay
-1,Orange
-1,Volusia
+1,Miami-Dade
+2,Prince George's
+1,Anne Arundel
+1,Baltimore city
+1,Franklin
+3,Davidson
+1,Williamson
+1,Jefferson
+1,Saline
+1,Pulaski
+1,Hamilton
+3,Marion
+3,Unknown
+5,Fond du Lac
+2,New Castle
+2,Miami-Dade
+3,Erie
+1,Miami-Dade
+12,Orleans
+1,Jefferson
+1,St. Bernard
+7,Broward
+1,Miami-Dade
+1,Alachua
+7,Broward
+1,Lucas
+1,Bartow
+1,Broward
+1,Cherokee
+4,Cobb
+2,DeKalb
+1,Fayette
+1,Floyd
+7,Fulton
+2,Gwinnett
+1,Lee
+1,Lowndes
+1,Dougherty
 2,Allegheny
-1,St. Johns
+1,Dougherty
 23,Santa Clara
 6,Albany
 2,Mecklenburg
@@ -1114,9 +1118,7 @@ Confirmed,County
 1,Lorain
 1,Medina
 3,Dallas
-1,Duval
-1,Citrus
-1,Lee
+3,Dougherty
 1,Watauga
 2,Garland
 2,Jefferson
@@ -1150,7 +1152,7 @@ Confirmed,County
 1,Bergen
 1,El Paso
 1,Collin
-1,Baker
+1,Dougherty
 1,San Luis Obispo
 3,Arapahoe
 4,Denver
@@ -1161,11 +1163,9 @@ Confirmed,County
 2,Gunnison
 3,Jefferson
 2,Weld
-5,Unknown
-1,Dougherty
-24,Unknown
+30,Unknown
 2,Arapahoe
-1,Clay
+1,Clayton
 1,Kershaw
 2,Horry
 2,Kershaw
@@ -1228,4 +1228,8 @@ Confirmed,County
 1,Lee
 2,Shelby
 1,Tuscaloosa
-1,Unknown
+1,Clayton
+1,Thurston
+1,Johnson
+4,Washoe
+1,Bartow

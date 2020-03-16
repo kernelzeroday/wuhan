@@ -3,10 +3,10 @@ China,80844,3199,3226,,66911
 Italy,24747,1809,1672,,2335
 Iran,13938,724,,,4339
 South Korea,8162,75,,36,834
-Spain,7843,292,272,,517
+Spain,7847,292,272,,517
 France,5423,127,300,,12
 Germany,4585,12,,2,46
-United States,3763,65,60,4,9
+United States,3783,65,60,4,9
 United Kingdom,1372,35,20,,18
 Switzerland,1355,13,,,4
 Norway,1120,3,,,
@@ -56,15 +56,15 @@ Vietnam,49,0,,,16
 Serbia,46,0,1,,
 Argentina,45,2,,,
 Algeria,45,3,,,10
+Colombia,45,0,,,
 Slovakia,44,0,,,
 Panama,43,1,,,
-Mexico,41,0,1,,4
+Mexico,41,0,1,,3
 Bulgaria,41,2,,,
 Palestine,38,0,0,0,0
 South Africa,38,0,,,
 Croatia,38,0,,,1
 Albania,38,1,2,,
-Colombia,34,0,,,
 Georgia,30,0,1,,1
 Pakistan,30,0,,,2
 Hungary,30,0,,,0
@@ -118,5 +118,5 @@ Andorra,1,0,,,
 Bhutan,1,0,,,
 Gibraltar,1,0,1,,
 Vatican City,1,0,,,
-QueueS,600,,,,
-TOTAL,165934,6475,5639,109,75911
+Queue,600,,,,
+TOTAL,165969,6475,5639,109,75910
