@@ -2,13 +2,13 @@ OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
 China,80860,3213,3032,,67490
 Italy,27980,2158,1851,,2749
 Iran,14991,853,,,4996
-Spain,9437,336,432,,530
+Spain,9940,342,432,,530
 South Korea,8236,75,,36,1137
-Germany,7174,14,,2,60
-France,5423,127,300,,12
-United States,4262,70,60,4,9
+Germany,7272,14,,2,60
+France,6633,148,300,,12
+United States,4289,71,60,4,9
 Switzerland,2200,14,,,4
-United Kingdom,1543,53,20,,18
+United Kingdom,1543,55,20,,18
 Netherlands,1413,24,,45,2
 Norway,1256,3,,,
 Belgium,1085,5,53,,1
@@ -35,26 +35,27 @@ Pakistan,179,0,,,3
 Estonia,171,0,,,1
 Ireland,169,2,,,
 Romania,159,0,,,9
+Chile,156,0,,,
 Poland,150,3,2,0,0
 Hong Kong,149,4,2,2,81
 Thailand,147,1,1,,38
 Philippines,142,12,1,,3
 Indonesia,134,5,,,8
+Saudi Arabia,133,0,,,6
 Iraq,133,10,,,26
 India,130,2,,,13
 Egypt,126,2,,,27
-Saudi Arabia,118,0,,,3
 Kuwait,112,0,4,,9
 San Marino,109,7,11,,4
 Lebanon,99,3,,2,
 United Arab Emirates,98,0,,,26
 Russia,93,0,,,4
+Peru,86,0,,,
 Luxembourg,77,1,,,
-Chile,75,0,,,
-Peru,71,0,,,
 Taiwan,67,1,0,0,20
 South Africa,62,0,,,
 Slovakia,61,0,,,
+Algeria,60,4,,,10
 Vietnam,57,0,,,16
 Argentina,56,2,,,
 Croatia,56,0,,,1
@@ -62,7 +63,6 @@ Serbia,55,0,1,,
 Panama,55,1,,,
 Mexico,53,0,,1,3
 Bulgaria,51,2,,,
-Algeria,60,4,,,10
 Brunei,50,0,,,
 Colombia,45,0,,,
 Albania,42,1,2,,
@@ -106,6 +106,7 @@ Burkina Faso,7,0,,,
 Ghana,6,0,,,
 Uzbekistan,6,0,,,
 Honduras,6,0,,,
+Guatemala,6,1,,,
 Rwanda,5,0,,,
 Cameroon,5,0,,,
 Ivory Coast,5,0,,,
@@ -113,6 +114,7 @@ Ethiopia,4,0,,,
 Ukraine,3,1,,,
 Seychelles,3,0,,,
 DR Congo,3,0,,,
+Gibraltar,3,0,1,,1
 Kenya,3,0,,,
 Nigeria,2,0,0,0,0
 Monaco,2,0,,,
@@ -130,7 +132,6 @@ Guinea,1,0,,,
 Togo,1,0,,,
 Nepal,1,0,,,1
 Bhutan,1,0,,,
-Gibraltar,1,0,1,,
 Vatican City,1,0,,,
 Queue,590,,,,
-TOTAL,179371,7066,5857,108,77936
+TOTAL,181328,7097,5857,108,77940
