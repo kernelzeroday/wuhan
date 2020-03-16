@@ -1,67 +1,67 @@
-1,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,,
-2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,,
-3,3791,65,65,8,8,,,
-4,,,,,,,,
-5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links,
-6,Washington,769,42,,,1,Source,
-7,New York,729,1,60,,,Source,
-8,California,335,6,,1,1,Source,
-9,Massachusetts,164,0,,,,Source,
-10,Colorado,131,1,,,,Source,
-11,Florida,122,4,,,,Source,
-12,New Jersey,98,2,,,,Source,
-13,Illinois,93,0,,,2,Source,
-14,Louisiana,77,1,,,,Source,
-15,Georgia,66,1,,,,Source,
-16,Pennsylvania,63,0,,1,,Source,
-17,Michigan,53,0,,,,Source,
-18,Texas,51,0,,1,,Source,
-19,Diamond Princess,46,0,,,2,Source,
-20,Virginia,41,0,,,,Source,
-21,Tennessee,39,0,,,,Source,
-22,Oregon,36,1,,,,Source,
-23,Utah,28,0,,,,Source,
-24,Wisconsin,27,0,,,1,Source,
-25,Maryland,26,0,,,0,Source,
-26,Ohio,26,0,,,,Source,
-27,North Carolina,23,0,,,,Source,
-28,Alabama,22,0,,,,Source,
-29,Grand Princess,21,0,,,,Source,
-30,Nevada,21,0,,,,Source,
-31,Minnesota,21,0,,1,,Source,
-32,Kentucky,21,0,,,,Source,
-33,Rhode Island,20,0,,,,Source,
-34,Connecticut,20,0,,,,Source,
-35,South Carolina,19,0,,,,Source,
-36,Iowa,18,0,,,,Source,
-37,Nebraska,16,0,,,,Source,
-38,District of Columbia,16,0,,,,Source,
-39,Indiana,15,0,,,,Source,
-40,New Mexico,13,0,,,,Source,
-41,Arizona,12,0,,,1,Source,
-42,Arkansas,12,0,,,,Source,
-43,South Dakota,9,1,,,,Source,
-44,New Hampshire,7,0,,,,Source,
-45,Mississippi,6,0,,,,Source,
-46,Kansas,6,1,,,,Source,
-47,Delaware,6,0,,,,Source,
-48,Montana,6,0,,,,Source,
-49,Hawaii,6,0,,,,Source,
-50,Oklahoma,4,0,,,,Source,
-51,Missouri,4,0,,,,Source,
-52,Puerto Rico,4,0,,,,Source,
-53,Vermont,4,0,,,,Source,
-54,Idaho,4,0,,,,Source,
-55,Wuhan,3,0,,,,,
-56,Guam,3,0,,,,,
-57,Maine,3,0,,,,Source,
-58,Wyoming,3,0,,,,Source,
-59,Alaska,1,0,,,,Source,
-60,U.S. Virgin Islands,1,0,,,,Source,
-61,North Dakota,1,0,,,,Source,
-62,West Virginia,0,0,,,,,
-63,American Samoa,0,0,,,,,
-64,Northern Mariana Islands,0,0,,,,,
-65,,400,4,,,,,
-66,U.S. TOTAL,3791,65,60,4,8,,
-67,,,,,,,,
+1,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,Updated throughout the day,
+2,CASES,DEATHS,DEATHS,RECOVERED,RECOVERED,,
+3,3791,65,65,8,8,,
+4,,,,,,,
+5,UNITED STATES,Cases,Deaths,Serious,Critical,Recovered,Links
+6,Washington,769,42,,,1,Source
+7,New York,729,1,60,,,Source
+8,California,335,6,,1,1,Source
+9,Massachusetts,164,0,,,,Source
+10,Colorado,131,1,,,,Source
+11,Florida,122,4,,,,Source
+12,New Jersey,98,2,,,,Source
+13,Illinois,93,0,,,2,Source
+14,Louisiana,77,1,,,,Source
+15,Georgia,66,1,,,,Source
+16,Pennsylvania,63,0,,1,,Source
+17,Michigan,53,0,,,,Source
+18,Texas,51,0,,1,,Source
+19,Diamond Princess,46,0,,,2,Source
+20,Virginia,41,0,,,,Source
+21,Tennessee,39,0,,,,Source
+22,Oregon,36,1,,,,Source
+23,Utah,28,0,,,,Source
+24,Wisconsin,27,0,,,1,Source
+25,Maryland,26,0,,,0,Source
+26,Ohio,26,0,,,,Source
+27,North Carolina,23,0,,,,Source
+28,Alabama,22,0,,,,Source
+29,Grand Princess,21,0,,,,Source
+30,Nevada,21,0,,,,Source
+31,Minnesota,21,0,,1,,Source
+32,Kentucky,21,0,,,,Source
+33,Rhode Island,20,0,,,,Source
+34,Connecticut,20,0,,,,Source
+35,South Carolina,19,0,,,,Source
+36,Iowa,18,0,,,,Source
+37,Nebraska,16,0,,,,Source
+38,District of Columbia,16,0,,,,Source
+39,Indiana,15,0,,,,Source
+40,New Mexico,13,0,,,,Source
+41,Arizona,12,0,,,1,Source
+42,Arkansas,12,0,,,,Source
+43,South Dakota,9,1,,,,Source
+44,New Hampshire,7,0,,,,Source
+45,Mississippi,6,0,,,,Source
+46,Kansas,6,1,,,,Source
+47,Delaware,6,0,,,,Source
+48,Montana,6,0,,,,Source
+49,Hawaii,6,0,,,,Source
+50,Oklahoma,4,0,,,,Source
+51,Missouri,4,0,,,,Source
+52,Puerto Rico,4,0,,,,Source
+53,Vermont,4,0,,,,Source
+54,Idaho,4,0,,,,Source
+55,Wuhan,3,0,,,,
+56,Guam,3,0,,,,
+57,Maine,3,0,,,,Source
+58,Wyoming,3,0,,,,Source
+59,Alaska,1,0,,,,Source
+60,U.S. Virgin Islands,1,0,,,,Source
+61,North Dakota,1,0,,,,Source
+62,West Virginia,0,0,,,,
+63,American Samoa,0,0,,,,
+64,Northern Mariana Islands,0,0,,,,
+65,,400,4,,,,
+66,U.S. TOTAL,3791,65,60,4,8,
+67,,,,,,,
