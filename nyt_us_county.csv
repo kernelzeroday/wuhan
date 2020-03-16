@@ -1,35 +1,35 @@
 county,state,postal,lat,lon,county_full,countytext,population_2010,countyfips,county_id,county_original_name,active,confirmed,deaths
 Snohomish,Washington,WA,48.054913,-121.766412,Snohomish County,WA SNOHOMISH,713335,53061,61,Snohomish,True,175,3
 Cook,Illinois,IL,41.894294,-87.645455,Cook County,IL COOK,5194675,17031,31,Cook,True,51,0
-Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,Orange,True,14,0
+Orange,California,CA,33.675687,-117.777207,Orange County,CA ORANGE,3010232,6059,59,Orange,True,17,0
 Los Angeles,California,CA,34.196398,-118.261862,Los Angeles County,CA LOS ANGELES,9818605,6037,37,Los Angeles,True,69,1
 Maricopa,Arizona,AZ,33.346541,-112.495534,Maricopa County,AZ MARICOPA,3817117,4013,13,Maricopa,True,4,0
 Santa Clara,California,CA,37.220777,-121.690622,Santa Clara County,CA SANTA CLARA,1781642,6085,85,Santa Clara,True,114,2
-Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,Suffolk,True,27,0
-San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,San Francisco,True,31,0
+Suffolk,Massachusetts,MA,42.33196,-71.020173,Suffolk County,MA SUFFOLK,722023,25025,25,Suffolk,True,31,0
+San Francisco,California,CA,37.765064,-122.443535,San Francisco County,CA SAN FRANCISCO,805235,6075,75,San Francisco,True,37,0
 Dane,Wisconsin,WI,43.067468,-89.417852,Dane County,WI DANE,488073,55025,25,Dane,True,6,0
-San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,San Diego,True,10,0
+San Diego,California,CA,33.023604,-116.776117,San Diego County,CA SAN DIEGO,3095313,6073,73,San Diego,True,40,0
 Bexar,Texas,TX,29.448671,-98.520147,Bexar County,TX BEXAR,1714773,48029,29,Bexar,True,12,0
 Douglas,Nebraska,NE,41.297091,-96.154066,Douglas County,NE DOUGLAS,517110,31055,55,Douglas,True,32,0
 Marin,California,CA,38.051817,-122.745974,Marin County,CA MARIN,252409,6041,41,Marin,True,4,0
-Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,Sonoma,True,3,0
-Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,Sacramento,True,28,1
-Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,Solano,True,12,0
+Sonoma,California,CA,38.532574,-122.945194,Sonoma County,CA SONOMA,483878,6097,97,Sonoma,True,4,0
+Sacramento,California,CA,38.450011,-121.340441,Sacramento County,CA SACRAMENTO,1418788,6067,67,Sacramento,True,32,1
+Solano,California,CA,38.267226,-121.939594,Solano County,CA SOLANO,413344,6095,95,Solano,True,13,0
 Napa,California,CA,38.507351,-122.325995,Napa County,CA NAPA,136484,6055,55,Napa,True,1,0
 Humboldt,California,CA,40.706673,-123.925818,Humboldt County,CA HUMBOLDT,134623,6023,23,Humboldt,True,1,0
-Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,Spokane,True,4,0
+Spokane,Washington,WA,47.620379,-117.404392,Spokane County,WA SPOKANE,471221,53063,63,Spokane,True,7,0
 Salt Lake,Utah,UT,40.667882,-111.924244,Salt Lake County,UT SALT LAKE,1029655,49035,35,Salt Lake,True,15,0
 Washington,Oregon,OR,45.553542,-123.097615,Washington County,OR WASHINGTON,529710,41067,67,Washington,True,13,0
 King,Washington,WA,47.493554,-121.832375,King County,WA KING,1931249,53033,33,King,True,421,37
 Unknown,Rhode Island,RI,,,,,,,,Unknown,True,20,0
-Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,Alameda,True,29,0
+Alameda,California,CA,37.648081,-121.913304,Alameda County,CA ALAMEDA,1510271,6001,1,Alameda,True,37,0
 New York,New York,NY,40.776557,-73.970174,New York County,NY NEW YORK,1585873,36061,61,New York,True,330,5
 Manatee,Florida,FL,27.481386,-82.365783,Manatee County,FL MANATEE,322833,12081,81,Manatee,True,4,0
 Hillsborough,Florida,FL,27.90659,-82.349568,Hillsborough County,FL HILLSBOROUGH,1229226,12057,57,Hillsborough,True,6,0
 Walla Walla,Washington,WA,46.254606,-118.480374,Walla Walla County,WA WALLA WALLA,58781,53071,71,Walla Walla,True,1,0
 Grafton,New Hampshire,NH,43.926488,-71.842264,Grafton County,NH GRAFTON,89118,33009,9,Grafton,True,3,0
 Placer,California,CA,39.062032,-120.722718,Placer County,CA PLACER,348432,6061,61,Placer,True,8,1
-Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,Norfolk,True,28,0
+Norfolk,Massachusetts,MA,42.169702,-71.179875,Norfolk County,MA NORFOLK,670850,25021,21,Norfolk,True,31,0
 Fulton,Georgia,GA,33.790034,-84.468182,Fulton County,GA FULTON,920581,13121,121,Fulton,True,20,0
 San Mateo,California,CA,37.414664,-122.371542,San Mateo County,CA SAN MATEO,718451,6081,81,San Mateo,True,32,0
 Wake,North Carolina,NC,35.789846,-78.650624,Wake County,NC WAKE,900993,37183,183,Wake,True,14,0
@@ -41,11 +41,11 @@ Chelan,Washington,WA,47.859891,-120.618543,Chelan County,WA CHELAN,72453,53007,7
 Williamson,Tennessee,TN,35.894972,-86.896958,Williamson County,TN WILLIAMSON,183182,47187,187,Williamson,True,14,0
 Santa Rosa,Florida,FL,30.703633,-87.014255,Santa Rosa County,FL SANTA ROSA,151372,12113,113,Santa Rosa,True,1,1
 Nassau,New York,NY,40.729687,-73.589384,Nassau County,NY NASSAU,1339532,36059,59,Nassau,True,98,0
-Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,Harris,True,10,0
+Harris,Texas,TX,29.857273,-95.393037,Harris County,TX HARRIS,4092459,48201,201,Harris,True,12,0
 Jefferson,Colorado,CO,39.58646,-105.245601,Jefferson County,CO JEFFERSON,534543,8059,59,Jefferson,True,12,0
 Montgomery,Maryland,MD,39.137381,-77.203063,Montgomery County,MD MONTGOMERY,971777,24031,31,Montgomery,True,12,0
 Douglas,Colorado,CO,39.326435,-104.926199,Douglas County,CO DOUGLAS,285465,8035,35,Douglas,True,8,0
-Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,Middlesex,True,65,0
+Middlesex,Massachusetts,MA,42.479477,-71.396507,Middlesex County,MA MIDDLESEX,1503085,25017,17,Middlesex,True,75,0
 Clark,Nevada,NV,36.214236,-115.013819,Clark County,NV CLARK,1951269,32003,3,Clark,True,16,0
 Washoe,Nevada,NV,40.703311,-119.710315,Washoe County,NV WASHOE,421407,32031,31,Washoe,True,9,0
 Wayne,Pennsylvania,PA,41.646589,-75.292485,Wayne County,PA WAYNE,52822,42127,127,Wayne,True,1,0
@@ -83,7 +83,7 @@ Berkshire,Massachusetts,MA,42.375314,-73.213948,Berkshire County,MA BERKSHIRE,13
 Charlotte,Florida,FL,26.868826,-81.940858,Charlotte County,FL CHARLOTTE,159978,12015,15,Charlotte,True,1,0
 Johnson,Kansas,KS,38.883907,-94.82233,Johnson County,KS JOHNSON,544179,20091,91,Johnson,True,6,0
 Montgomery,Pennsylvania,PA,40.209999,-75.370201,Montgomery County,PA MONTGOMERY,799874,42091,91,Montgomery,True,24,0
-District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,District of Columbia,True,16,0
+District of Columbia,District of Columbia,DC,38.904149,-77.017094,District of Columbia,DC DISTRICT OF COLUMBIA,601723,11001,1,District of Columbia,True,17,0
 Santa Cruz,California,CA,37.012488,-122.007205,Santa Cruz County,CA SANTA CRUZ,262382,6087,87,Santa Cruz,True,2,0
 Fairfax,Virginia,VA,38.833742,-77.276117,Fairfax County,VA FAIRFAX,1081726,51059,59,Fairfax,True,10,0
 Okaloosa,Florida,FL,30.665858,-86.594194,Okaloosa County,FL OKALOOSA,180822,12091,91,Okaloosa,True,1,0
@@ -92,7 +92,7 @@ St. Louis,Missouri,MO,38.640702,-90.445954,St. Louis County,MO ST. LOUIS,998954,
 Fresno,California,CA,36.761006,-119.655019,Fresno County,CA FRESNO,930450,6019,19,Fresno,True,2,0
 Bennington,Vermont,VT,43.035325,-73.11146,Bennington County,VT BENNINGTON,37125,50003,3,Bennington,True,2,0
 Rockingham,New Hampshire,NH,42.98936,-71.099437,Rockingham County,NH ROCKINGHAM,295223,33015,15,Rockingham,True,9,0
-Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,6065,65,Riverside,True,10,0
+Riverside,California,CA,33.729828,-116.002239,Riverside County,CA RIVERSIDE,2189641,6065,65,Riverside,True,12,0
 Ulster,New York,NY,41.947232,-74.265447,Ulster County,NY ULSTER,182493,36111,111,Ulster,True,5,0
 Suffolk,New York,NY,40.943554,-72.692218,Suffolk County,NY SUFFOLK,1493350,36103,103,Suffolk,True,47,0
 Shelby,Tennessee,TN,35.183794,-89.895397,Shelby County,TN SHELBY,927644,47157,157,Shelby,True,2,0
@@ -102,13 +102,13 @@ Hendricks,Indiana,IN,39.768749,-86.510286,Hendricks County,IN HENDRICKS,145448,1
 Passaic,New Jersey,NJ,41.033763,-74.300307,Passaic County,NJ PASSAIC,501226,34031,31,Passaic,True,5,0
 Douglas,Oregon,OR,43.285904,-123.15438,Douglas County,OR DOUGLAS,107667,41019,19,Douglas,True,1,0
 Marion,Oregon,OR,44.900898,-122.57626,Marion County,OR MARION,315335,41047,47,Marion,True,2,0
-Worcester,Massachusetts,MA,42.311693,-71.940282,Worcester County,MA WORCESTER,798552,25027,27,Worcester,True,2,0
+Worcester,Massachusetts,MA,42.311693,-71.940282,Worcester County,MA WORCESTER,798552,25027,27,Worcester,True,6,0
 Spartanburg,South Carolina,SC,34.933239,-81.991053,Spartanburg County,SC SPARTANBURG,284307,45083,83,Spartanburg,True,1,0
 Harford,Maryland,MD,39.537429,-76.299789,Harford County,MD HARFORD,244826,24025,25,Harford,True,2,0
 Kitsap,Washington,WA,47.639687,-122.649636,Kitsap County,WA KITSAP,251133,53035,35,Kitsap,True,5,0
 Harrison,Kentucky,KY,38.443489,-84.332796,Harrison County,KY HARRISON,18846,21097,97,Harrison,True,6,0
 Jefferson,Kentucky,KY,38.189533,-85.657624,Jefferson County,KY JEFFERSON,741096,21111,111,Jefferson,True,6,0
-Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,Johnson,True,14,0
+Johnson,Iowa,IA,41.668736,-91.588812,Johnson County,IA JOHNSON,130882,19103,103,Johnson,True,15,0
 Carver,Minnesota,MN,44.821381,-93.800575,Carver County,MN CARVER,91042,27019,19,Carver,True,1,0
 Cherokee,Georgia,GA,34.244317,-84.475057,Cherokee County,GA CHEROKEE,214346,13057,57,Cherokee,True,6,0
 Larimer,Colorado,CO,40.663091,-105.482131,Larimer County,CO LARIMER,299630,8069,69,Larimer,True,1,0
@@ -143,7 +143,7 @@ Anoka,Minnesota,MN,45.27411,-93.242723,Anoka County,MN ANOKA,330844,27003,3,Anok
 Multnomah,Oregon,OR,45.547693,-122.417173,Multnomah County,OR MULTNOMAH,735334,41051,51,Multnomah,True,1,1
 Kane,Illinois,IL,41.939594,-88.42804,Kane County,IL KANE,515269,17089,89,Kane,True,3,0
 McHenry,Illinois,IL,42.324298,-88.452245,McHenry County,IL MCHENRY,308760,17111,111,McHenry,True,2,0
-Essex,Massachusetts,MA,42.642711,-70.865107,Essex County,MA ESSEX,743159,25009,9,Essex,True,5,0
+Essex,Massachusetts,MA,42.642711,-70.865107,Essex County,MA ESSEX,743159,25009,9,Essex,True,6,0
 Orleans,Louisiana,LA,30.068636,-89.939007,Orleans Parish,LA ORLEANS,343829,22071,71,Orleans,True,75,2
 Pennington,South Dakota,SD,44.002349,-102.823801,Pennington County,SD PENNINGTON,100948,46103,103,Pennington,True,1,1
 Beadle,South Dakota,SD,44.418265,-98.279422,Beadle County,SD BEADLE,17398,46005,5,Beadle,True,1,0
@@ -160,8 +160,8 @@ Alachua,Florida,FL,29.67574,-82.357221,Alachua County,FL ALACHUA,247336,12001,1,
 Collier,Florida,FL,26.118713,-81.400884,Collier County,FL COLLIER,321520,12021,21,Collier,True,5,0
 Pinellas,Florida,FL,27.903122,-82.739518,Pinellas County,FL PINELLAS,916542,12103,103,Pinellas,True,2,0
 Pasco,Florida,FL,28.302024,-82.455707,Pasco County,FL PASCO,464697,12101,101,Pasco,True,2,0
-Oakland,Michigan,MI,42.660452,-83.38421,Oakland County,MI OAKLAND,1202362,26125,125,Oakland,True,9,0
-Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,Wayne,True,8,0
+Oakland,Michigan,MI,42.660452,-83.38421,Oakland County,MI OAKLAND,1202362,26125,125,Oakland,True,14,0
+Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,Wayne,True,10,0
 Charlton,Georgia,GA,30.779904,-82.139644,Charlton County,GA CHARLTON,12171,13049,49,Charlton,True,1,0
 Bucks,Pennsylvania,PA,40.336887,-75.10706,Bucks County,PA BUCKS,625249,42017,17,Bucks,True,4,0
 Montgomery,Texas,TX,30.302364,-95.503523,Montgomery County,TX MONTGOMERY,455746,48339,339,Montgomery,True,1,0
@@ -174,7 +174,7 @@ Socorro,New Mexico,NM,33.991614,-106.939003,Socorro County,NM SOCORRO,17866,3505
 Bernalillo,New Mexico,NM,35.054002,-106.669064,Bernalillo County,NM BERNALILLO,662564,35001,1,Bernalillo,True,10,0
 Olmsted,Minnesota,MN,44.003429,-92.406722,Olmsted County,MN OLMSTED,144248,27109,109,Olmsted,True,2,0
 Pitkin,Colorado,CO,39.217533,-106.915943,Pitkin County,CO PITKIN,17148,8097,97,Pitkin,True,11,0
-Stark,Ohio,OH,40.814131,-81.365667,Stark County,OH STARK,375586,39151,151,Stark,True,2,0
+Stark,Ohio,OH,40.814131,-81.365667,Stark County,OH STARK,375586,39151,151,Stark,True,3,0
 Thurston,Washington,WA,46.932598,-122.829441,Thurston County,WA THURSTON,252264,53067,67,Thurston,True,4,0
 St. Joseph,Indiana,IN,41.617699,-86.288159,St. Joseph County,IN ST. JOSEPH,266931,18141,141,St. Joseph,True,1,0
 New Castle,Delaware,DE,39.575915,-75.644132,New Castle County,DE NEW CASTLE,538479,10003,3,New Castle,True,7,0
@@ -242,10 +242,10 @@ Wyandotte,Kansas,KS,39.115384,-94.763087,Wyandotte County,KS WYANDOTTE,157505,20
 Tulare,California,CA,36.230453,-118.780542,Tulare County,CA TULARE,442179,6107,107,Tulare,True,3,0
 Grays Harbor,Washington,WA,47.142786,-123.827043,Grays Harbor County,WA GRAYS HARBOR,72797,53027,27,Grays Harbor,True,1,0
 Ingham,Michigan,MI,42.603534,-84.373811,Ingham County,MI INGHAM,280895,26065,65,Ingham,True,1,0
-Kent,Michigan,MI,43.032497,-85.547446,Kent County,MI KENT,602622,26081,81,Kent,True,4,0
+Kent,Michigan,MI,43.032497,-85.547446,Kent County,MI KENT,602622,26081,81,Kent,True,5,0
 Montcalm,Michigan,MI,43.312782,-85.149468,Montcalm County,MI MONTCALM,63342,26117,117,Montcalm,True,1,0
-St. Clair,Michigan,MI,42.928803,-82.668913,St. Clair County,MI ST. CLAIR,163040,26147,147,St. Clair,True,1,0
-Washtenaw,Michigan,MI,42.252327,-83.844634,Washtenaw County,MI WASHTENAW,344791,26161,161,Washtenaw,True,4,0
+St. Clair,Michigan,MI,42.928803,-82.668913,St. Clair County,MI ST. CLAIR,163040,26147,147,St. Clair,True,2,0
+Washtenaw,Michigan,MI,42.252327,-83.844634,Washtenaw County,MI WASHTENAW,344791,26161,161,Washtenaw,True,7,0
 Knox,Tennessee,TN,35.992726,-83.937721,Knox County,TN KNOX,432226,47093,93,Knox,True,1,0
 Anchorage,Alaska,AK,61.177549,-149.274354,Anchorage Municipality,AK ANCHORAGE MUNICIPALITY,291826,2020,20,Anchorage Municipality,True,1,0
 Palm Beach,Florida,FL,26.645763,-80.448673,Palm Beach County,FL PALM BEACH,1320134,12099,99,Palm Beach,True,5,0
@@ -258,7 +258,7 @@ Bell,Texas,TX,31.04211,-97.481921,Bell County,TX BELL,310235,48027,27,Bell,True,
 St. Charles,Louisiana,LA,29.913833,-90.359314,St. Charles Parish,LA ST. CHARLES,52780,22089,89,St. Charles,True,2,0
 St. Tammany,Louisiana,LA,30.410022,-89.951962,St. Tammany Parish,LA ST. TAMMANY,233740,22103,103,St. Tammany,True,4,0
 Terrebonne,Louisiana,LA,29.333266,-90.844191,Terrebonne Parish,LA TERREBONNE,111860,22109,109,Terrebonne,True,2,0
-Cumberland,Maine,ME,43.808348,-70.330375,Cumberland County,ME CUMBERLAND,281674,23005,5,Cumberland,True,5,0
+Cumberland,Maine,ME,43.808348,-70.330375,Cumberland County,ME CUMBERLAND,281674,23005,5,Cumberland,True,6,0
 Butler,Kansas,KS,37.773681,-96.838762,Butler County,KS BUTLER,65880,20015,15,Butler,True,1,0
 Montgomery,Alabama,AL,32.20365,-86.203831,Montgomery County,AL MONTGOMERY,229363,1101,101,Montgomery,True,1,0
 Harrisonburg city,Virginia,VA,38.436013,-78.874197,Harrisonburg city,VA HARRISONBURG CITY,48914,51660,660,Harrisonburg city,True,1,0
@@ -279,7 +279,7 @@ Ocean,New Jersey,NJ,39.86585,-74.263027,Ocean County,NJ OCEAN,576567,34029,29,Oc
 Jefferson,Tennessee,TN,36.048479,-83.440966,Jefferson County,TN JEFFERSON,51407,47089,89,Jefferson,True,1,0
 Rutherford,Tennessee,TN,35.843369,-86.417213,Rutherford County,TN RUTHERFORD,262604,47149,149,Rutherford,True,1,0
 Hamilton,Tennessee,TN,35.159186,-85.202296,Hamilton County,TN HAMILTON,336463,47065,65,Hamilton,True,1,0
-Unknown,Michigan,MI,,,,,,,,Unknown,True,12,0
+Unknown,Michigan,MI,,,,,,,,Unknown,True,1,0
 Chester,Pennsylvania,PA,39.973965,-75.749732,Chester County,PA CHESTER,498886,42029,29,Chester,True,4,0
 Carson City,Nevada,NV,39.153447,-119.743442,Carson City,NV CARSON CITY,55274,32510,510,Carson City,True,1,0
 Cumberland,Pennsylvania,PA,40.164782,-77.26344,Cumberland County,PA CUMBERLAND,235406,42041,41,Cumberland,True,5,0
@@ -295,7 +295,7 @@ Limestone,Alabama,AL,34.810239,-86.981399,Limestone County,AL LIMESTONE,82782,10
 Tuscaloosa,Alabama,AL,33.290202,-87.52286,Tuscaloosa County,AL TUSCALOOSA,194656,1125,125,Tuscaloosa,True,3,0
 Bay,Michigan,MI,43.699711,-83.978701,Bay County,MI BAY,107771,26017,17,Bay,True,1,0
 Charlevoix,Michigan,MI,45.513164,-85.450392,Charlevoix County,MI CHARLEVOIX,25949,26029,29,Charlevoix,True,1,0
-Macomb,Michigan,MI,42.671467,-82.910869,Macomb County,MI MACOMB,840978,26099,99,Macomb,True,2,0
+Macomb,Michigan,MI,42.671467,-82.910869,Macomb County,MI MACOMB,840978,26099,99,Macomb,True,5,0
 Unknown,Puerto Rico,PR,,,,,,,,Unknown,True,5,0
 Gallatin,Montana,MT,45.535559,-111.173443,Gallatin County,MT GALLATIN,89513,30031,31,Gallatin,True,1,0
 Yellowstone,Montana,MT,45.936987,-108.276656,Yellowstone County,MT YELLOWSTONE,147972,30111,111,Yellowstone,True,1,0
@@ -322,8 +322,8 @@ Coweta,Georgia,GA,33.352897,-84.762138,Coweta County,GA COWETA,127317,13077,77,C
 Nelson,Kentucky,KY,37.803188,-85.465955,Nelson County,KY NELSON,43437,21179,179,Nelson,True,1,0
 Windsor,Vermont,VT,43.588143,-72.591514,Windsor County,VT WINDSOR,56670,50027,27,Windsor,True,3,0
 Washington,Vermont,VT,44.274953,-72.609475,Washington County,VT WASHINGTON,59534,50023,23,Washington,True,1,0
-Pearl River,Mississippi,MS,30.773791,-89.586831,Pearl River County,MS PEARL RIVER,55834,28109,109,Pearl River,True,1,0
-Copiah,Mississippi,MS,31.866915,-90.448758,Copiah County,MS COPIAH,29449,28029,29,Copiah,True,1,0
+Pearl River,Mississippi,MS,30.773791,-89.586831,Pearl River County,MS PEARL RIVER,55834,28109,109,Pearl River,True,2,0
+Copiah,Mississippi,MS,31.866915,-90.448758,Copiah County,MS COPIAH,29449,28029,29,Copiah,True,2,0
 Lafourche,Louisiana,LA,29.491992,-90.394849,Lafourche Parish,LA LAFOURCHE,96318,22057,57,Lafourche,True,1,0
 Mercer,New Jersey,NJ,40.282503,-74.703724,Mercer County,NJ MERCER,366513,34021,21,Mercer,True,1,0
 Brunswick,North Carolina,NC,34.038708,-78.227688,Brunswick County,NC BRUNSWICK,107431,37019,19,Brunswick,True,1,0
@@ -359,7 +359,7 @@ Spotsylvania,Virginia,VA,38.182311,-77.65628,Spotsylvania County,VA SPOTSYLVANIA
 Chesterfield,Virginia,VA,37.378434,-77.585847,Chesterfield County,VA CHESTERFIELD,316236,51041,41,Chesterfield,True,1,0
 Winnebago,Wisconsin,WI,44.085707,-88.668149,Winnebago County,WI WINNEBAGO,166994,55139,139,Winnebago,True,1,0
 Bourbon,Kentucky,KY,38.202562,-84.20986,Bourbon County,KY BOURBON,19985,21017,17,Bourbon,True,1,0
-Boulder,Colorado,CO,40.094826,-105.398382,Boulder County,CO BOULDER,294567,8013,13,Boulder,True,3,0
+Boulder,Colorado,CO,40.094826,-105.398382,Boulder County,CO BOULDER,294567,8013,13,Boulder,True,7,0
 Sangamon,Illinois,IL,39.756378,-89.662311,Sangamon County,IL SANGAMON,197465,17167,167,Sangamon,True,2,0
 Dallas,Iowa,IA,41.685321,-94.040707,Dallas County,IA DALLAS,66135,19049,49,Dallas,True,1,0
 Missoula,Montana,MT,47.027263,-113.892681,Missoula County,MT MISSOULA,109299,30063,63,Missoula,True,2,0
@@ -368,7 +368,7 @@ Baker,Florida,FL,30.324442,-82.302284,Baker County,FL BAKER,27115,12003,3,Baker,
 Citrus,Florida,FL,28.843628,-82.524796,Citrus County,FL CITRUS,141236,12017,17,Citrus,True,1,0
 El Paso,Texas,TX,31.766403,-106.24139,El Paso County,TX EL PASO,800647,48141,141,El Paso,True,2,0
 Hays,Texas,TX,30.061225,-98.029267,Hays County,TX HAYS,157107,48209,209,Hays,True,1,0
-Smith,Texas,TX,32.377093,-95.26963,Smith County,TX SMITH,209714,48423,423,Smith,True,3,0
+Smith,Texas,TX,32.377093,-95.26963,Smith County,TX SMITH,209714,48423,423,Smith,True,4,0
 Kauai,Hawaii,HI,22.012038,-159.705965,Kauai County,HI KAUAI,67091,15007,7,Kauai,True,2,0
 Baldwin,Alabama,AL,30.659218,-87.746067,Baldwin County,AL BALDWIN,182265,1003,3,Baldwin,True,1,0
 Baltimore city,Maryland,MD,39.300213,-76.610516,Baltimore city,MD BALTIMORE CITY,620961,24510,510,Baltimore city,True,1,0
@@ -412,6 +412,7 @@ Greenville,South Carolina,SC,34.892645,-82.372077,Greenville County,SC GREENVILL
 Clark,Kentucky,KY,37.970133,-84.144974,Clark County,KY CLARK,35613,21049,49,Clark,True,1,0
 Lincoln,Maine,ME,43.994264,-69.514029,Lincoln County,ME LINCOLN,34457,23015,15,Lincoln,True,1,0
 Hillsborough,New Hampshire,NH,42.911643,-71.723101,Hillsborough County,NH HILLSBOROUGH,400721,33011,11,Hillsborough,True,1,0
+Ottawa,Michigan,MI,42.942346,-86.655342,Ottawa County,MI OTTAWA,263801,26139,139,Ottawa,True,1,0
 Denton,Texas,TX,33.205005,-97.119046,Denton County,TX DENTON,662614,48121,121,Denton,True,1,0
 Montgomery,New York,NY,42.900891,-74.435357,Montgomery County,NY MONTGOMERY,50219,36057,57,Montgomery,True,1,0
 Greene,New York,NY,42.286951,-74.149495,Greene County,NY GREENE,49221,36039,39,Greene,True,2,0
@@ -423,3 +424,12 @@ Lincoln,Washington,WA,47.582718,-118.417667,Lincoln County,WA LINCOLN,10570,5304
 Maui,Hawaii,HI,20.855931,-156.60155,Maui County,HI MAUI,154834,15009,9,Maui,True,1,0
 Lee,Alabama,AL,32.604064,-85.353048,Lee County,AL LEE,140247,1081,81,Lee,True,1,0
 Shelby,Alabama,AL,33.262937,-86.678104,Shelby County,AL SHELBY,195085,1117,117,Shelby,True,2,0
+Unknown,Maine,ME,,,,,,,,Unknown,True,4,0
+Allamakee,Iowa,IA,43.274964,-91.382751,Allamakee County,IA ALLAMAKEE,14330,19005,5,Allamakee,True,2,0
+Polk,Iowa,IA,41.684281,-93.56972,Polk County,IA POLK,430640,19153,153,Polk,True,1,0
+Kay,Oklahoma,OK,36.814842,-97.143755,Kay County,OK KAY,46562,40071,71,Kay,True,1,0
+Hinds,Mississippi,MS,32.267923,-90.4659,Hinds County,MS HINDS,245285,28049,49,Hinds,True,2,0
+Hampden,Massachusetts,MA,42.136198,-72.635648,Hampden County,MA HAMPDEN,463490,25013,13,Hampden,True,1,0
+Plymouth,Massachusetts,MA,41.987196,-70.741942,Plymouth County,MA PLYMOUTH,494919,25023,23,Plymouth,True,1,0
+Unknown,Massachusetts,MA,,,,,,,,Unknown,True,2,0
+San Bernardino,California,CA,34.85722,-116.181197,San Bernardino County,CA SAN BERNARDINO,2035210,6071,71,San Bernardino,True,1,0

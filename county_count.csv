@@ -663,8 +663,7 @@ Confirmed,County
 1,Charles
 1,Anne Arundel
 1,Baltimore
-1,Travis
-3,Bartow
+4,Bartow
 4,Cherokee
 2,Gordon
 1,Henry
@@ -690,7 +689,9 @@ Confirmed,County
 2,Eagle
 1,Routt
 1,Unknown
-59,New York
+49,New York
+1,Travis
+9,New York
 10,Westchester
 2,Dutchess
 10,Nassau
@@ -731,7 +732,7 @@ Confirmed,County
 16,Contra Costa
 6,Clark
 3,Orleans
-1,Bartow
+1,New York
 11,Middlesex
 4,Suffolk
 3,Fairfield
@@ -825,7 +826,7 @@ Confirmed,County
 2,Milwaukee
 4,Fond du Lac
 1,Dane
-1,Loudoun
+1,Virginia Beach city
 11,Westchester
 59,New York
 4,Suffolk
@@ -948,9 +949,8 @@ Confirmed,County
 1,Summit
 1,James City
 2,Arlington
+2,Loudoun
 1,Westchester
-1,Loudoun
-1,Virginia Beach city
 1,Spotsylvania
 1,Chesterfield
 22,Snohomish
@@ -1006,6 +1006,7 @@ Confirmed,County
 1,Baldwin
 4,Jefferson
 1,Tuscaloosa
+1,Westchester
 1,Ada
 1,Unknown
 1,Teton
@@ -1016,7 +1017,6 @@ Confirmed,County
 4,Norfolk
 1,Suffolk
 1,Sheridan
-1,Westchester
 1,Unknown
 6,Bergen
 9,Salt Lake
@@ -1035,11 +1035,10 @@ Confirmed,County
 1,San Luis Obispo
 1,Davidson
 1,Washoe
-2,Clarke
-1,Newton
-1,Broward
+1,Cumberland
+3,Spokane
 2,Collier
-1,Washoe
+1,San Diego
 1,Clay
 1,Baker
 1,Lee
@@ -1082,20 +1081,19 @@ Confirmed,County
 3,Marion
 3,Unknown
 5,Fond du Lac
-2,New Castle
-2,Miami-Dade
+1,New Castle
+3,Miami-Dade
 3,Erie
-1,Miami-Dade
+1,Broward
 12,Orleans
 1,Jefferson
 1,St. Bernard
-7,Broward
+6,Broward
 1,Miami-Dade
 1,Alachua
-7,Broward
+8,Broward
 1,Lucas
-1,Bartow
-1,Broward
+2,Bartow
 1,Cherokee
 4,Cobb
 2,DeKalb
@@ -1197,7 +1195,14 @@ Confirmed,County
 4,Bernalillo
 1,Milwaukee
 1,Kent
-11,Unknown
+3,Washtenaw
+1,Detroit
+1,Oakland
+1,Detroit
+1,Macomb
+2,Oakland
+1,Wayne
+1,Ottawa
 2,Travis
 19,Nassau
 1,Denton
@@ -1237,5 +1242,45 @@ Confirmed,County
 1,Clayton
 1,Thurston
 1,Johnson
-4,Washoe
-1,Bartow
+5,Washoe
+1,Solano
+1,Clarke
+4,Unknown
+2,Harris
+2,Allamakee
+1,Johnson
+1,Polk
+4,Boulder
+1,Clarke
+1,Newton
+1,Broward
+1,Smith
+1,Kay
+1,Stark
+1,District of Columbia
+1,Copiah
+2,Hinds
+1,Pearl River
+1,Essex
+1,Hampden
+10,Middlesex
+3,Norfolk
+1,Plymouth
+4,Suffolk
+4,Worcester
+2,Unknown
+1,Sonoma
+4,Sacramento
+1,St. Clair
+2,Macomb
+1,Wayne
+2,Oakland
+1,Detroit
+1,Kent
+6,San Francisco
+3,Orange
+8,Alameda
+2,Riverside
+1,San Bernardino
+29,San Diego
+1,New Castle
