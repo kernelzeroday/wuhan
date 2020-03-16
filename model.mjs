@@ -2604,7 +2604,7 @@ var us_counties = [
 		county_id: "163",
 		county_original_name: "Wayne",
 		active: "y",
-		confirmed: 10,
+		confirmed: 13,
 		deaths: 0
 	},
 	{
@@ -2716,7 +2716,7 @@ var us_counties = [
 		county_id: "69",
 		county_original_name: "Jefferson",
 		active: "y",
-		confirmed: 4,
+		confirmed: 5,
 		deaths: 0
 	},
 	{
@@ -3756,7 +3756,7 @@ var us_counties = [
 		county_id: "",
 		county_original_name: "Unknown",
 		active: "y",
-		confirmed: 8,
+		confirmed: 7,
 		deaths: 0
 	},
 	{
@@ -5420,7 +5420,7 @@ var us_counties = [
 		county_id: "3",
 		county_original_name: "Allegheny",
 		active: "y",
-		confirmed: 5,
+		confirmed: 4,
 		deaths: 0
 	},
 	{
@@ -5757,7 +5757,7 @@ var us_counties = [
 		county_original_name: "Bourbon",
 		active: "y",
 		confirmed: 1,
-		deaths: 0
+		deaths: 1
 	},
 	{
 		county: "Boulder",
@@ -7160,7 +7160,7 @@ var us_states = [
 		statefips: "21",
 		nytabbrev_name: "",
 		confirmed: 21,
-		deaths: 0
+		deaths: 1
 	},
 	{
 		postal: "LA",
@@ -7219,7 +7219,7 @@ var us_states = [
 		nytregion: "MW",
 		statefips: "26",
 		nytabbrev_name: "",
-		confirmed: 50,
+		confirmed: 53,
 		deaths: 0
 	},
 	{
@@ -7411,7 +7411,7 @@ var us_states = [
 		nytregion: "NE",
 		statefips: "42",
 		nytabbrev_name: "",
-		confirmed: 69,
+		confirmed: 68,
 		deaths: 0
 	},
 	{
@@ -16318,9 +16318,9 @@ var us_cases = [
 		GFX: "y",
 		"State where treated": "Kentucky",
 		"County where treated": "Fayette",
-		"Place of residence, if known to be different": "Unknown, believed to be a community transfer, link to row 530",
-		Gender: "Unknown",
-		Age: "Unknown",
+		"Place of residence, if known to be different": "",
+		Gender: "Male ",
+		Age: "40",
 		"Date announced": "3/6/2020",
 		died: "",
 		Condition: "In isolation; \"improving\" per governor as of 03/10",
@@ -28254,8 +28254,8 @@ var us_cases = [
 		"State where treated": "Kentucky",
 		"County where treated": "Fayette",
 		"Place of residence, if known to be different": "",
-		Gender: "Unknown",
-		Age: "Unknown",
+		Gender: "Male",
+		Age: "46",
 		"Date announced": "3/9/2020",
 		died: "",
 		Condition: "Isolation",
@@ -59156,7 +59156,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3026",
+		"no of cases": "3025",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -63744,21 +63744,21 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "1811",
+		"no of cases": "1658",
 		GFX: "y",
-		"State where treated": "New York",
-		"County where treated": "New York",
+		"State where treated": "Texas",
+		"County where treated": "Travis",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
 		"Date announced": "3/13/2020",
 		died: "",
 		Condition: "Unknown",
-		"How contracted?": "Unknown",
+		"How contracted?": "unknown",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
-		"Press release": "Link TK",
+		"Press release": "Link",
 		"Press release 2": "",
 		"Press release 3": "",
 		"Health care worker?": "",
@@ -63768,8 +63768,8 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "1827",
-		nyt_state: "New York",
+		graphics_id: "1673",
+		nyt_state: "Texas",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-13",
 		"validating county names": "all good"
@@ -64023,21 +64023,21 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "1658",
+		"no of cases": "1820",
 		GFX: "y",
-		"State where treated": "Texas",
-		"County where treated": "Travis",
+		"State where treated": "New York",
+		"County where treated": "New York",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
 		"Date announced": "3/13/2020",
 		died: "",
 		Condition: "Unknown",
-		"How contracted?": "unknown",
+		"How contracted?": "Unknown",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
-		"Press release": "Link",
+		"Press release": "Link TK",
 		"Press release 2": "",
 		"Press release 3": "",
 		"Health care worker?": "",
@@ -64047,8 +64047,8 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "1673",
-		nyt_state: "Texas",
+		graphics_id: "1836",
+		nyt_state: "New York",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-13",
 		"validating county names": "all good"
@@ -67991,7 +67991,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "1820",
+		"no of cases": "1811",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -68015,7 +68015,7 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "1836",
+		graphics_id: "1827",
 		nyt_state: "New York",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-13",
@@ -75586,7 +75586,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3212",
+		"no of cases": "3211",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Clear Creek",
@@ -75617,7 +75617,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3073",
+		"no of cases": "3072",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Dallas",
@@ -83091,7 +83091,7 @@ var us_cases = [
 		"no of cases": "2436",
 		GFX: "y",
 		"State where treated": "Arkansas",
-		"County where treated": "Unknown",
+		"County where treated": "Jefferson",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
@@ -83106,7 +83106,7 @@ var us_cases = [
 		"Press release 2": "",
 		"Press release 3": "",
 		"Health care worker?": "Yes",
-		"Special circumstances?": "",
+		"Special circumstances?": "County not specifically announced, but adding 3/16 because state says 5+ in Jefferson and local news suggests this is one",
 		"NYT link": "",
 		"PIO contact": "",
 		Name: "",
@@ -90753,17 +90753,17 @@ var us_cases = [
 		Gender: "Male",
 		Age: "66",
 		"Date announced": "3/14/2020",
-		died: "",
-		Condition: "Unknown",
+		died: "yes",
+		Condition: "Died (announced 3/16)",
 		"How contracted?": "Unknown",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
-		"Press release": "",
+		"Press release": "Link",
 		"Press release 2": "",
 		"Press release 3": "",
 		"Health care worker?": "",
-		"Special circumstances?": "",
+		"Special circumstances?": "Had other health issues, coronavirus a factor",
 		"NYT link": "",
 		"PIO contact": "",
 		Name: "",
@@ -90771,7 +90771,7 @@ var us_cases = [
 		old_county_where_treated_nyc: "",
 		graphics_id: "2713",
 		nyt_state: "Kentucky",
-		nyt_died: "FALSE",
+		nyt_died: "TRUE",
 		nyt_date: "2020-03-14",
 		"validating county names": "all good"
 	},
@@ -94155,7 +94155,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2924",
+		"no of cases": "2923",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94186,7 +94186,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2925",
+		"no of cases": "2924",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94217,7 +94217,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2926",
+		"no of cases": "2925",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94248,7 +94248,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2927",
+		"no of cases": "2926",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94279,7 +94279,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2928",
+		"no of cases": "2927",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94310,7 +94310,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2929",
+		"no of cases": "2928",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94341,7 +94341,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2930",
+		"no of cases": "2929",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94372,7 +94372,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2931",
+		"no of cases": "2930",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94403,7 +94403,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2932",
+		"no of cases": "2931",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Salt Lake",
@@ -94434,7 +94434,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2933",
+		"no of cases": "2932",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Davis",
@@ -94465,7 +94465,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2935",
+		"no of cases": "2934",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94496,7 +94496,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2936",
+		"no of cases": "2935",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94527,7 +94527,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2937",
+		"no of cases": "2936",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94558,7 +94558,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2938",
+		"no of cases": "2937",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94589,7 +94589,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2939",
+		"no of cases": "2938",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94620,7 +94620,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2940",
+		"no of cases": "2939",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94651,7 +94651,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2941",
+		"no of cases": "2940",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -94682,7 +94682,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2942",
+		"no of cases": "2941",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94713,7 +94713,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2943",
+		"no of cases": "2942",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94744,7 +94744,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2944",
+		"no of cases": "2943",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94775,7 +94775,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2945",
+		"no of cases": "2944",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94806,7 +94806,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2946",
+		"no of cases": "2945",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94837,7 +94837,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2947",
+		"no of cases": "2946",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94868,7 +94868,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2948",
+		"no of cases": "2947",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94899,7 +94899,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2949",
+		"no of cases": "2948",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94930,7 +94930,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2950",
+		"no of cases": "2949",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94961,7 +94961,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2951",
+		"no of cases": "2950",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -94992,7 +94992,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2952",
+		"no of cases": "2951",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -95023,7 +95023,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2953",
+		"no of cases": "2952",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95054,7 +95054,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2954",
+		"no of cases": "2953",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95085,7 +95085,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2955",
+		"no of cases": "2954",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95116,7 +95116,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2956",
+		"no of cases": "2955",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95147,7 +95147,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2957",
+		"no of cases": "2956",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95178,7 +95178,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2958",
+		"no of cases": "2957",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95209,7 +95209,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2959",
+		"no of cases": "2958",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95240,7 +95240,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2960",
+		"no of cases": "2959",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -95271,7 +95271,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2961",
+		"no of cases": "2960",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Rockland",
@@ -95302,7 +95302,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2962",
+		"no of cases": "2961",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Rockland",
@@ -95333,7 +95333,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2963",
+		"no of cases": "2962",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -95364,7 +95364,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2964",
+		"no of cases": "2963",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -95395,7 +95395,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2965",
+		"no of cases": "2964",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Dutchess",
@@ -95426,7 +95426,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2969",
+		"no of cases": "2968",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95457,7 +95457,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2970",
+		"no of cases": "2969",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95488,7 +95488,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2971",
+		"no of cases": "2970",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95519,7 +95519,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2972",
+		"no of cases": "2971",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95550,7 +95550,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2973",
+		"no of cases": "2972",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95581,7 +95581,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2974",
+		"no of cases": "2973",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95612,7 +95612,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2975",
+		"no of cases": "2974",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95643,7 +95643,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2976",
+		"no of cases": "2975",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95674,7 +95674,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2977",
+		"no of cases": "2976",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95705,7 +95705,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2978",
+		"no of cases": "2977",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95736,7 +95736,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2979",
+		"no of cases": "2978",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95767,7 +95767,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2980",
+		"no of cases": "2979",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95798,7 +95798,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2981",
+		"no of cases": "2980",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95829,7 +95829,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2982",
+		"no of cases": "2981",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95860,7 +95860,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2983",
+		"no of cases": "2982",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95891,7 +95891,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2984",
+		"no of cases": "2983",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95922,7 +95922,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2985",
+		"no of cases": "2984",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95953,7 +95953,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2986",
+		"no of cases": "2985",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -95984,7 +95984,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2987",
+		"no of cases": "2986",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96015,7 +96015,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2988",
+		"no of cases": "2987",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96046,7 +96046,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2989",
+		"no of cases": "2988",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96077,7 +96077,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2990",
+		"no of cases": "2989",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96108,7 +96108,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2991",
+		"no of cases": "2990",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96139,7 +96139,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2992",
+		"no of cases": "2991",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96170,7 +96170,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2993",
+		"no of cases": "2992",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96201,7 +96201,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2994",
+		"no of cases": "2993",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96232,7 +96232,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2995",
+		"no of cases": "2994",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96263,7 +96263,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2996",
+		"no of cases": "2995",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96294,7 +96294,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2997",
+		"no of cases": "2996",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96325,7 +96325,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2998",
+		"no of cases": "2997",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96356,7 +96356,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2999",
+		"no of cases": "2998",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96387,7 +96387,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3000",
+		"no of cases": "2999",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96418,7 +96418,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3001",
+		"no of cases": "3000",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96449,7 +96449,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3002",
+		"no of cases": "3001",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96480,7 +96480,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3003",
+		"no of cases": "3002",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96511,7 +96511,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3004",
+		"no of cases": "3003",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96542,7 +96542,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3005",
+		"no of cases": "3004",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96573,7 +96573,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3006",
+		"no of cases": "3005",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96604,7 +96604,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3007",
+		"no of cases": "3006",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96635,7 +96635,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3008",
+		"no of cases": "3007",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96666,7 +96666,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3009",
+		"no of cases": "3008",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96697,7 +96697,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3010",
+		"no of cases": "3009",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96728,7 +96728,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3011",
+		"no of cases": "3010",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96759,7 +96759,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3012",
+		"no of cases": "3011",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96790,7 +96790,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3013",
+		"no of cases": "3012",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96821,7 +96821,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3014",
+		"no of cases": "3013",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96852,7 +96852,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3015",
+		"no of cases": "3014",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96883,7 +96883,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3016",
+		"no of cases": "3015",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96914,7 +96914,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3017",
+		"no of cases": "3016",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96945,7 +96945,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3018",
+		"no of cases": "3017",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -96976,7 +96976,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3019",
+		"no of cases": "3018",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -97007,7 +97007,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3020",
+		"no of cases": "3019",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -97038,7 +97038,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3021",
+		"no of cases": "3020",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -97069,7 +97069,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3022",
+		"no of cases": "3021",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -97100,7 +97100,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3023",
+		"no of cases": "3022",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -97162,7 +97162,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3071",
+		"no of cases": "3070",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Johnston",
@@ -97193,7 +97193,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3072",
+		"no of cases": "3071",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Harnett",
@@ -97255,7 +97255,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3154",
+		"no of cases": "3153",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Luis Obispo",
@@ -97317,7 +97317,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3479",
+		"no of cases": "3478",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -97348,7 +97348,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3488",
+		"no of cases": "3487",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Cumberland",
@@ -97379,7 +97379,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3503",
+		"no of cases": "3502",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Spokane",
@@ -97410,7 +97410,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3504",
+		"no of cases": "3503",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Spokane",
@@ -97441,7 +97441,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3505",
+		"no of cases": "3504",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Spokane",
@@ -97534,7 +97534,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3602",
+		"no of cases": "3601",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -97661,37 +97661,6 @@ var us_cases = [
 		"no of cases": "2905",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
-		"County where treated": "Allegheny",
-		"Place of residence, if known to be different": "",
-		Gender: "Unknown",
-		Age: "Unknown",
-		"Date announced": "3/15/2020",
-		died: "",
-		Condition: "Unknown",
-		"How contracted?": "Unknown",
-		nyt_contracted: "Unknown",
-		"Contracted in United States?": "Unknown",
-		Hospital: "",
-		"Press release": "Link",
-		"Press release 2": "",
-		"Press release 3": "",
-		"Health care worker?": "",
-		"Special circumstances?": "",
-		"NYT link": "",
-		"PIO contact": "",
-		Name: "",
-		"Family contact": "",
-		old_county_where_treated_nyc: "",
-		graphics_id: "2939",
-		nyt_state: "Pennsylvania",
-		nyt_died: "FALSE",
-		nyt_date: "2020-03-15",
-		"validating county names": "all good"
-	},
-	{
-		"no of cases": "2906",
-		GFX: "y",
-		"State where treated": "Pennsylvania",
 		"County where treated": "Bucks",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
@@ -97720,7 +97689,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2907",
+		"no of cases": "2906",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Cumberland",
@@ -97751,7 +97720,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2908",
+		"no of cases": "2907",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Cumberland",
@@ -97782,7 +97751,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2909",
+		"no of cases": "2908",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Delaware",
@@ -97813,7 +97782,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2910",
+		"no of cases": "2909",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Lehigh",
@@ -97844,7 +97813,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2911",
+		"no of cases": "2910",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Luzerne",
@@ -97875,7 +97844,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2912",
+		"no of cases": "2911",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Monroe",
@@ -97906,7 +97875,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2913",
+		"no of cases": "2912",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Monroe",
@@ -97937,7 +97906,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2914",
+		"no of cases": "2913",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Monroe",
@@ -97968,7 +97937,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2915",
+		"no of cases": "2914",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Montgomery",
@@ -97999,7 +97968,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2916",
+		"no of cases": "2915",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Montgomery",
@@ -98030,7 +97999,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2917",
+		"no of cases": "2916",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Montgomery",
@@ -98061,7 +98030,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2918",
+		"no of cases": "2917",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Montgomery",
@@ -98092,7 +98061,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2919",
+		"no of cases": "2918",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Philadelphia",
@@ -98123,7 +98092,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2920",
+		"no of cases": "2919",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Philadelphia",
@@ -98154,7 +98123,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2921",
+		"no of cases": "2920",
 		GFX: "y",
 		"State where treated": "Oklahoma",
 		"County where treated": "Cleveland",
@@ -98185,7 +98154,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2922",
+		"no of cases": "2921",
 		GFX: "y",
 		"State where treated": "Oklahoma",
 		"County where treated": "Payne",
@@ -98216,7 +98185,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2923",
+		"no of cases": "2922",
 		GFX: "y",
 		"State where treated": "Oklahoma",
 		"County where treated": "Tulsa",
@@ -98557,7 +98526,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2934",
+		"no of cases": "2933",
 		GFX: "y",
 		"State where treated": "Puerto Rico",
 		"County where treated": "Unknown",
@@ -99363,19 +99332,19 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2827",
+		"no of cases": "2765",
 		GFX: "y",
-		"State where treated": "Wisconsin",
-		"County where treated": "Fond du Lac",
+		"State where treated": "Florida",
+		"County where treated": "Miami-Dade",
 		"Place of residence, if known to be different": "",
-		Gender: "Unknown",
-		Age: "Unknown",
+		Gender: "Female",
+		Age: "58",
 		"Date announced": "3/15/2020",
 		died: "",
-		Condition: "Unknown",
-		"How contracted?": "Cruise in Egypt",
-		nyt_contracted: "Travel in Egypt",
-		"Contracted in United States?": "No",
+		Condition: "Isolated ",
+		"How contracted?": "Travel related",
+		nyt_contracted: "Unknown",
+		"Contracted in United States?": "Unknown",
 		Hospital: "",
 		"Press release": "Link",
 		"Press release 2": "",
@@ -99387,8 +99356,8 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "2861",
-		nyt_state: "Wisconsin",
+		graphics_id: "2795",
+		nyt_state: "Florida",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-15",
 		"validating county names": "all good"
@@ -99456,17 +99425,17 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2765",
+		"no of cases": "2830",
 		GFX: "y",
-		"State where treated": "Florida",
-		"County where treated": "Miami-Dade",
+		"State where treated": "Delaware",
+		"County where treated": "New Castle",
 		"Place of residence, if known to be different": "",
-		Gender: "Female",
-		Age: "58",
+		Gender: "Unknown",
+		Age: "Unknown",
 		"Date announced": "3/15/2020",
 		died: "",
-		Condition: "Isolated ",
-		"How contracted?": "Travel related",
+		Condition: "Unknown",
+		"How contracted?": "Unknown",
 		nyt_contracted: "Unknown",
 		"Contracted in United States?": "Unknown",
 		Hospital: "",
@@ -99480,8 +99449,8 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "2795",
-		nyt_state: "Florida",
+		graphics_id: "2864",
+		nyt_state: "Delaware",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-15",
 		"validating county names": "all good"
@@ -99549,7 +99518,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2966",
+		"no of cases": "2965",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Erie",
@@ -99580,7 +99549,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2967",
+		"no of cases": "2966",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Erie",
@@ -99611,7 +99580,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "2968",
+		"no of cases": "2967",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Erie",
@@ -101347,7 +101316,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3024",
+		"no of cases": "3023",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Allegheny",
@@ -101378,7 +101347,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3025",
+		"no of cases": "3024",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Allegheny",
@@ -101440,7 +101409,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3027",
+		"no of cases": "3026",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101471,7 +101440,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3028",
+		"no of cases": "3027",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101502,7 +101471,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3029",
+		"no of cases": "3028",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101533,7 +101502,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3030",
+		"no of cases": "3029",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101564,7 +101533,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3031",
+		"no of cases": "3030",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101595,7 +101564,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3032",
+		"no of cases": "3031",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101626,7 +101595,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3033",
+		"no of cases": "3032",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101657,7 +101626,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3034",
+		"no of cases": "3033",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101688,7 +101657,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3035",
+		"no of cases": "3034",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101719,7 +101688,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3036",
+		"no of cases": "3035",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101750,7 +101719,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3037",
+		"no of cases": "3036",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101781,7 +101750,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3038",
+		"no of cases": "3037",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101812,7 +101781,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3039",
+		"no of cases": "3038",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101843,7 +101812,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3040",
+		"no of cases": "3039",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101874,7 +101843,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3041",
+		"no of cases": "3040",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101905,7 +101874,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3042",
+		"no of cases": "3041",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101936,7 +101905,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3043",
+		"no of cases": "3042",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101967,7 +101936,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3044",
+		"no of cases": "3043",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -101998,7 +101967,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3045",
+		"no of cases": "3044",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -102029,7 +101998,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3046",
+		"no of cases": "3045",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -102060,7 +102029,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3047",
+		"no of cases": "3046",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -102091,7 +102060,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3048",
+		"no of cases": "3047",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -102122,7 +102091,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3049",
+		"no of cases": "3048",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Santa Clara",
@@ -102153,7 +102122,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3050",
+		"no of cases": "3049",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102184,7 +102153,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3051",
+		"no of cases": "3050",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102215,7 +102184,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3052",
+		"no of cases": "3051",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102246,7 +102215,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3053",
+		"no of cases": "3052",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102277,7 +102246,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3054",
+		"no of cases": "3053",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102308,7 +102277,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3055",
+		"no of cases": "3054",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Albany",
@@ -102339,7 +102308,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3056",
+		"no of cases": "3055",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Mecklenburg",
@@ -102370,7 +102339,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3057",
+		"no of cases": "3056",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Mecklenburg",
@@ -102401,7 +102370,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3058",
+		"no of cases": "3057",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -102432,7 +102401,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3059",
+		"no of cases": "3058",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -102463,7 +102432,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3060",
+		"no of cases": "3059",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Butler",
@@ -102494,7 +102463,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3061",
+		"no of cases": "3060",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Butler",
@@ -102525,7 +102494,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3062",
+		"no of cases": "3061",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Cuyahoga",
@@ -102556,7 +102525,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3063",
+		"no of cases": "3062",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Cuyahoga",
@@ -102587,7 +102556,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3064",
+		"no of cases": "3063",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Cuyahoga",
@@ -102618,7 +102587,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3065",
+		"no of cases": "3064",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Franklin",
@@ -102649,7 +102618,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3066",
+		"no of cases": "3065",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Lorain",
@@ -102680,7 +102649,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3067",
+		"no of cases": "3066",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Medina",
@@ -102711,7 +102680,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3068",
+		"no of cases": "3067",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Dallas",
@@ -102742,7 +102711,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3069",
+		"no of cases": "3068",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Dallas",
@@ -102773,7 +102742,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3070",
+		"no of cases": "3069",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Dallas",
@@ -102897,7 +102866,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3074",
+		"no of cases": "3073",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Watauga",
@@ -102928,7 +102897,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3075",
+		"no of cases": "3074",
 		GFX: "y",
 		"State where treated": "Arkansas",
 		"County where treated": "Garland",
@@ -102959,7 +102928,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3076",
+		"no of cases": "3075",
 		GFX: "y",
 		"State where treated": "Arkansas",
 		"County where treated": "Garland",
@@ -102990,7 +102959,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3077",
+		"no of cases": "3076",
 		GFX: "y",
 		"State where treated": "Arkansas",
 		"County where treated": "Jefferson",
@@ -103021,7 +102990,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3078",
+		"no of cases": "3077",
 		GFX: "y",
 		"State where treated": "Arkansas",
 		"County where treated": "Jefferson",
@@ -103052,7 +103021,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3079",
+		"no of cases": "3078",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Ramsey",
@@ -103083,7 +103052,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3080",
+		"no of cases": "3079",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Ramsey",
@@ -103114,7 +103083,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3081",
+		"no of cases": "3080",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Ramsey",
@@ -103145,7 +103114,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3082",
+		"no of cases": "3081",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Ramsey",
@@ -103176,7 +103145,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3083",
+		"no of cases": "3082",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Olmsted",
@@ -103207,7 +103176,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3084",
+		"no of cases": "3083",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Dakota",
@@ -103238,7 +103207,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3085",
+		"no of cases": "3084",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103269,7 +103238,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3086",
+		"no of cases": "3085",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103300,7 +103269,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3087",
+		"no of cases": "3086",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103331,7 +103300,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3088",
+		"no of cases": "3087",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103362,7 +103331,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3089",
+		"no of cases": "3088",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103393,7 +103362,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3090",
+		"no of cases": "3089",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Hennepin",
@@ -103424,7 +103393,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3091",
+		"no of cases": "3090",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Washington",
@@ -103455,7 +103424,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3092",
+		"no of cases": "3091",
 		GFX: "y",
 		"State where treated": "Minnesota",
 		"County where treated": "Waseca",
@@ -103486,7 +103455,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3093",
+		"no of cases": "3092",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Wake",
@@ -103517,7 +103486,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3094",
+		"no of cases": "3093",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Wake",
@@ -103548,7 +103517,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3095",
+		"no of cases": "3094",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Wake",
@@ -103579,7 +103548,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3096",
+		"no of cases": "3095",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -103610,7 +103579,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3097",
+		"no of cases": "3096",
 		GFX: "y",
 		"State where treated": "North Carolina",
 		"County where treated": "Wilson",
@@ -103641,7 +103610,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3098",
+		"no of cases": "3097",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Davis",
@@ -103672,7 +103641,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3099",
+		"no of cases": "3098",
 		GFX: "y",
 		"State where treated": "Vermont",
 		"County where treated": "Bennington",
@@ -103703,7 +103672,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3100",
+		"no of cases": "3099",
 		GFX: "y",
 		"State where treated": "Vermont",
 		"County where treated": "Windsor",
@@ -103734,7 +103703,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3101",
+		"no of cases": "3100",
 		GFX: "y",
 		"State where treated": "Vermont",
 		"County where treated": "Chittenden",
@@ -103765,7 +103734,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3102",
+		"no of cases": "3101",
 		GFX: "y",
 		"State where treated": "Delaware",
 		"County where treated": "New Castle",
@@ -103796,7 +103765,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3103",
+		"no of cases": "3102",
 		GFX: "y",
 		"State where treated": "Tennessee",
 		"County where treated": "Williamson",
@@ -103827,7 +103796,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3104",
+		"no of cases": "3103",
 		GFX: "y",
 		"State where treated": "Tennessee",
 		"County where treated": "Williamson",
@@ -103858,7 +103827,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3105",
+		"no of cases": "3104",
 		GFX: "y",
 		"State where treated": "Tennessee",
 		"County where treated": "Williamson",
@@ -103889,7 +103858,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3106",
+		"no of cases": "3105",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -103920,7 +103889,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3107",
+		"no of cases": "3106",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -103951,7 +103920,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3108",
+		"no of cases": "3107",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -103982,7 +103951,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3109",
+		"no of cases": "3108",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -104013,7 +103982,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3110",
+		"no of cases": "3109",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -104044,7 +104013,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3111",
+		"no of cases": "3110",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Summit",
@@ -104075,7 +104044,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3112",
+		"no of cases": "3111",
 		GFX: "y",
 		"State where treated": "Utah",
 		"County where treated": "Utah",
@@ -104106,7 +104075,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3113",
+		"no of cases": "3112",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Passaic",
@@ -104137,7 +104106,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3114",
+		"no of cases": "3113",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Passaic",
@@ -104168,7 +104137,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3115",
+		"no of cases": "3114",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Passaic",
@@ -104199,7 +104168,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3116",
+		"no of cases": "3115",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104230,7 +104199,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3117",
+		"no of cases": "3116",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104261,7 +104230,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3118",
+		"no of cases": "3117",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104292,7 +104261,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3119",
+		"no of cases": "3118",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104323,7 +104292,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3120",
+		"no of cases": "3119",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104354,7 +104323,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3121",
+		"no of cases": "3120",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104385,7 +104354,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3122",
+		"no of cases": "3121",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104416,7 +104385,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3123",
+		"no of cases": "3122",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104447,7 +104416,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3124",
+		"no of cases": "3123",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104478,7 +104447,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3125",
+		"no of cases": "3124",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104509,7 +104478,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3126",
+		"no of cases": "3125",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104540,7 +104509,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3127",
+		"no of cases": "3126",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104571,7 +104540,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3128",
+		"no of cases": "3127",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104602,7 +104571,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3129",
+		"no of cases": "3128",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104633,7 +104602,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3130",
+		"no of cases": "3129",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104664,7 +104633,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3131",
+		"no of cases": "3130",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Los Angeles",
@@ -104695,7 +104664,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3132",
+		"no of cases": "3131",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Morris",
@@ -104726,7 +104695,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3133",
+		"no of cases": "3132",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Middlesex",
@@ -104757,7 +104726,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3134",
+		"no of cases": "3133",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Union",
@@ -104788,7 +104757,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3135",
+		"no of cases": "3134",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Union",
@@ -104819,7 +104788,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3136",
+		"no of cases": "3135",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Union",
@@ -104850,7 +104819,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3137",
+		"no of cases": "3136",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Essex",
@@ -104881,7 +104850,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3138",
+		"no of cases": "3137",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Essex",
@@ -104912,7 +104881,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3139",
+		"no of cases": "3138",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Essex",
@@ -104943,7 +104912,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3140",
+		"no of cases": "3139",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Essex",
@@ -104974,7 +104943,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3141",
+		"no of cases": "3140",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Monmouth",
@@ -105005,7 +104974,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3142",
+		"no of cases": "3141",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Monmouth",
@@ -105036,7 +105005,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3143",
+		"no of cases": "3142",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Monmouth",
@@ -105067,7 +105036,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3144",
+		"no of cases": "3143",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Ocean",
@@ -105098,7 +105067,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3145",
+		"no of cases": "3144",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Burlington",
@@ -105129,7 +105098,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3146",
+		"no of cases": "3145",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Hudson",
@@ -105160,7 +105129,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3147",
+		"no of cases": "3146",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Hudson",
@@ -105191,7 +105160,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3148",
+		"no of cases": "3147",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Hudson",
@@ -105222,7 +105191,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3149",
+		"no of cases": "3148",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Hudson",
@@ -105253,7 +105222,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3150",
+		"no of cases": "3149",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Hudson",
@@ -105284,7 +105253,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3151",
+		"no of cases": "3150",
 		GFX: "y",
 		"State where treated": "New Jersey",
 		"County where treated": "Bergen",
@@ -105315,7 +105284,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3152",
+		"no of cases": "3151",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "El Paso",
@@ -105346,7 +105315,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3153",
+		"no of cases": "3152",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Collin",
@@ -105408,7 +105377,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3155",
+		"no of cases": "3154",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Luis Obispo",
@@ -105439,7 +105408,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3156",
+		"no of cases": "3155",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Arapahoe",
@@ -105470,7 +105439,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3157",
+		"no of cases": "3156",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Arapahoe",
@@ -105501,7 +105470,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3158",
+		"no of cases": "3157",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Arapahoe",
@@ -105532,7 +105501,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3159",
+		"no of cases": "3158",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Denver",
@@ -105563,7 +105532,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3160",
+		"no of cases": "3159",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Denver",
@@ -105594,7 +105563,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3161",
+		"no of cases": "3160",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Denver",
@@ -105625,7 +105594,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3162",
+		"no of cases": "3161",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Denver",
@@ -105656,7 +105625,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3163",
+		"no of cases": "3162",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Douglas",
@@ -105687,7 +105656,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3164",
+		"no of cases": "3163",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Douglas",
@@ -105718,7 +105687,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3165",
+		"no of cases": "3164",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Douglas",
@@ -105749,7 +105718,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3166",
+		"no of cases": "3165",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Douglas",
@@ -105780,7 +105749,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3167",
+		"no of cases": "3166",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Eagle",
@@ -105811,7 +105780,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3168",
+		"no of cases": "3167",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Eagle",
@@ -105842,7 +105811,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3169",
+		"no of cases": "3168",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Eagle",
@@ -105873,7 +105842,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3170",
+		"no of cases": "3169",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Eagle",
@@ -105904,7 +105873,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3171",
+		"no of cases": "3170",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "El Paso",
@@ -105935,7 +105904,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3172",
+		"no of cases": "3171",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Garfield",
@@ -105966,7 +105935,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3173",
+		"no of cases": "3172",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Gunnison",
@@ -105997,7 +105966,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3174",
+		"no of cases": "3173",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Gunnison",
@@ -106028,7 +105997,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3175",
+		"no of cases": "3174",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Jefferson",
@@ -106059,7 +106028,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3176",
+		"no of cases": "3175",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Jefferson",
@@ -106090,7 +106059,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3177",
+		"no of cases": "3176",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Jefferson",
@@ -106121,7 +106090,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3178",
+		"no of cases": "3177",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Weld",
@@ -106152,7 +106121,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3179",
+		"no of cases": "3178",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Weld",
@@ -106183,7 +106152,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3180",
+		"no of cases": "3179",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Unknown",
@@ -106214,7 +106183,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3181",
+		"no of cases": "3180",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Champaign",
@@ -106245,7 +106214,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3182",
+		"no of cases": "3181",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Clinton",
@@ -106276,7 +106245,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3183",
+		"no of cases": "3182",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Whiteside",
@@ -106307,7 +106276,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3184",
+		"no of cases": "3183",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Winnebago",
@@ -106338,7 +106307,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3185",
+		"no of cases": "3184",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106369,7 +106338,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3186",
+		"no of cases": "3185",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106400,7 +106369,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3187",
+		"no of cases": "3186",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106431,7 +106400,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3188",
+		"no of cases": "3187",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106462,7 +106431,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3189",
+		"no of cases": "3188",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106493,7 +106462,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3190",
+		"no of cases": "3189",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106524,7 +106493,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3191",
+		"no of cases": "3190",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106555,7 +106524,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3192",
+		"no of cases": "3191",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106586,7 +106555,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3193",
+		"no of cases": "3192",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106617,7 +106586,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3194",
+		"no of cases": "3193",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106648,7 +106617,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3195",
+		"no of cases": "3194",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106679,7 +106648,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3196",
+		"no of cases": "3195",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106710,7 +106679,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3197",
+		"no of cases": "3196",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106741,7 +106710,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3198",
+		"no of cases": "3197",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106772,7 +106741,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3199",
+		"no of cases": "3198",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106803,7 +106772,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3200",
+		"no of cases": "3199",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106834,7 +106803,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3201",
+		"no of cases": "3200",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106865,7 +106834,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3202",
+		"no of cases": "3201",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106896,7 +106865,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3203",
+		"no of cases": "3202",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106927,7 +106896,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3204",
+		"no of cases": "3203",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106958,7 +106927,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3205",
+		"no of cases": "3204",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -106989,7 +106958,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3206",
+		"no of cases": "3205",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -107020,7 +106989,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3207",
+		"no of cases": "3206",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -107051,7 +107020,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3208",
+		"no of cases": "3207",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -107082,7 +107051,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3209",
+		"no of cases": "3208",
 		GFX: "y",
 		"State where treated": "Illinois",
 		"County where treated": "Unknown",
@@ -107113,7 +107082,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3210",
+		"no of cases": "3209",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Arapahoe",
@@ -107144,7 +107113,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3211",
+		"no of cases": "3210",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Arapahoe",
@@ -107206,7 +107175,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3213",
+		"no of cases": "3212",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Kershaw",
@@ -107237,7 +107206,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3214",
+		"no of cases": "3213",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Horry",
@@ -107268,7 +107237,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3215",
+		"no of cases": "3214",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Horry",
@@ -107299,7 +107268,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3216",
+		"no of cases": "3215",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Kershaw",
@@ -107330,7 +107299,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3217",
+		"no of cases": "3216",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Kershaw",
@@ -107361,7 +107330,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3218",
+		"no of cases": "3217",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Anderson",
@@ -107392,7 +107361,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3219",
+		"no of cases": "3218",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Anderson",
@@ -107423,7 +107392,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3220",
+		"no of cases": "3219",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Horry",
@@ -107454,7 +107423,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3221",
+		"no of cases": "3220",
 		GFX: "y",
 		"State where treated": "South Carolina",
 		"County where treated": "Greenville",
@@ -107485,7 +107454,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3222",
+		"no of cases": "3221",
 		GFX: "y",
 		"State where treated": "Kentucky",
 		"County where treated": "Jefferson",
@@ -107516,7 +107485,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3223",
+		"no of cases": "3222",
 		GFX: "y",
 		"State where treated": "Kentucky",
 		"County where treated": "Clark",
@@ -107547,7 +107516,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3224",
+		"no of cases": "3223",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107578,7 +107547,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3225",
+		"no of cases": "3224",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107609,7 +107578,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3226",
+		"no of cases": "3225",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107640,7 +107609,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3227",
+		"no of cases": "3226",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107671,7 +107640,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3228",
+		"no of cases": "3227",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107702,7 +107671,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3229",
+		"no of cases": "3228",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107733,7 +107702,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3230",
+		"no of cases": "3229",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107764,7 +107733,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3231",
+		"no of cases": "3230",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107795,7 +107764,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3232",
+		"no of cases": "3231",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107826,7 +107795,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3233",
+		"no of cases": "3232",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107857,7 +107826,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3234",
+		"no of cases": "3233",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107888,7 +107857,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3235",
+		"no of cases": "3234",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107919,7 +107888,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3236",
+		"no of cases": "3235",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107950,7 +107919,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3237",
+		"no of cases": "3236",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -107981,7 +107950,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3238",
+		"no of cases": "3237",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108012,7 +107981,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3239",
+		"no of cases": "3238",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108043,7 +108012,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3240",
+		"no of cases": "3239",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108074,7 +108043,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3241",
+		"no of cases": "3240",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108105,7 +108074,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3242",
+		"no of cases": "3241",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108136,7 +108105,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3243",
+		"no of cases": "3242",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108167,7 +108136,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3244",
+		"no of cases": "3243",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108198,7 +108167,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3245",
+		"no of cases": "3244",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108229,7 +108198,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3246",
+		"no of cases": "3245",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108260,7 +108229,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3247",
+		"no of cases": "3246",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108291,7 +108260,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3248",
+		"no of cases": "3247",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108322,7 +108291,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3249",
+		"no of cases": "3248",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108353,7 +108322,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3250",
+		"no of cases": "3249",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108384,7 +108353,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3251",
+		"no of cases": "3250",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108415,7 +108384,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3252",
+		"no of cases": "3251",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108446,7 +108415,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3253",
+		"no of cases": "3252",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108477,7 +108446,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3254",
+		"no of cases": "3253",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108508,7 +108477,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3255",
+		"no of cases": "3254",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "King",
@@ -108539,7 +108508,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3256",
+		"no of cases": "3255",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Cumberland",
@@ -108570,7 +108539,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3257",
+		"no of cases": "3256",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Cumberland",
@@ -108601,7 +108570,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3258",
+		"no of cases": "3257",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Lincoln",
@@ -108632,7 +108601,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3259",
+		"no of cases": "3258",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Cumberland",
@@ -108663,7 +108632,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3260",
+		"no of cases": "3259",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Cumberland",
@@ -108694,7 +108663,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3261",
+		"no of cases": "3260",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Philadelphia",
@@ -108725,7 +108694,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3262",
+		"no of cases": "3261",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Philadelphia",
@@ -108756,7 +108725,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3263",
+		"no of cases": "3262",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Rockingham",
@@ -108787,7 +108756,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3264",
+		"no of cases": "3263",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Rockingham",
@@ -108818,7 +108787,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3265",
+		"no of cases": "3264",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Rockingham",
@@ -108849,7 +108818,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3266",
+		"no of cases": "3265",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Rockingham",
@@ -108880,7 +108849,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3267",
+		"no of cases": "3266",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Rockingham",
@@ -108911,7 +108880,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3268",
+		"no of cases": "3267",
 		GFX: "y",
 		"State where treated": "New Hampshire",
 		"County where treated": "Hillsborough",
@@ -108942,7 +108911,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3269",
+		"no of cases": "3268",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Pierce",
@@ -108973,7 +108942,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3270",
+		"no of cases": "3269",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Pierce",
@@ -109004,7 +108973,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3271",
+		"no of cases": "3270",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Pierce",
@@ -109035,7 +109004,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3272",
+		"no of cases": "3271",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Chester",
@@ -109066,7 +109035,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3273",
+		"no of cases": "3272",
 		GFX: "y",
 		"State where treated": "Pennsylvania",
 		"County where treated": "Chester",
@@ -109097,7 +109066,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3274",
+		"no of cases": "3273",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Kitsap",
@@ -109128,7 +109097,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3275",
+		"no of cases": "3274",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Kitsap",
@@ -109159,7 +109128,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3276",
+		"no of cases": "3275",
 		GFX: "y",
 		"State where treated": "Virginia",
 		"County where treated": "Arlington",
@@ -109190,7 +109159,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3277",
+		"no of cases": "3276",
 		GFX: "y",
 		"State where treated": "Virginia",
 		"County where treated": "Virginia Beach city",
@@ -109221,7 +109190,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3278",
+		"no of cases": "3277",
 		GFX: "y",
 		"State where treated": "Virginia",
 		"County where treated": "Prince William",
@@ -109252,7 +109221,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3279",
+		"no of cases": "3278",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109283,7 +109252,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3280",
+		"no of cases": "3279",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109314,7 +109283,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3281",
+		"no of cases": "3280",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109345,7 +109314,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3282",
+		"no of cases": "3281",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109376,7 +109345,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3283",
+		"no of cases": "3282",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109407,7 +109376,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3284",
+		"no of cases": "3283",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109438,7 +109407,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3285",
+		"no of cases": "3284",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109469,7 +109438,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3286",
+		"no of cases": "3285",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109500,7 +109469,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3287",
+		"no of cases": "3286",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109531,7 +109500,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3288",
+		"no of cases": "3287",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109562,7 +109531,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3289",
+		"no of cases": "3288",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109593,7 +109562,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3290",
+		"no of cases": "3289",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109624,7 +109593,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3291",
+		"no of cases": "3290",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109655,7 +109624,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3292",
+		"no of cases": "3291",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109686,7 +109655,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3293",
+		"no of cases": "3292",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109717,7 +109686,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3294",
+		"no of cases": "3293",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109748,7 +109717,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3295",
+		"no of cases": "3294",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109779,7 +109748,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3296",
+		"no of cases": "3295",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109810,7 +109779,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3297",
+		"no of cases": "3296",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109841,7 +109810,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3298",
+		"no of cases": "3297",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109872,7 +109841,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3299",
+		"no of cases": "3298",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Snohomish",
@@ -109903,7 +109872,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3300",
+		"no of cases": "3299",
 		GFX: "y",
 		"State where treated": "Arizona",
 		"County where treated": "Pima",
@@ -109934,7 +109903,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3301",
+		"no of cases": "3300",
 		GFX: "y",
 		"State where treated": "New Mexico",
 		"County where treated": "Bernalillo",
@@ -109965,7 +109934,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3302",
+		"no of cases": "3301",
 		GFX: "y",
 		"State where treated": "New Mexico",
 		"County where treated": "Bernalillo",
@@ -109996,7 +109965,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3303",
+		"no of cases": "3302",
 		GFX: "y",
 		"State where treated": "New Mexico",
 		"County where treated": "Bernalillo",
@@ -110027,7 +109996,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3304",
+		"no of cases": "3303",
 		GFX: "y",
 		"State where treated": "New Mexico",
 		"County where treated": "Bernalillo",
@@ -110058,7 +110027,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3305",
+		"no of cases": "3304",
 		GFX: "y",
 		"State where treated": "Wisconsin",
 		"County where treated": "Milwaukee",
@@ -110089,7 +110058,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3306",
+		"no of cases": "3305",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Kent",
@@ -110120,7 +110089,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3307",
+		"no of cases": "3306",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Washtenaw",
@@ -110151,7 +110120,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3308",
+		"no of cases": "3307",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Washtenaw",
@@ -110182,7 +110151,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3309",
+		"no of cases": "3308",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Washtenaw",
@@ -110213,10 +110182,10 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3310",
+		"no of cases": "3309",
 		GFX: "y",
 		"State where treated": "Michigan",
-		"County where treated": "Detroit",
+		"County where treated": "Wayne",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
 		Age: "Adult",
@@ -110241,10 +110210,10 @@ var us_cases = [
 		nyt_state: "Michigan",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-15",
-		"validating county names": "BADBADBAD"
+		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3311",
+		"no of cases": "3310",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Oakland",
@@ -110275,10 +110244,10 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3312",
+		"no of cases": "3311",
 		GFX: "y",
 		"State where treated": "Michigan",
-		"County where treated": "Detroit",
+		"County where treated": "Wayne",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
 		Age: "Adult",
@@ -110303,10 +110272,10 @@ var us_cases = [
 		nyt_state: "Michigan",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-15",
-		"validating county names": "BADBADBAD"
+		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3313",
+		"no of cases": "3312",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Macomb",
@@ -110337,7 +110306,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3314",
+		"no of cases": "3313",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Oakland",
@@ -110368,7 +110337,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3315",
+		"no of cases": "3314",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Oakland",
@@ -110399,7 +110368,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3316",
+		"no of cases": "3315",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Wayne",
@@ -110430,7 +110399,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3317",
+		"no of cases": "3316",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Ottawa",
@@ -110461,7 +110430,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3318",
+		"no of cases": "3317",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Travis",
@@ -110492,7 +110461,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3319",
+		"no of cases": "3318",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Travis",
@@ -110523,7 +110492,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3320",
+		"no of cases": "3319",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110554,7 +110523,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3321",
+		"no of cases": "3320",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110585,7 +110554,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3322",
+		"no of cases": "3321",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110616,7 +110585,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3323",
+		"no of cases": "3322",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110647,7 +110616,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3324",
+		"no of cases": "3323",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110678,7 +110647,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3325",
+		"no of cases": "3324",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110709,7 +110678,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3326",
+		"no of cases": "3325",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110740,7 +110709,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3327",
+		"no of cases": "3326",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110771,7 +110740,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3328",
+		"no of cases": "3327",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110802,7 +110771,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3329",
+		"no of cases": "3328",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110833,7 +110802,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3330",
+		"no of cases": "3329",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110864,7 +110833,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3331",
+		"no of cases": "3330",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110895,7 +110864,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3332",
+		"no of cases": "3331",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110926,7 +110895,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3333",
+		"no of cases": "3332",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110957,7 +110926,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3334",
+		"no of cases": "3333",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -110988,7 +110957,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3335",
+		"no of cases": "3334",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -111019,7 +110988,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3336",
+		"no of cases": "3335",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -111050,7 +111019,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3337",
+		"no of cases": "3336",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -111081,7 +111050,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3338",
+		"no of cases": "3337",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Nassau",
@@ -111112,7 +111081,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3339",
+		"no of cases": "3338",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Denton",
@@ -111143,7 +111112,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3340",
+		"no of cases": "3339",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Dutchess",
@@ -111174,7 +111143,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3341",
+		"no of cases": "3340",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Dutchess",
@@ -111205,7 +111174,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3342",
+		"no of cases": "3341",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Dutchess",
@@ -111236,7 +111205,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3343",
+		"no of cases": "3342",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Rockland",
@@ -111267,7 +111236,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3344",
+		"no of cases": "3343",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "Fairfield",
@@ -111298,7 +111267,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3345",
+		"no of cases": "3344",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "Litchfield",
@@ -111329,7 +111298,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3346",
+		"no of cases": "3345",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "Litchfield",
@@ -111360,7 +111329,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3347",
+		"no of cases": "3346",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "Litchfield",
@@ -111391,7 +111360,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3348",
+		"no of cases": "3347",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "New Haven",
@@ -111422,7 +111391,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3349",
+		"no of cases": "3348",
 		GFX: "y",
 		"State where treated": "Connecticut",
 		"County where treated": "New Haven",
@@ -111453,7 +111422,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3350",
+		"no of cases": "3349",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111484,7 +111453,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3351",
+		"no of cases": "3350",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111515,7 +111484,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3352",
+		"no of cases": "3351",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111546,7 +111515,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3353",
+		"no of cases": "3352",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111577,7 +111546,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3354",
+		"no of cases": "3353",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111608,7 +111577,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3355",
+		"no of cases": "3354",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111639,7 +111608,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3356",
+		"no of cases": "3355",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111670,7 +111639,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3357",
+		"no of cases": "3356",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111701,7 +111670,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3358",
+		"no of cases": "3357",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111732,7 +111701,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3359",
+		"no of cases": "3358",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111763,7 +111732,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3360",
+		"no of cases": "3359",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111794,7 +111763,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3361",
+		"no of cases": "3360",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111825,7 +111794,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3362",
+		"no of cases": "3361",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111856,7 +111825,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3363",
+		"no of cases": "3362",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111887,7 +111856,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3364",
+		"no of cases": "3363",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111918,7 +111887,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3365",
+		"no of cases": "3364",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111949,7 +111918,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3366",
+		"no of cases": "3365",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -111980,7 +111949,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3367",
+		"no of cases": "3366",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112011,7 +111980,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3368",
+		"no of cases": "3367",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112042,7 +112011,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3369",
+		"no of cases": "3368",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112073,7 +112042,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3370",
+		"no of cases": "3369",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112104,7 +112073,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3371",
+		"no of cases": "3370",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112135,7 +112104,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3372",
+		"no of cases": "3371",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112166,7 +112135,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3373",
+		"no of cases": "3372",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112197,7 +112166,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3374",
+		"no of cases": "3373",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112228,7 +112197,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3375",
+		"no of cases": "3374",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112259,7 +112228,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3376",
+		"no of cases": "3375",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112290,7 +112259,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3377",
+		"no of cases": "3376",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112321,7 +112290,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3378",
+		"no of cases": "3377",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112352,7 +112321,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3379",
+		"no of cases": "3378",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112383,7 +112352,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3380",
+		"no of cases": "3379",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112414,7 +112383,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3381",
+		"no of cases": "3380",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112445,7 +112414,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3382",
+		"no of cases": "3381",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112476,7 +112445,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3383",
+		"no of cases": "3382",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112507,7 +112476,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3384",
+		"no of cases": "3383",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112538,7 +112507,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3385",
+		"no of cases": "3384",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112569,7 +112538,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3386",
+		"no of cases": "3385",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112600,7 +112569,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3387",
+		"no of cases": "3386",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112631,7 +112600,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3388",
+		"no of cases": "3387",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112662,7 +112631,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3389",
+		"no of cases": "3388",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112693,7 +112662,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3390",
+		"no of cases": "3389",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112724,7 +112693,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3391",
+		"no of cases": "3390",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112755,7 +112724,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3392",
+		"no of cases": "3391",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112786,7 +112755,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3393",
+		"no of cases": "3392",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112817,7 +112786,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3394",
+		"no of cases": "3393",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112848,7 +112817,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3395",
+		"no of cases": "3394",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112879,7 +112848,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3396",
+		"no of cases": "3395",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112910,7 +112879,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3397",
+		"no of cases": "3396",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112941,7 +112910,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3398",
+		"no of cases": "3397",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -112972,7 +112941,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3399",
+		"no of cases": "3398",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113003,7 +112972,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3400",
+		"no of cases": "3399",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113034,7 +113003,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3401",
+		"no of cases": "3400",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113065,7 +113034,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3402",
+		"no of cases": "3401",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113096,7 +113065,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3403",
+		"no of cases": "3402",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113127,7 +113096,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3404",
+		"no of cases": "3403",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113158,7 +113127,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3405",
+		"no of cases": "3404",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113189,7 +113158,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3406",
+		"no of cases": "3405",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113220,7 +113189,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3407",
+		"no of cases": "3406",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113251,7 +113220,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3408",
+		"no of cases": "3407",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113282,7 +113251,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3409",
+		"no of cases": "3408",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113313,7 +113282,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3410",
+		"no of cases": "3409",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "New York",
@@ -113344,7 +113313,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3411",
+		"no of cases": "3410",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113375,7 +113344,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3412",
+		"no of cases": "3411",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113406,7 +113375,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3413",
+		"no of cases": "3412",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113437,7 +113406,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3414",
+		"no of cases": "3413",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113468,7 +113437,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3415",
+		"no of cases": "3414",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113499,7 +113468,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3416",
+		"no of cases": "3415",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113530,7 +113499,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3417",
+		"no of cases": "3416",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113561,7 +113530,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3418",
+		"no of cases": "3417",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113592,7 +113561,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3419",
+		"no of cases": "3418",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113623,7 +113592,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3420",
+		"no of cases": "3419",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113654,7 +113623,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3421",
+		"no of cases": "3420",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113685,7 +113654,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3422",
+		"no of cases": "3421",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113716,7 +113685,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3423",
+		"no of cases": "3422",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113747,7 +113716,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3424",
+		"no of cases": "3423",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113778,7 +113747,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3425",
+		"no of cases": "3424",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113809,7 +113778,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3426",
+		"no of cases": "3425",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113840,7 +113809,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3427",
+		"no of cases": "3426",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Westchester",
@@ -113871,7 +113840,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3428",
+		"no of cases": "3427",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -113902,7 +113871,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3429",
+		"no of cases": "3428",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -113933,7 +113902,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3430",
+		"no of cases": "3429",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -113964,7 +113933,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3431",
+		"no of cases": "3430",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -113995,7 +113964,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3432",
+		"no of cases": "3431",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114026,7 +113995,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3433",
+		"no of cases": "3432",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114057,7 +114026,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3434",
+		"no of cases": "3433",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114088,7 +114057,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3435",
+		"no of cases": "3434",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114119,7 +114088,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3436",
+		"no of cases": "3435",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114150,7 +114119,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3437",
+		"no of cases": "3436",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Orleans",
@@ -114181,7 +114150,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3438",
+		"no of cases": "3437",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Jefferson",
@@ -114212,7 +114181,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3439",
+		"no of cases": "3438",
 		GFX: "y",
 		"State where treated": "Louisiana",
 		"County where treated": "Jefferson",
@@ -114243,7 +114212,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3440",
+		"no of cases": "3439",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114274,7 +114243,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3441",
+		"no of cases": "3440",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114305,7 +114274,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3442",
+		"no of cases": "3441",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114336,7 +114305,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3443",
+		"no of cases": "3442",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114367,7 +114336,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3444",
+		"no of cases": "3443",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114398,7 +114367,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3445",
+		"no of cases": "3444",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Suffolk",
@@ -114429,7 +114398,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3446",
+		"no of cases": "3445",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Schenectady",
@@ -114460,7 +114429,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3447",
+		"no of cases": "3446",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Montgomery",
@@ -114491,7 +114460,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3448",
+		"no of cases": "3447",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Greene",
@@ -114522,7 +114491,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3449",
+		"no of cases": "3448",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Greene",
@@ -114553,7 +114522,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3450",
+		"no of cases": "3449",
 		GFX: "y",
 		"State where treated": "Maryland",
 		"County where treated": "Howard",
@@ -114584,7 +114553,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3451",
+		"no of cases": "3450",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Putnam",
@@ -114615,7 +114584,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3452",
+		"no of cases": "3451",
 		GFX: "y",
 		"State where treated": "New York",
 		"County where treated": "Putnam",
@@ -114646,7 +114615,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3453",
+		"no of cases": "3452",
 		GFX: "y",
 		"State where treated": "Kentucky",
 		"County where treated": "Jefferson",
@@ -114677,7 +114646,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3454",
+		"no of cases": "3453",
 		GFX: "y",
 		"State where treated": "Oregon",
 		"County where treated": "Yamhill",
@@ -114708,7 +114677,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3455",
+		"no of cases": "3454",
 		GFX: "y",
 		"State where treated": "Oregon",
 		"County where treated": "Deschutes",
@@ -114739,7 +114708,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3456",
+		"no of cases": "3455",
 		GFX: "y",
 		"State where treated": "Oregon",
 		"County where treated": "Linn",
@@ -114770,7 +114739,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3457",
+		"no of cases": "3456",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Lewis",
@@ -114801,7 +114770,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3458",
+		"no of cases": "3457",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Skagit",
@@ -114832,7 +114801,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3459",
+		"no of cases": "3458",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Yakima",
@@ -114863,7 +114832,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3460",
+		"no of cases": "3459",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Whatcom",
@@ -114894,7 +114863,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3461",
+		"no of cases": "3460",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Lincoln",
@@ -114925,7 +114894,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3462",
+		"no of cases": "3461",
 		GFX: "y",
 		"State where treated": "Hawaii",
 		"County where treated": "Honolulu",
@@ -114956,7 +114925,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3463",
+		"no of cases": "3462",
 		GFX: "y",
 		"State where treated": "Hawaii",
 		"County where treated": "Maui",
@@ -114987,7 +114956,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3464",
+		"no of cases": "3463",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Jefferson",
@@ -115018,7 +114987,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3465",
+		"no of cases": "3464",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Jefferson",
@@ -115049,7 +115018,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3466",
+		"no of cases": "3465",
 		GFX: "y",
 		"State where treated": "Nebraska",
 		"County where treated": "Douglas",
@@ -115080,7 +115049,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3467",
+		"no of cases": "3466",
 		GFX: "y",
 		"State where treated": "Nebraska",
 		"County where treated": "Douglas",
@@ -115111,7 +115080,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3468",
+		"no of cases": "3467",
 		GFX: "y",
 		"State where treated": "Hawaii",
 		"County where treated": "Honolulu",
@@ -115142,7 +115111,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3469",
+		"no of cases": "3468",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115173,7 +115142,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3470",
+		"no of cases": "3469",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115204,7 +115173,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3471",
+		"no of cases": "3470",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115235,7 +115204,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3472",
+		"no of cases": "3471",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115266,7 +115235,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3473",
+		"no of cases": "3472",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115297,7 +115266,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3474",
+		"no of cases": "3473",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Jefferson",
@@ -115328,7 +115297,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3475",
+		"no of cases": "3474",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Lee",
@@ -115359,7 +115328,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3476",
+		"no of cases": "3475",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Shelby",
@@ -115390,7 +115359,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3477",
+		"no of cases": "3476",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Shelby",
@@ -115421,7 +115390,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3478",
+		"no of cases": "3477",
 		GFX: "y",
 		"State where treated": "Alabama",
 		"County where treated": "Tuscaloosa",
@@ -115483,7 +115452,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3480",
+		"no of cases": "3479",
 		GFX: "y",
 		"State where treated": "Washington",
 		"County where treated": "Thurston",
@@ -115514,7 +115483,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3481",
+		"no of cases": "3480",
 		GFX: "y",
 		"State where treated": "Kansas",
 		"County where treated": "Johnson",
@@ -115545,7 +115514,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3482",
+		"no of cases": "3481",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -115576,7 +115545,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3483",
+		"no of cases": "3482",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -115607,7 +115576,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3484",
+		"no of cases": "3483",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -115638,7 +115607,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3485",
+		"no of cases": "3484",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -115669,7 +115638,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3486",
+		"no of cases": "3485",
 		GFX: "y",
 		"State where treated": "Nevada",
 		"County where treated": "Washoe",
@@ -115700,7 +115669,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3487",
+		"no of cases": "3486",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Solano",
@@ -115762,7 +115731,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3489",
+		"no of cases": "3488",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Unknown",
@@ -115793,7 +115762,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3490",
+		"no of cases": "3489",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Unknown",
@@ -115824,7 +115793,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3491",
+		"no of cases": "3490",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Unknown",
@@ -115855,7 +115824,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3492",
+		"no of cases": "3491",
 		GFX: "y",
 		"State where treated": "Maine",
 		"County where treated": "Unknown",
@@ -115886,7 +115855,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3493",
+		"no of cases": "3492",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Harris",
@@ -115917,7 +115886,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3494",
+		"no of cases": "3493",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Harris",
@@ -115948,7 +115917,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3495",
+		"no of cases": "3494",
 		GFX: "y",
 		"State where treated": "Iowa",
 		"County where treated": "Allamakee",
@@ -115979,7 +115948,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3496",
+		"no of cases": "3495",
 		GFX: "y",
 		"State where treated": "Iowa",
 		"County where treated": "Allamakee",
@@ -116010,7 +115979,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3497",
+		"no of cases": "3496",
 		GFX: "y",
 		"State where treated": "Iowa",
 		"County where treated": "Johnson",
@@ -116041,7 +116010,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3498",
+		"no of cases": "3497",
 		GFX: "y",
 		"State where treated": "Iowa",
 		"County where treated": "Polk",
@@ -116072,7 +116041,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3499",
+		"no of cases": "3498",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -116103,7 +116072,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3500",
+		"no of cases": "3499",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -116134,7 +116103,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3501",
+		"no of cases": "3500",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -116165,7 +116134,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3502",
+		"no of cases": "3501",
 		GFX: "y",
 		"State where treated": "Colorado",
 		"County where treated": "Boulder",
@@ -116289,7 +116258,7 @@ var us_cases = [
 		"validating county names": "all good"
 	},
 	{
-		"no of cases": "3506",
+		"no of cases": "3505",
 		GFX: "y",
 		"State where treated": "Texas",
 		"County where treated": "Smith",
@@ -116320,7 +116289,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3507",
+		"no of cases": "3506",
 		GFX: "y",
 		"State where treated": "Oklahoma",
 		"County where treated": "Kay",
@@ -116351,7 +116320,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3508",
+		"no of cases": "3507",
 		GFX: "y",
 		"State where treated": "Ohio",
 		"County where treated": "Stark",
@@ -116382,7 +116351,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3509",
+		"no of cases": "3508",
 		GFX: "y",
 		"State where treated": "District of Columbia",
 		"County where treated": "District of Columbia",
@@ -116413,7 +116382,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3510",
+		"no of cases": "3509",
 		GFX: "y",
 		"State where treated": "Mississippi",
 		"County where treated": "Copiah",
@@ -116444,7 +116413,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3511",
+		"no of cases": "3510",
 		GFX: "y",
 		"State where treated": "Mississippi",
 		"County where treated": "Hinds",
@@ -116475,7 +116444,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3512",
+		"no of cases": "3511",
 		GFX: "y",
 		"State where treated": "Mississippi",
 		"County where treated": "Hinds",
@@ -116506,7 +116475,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3513",
+		"no of cases": "3512",
 		GFX: "y",
 		"State where treated": "Mississippi",
 		"County where treated": "Pearl River",
@@ -116537,7 +116506,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3514",
+		"no of cases": "3513",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Essex",
@@ -116568,7 +116537,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3515",
+		"no of cases": "3514",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Hampden",
@@ -116599,7 +116568,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3516",
+		"no of cases": "3515",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116630,7 +116599,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3517",
+		"no of cases": "3516",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116661,7 +116630,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3518",
+		"no of cases": "3517",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116692,7 +116661,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3519",
+		"no of cases": "3518",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116723,7 +116692,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3520",
+		"no of cases": "3519",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116754,7 +116723,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3521",
+		"no of cases": "3520",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116785,7 +116754,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3522",
+		"no of cases": "3521",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116816,7 +116785,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3523",
+		"no of cases": "3522",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116847,7 +116816,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3524",
+		"no of cases": "3523",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116878,7 +116847,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3525",
+		"no of cases": "3524",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Middlesex",
@@ -116909,7 +116878,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3526",
+		"no of cases": "3525",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Norfolk",
@@ -116940,7 +116909,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3527",
+		"no of cases": "3526",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Norfolk",
@@ -116971,7 +116940,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3528",
+		"no of cases": "3527",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Norfolk",
@@ -117002,7 +116971,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3529",
+		"no of cases": "3528",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Plymouth",
@@ -117033,7 +117002,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3530",
+		"no of cases": "3529",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Suffolk",
@@ -117064,7 +117033,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3531",
+		"no of cases": "3530",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Suffolk",
@@ -117095,7 +117064,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3532",
+		"no of cases": "3531",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Suffolk",
@@ -117126,7 +117095,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3533",
+		"no of cases": "3532",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Suffolk",
@@ -117157,7 +117126,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3534",
+		"no of cases": "3533",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Worcester",
@@ -117188,7 +117157,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3535",
+		"no of cases": "3534",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Worcester",
@@ -117219,7 +117188,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3536",
+		"no of cases": "3535",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Worcester",
@@ -117250,7 +117219,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3537",
+		"no of cases": "3536",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Worcester",
@@ -117281,7 +117250,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3538",
+		"no of cases": "3537",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Unknown",
@@ -117312,7 +117281,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3539",
+		"no of cases": "3538",
 		GFX: "y",
 		"State where treated": "Massachusetts",
 		"County where treated": "Unknown",
@@ -117343,7 +117312,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3540",
+		"no of cases": "3539",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Sonoma",
@@ -117374,7 +117343,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3541",
+		"no of cases": "3540",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Sacramento",
@@ -117405,7 +117374,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3542",
+		"no of cases": "3541",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Sacramento",
@@ -117436,7 +117405,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3543",
+		"no of cases": "3542",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Sacramento",
@@ -117467,7 +117436,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3544",
+		"no of cases": "3543",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Sacramento",
@@ -117498,7 +117467,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3545",
+		"no of cases": "3544",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "St. Clair",
@@ -117529,7 +117498,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3546",
+		"no of cases": "3545",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Macomb",
@@ -117560,7 +117529,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3547",
+		"no of cases": "3546",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Macomb",
@@ -117591,7 +117560,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3548",
+		"no of cases": "3547",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Wayne",
@@ -117622,7 +117591,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3549",
+		"no of cases": "3548",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Oakland",
@@ -117653,7 +117622,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3550",
+		"no of cases": "3549",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Oakland",
@@ -117684,10 +117653,10 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3551",
+		"no of cases": "3550",
 		GFX: "y",
 		"State where treated": "Michigan",
-		"County where treated": "Detroit",
+		"County where treated": "Wayne",
 		"Place of residence, if known to be different": "",
 		Gender: "Female",
 		Age: "Adult",
@@ -117715,7 +117684,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3552",
+		"no of cases": "3551",
 		GFX: "y",
 		"State where treated": "Michigan",
 		"County where treated": "Kent",
@@ -117746,7 +117715,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3553",
+		"no of cases": "3552",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117777,7 +117746,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3554",
+		"no of cases": "3553",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117808,7 +117777,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3555",
+		"no of cases": "3554",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117839,7 +117808,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3556",
+		"no of cases": "3555",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117870,7 +117839,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3557",
+		"no of cases": "3556",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117901,7 +117870,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3558",
+		"no of cases": "3557",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Francisco",
@@ -117932,7 +117901,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3559",
+		"no of cases": "3558",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Orange",
@@ -117963,7 +117932,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3560",
+		"no of cases": "3559",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Orange",
@@ -117994,7 +117963,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3561",
+		"no of cases": "3560",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Orange",
@@ -118025,7 +117994,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3562",
+		"no of cases": "3561",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118056,7 +118025,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3563",
+		"no of cases": "3562",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118087,7 +118056,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3564",
+		"no of cases": "3563",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118118,7 +118087,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3565",
+		"no of cases": "3564",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118149,7 +118118,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3566",
+		"no of cases": "3565",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118180,7 +118149,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3567",
+		"no of cases": "3566",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118211,7 +118180,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3568",
+		"no of cases": "3567",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118242,7 +118211,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3569",
+		"no of cases": "3568",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Alameda",
@@ -118273,7 +118242,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3570",
+		"no of cases": "3569",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Riverside",
@@ -118304,7 +118273,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3571",
+		"no of cases": "3570",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "Riverside",
@@ -118335,7 +118304,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3572",
+		"no of cases": "3571",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Bernardino",
@@ -118366,7 +118335,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3573",
+		"no of cases": "3572",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118397,7 +118366,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3574",
+		"no of cases": "3573",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118428,7 +118397,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3575",
+		"no of cases": "3574",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118459,7 +118428,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3576",
+		"no of cases": "3575",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118490,7 +118459,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3577",
+		"no of cases": "3576",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118521,7 +118490,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3578",
+		"no of cases": "3577",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118552,7 +118521,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3579",
+		"no of cases": "3578",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118583,7 +118552,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3580",
+		"no of cases": "3579",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118614,7 +118583,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3581",
+		"no of cases": "3580",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118645,7 +118614,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3582",
+		"no of cases": "3581",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118676,7 +118645,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3583",
+		"no of cases": "3582",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118707,7 +118676,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3584",
+		"no of cases": "3583",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118738,7 +118707,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3585",
+		"no of cases": "3584",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118769,7 +118738,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3586",
+		"no of cases": "3585",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118800,7 +118769,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3587",
+		"no of cases": "3586",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118831,7 +118800,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3588",
+		"no of cases": "3587",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118862,7 +118831,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3589",
+		"no of cases": "3588",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118893,7 +118862,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3590",
+		"no of cases": "3589",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118924,7 +118893,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3591",
+		"no of cases": "3590",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118955,7 +118924,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3592",
+		"no of cases": "3591",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -118986,7 +118955,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3593",
+		"no of cases": "3592",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119017,7 +118986,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3594",
+		"no of cases": "3593",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119048,7 +119017,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3595",
+		"no of cases": "3594",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119079,7 +119048,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3596",
+		"no of cases": "3595",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119110,7 +119079,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3597",
+		"no of cases": "3596",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119141,7 +119110,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3598",
+		"no of cases": "3597",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119172,7 +119141,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3599",
+		"no of cases": "3598",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119203,7 +119172,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3600",
+		"no of cases": "3599",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119234,7 +119203,7 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "3601",
+		"no of cases": "3600",
 		GFX: "y",
 		"State where treated": "California",
 		"County where treated": "San Diego",
@@ -119265,19 +119234,19 @@ var us_cases = [
 		"validating county names": ""
 	},
 	{
-		"no of cases": "2830",
+		"no of cases": "2827",
 		GFX: "y",
-		"State where treated": "Delaware",
-		"County where treated": "New Castle",
+		"State where treated": "Wisconsin",
+		"County where treated": "Fond du Lac",
 		"Place of residence, if known to be different": "",
 		Gender: "Unknown",
 		Age: "Unknown",
 		"Date announced": "3/15/2020",
 		died: "",
 		Condition: "Unknown",
-		"How contracted?": "Unknown",
-		nyt_contracted: "Unknown",
-		"Contracted in United States?": "Unknown",
+		"How contracted?": "Cruise in Egypt",
+		nyt_contracted: "Travel in Egypt",
+		"Contracted in United States?": "No",
 		Hospital: "",
 		"Press release": "Link",
 		"Press release 2": "",
@@ -119289,8 +119258,8 @@ var us_cases = [
 		Name: "",
 		"Family contact": "",
 		old_county_where_treated_nyc: "",
-		graphics_id: "2864",
-		nyt_state: "Delaware",
+		graphics_id: "2861",
+		nyt_state: "Wisconsin",
 		nyt_died: "FALSE",
 		nyt_date: "2020-03-15",
 		"validating county names": "all good"
@@ -119320,9 +119289,9 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "count_only",
 		asia_map_label_desktop_only: "",
-		confirmed: 446,
+		confirmed: 452,
 		deaths: 8,
-		recovered: 358
+		recovered: 360
 	},
 	{
 		adm0_a3: "CHN",
@@ -119387,7 +119356,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 252,
 		deaths: 2,
-		recovered: 247
+		recovered: 248
 	},
 	{
 		adm0_a3: "CHN",
@@ -119400,7 +119369,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 146,
 		deaths: 2,
-		recovered: 143
+		recovered: 144
 	},
 	{
 		adm0_a3: "CHN",
@@ -119413,7 +119382,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 168,
 		deaths: 6,
-		recovered: 160
+		recovered: 161
 	},
 	{
 		adm0_a3: "CHN",
@@ -119439,7 +119408,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 482,
 		deaths: 13,
-		recovered: 454
+		recovered: 455
 	},
 	{
 		adm0_a3: "CHN",
@@ -119465,7 +119434,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 67798,
 		deaths: 3099,
-		recovered: 55094
+		recovered: 55142
 	},
 	{
 		adm0_a3: "CHN",
@@ -119491,7 +119460,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 75,
 		deaths: 1,
-		recovered: 71
+		recovered: 73
 	},
 	{
 		adm0_a3: "CHN",
@@ -119543,7 +119512,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 125,
 		deaths: 1,
-		recovered: 114
+		recovered: 115
 	},
 	{
 		adm0_a3: "CHN",
@@ -119556,7 +119525,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 75,
 		deaths: 0,
-		recovered: 73
+		recovered: 75
 	},
 	{
 		adm0_a3: "CHN",
@@ -119582,7 +119551,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 245,
 		deaths: 2,
-		recovered: 232
+		recovered: 233
 	},
 	{
 		adm0_a3: "CHN",
@@ -119595,7 +119564,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 760,
 		deaths: 7,
-		recovered: 743
+		recovered: 746
 	},
 	{
 		adm0_a3: "CHN",
@@ -119608,7 +119577,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 355,
 		deaths: 3,
-		recovered: 324
+		recovered: 325
 	},
 	{
 		adm0_a3: "CHN",
@@ -119699,7 +119668,7 @@ var china_provinces = [
 		asia_map_label_desktop_only: "",
 		confirmed: 1231,
 		deaths: 1,
-		recovered: 1213
+		recovered: 1216
 	},
 	{
 		adm0_a3: "AUS",
@@ -119710,7 +119679,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 134,
+		confirmed: 171,
 		deaths: 2,
 		recovered: 4
 	},
@@ -119723,7 +119692,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 61,
+		confirmed: 68,
 		deaths: 0,
 		recovered: 8
 	},
@@ -119736,7 +119705,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 20,
+		confirmed: 29,
 		deaths: 0,
 		recovered: 3
 	},
@@ -119749,7 +119718,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 57,
+		confirmed: 71,
 		deaths: 0,
 		recovered: 8
 	},
@@ -119775,7 +119744,7 @@ var china_provinces = [
 		nyt_name: "",
 		asia_map_label: "",
 		asia_map_label_desktop_only: "",
-		confirmed: 17,
+		confirmed: 28,
 		deaths: 1,
 		recovered: 0
 	},
@@ -119881,7 +119850,7 @@ var countries = [
 		confirmed: 98,
 		deaths: 0,
 		recovered: 23,
-		jhu_id: 29,
+		jhu_id: 32,
 		unique: "United Arab Emirates"
 	},
 	{
@@ -119915,10 +119884,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 16,
+		confirmed: 21,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 38,
+		jhu_id: 41,
 		unique: "Afghanistan"
 	},
 	{
@@ -119955,7 +119924,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 109,
+		jhu_id: 115,
 		unique: "Antigua and Barbuda"
 	},
 	{
@@ -119989,10 +119958,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 42,
+		confirmed: 51,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 28,
+		jhu_id: 25,
 		unique: "Albania"
 	},
 	{
@@ -120026,10 +119995,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 26,
+		confirmed: 30,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 54,
+		jhu_id: 59,
 		unique: "Armenia"
 	},
 	{
@@ -120063,10 +120032,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 46,
+		confirmed: 56,
 		deaths: 2,
 		recovered: 1,
-		jhu_id: 49,
+		jhu_id: 53,
 		unique: "Argentina"
 	},
 	{
@@ -120100,10 +120069,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 860,
-		deaths: 1,
+		confirmed: 1018,
+		deaths: 3,
 		recovered: 6,
-		jhu_id: 71,
+		jhu_id: 76,
 		unique: "Austria"
 	},
 	{
@@ -120137,10 +120106,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 297,
+		confirmed: 377,
 		deaths: 3,
 		recovered: 23,
-		jhu_id: 83,
+		jhu_id: 88,
 		unique: "Australia"
 	},
 	{
@@ -120211,10 +120180,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 23,
+		confirmed: 15,
 		deaths: 1,
 		recovered: 6,
-		jhu_id: 33,
+		jhu_id: 36,
 		unique: "Azerbaijan"
 	},
 	{
@@ -120285,10 +120254,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 5,
+		confirmed: 8,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 39,
+		jhu_id: 42,
 		unique: "Bangladesh"
 	},
 	{
@@ -120322,10 +120291,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 886,
-		deaths: 4,
+		confirmed: 1058,
+		deaths: 5,
 		recovered: 1,
-		jhu_id: 88,
+		jhu_id: 94,
 		unique: "Belgium"
 	},
 	{
@@ -120359,7 +120328,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 7,
+		confirmed: 15,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 10,
@@ -120396,10 +120365,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 51,
+		confirmed: 52,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 64,
+		jhu_id: 69,
 		unique: "Bulgaria"
 	},
 	{
@@ -120440,6 +120409,43 @@ var countries = [
 		unique: "Bahrain"
 	},
 	{
+		nyt_id: "24",
+		adm0_a3: "BEN",
+		nyt_name: "Benin",
+		lat: 9.308,
+		lon: 2.316,
+		jhu_country_region: "Benin",
+		jhu_state_province: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		primary_data: "",
+		nyt_reporter: "",
+		scraping_status: "",
+		mobile_table_name: "Benin",
+		world_map_label_name: "Benin",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		jhu_timeline_fix: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0,
+		jhu_id: 54,
+		unique: "Benin"
+	},
+	{
 		nyt_id: "26",
 		adm0_a3: "BRN",
 		nyt_name: "Brunei",
@@ -120470,10 +120476,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 50,
+		confirmed: 54,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 82,
+		jhu_id: 87,
 		unique: "Brunei"
 	},
 	{
@@ -120507,7 +120513,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 10,
+		confirmed: 11,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 8,
@@ -120547,7 +120553,7 @@ var countries = [
 		confirmed: 200,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 73,
+		jhu_id: 78,
 		unique: "Brazil"
 	},
 	{
@@ -120584,7 +120590,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 74,
+		jhu_id: 79,
 		unique: "The Bahamas"
 	},
 	{
@@ -120621,7 +120627,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 116,
+		jhu_id: 122,
 		unique: "Bhutan"
 	},
 	{
@@ -120655,10 +120661,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 27,
+		confirmed: 36,
 		deaths: 0,
 		recovered: 3,
-		jhu_id: 138,
+		jhu_id: 145,
 		unique: "Belarus"
 	},
 	{
@@ -120732,7 +120738,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 121,
+		jhu_id: 127,
 		unique: "Congo (Kinshasa)"
 	},
 	{
@@ -120769,7 +120775,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 60,
+		jhu_id: 65,
 		unique: "Central African Republic"
 	},
 	{
@@ -120806,7 +120812,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 34,
+		jhu_id: 37,
 		unique: "Congo (Brazzaville)"
 	},
 	{
@@ -120843,7 +120849,7 @@ var countries = [
 		confirmed: 1563,
 		deaths: 13,
 		recovered: 4,
-		jhu_id: 98,
+		jhu_id: 105,
 		unique: "Switzerland"
 	},
 	{
@@ -120880,7 +120886,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 128,
+		jhu_id: 134,
 		unique: "Cote d'Ivoire"
 	},
 	{
@@ -120914,10 +120920,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 75,
+		confirmed: 155,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 87,
+		jhu_id: 92,
 		unique: "Chile"
 	},
 	{
@@ -120988,10 +120994,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 34,
+		confirmed: 54,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 110,
+		jhu_id: 116,
 		unique: "Colombia"
 	},
 	{
@@ -121028,7 +121034,7 @@ var countries = [
 		confirmed: 35,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 76,
+		jhu_id: 81,
 		unique: "Costa Rica"
 	},
 	{
@@ -121065,7 +121071,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 50,
+		jhu_id: 55,
 		unique: "Cuba"
 	},
 	{
@@ -121102,7 +121108,7 @@ var countries = [
 		confirmed: 33,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 113,
+		jhu_id: 119,
 		unique: "Cyprus"
 	},
 	{
@@ -121136,10 +121142,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 293,
+		confirmed: 298,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 86,
+		jhu_id: 91,
 		unique: "Czechia"
 	},
 	{
@@ -121175,7 +121181,7 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 4838,
 		deaths: 12,
-		recovered: 46,
+		recovered: 58,
 		jhu_id: 17,
 		unique: "Germany"
 	},
@@ -121210,10 +121216,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 864,
-		deaths: 2,
+		confirmed: 898,
+		deaths: 3,
 		recovered: 1,
-		jhu_id: 75,
+		jhu_id: 78,
 		unique: "Denmark, Denmark"
 	},
 	{
@@ -121250,7 +121256,7 @@ var countries = [
 		confirmed: 11,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 55,
+		jhu_id: 60,
 		unique: "Dominican Republic"
 	},
 	{
@@ -121284,10 +121290,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 48,
+		confirmed: 54,
 		deaths: 4,
 		recovered: 12,
-		jhu_id: 85,
+		jhu_id: 90,
 		unique: "Algeria"
 	},
 	{
@@ -121324,7 +121330,7 @@ var countries = [
 		confirmed: 37,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 81,
+		jhu_id: 86,
 		unique: "Ecuador"
 	},
 	{
@@ -121358,10 +121364,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 171,
+		confirmed: 205,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 102,
+		jhu_id: 108,
 		unique: "Estonia"
 	},
 	{
@@ -121398,7 +121404,7 @@ var countries = [
 		confirmed: 126,
 		deaths: 2,
 		recovered: 27,
-		jhu_id: 108,
+		jhu_id: 114,
 		unique: "Egypt"
 	},
 	{
@@ -121415,7 +121421,7 @@ var countries = [
 		travel_warning: "3",
 		source: "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm",
 		override_count: "7753",
-		override_deaths: "136",
+		override_deaths: "288",
 		override_date: "Mar. 14",
 		override_fixed: "y",
 		primary_data: "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm",
@@ -121433,8 +121439,8 @@ var countries = [
 		sentence_name: "",
 		jhu_timeline_fix: "",
 		confirmed: 7753,
-		deaths: 136,
-		recovered: 517,
+		deaths: 288,
+		recovered: 530,
 		jhu_id: 18,
 		unique: "Spain"
 	},
@@ -121469,7 +121475,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 4,
+		confirmed: 5,
 		deaths: 0,
 		recovered: 0,
 		jhu_id: 5,
@@ -121506,10 +121512,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 244,
+		confirmed: 277,
 		deaths: 0,
 		recovered: 10,
-		jhu_id: 58,
+		jhu_id: 63,
 		unique: "Finland"
 	},
 	{
@@ -121543,10 +121549,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 11,
+		confirmed: 18,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 121,
+		jhu_id: 124,
 		unique: "Faroe Islands, Denmark"
 	},
 	{
@@ -121583,7 +121589,7 @@ var countries = [
 		confirmed: 5423,
 		deaths: 127,
 		recovered: 12,
-		jhu_id: 44,
+		jhu_id: 47,
 		unique: "France"
 	},
 	{
@@ -121620,7 +121626,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 23,
+		jhu_id: 26,
 		unique: "Gabon"
 	},
 	{
@@ -121694,7 +121700,7 @@ var countries = [
 		confirmed: 33,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 91,
+		jhu_id: 97,
 		unique: "Georgia"
 	},
 	{
@@ -121731,7 +121737,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 97,
+		jhu_id: 104,
 		unique: "Guernsey"
 	},
 	{
@@ -121768,7 +121774,7 @@ var countries = [
 		confirmed: 6,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 57,
+		jhu_id: 62,
 		unique: "Ghana"
 	},
 	{
@@ -121839,10 +121845,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 3,
+		confirmed: 6,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 139,
+		jhu_id: 146,
 		unique: "Guadeloupe"
 	},
 	{
@@ -121879,7 +121885,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 141,
+		jhu_id: 148,
 		unique: "Equatorial Guinea"
 	},
 	{
@@ -121916,7 +121922,7 @@ var countries = [
 		confirmed: 331,
 		deaths: 4,
 		recovered: 8,
-		jhu_id: 146,
+		jhu_id: 153,
 		unique: "Greece"
 	},
 	{
@@ -121990,7 +121996,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 137,
+		jhu_id: 144,
 		unique: "Guyana"
 	},
 	{
@@ -122024,10 +122030,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 149,
+		confirmed: 155,
 		deaths: 4,
 		recovered: 84,
-		jhu_id: 147,
+		jhu_id: 150,
 		unique: "Hong Kong, China"
 	},
 	{
@@ -122061,10 +122067,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 3,
+		confirmed: 6,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 140,
+		jhu_id: 147,
 		unique: "Honduras"
 	},
 	{
@@ -122098,10 +122104,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 49,
+		confirmed: 57,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 148,
+		jhu_id: 155,
 		unique: "Croatia"
 	},
 	{
@@ -122135,10 +122141,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 32,
+		confirmed: 39,
 		deaths: 1,
 		recovered: 1,
-		jhu_id: 41,
+		jhu_id: 44,
 		unique: "Hungary"
 	},
 	{
@@ -122172,10 +122178,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 129,
+		confirmed: 169,
 		deaths: 2,
 		recovered: 0,
-		jhu_id: 79,
+		jhu_id: 84,
 		unique: "Ireland"
 	},
 	{
@@ -122209,10 +122215,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 251,
+		confirmed: 255,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 125,
+		jhu_id: 131,
 		unique: "Israel"
 	},
 	{
@@ -122246,10 +122252,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 113,
+		confirmed: 119,
 		deaths: 2,
 		recovered: 13,
-		jhu_id: 32,
+		jhu_id: 35,
 		unique: "India"
 	},
 	{
@@ -122286,7 +122292,7 @@ var countries = [
 		confirmed: 124,
 		deaths: 10,
 		recovered: 26,
-		jhu_id: 90,
+		jhu_id: 96,
 		unique: "Iraq"
 	},
 	{
@@ -122302,9 +122308,9 @@ var countries = [
 		in_country_count: "y",
 		travel_warning: "3",
 		source: "Iran Ministry of Health (AS)",
-		override_count: "13938",
-		override_deaths: "724",
-		override_date: "Mar. 15",
+		override_count: "14991",
+		override_deaths: "853",
+		override_date: "Mar. 16",
 		override_fixed: "",
 		primary_data: "http://behdasht.gov.ir/index.jsp?siteid=1&fkeyid=&siteid=1&pageid=54782&newsview=200574",
 		nyt_reporter: "Anjali Singhvi",
@@ -122320,10 +122326,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 13938,
-		deaths: 724,
+		confirmed: 14991,
+		deaths: 853,
 		recovered: 4590,
-		jhu_id: 84,
+		jhu_id: 89,
 		unique: "Iran"
 	},
 	{
@@ -122360,7 +122366,7 @@ var countries = [
 		confirmed: 180,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 126,
+		jhu_id: 132,
 		unique: "Iceland"
 	},
 	{
@@ -122397,7 +122403,7 @@ var countries = [
 		confirmed: 24747,
 		deaths: 1809,
 		recovered: 2335,
-		jhu_id: 115,
+		jhu_id: 121,
 		unique: "Italy"
 	},
 	{
@@ -122434,7 +122440,7 @@ var countries = [
 		confirmed: 10,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 27,
+		jhu_id: 30,
 		unique: "Jamaica"
 	},
 	{
@@ -122468,10 +122474,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 12,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 130,
+		jhu_id: 136,
 		unique: "Jordan"
 	},
 	{
@@ -122508,7 +122514,7 @@ var countries = [
 		confirmed: 1505,
 		deaths: 30,
 		recovered: 144,
-		jhu_id: 72,
+		jhu_id: 77,
 		unique: "Japan"
 	},
 	{
@@ -122545,7 +122551,7 @@ var countries = [
 		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 36,
+		jhu_id: 39,
 		unique: "Kenya"
 	},
 	{
@@ -122616,10 +122622,10 @@ var countries = [
 		label_offset_y: "-20",
 		sentence_name: "South Korea",
 		jhu_timeline_fix: "",
-		confirmed: 8162,
+		confirmed: 8236,
 		deaths: 75,
-		recovered: 834,
-		jhu_id: 106,
+		recovered: 1137,
+		jhu_id: 112,
 		unique: "Korea, South"
 	},
 	{
@@ -122653,10 +122659,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 112,
+		confirmed: 123,
 		deaths: 0,
 		recovered: 9,
-		jhu_id: 120,
+		jhu_id: 126,
 		unique: "Kuwait"
 	},
 	{
@@ -122690,10 +122696,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 0,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 66,
+		jhu_id: "",
 		unique: "Cayman Islands"
 	},
 	{
@@ -122727,10 +122733,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 9,
+		confirmed: 10,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 132,
+		jhu_id: 138,
 		unique: "Kazakhstan"
 	},
 	{
@@ -122767,7 +122773,7 @@ var countries = [
 		confirmed: 99,
 		deaths: 3,
 		recovered: 1,
-		jhu_id: 105,
+		jhu_id: 111,
 		unique: "Lebanon"
 	},
 	{
@@ -122804,7 +122810,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 40,
+		jhu_id: 43,
 		unique: "Saint Lucia"
 	},
 	{
@@ -122838,11 +122844,48 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 18,
+		confirmed: 22,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 147,
+		jhu_id: 154,
 		unique: "Sri Lanka"
+	},
+	{
+		nyt_id: "122",
+		adm0_a3: "LBR",
+		nyt_name: "Liberia",
+		lat: 6.428,
+		lon: -9.429,
+		jhu_country_region: "Liberia",
+		jhu_state_province: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "WHO: https://twitter.com/WHOAFRO/status/1239482557101674496",
+		override_count: "1",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		primary_data: "",
+		nyt_reporter: "",
+		scraping_status: "",
+		mobile_table_name: "Liberia",
+		world_map_label_name: "Liberia",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		jhu_timeline_fix: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0,
+		jhu_id: 19,
+		unique: "Liberia"
 	},
 	{
 		nyt_id: "124",
@@ -122875,7 +122918,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 12,
+		confirmed: 17,
 		deaths: 0,
 		recovered: 1,
 		jhu_id: 3,
@@ -122915,7 +122958,7 @@ var countries = [
 		confirmed: 77,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 77,
+		jhu_id: 82,
 		unique: "Luxembourg"
 	},
 	{
@@ -122949,10 +122992,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 2,
+		confirmed: 7,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 24,
+		jhu_id: 27,
 		unique: "Monaco"
 	},
 	{
@@ -122989,7 +123032,7 @@ var countries = [
 		confirmed: 23,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 94,
+		jhu_id: 100,
 		unique: "Moldova"
 	},
 	{
@@ -123023,10 +123066,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 14,
+		confirmed: 18,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 22,
+		jhu_id: 24,
 		unique: "North Macedonia"
 	},
 	{
@@ -123063,7 +123106,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 43,
+		jhu_id: 46,
 		unique: "Mongolia"
 	},
 	{
@@ -123134,10 +123177,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 10,
-		deaths: 0,
+		confirmed: 15,
+		deaths: 1,
 		recovered: 0,
-		jhu_id: 131,
+		jhu_id: 137,
 		unique: "Martinique"
 	},
 	{
@@ -123174,7 +123217,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 134,
+		jhu_id: 140,
 		unique: "Mauritania"
 	},
 	{
@@ -123211,7 +123254,7 @@ var countries = [
 		confirmed: 21,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 119,
+		jhu_id: 125,
 		unique: "Malta"
 	},
 	{
@@ -123264,12 +123307,12 @@ var countries = [
 		in_country_count: "y",
 		travel_warning: "",
 		source: "",
-		override_count: "",
+		override_count: "182",
 		override_deaths: "",
-		override_date: "",
+		override_date: "Mar. 16",
 		override_fixed: "",
-		primary_data: "",
-		nyt_reporter: "",
+		primary_data: "https://lopezobrador.org.mx/wp-content/uploads/2020/03/Comunicado_Tecnico_Diario_COVID-19_2020.03.15.pdf",
+		nyt_reporter: "Elda Lizzia Cantú",
 		scraping_status: "",
 		mobile_table_name: "Mexico",
 		world_map_label_name: "Mexico",
@@ -123282,10 +123325,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 43,
+		confirmed: 182,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 104,
+		jhu_id: 110,
 		unique: "Mexico"
 	},
 	{
@@ -123319,10 +123362,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 428,
+		confirmed: 566,
 		deaths: 0,
 		recovered: 42,
-		jhu_id: 70,
+		jhu_id: 75,
 		unique: "Malaysia"
 	},
 	{
@@ -123359,7 +123402,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 96,
+		jhu_id: 103,
 		unique: "Namibia"
 	},
 	{
@@ -123396,7 +123439,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 80,
+		jhu_id: 85,
 		unique: "Nigeria"
 	},
 	{
@@ -123406,7 +123449,7 @@ var countries = [
 		lat: 52.133,
 		lon: 5.291,
 		jhu_country_region: "Netherlands",
-		jhu_state_province: "",
+		jhu_state_province: "Netherlands",
 		active: "y",
 		in_region_table: "y",
 		in_country_count: "y",
@@ -123433,8 +123476,8 @@ var countries = [
 		confirmed: 1135,
 		deaths: 20,
 		recovered: 2,
-		jhu_id: 19,
-		unique: "Netherlands"
+		jhu_id: 103,
+		unique: "Netherlands, Netherlands"
 	},
 	{
 		nyt_id: "155",
@@ -123467,10 +123510,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1256,
+		confirmed: 1295,
 		deaths: 3,
 		recovered: 1,
-		jhu_id: 48,
+		jhu_id: 52,
 		unique: "Norway"
 	},
 	{
@@ -123507,7 +123550,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 118,
+		jhu_id: 124,
 		unique: "Nepal"
 	},
 	{
@@ -123544,7 +123587,7 @@ var countries = [
 		confirmed: 8,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 25,
+		jhu_id: 28,
 		unique: "New Zealand"
 	},
 	{
@@ -123581,7 +123624,7 @@ var countries = [
 		confirmed: 22,
 		deaths: 0,
 		recovered: 9,
-		jhu_id: 21,
+		jhu_id: 22,
 		unique: "Oman"
 	},
 	{
@@ -123615,10 +123658,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 43,
+		confirmed: 55,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 75,
+		jhu_id: 80,
 		unique: "Panama"
 	},
 	{
@@ -123634,11 +123677,11 @@ var countries = [
 		in_country_count: "y",
 		travel_warning: "",
 		source: "",
-		override_count: "",
+		override_count: "86",
 		override_deaths: "",
-		override_date: "",
+		override_date: "Mar. 16",
 		override_fixed: "",
-		primary_data: "",
+		primary_data: "https://twitter.com/Minsa_Peru/status/1239548049191550978?s=20",
 		nyt_reporter: "",
 		scraping_status: "",
 		mobile_table_name: "Peru",
@@ -123652,10 +123695,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 71,
+		confirmed: 86,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 47,
+		jhu_id: 51,
 		unique: "Peru"
 	},
 	{
@@ -123689,10 +123732,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 140,
+		confirmed: 142,
 		deaths: 12,
 		recovered: 2,
-		jhu_id: 93,
+		jhu_id: 99,
 		unique: "Philippines"
 	},
 	{
@@ -123726,10 +123769,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 53,
+		confirmed: 136,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 20,
+		jhu_id: 21,
 		unique: "Pakistan"
 	},
 	{
@@ -123800,10 +123843,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 7,
+		confirmed: 8,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 135,
+		jhu_id: 142,
 		unique: "Paraguay"
 	},
 	{
@@ -123837,10 +123880,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 401,
+		confirmed: 439,
 		deaths: 0,
 		recovered: 4,
-		jhu_id: 114,
+		jhu_id: 120,
 		unique: "Qatar"
 	},
 	{
@@ -123874,10 +123917,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 7,
+		confirmed: 9,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 111,
+		jhu_id: 117,
 		unique: "Reunion"
 	},
 	{
@@ -123911,10 +123954,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 139,
+		confirmed: 158,
 		deaths: 0,
 		recovered: 9,
-		jhu_id: 65,
+		jhu_id: 70,
 		unique: "Romania"
 	},
 	{
@@ -123948,10 +123991,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 48,
+		confirmed: 55,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 144,
+		jhu_id: 151,
 		unique: "Serbia"
 	},
 	{
@@ -123985,10 +124028,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 63,
+		confirmed: 90,
 		deaths: 0,
 		recovered: 8,
-		jhu_id: 63,
+		jhu_id: 68,
 		unique: "Russia"
 	},
 	{
@@ -124025,7 +124068,7 @@ var countries = [
 		confirmed: 5,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 45,
+		jhu_id: 48,
 		unique: "Rwanda"
 	},
 	{
@@ -124062,7 +124105,7 @@ var countries = [
 		confirmed: 3,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 100,
+		jhu_id: 107,
 		unique: "Seychelles"
 	},
 	{
@@ -124099,7 +124142,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 117,
+		jhu_id: 123,
 		unique: "Sudan"
 	},
 	{
@@ -124133,10 +124176,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1032,
-		deaths: 3,
+		confirmed: 1103,
+		deaths: 6,
 		recovered: 1,
-		jhu_id: 61,
+		jhu_id: 66,
 		unique: "Sweden"
 	},
 	{
@@ -124170,10 +124213,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 226,
+		confirmed: 243,
 		deaths: 0,
-		recovered: 105,
-		jhu_id: 143,
+		recovered: 109,
+		jhu_id: 150,
 		unique: "Singapore"
 	},
 	{
@@ -124207,7 +124250,7 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 219,
+		confirmed: 253,
 		deaths: 1,
 		recovered: 0,
 		jhu_id: 13,
@@ -124244,10 +124287,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 61,
+		confirmed: 63,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 46,
+		jhu_id: 49,
 		unique: "Slovakia"
 	},
 	{
@@ -124284,7 +124327,7 @@ var countries = [
 		confirmed: 109,
 		deaths: 7,
 		recovered: 4,
-		jhu_id: 42,
+		jhu_id: 45,
 		unique: "San Marino"
 	},
 	{
@@ -124321,8 +124364,45 @@ var countries = [
 		confirmed: 24,
 		deaths: 0,
 		recovered: 2,
-		jhu_id: 127,
+		jhu_id: 133,
 		unique: "Senegal"
+	},
+	{
+		nyt_id: "191",
+		adm0_a3: "SOM",
+		nyt_name: "Somalia",
+		lat: 5.152,
+		lon: 46.2,
+		jhu_country_region: "Somalia",
+		jhu_state_province: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		primary_data: "",
+		nyt_reporter: "",
+		scraping_status: "",
+		mobile_table_name: "Somalia",
+		world_map_label_name: "Somalia",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		jhu_timeline_fix: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0,
+		jhu_id: 50,
+		unique: "Somalia"
 	},
 	{
 		nyt_id: "192",
@@ -124358,7 +124438,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 122,
+		jhu_id: 128,
 		unique: "Suriname"
 	},
 	{
@@ -124395,7 +124475,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 112,
+		jhu_id: 118,
 		unique: "Eswatini"
 	},
 	{
@@ -124432,7 +124512,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 52,
+		jhu_id: 57,
 		unique: "Togo"
 	},
 	{
@@ -124466,10 +124546,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 114,
+		confirmed: 147,
 		deaths: 1,
 		recovered: 35,
-		jhu_id: 89,
+		jhu_id: 95,
 		unique: "Thailand"
 	},
 	{
@@ -124506,7 +124586,7 @@ var countries = [
 		confirmed: 18,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 37,
+		jhu_id: 40,
 		unique: "Turkey"
 	},
 	{
@@ -124540,10 +124620,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 2,
+		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 129,
+		jhu_id: 135,
 		unique: "Trinidad and Tobago"
 	},
 	{
@@ -124577,11 +124657,48 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 59,
+		confirmed: 67,
 		deaths: 1,
 		recovered: 20,
-		jhu_id: 99,
+		jhu_id: 106,
 		unique: "Taiwan*"
+	},
+	{
+		nyt_id: "211",
+		adm0_a3: "TZA",
+		nyt_name: "Tanzania",
+		lat: -6.369,
+		lon: 34.889,
+		jhu_country_region: "Tanzania",
+		jhu_state_province: "",
+		active: "y",
+		in_region_table: "y",
+		in_country_count: "y",
+		travel_warning: "",
+		source: "",
+		override_count: "",
+		override_deaths: "",
+		override_date: "",
+		override_fixed: "",
+		primary_data: "",
+		nyt_reporter: "",
+		scraping_status: "",
+		mobile_table_name: "Tanzania",
+		world_map_label_name: "Tanzania",
+		world_map_label: "",
+		world_map_label_desktop_only: "",
+		asia_map_label: "",
+		asia_map_label_desktop_only: "",
+		eu_map_label: "",
+		eu_map_label_desktop_only: "",
+		label_offset_y: "",
+		sentence_name: "",
+		jhu_timeline_fix: "",
+		confirmed: 1,
+		deaths: 0,
+		recovered: 0,
+		jhu_id: 23,
+		unique: "Tanzania"
 	},
 	{
 		nyt_id: "212",
@@ -124614,10 +124731,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 3,
+		confirmed: 5,
 		deaths: 1,
 		recovered: 0,
-		jhu_id: 56,
+		jhu_id: 61,
 		unique: "Ukraine"
 	},
 	{
@@ -124651,10 +124768,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 4,
+		confirmed: 8,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 31,
+		jhu_id: 34,
 		unique: "Uruguay"
 	},
 	{
@@ -124688,10 +124805,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 1,
+		confirmed: 6,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 107,
+		jhu_id: 113,
 		unique: "Uzbekistan"
 	},
 	{
@@ -124728,7 +124845,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 124,
+		jhu_id: 130,
 		unique: "Holy See"
 	},
 	{
@@ -124765,7 +124882,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 35,
+		jhu_id: 38,
 		unique: "Saint Vincent and the Grenadines"
 	},
 	{
@@ -124802,7 +124919,7 @@ var countries = [
 		confirmed: 17,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 123,
+		jhu_id: 129,
 		unique: "Venezuela"
 	},
 	{
@@ -124836,10 +124953,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 56,
+		confirmed: 61,
 		deaths: 0,
 		recovered: 16,
-		jhu_id: 62,
+		jhu_id: 67,
 		unique: "Vietnam"
 	},
 	{
@@ -124873,10 +124990,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 61,
+		confirmed: 62,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 67,
+		jhu_id: 72,
 		unique: "South Africa"
 	},
 	{
@@ -124910,10 +125027,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 117,
+		confirmed: 134,
 		deaths: 5,
 		recovered: 8,
-		jhu_id: 59,
+		jhu_id: 64,
 		unique: "Indonesia"
 	},
 	{
@@ -124949,8 +125066,8 @@ var countries = [
 		jhu_timeline_fix: "",
 		confirmed: 80860,
 		deaths: 3213,
-		recovered: 67843,
-		jhu_id: 53,
+		recovered: 67910,
+		jhu_id: 58,
 		unique: "China"
 	},
 	{
@@ -124984,10 +125101,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "the United States",
 		jhu_timeline_fix: "",
-		confirmed: 3599,
-		deaths: 66,
+		confirmed: 3601,
+		deaths: 67,
 		recovered: 12,
-		jhu_id: 69,
+		jhu_id: 74,
 		unique: "US"
 	},
 	{
@@ -125024,7 +125141,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 78,
+		jhu_id: 83,
 		unique: "Andorra"
 	},
 	{
@@ -125058,10 +125175,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 245,
+		confirmed: 331,
 		deaths: 0,
-		recovered: 2,
-		jhu_id: 101,
+		recovered: 3,
+		jhu_id: 71,
 		unique: "Portugal"
 	},
 	{
@@ -125095,10 +125212,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 30,
+		confirmed: 34,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 136,
+		jhu_id: 143,
 		unique: "Latvia"
 	},
 	{
@@ -125172,7 +125289,7 @@ var countries = [
 		confirmed: 1,
 		deaths: 0,
 		recovered: 1,
-		jhu_id: 206,
+		jhu_id: 213,
 		unique: "Gibraltar, United Kingdom"
 	},
 	{
@@ -125206,10 +125323,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 28,
+		confirmed: 29,
 		deaths: 1,
 		recovered: 1,
-		jhu_id: 95,
+		jhu_id: 102,
 		unique: "Morocco"
 	},
 	{
@@ -125246,7 +125363,7 @@ var countries = [
 		confirmed: 20,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 142,
+		jhu_id: 149,
 		unique: "Tunisia"
 	},
 	{
@@ -125283,7 +125400,7 @@ var countries = [
 		confirmed: 4,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 68,
+		jhu_id: 73,
 		unique: "Liechtenstein"
 	},
 	{
@@ -125317,10 +125434,10 @@ var countries = [
 		label_offset_y: "",
 		sentence_name: "",
 		jhu_timeline_fix: "",
-		confirmed: 125,
+		confirmed: 150,
 		deaths: 3,
 		recovered: 13,
-		jhu_id: 133,
+		jhu_id: 139,
 		unique: "Poland"
 	},
 	{
@@ -125357,7 +125474,7 @@ var countries = [
 		confirmed: 2,
 		deaths: 0,
 		recovered: 0,
-		jhu_id: 103,
+		jhu_id: 109,
 		unique: "Kosovo"
 	}
 ];

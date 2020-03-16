@@ -689,9 +689,9 @@ Confirmed,County
 2,Eagle
 1,Routt
 1,Unknown
-49,New York
+40,New York
 1,Travis
-9,New York
+18,New York
 10,Westchester
 2,Dutchess
 10,Nassau
@@ -893,7 +893,8 @@ Confirmed,County
 2,Montgomery
 1,Philadelphia
 2,Brazoria
-2,Unknown
+1,Jefferson
+1,Unknown
 3,Hennepin
 1,Stearns
 1,Ramsey
@@ -1042,7 +1043,6 @@ Confirmed,County
 1,Clay
 1,Baker
 1,Lee
-1,Allegheny
 1,Bucks
 2,Cumberland
 1,Delaware
@@ -1080,9 +1080,11 @@ Confirmed,County
 1,Hamilton
 3,Marion
 3,Unknown
-5,Fond du Lac
-1,New Castle
-3,Miami-Dade
+3,Fond du Lac
+1,Miami-Dade
+1,Fond du Lac
+2,New Castle
+2,Miami-Dade
 3,Erie
 1,Broward
 12,Orleans
@@ -1196,9 +1198,9 @@ Confirmed,County
 1,Milwaukee
 1,Kent
 3,Washtenaw
-1,Detroit
+1,Wayne
 1,Oakland
-1,Detroit
+1,Wayne
 1,Macomb
 2,Oakland
 1,Wayne
@@ -1275,7 +1277,7 @@ Confirmed,County
 2,Macomb
 1,Wayne
 2,Oakland
-1,Detroit
+1,Wayne
 1,Kent
 6,San Francisco
 3,Orange
@@ -1283,4 +1285,4 @@ Confirmed,County
 2,Riverside
 1,San Bernardino
 29,San Diego
-1,New Castle
+1,Fond du Lac

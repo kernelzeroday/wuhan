@@ -161,14 +161,14 @@ Collier,Florida,FL,26.118713,-81.400884,Collier County,FL COLLIER,321520,12021,2
 Pinellas,Florida,FL,27.903122,-82.739518,Pinellas County,FL PINELLAS,916542,12103,103,Pinellas,True,2,0
 Pasco,Florida,FL,28.302024,-82.455707,Pasco County,FL PASCO,464697,12101,101,Pasco,True,2,0
 Oakland,Michigan,MI,42.660452,-83.38421,Oakland County,MI OAKLAND,1202362,26125,125,Oakland,True,14,0
-Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,Wayne,True,10,0
+Wayne,Michigan,MI,42.284664,-83.261953,Wayne County,MI WAYNE,1820584,26163,163,Wayne,True,13,0
 Charlton,Georgia,GA,30.779904,-82.139644,Charlton County,GA CHARLTON,12171,13049,49,Charlton,True,1,0
 Bucks,Pennsylvania,PA,40.336887,-75.10706,Bucks County,PA BUCKS,625249,42017,17,Bucks,True,4,0
 Montgomery,Texas,TX,30.302364,-95.503523,Montgomery County,TX MONTGOMERY,455746,48339,339,Montgomery,True,1,0
 Howard,Indiana,IN,40.483537,-86.114118,Howard County,IN HOWARD,82752,18067,67,Howard,True,1,0
 Johnson,Indiana,IN,39.495986,-86.0946,Johnson County,IN JOHNSON,139654,18081,81,Johnson,True,3,0
 Arlington,Virginia,VA,38.878337,-77.100703,Arlington County,VA ARLINGTON,207627,51013,13,Arlington,True,8,0
-Jefferson,Arkansas,AR,34.277695,-91.930701,Jefferson County,AR JEFFERSON,77435,5069,69,Jefferson,True,4,0
+Jefferson,Arkansas,AR,34.277695,-91.930701,Jefferson County,AR JEFFERSON,77435,5069,69,Jefferson,True,5,0
 Middlesex,New Jersey,NJ,40.439593,-74.407585,Middlesex County,NJ MIDDLESEX,809858,34023,23,Middlesex,True,11,0
 Socorro,New Mexico,NM,33.991614,-106.939003,Socorro County,NM SOCORRO,17866,35053,53,Socorro,True,2,0
 Bernalillo,New Mexico,NM,35.054002,-106.669064,Bernalillo County,NM BERNALILLO,662564,35001,1,Bernalillo,True,10,0
@@ -233,7 +233,7 @@ Morris,New Jersey,NJ,40.858581,-74.547427,Morris County,NJ MORRIS,492276,34027,2
 Somerset,New Jersey,NJ,40.565522,-74.61993,Somerset County,NJ SOMERSET,323444,34035,35,Somerset,True,1,0
 Adams,Colorado,CO,39.874325,-104.331872,Adams County,CO ADAMS,441603,8001,1,Adams,True,6,0
 Litchfield,Connecticut,CT,41.791897,-73.235428,Litchfield County,CT LITCHFIELD,189927,9005,5,Litchfield,True,6,0
-Unknown,Arkansas,AR,,,,,,,,Unknown,True,8,0
+Unknown,Arkansas,AR,,,,,,,,Unknown,True,7,0
 Carroll,Iowa,IA,42.039492,-94.867647,Carroll County,IA CARROLL,20816,19027,27,Carroll,True,1,0
 Clackamas,Oregon,OR,45.160493,-122.195127,Clackamas County,OR CLACKAMAS,375992,41005,5,Clackamas,True,1,0
 Greene,Missouri,MO,37.258196,-93.340641,Greene County,MO GREENE,275174,29077,77,Greene,True,2,0
@@ -337,7 +337,7 @@ Lorain,Ohio,OH,41.438805,-82.179722,Lorain County,OH LORAIN,301356,39093,93,Lora
 Tuscarawas,Ohio,OH,40.447441,-81.471157,Tuscarawas County,OH TUSCARAWAS,92582,39157,157,Tuscarawas,True,1,0
 Summit,Ohio,OH,41.121851,-81.534936,Summit County,OH SUMMIT,541781,39153,153,Summit,True,2,0
 Franklin,Kansas,KS,38.558019,-95.278962,Franklin County,KS FRANKLIN,25992,20059,59,Franklin,True,1,0
-Allegheny,Pennsylvania,PA,40.46892,-79.98092,Allegheny County,PA ALLEGHENY,1223348,42003,3,Allegheny,True,5,0
+Allegheny,Pennsylvania,PA,40.46892,-79.98092,Allegheny County,PA ALLEGHENY,1223348,42003,3,Allegheny,True,4,0
 Brazoria,Texas,TX,29.167817,-95.434647,Brazoria County,TX BRAZORIA,313166,48039,39,Brazoria,True,2,0
 Renville,Minnesota,MN,44.723697,-94.955617,Renville County,MN RENVILLE,15730,27129,129,Renville,True,1,0
 Campbell,Tennessee,TN,36.401592,-84.159249,Campbell County,TN CAMPBELL,40716,47013,13,Campbell,True,1,0
@@ -358,7 +358,7 @@ Sandoval,New Mexico,NM,35.685073,-106.882618,Sandoval County,NM SANDOVAL,131561,
 Spotsylvania,Virginia,VA,38.182311,-77.65628,Spotsylvania County,VA SPOTSYLVANIA,122397,51177,177,Spotsylvania,True,1,0
 Chesterfield,Virginia,VA,37.378434,-77.585847,Chesterfield County,VA CHESTERFIELD,316236,51041,41,Chesterfield,True,1,0
 Winnebago,Wisconsin,WI,44.085707,-88.668149,Winnebago County,WI WINNEBAGO,166994,55139,139,Winnebago,True,1,0
-Bourbon,Kentucky,KY,38.202562,-84.20986,Bourbon County,KY BOURBON,19985,21017,17,Bourbon,True,1,0
+Bourbon,Kentucky,KY,38.202562,-84.20986,Bourbon County,KY BOURBON,19985,21017,17,Bourbon,True,1,1
 Boulder,Colorado,CO,40.094826,-105.398382,Boulder County,CO BOULDER,294567,8013,13,Boulder,True,7,0
 Sangamon,Illinois,IL,39.756378,-89.662311,Sangamon County,IL SANGAMON,197465,17167,167,Sangamon,True,2,0
 Dallas,Iowa,IA,41.685321,-94.040707,Dallas County,IA DALLAS,66135,19049,49,Dallas,True,1,0
