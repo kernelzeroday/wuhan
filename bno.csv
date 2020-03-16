@@ -1,110 +1,122 @@
 OTHER PLACES,Cases,Deaths,Serious,Critical,Recovered
-China,80813,3176,4020,,64111
-Italy,17660,1266,1328,,1439
-Iran,11364,514,,,3529
-South Korea,7979,67,,36,510
-Spain,5232,133,272,,193
-Germany,3675,8,,2,46
-France,3661,79,154,,12
-United States,2032,41,2,6,9
-Switzerland,854,7,,,4
-Norway,876,1,,,
-Netherlands,804,5,45,,2
-Denmark,788,0,,,
-Sweden,727,1,,,
+China,80844,3199,3226,,66911
+Italy,24747,1809,1672,,2335
+Iran,13938,724,,,4339
+South Korea,8162,75,,36,834
+Spain,7843,292,272,,517
+France,5423,127,300,,12
+Germany,4585,12,,2,46
+United States,3763,65,60,4,9
+United Kingdom,1372,35,20,,18
+Switzerland,1355,13,,,4
+Norway,1120,3,,,
+Netherlands,959,12,,45,2
+Sweden,961,2,,,
+Denmark,836,1,,,
+Japan,805,22,32,,59
+Austria,800,1,,,6
 Diamond Princess,697,7,14,,245
-Japan,690,19,29,,59
-United Kingdom,590,10,20,,12
-Austria,422,1,,,6
-Belgium,399,3,,,1
-Qatar,262,0,,,
-Singapore,200,0,,11,97
-Bahrain,197,0,,1,35
-Malaysia,158,0,3,,32
-Australia,156,3,,,26
-Hong Kong,132,4,2,2,75
-Greece,117,1,2,,
-Iceland,117,0,,,
-Czech Republic,116,0,2,0,0
-Canada,109,1,,1,11
-Israel,109,0,2,,3
-Finland,109,0,,,1
-Kuwait,100,0,4,,5
-Slovenia,96,0,0,0,0
-UAE,85,0,,,20
-Iraq,83,8,,,15
-Egypt,80,2,,,27
-Portugal,78,0,,,
-San Marino,77,5,5,,
-Brazil,76,0,,,1
-Thailand,75,1,1,,35
-India,73,1,,,4
-Ireland,70,1,,,
-Indonesia,69,4,,,5
-Lebanon,68,3,,2,
-Romania,64,0,,,6
-Poland,64,1,2,0,0
-Saudi Arabia,62,0,,,1
-Philippines,52,5,1,,2
-Taiwan,50,1,0,0,20
-Vietnam,44,0,,,16
-Estonia,41,0,,,0
-Russia,34,0,,,3
-Chile,33,0,,,
-Palestine,31,0,0,0,0
-Argentina,31,1,,,
-Serbia,31,0,1,,
-Croatia,27,0,,,1
-Panama,27,1,,,
-Luxembourg,26,0,,,
-Georgia,25,0,1,,
-Algeria,24,1,,,10
-Costa Rica,23,0,1,,
-Albania,23,1,,,
-Bulgaria,23,1,,,
-Peru,22,0,,,
-Pakistan,21,0,,,2
-Belarus,21,0,,,3
-Slovakia,21,0,,,
-Oman,19,0,0,0,9
-Ecuador,19,0,,1,
-Hungary,19,0,,,0
-Latvia,17,0,,,
-South Africa,16,0,,,
-Cyprus,14,0,,,
-Tunisia,13,0,,,
-Mexico,12,0,1,,4
-Malta,12,0,,,
-Azerbaijan,11,1,,,3
-Bosnia,11,0,,,
+Belgium,689,4,,,1
+Qatar,337,0,,,4
+Canada,264,1,,1,11
+Australia,262,3,,,27
+Czech Republic,253,0,2,0,0
+Malaysia,238,0,5,,35
+Greece,228,3,5,,8
+Singapore,212,0,,14,105
+Bahrain,212,0,,2,60
+Finland,210,0,,,1
+Brazil,200,0,,,1
+Israel,193,0,2,,3
+Slovenia,181,1,0,0,0
+Ireland,169,2,,,
+Portugal,169,0,,,
+Iceland,161,0,1,,
+Hong Kong,142,4,2,2,81
+Egypt,126,2,,,27
+Poland,125,3,2,0,0
+Iraq,124,10,,,26
+Romania,123,0,,,9
+Saudi Arabia,118,0,,,2
+Indonesia,117,5,,,5
+Estonia,115,0,,,1
+Thailand,114,1,1,,35
+Kuwait,112,0,4,,9
+Philippines,111,11,1,,2
+India,109,2,,,10
+San Marino,101,5,10,,4
+Lebanon,93,3,,2,
+United Arab Emirates,86,0,,,23
+Peru,71,0,,,
+Chile,61,0,,,
+Russia,59,0,,,4
+Taiwan,53,1,0,0,20
+Luxembourg,51,1,,,
+Vietnam,49,0,,,16
+Serbia,46,0,1,,
+Argentina,45,2,,,
+Algeria,45,3,,,10
+Slovakia,44,0,,,
+Panama,43,1,,,
+Mexico,41,0,1,,4
+Bulgaria,41,2,,,
+Palestine,38,0,0,0,0
+South Africa,38,0,,,
+Croatia,38,0,,,1
+Albania,38,1,2,,
+Colombia,34,0,,,
+Georgia,30,0,1,,1
+Pakistan,30,0,,,2
+Hungary,30,0,,,0
+Ecuador,28,2,,1,
+Costa Rica,27,0,1,,
+Belarus,27,0,,,3
+Latvia,26,0,,,
+Cyprus,26,0,,,
+Senegal,24,0,,,0
+Bosnia,21,0,,,
+Armenia,20,0,,,
+Oman,20,0,0,0,9
+Azerbaijan,19,1,,,3
+North Macedonia,19,0,0,0,0
+Tunisia,18,0,,,
+Malta,18,0,,,1
+Morocco,18,1,,,
+Venezuela,17,0,,,
+Afghanistan,16,0,,,
+Moldova,12,0,,,
+Turkey,12,0,,,
+Maldives,11,0,,,
+Dominican Republic,11,0,,,
 Macau,10,0,,,6
-Senegal,10,0,,,0
-Colombia,9,0,,,
-Maldives,8,0,,,
+Sri Lanka,10,0,,,1
+Bolivia,10,,,,
+Lithuania,9,0,,,
 Jamaica,8,0,,,
-Afghanistan,7,0,,,
-North Macedonia,7,0,0,0,0
-Paraguay,6,0,1,,
-Morocco,6,1,,,
-Moldova,6,0,,,
-Cambodia,5,0,,,1
-Dominican Republic,5,0,,,
-New Zealand,5,0,,,
+New Zealand,8,0,,,
+Paraguay,7,0,1,,
+Cambodia,7,0,,,1
+Jordan,6,0,,,1
+Bangladesh,5,0,,,
+Uzbekistan,4,0,,,
 Liechtenstein,4,0,,,
-Ukraine,3,0,,,
-Bangladesh,3,0,,,
-Lithuania,3,0,,,
-Honduras,2,0,,,
+Ukraine,3,1,,,
+Honduras,3,0,,,
 Cameroon,2,0,,,
 Nigeria,2,0,0,0,0
 Monaco,2,0,,,
-Sri Lanka,2,0,,,1
-Turkey,2,0,,,
+Seychelles,2,0,,,
+Namibia,2,0,,,
+Congo Republic,1,0,,,
+DR Congo,1,0,,,
+Mauritania,1,0,,,
+Rwanda,1,0,,,
+Central African Republic,1,0,,,
 Togo,1,0,,,
 Nepal,1,0,,,1
-Jordan,1,0,,,1
 Andorra,1,0,,,
-Armenia,1,0,,,
 Bhutan,1,0,,,
 Gibraltar,1,0,1,,
 Vatican City,1,0,,,
+QueueS,600,,,,
+TOTAL,165934,6475,5639,109,75911
